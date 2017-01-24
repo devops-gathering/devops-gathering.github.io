@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Devops Gathering 2017</title>
+    <link>https://devops-gathering.io/workshops/index.xml</link>
+    <description>Recent content in Workshops on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://devops-gathering.io/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
+      <link>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</guid>
+      <description>
+
+&lt;p&gt;Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose. Later on we&amp;rsquo;re digging even deeper into the specific requirements for containerized IoT applications to build resource constraint containers and optimizing containers for minimal size.&lt;/p&gt;
+
+&lt;p&gt;Docker can run and orchestrate your applications very efficiently, even on the smallest devices. Step into a new dimension when using Docker on low-powered ARM devices which breaks all limits and discover and resolve bottlenecks easily before they hit you in production. Scale down to the bare minimum, speed it up and get ready for a truly massive scale. Let’s start using Docker in your complete software stack to interconnect the Cloud and the future with Billions of IoT devices.&lt;/p&gt;
+
+&lt;p&gt;In this hands-on workshop we’re going to introduce you to the basic principles of Docker and how the orchestration of container works, even if you have to handle a power or network outage. We&amp;rsquo;ll install Docker on real baremetal hardware sitting on your desk as a multi-node Raspberry Pi cluster. Then deploying a first distributed application and scale it up to a fault-tolerant system and testing it in a chaos monkey fashion with real failures of the compute nodes.&lt;/p&gt;
+
+&lt;p&gt;Additionally we&amp;rsquo;ll dig deeper into the specific requirements of using containers for IoT use cases. By iterating through optimization steps for small devices, you will discover which value it even brings to classic container applications. This reveals the details and benefits of a container-based development and runtime environment, which helps to achieve better portability, maintenance and security by isolating the application code from the hardware. We&amp;rsquo;ll try to inspire you to learn and use Docker and containers on ARM devices in a very practical way.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost baremetal hardware&lt;/li&gt;
+&lt;li&gt;Learn the basic concepts of Docker and building fault-tolerant services&lt;/li&gt;
+&lt;li&gt;Learn building resource constraint containers and optimizing containers for minimal size&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker experience recommended, but not required&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the ARM cluster&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated container builds with GitLab/CI</title>
+      <link>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</guid>
+      <description>
+
+&lt;p&gt;Whether small startups or large companies - many companies rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be setup there automation to build, test and deliver Docker images. At this workshop you learn to setup GitLab/CI to maintain your project sources, automate your Continuous Integration and Delivery pipeline for simple Docker images.&lt;/p&gt;
+
+&lt;p&gt;We start with an overview and introduce the first steps with the use of GitLab/CI. You will get an overview of the most important components, instructions and concepts. Using a simple example, you will learn how to implement a microservice, automate the build with a simple gitlab runner, install with Docker, test and integrate with other services in an environment.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to simple setup GitLab/CI&lt;/li&gt;
+&lt;li&gt;Learn the basic concepts of build docker images with GitLab/CI&lt;/li&gt;
+&lt;li&gt;Learn setup a simple microservice test pipeline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker experience recommended&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the cloud instance&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Docker on Windows Server 2016</title>
+      <link>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</guid>
+      <description>
+
+&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
+You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
+We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.
+Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Setup Docker Engine on Windows Server 2016&lt;/li&gt;
+&lt;li&gt;Learn about the base OS images&lt;/li&gt;
+&lt;li&gt;Secure remote Docker access via TLS&lt;/li&gt;
+&lt;li&gt;Networking, Logging&lt;/li&gt;
+&lt;li&gt;Persisting data using volumes&lt;/li&gt;
+&lt;li&gt;Dockerfile best practices&lt;/li&gt;
+&lt;li&gt;Dockerizing a Windows application&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Windows and Docker experience recommended, but not required&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need RDP client and Docker client on your laptop&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Running Docker Containers on AWS</title>
+      <link>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</guid>
+      <description>
+
+&lt;p&gt;Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.&lt;/p&gt;
+
+&lt;p&gt;But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?&lt;/p&gt;
+
+&lt;p&gt;In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch. He also shows how to deploy and update applications based on Docker Compose v3. Principals like immutable infrastructure and configuration as code will influence the entire process as CloudFormation plays an important role.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Basic Setup&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Local Requirements&lt;/li&gt;
+&lt;li&gt;Immutable Infrastructure with CloudFormation&lt;/li&gt;
+&lt;li&gt;Basic VPC Setup&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Docker &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Run Docker on EC2 (VMs)&lt;/li&gt;
+&lt;li&gt;Scale with AutoScaling Groups&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Docker Swarm&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Setup Manager Nodes&lt;/li&gt;
+&lt;li&gt;Secure Swarm Tokens&lt;/li&gt;
+&lt;li&gt;Automatically join Worker Nodes&lt;/li&gt;
+&lt;li&gt;Deploy sample application&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;who-should-join&#34;&gt;Who should join?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Everyone who wants to setup and run Docker Swarm on AWS&lt;/li&gt;
+&lt;li&gt;Some experience with AWS or Docker is recommended (but not required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bring your own laptop&lt;/li&gt;
+&lt;li&gt;Have your own AWS account (Free Tier, &lt;a href=&#34;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&#34;&gt;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Install AWS Cli (&lt;a href=&#34;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&#34;&gt;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
+      <link>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</guid>
+      <description>
+
+&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution space with which software developers are confronted nowadays has become even bigger and we - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
+
+&lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
+
+&lt;p&gt;This workshop walks you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle all the while taking a glimpse into the new possibilities container technology has brought to our development and testing environments.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Run Spring-Boot Apps inside a Docker container&lt;/li&gt;
+&lt;li&gt;Build your Spring-Boot Docker image using Gradle&lt;/li&gt;
+&lt;li&gt;Make Spring-Boot Apps configurable with Environment Variables&lt;/li&gt;
+&lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
+&lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

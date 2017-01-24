@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-            <meta charset="utf-8">
+
+<head>
+    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Devops Gathering 2017">
@@ -28,27 +29,17 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-            
-<meta property="og:title" content="Imprint" />
-<meta property="og:description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047" />
+	
+<meta property="og:title" content="Running Docker Containers on AWS" />
+<meta property="og:description" content="Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.
+But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?
+In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/imprint/" />
+<meta property="og:url" content="https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/" />
 
 
 
-<meta property="og:updated_time" content="2016-12-04 19:26:55 &#43;0100 &#43;0100"/>
+<meta property="og:updated_time" content="0001-01-01 00:00:00 &#43;0000 UTC"/>
 
 
 
@@ -64,28 +55,18 @@ Number in the commercial register HR B 14047" />
 
 <meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
 
-<meta property="article:modified_time" content="2016-12-04 19:26:55 &#43;0100 &#43;0100" />
-<meta property="article:section" content="" />
+<meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
+<meta property="article:section" content="workshops" />
 
 
 
 
 
 
-<meta itemprop="name" content="Imprint">
-<meta itemprop="description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047">
+<meta itemprop="name" content="Running Docker Containers on AWS">
+<meta itemprop="description" content="Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.
+But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?
+In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch.">
 
 
 
@@ -94,48 +75,38 @@ Number in the commercial register HR B 14047">
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="80">
+<meta itemprop="wordCount" content="187">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Imprint"/>
-<meta name="twitter:description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047"/>
+<meta name="twitter:title" content="Running Docker Containers on AWS"/>
+<meta name="twitter:description" content="Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.
+But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?
+In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch."/>
 
 
 
 
 
 
-            
+	
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PZCPH3M');</script>
 
+</head>
 
-    </head>
-    <body class="single">
-     
+<body class="single">
+    
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZCPH3M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-     <nav class="navigation-container">
+	<nav class="navigation-container">
 	<div class="inner-content">
 		<a  class="branding" href="https://devops-gathering.io"><span>DevOps</span> Gathering <span>2017</span></a>
 		
@@ -153,48 +124,82 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
 </nav>
-     <!-- HEADER -->
+	<!-- HEADER -->
 <header class="single">
     <div class="header-content">
         <div class="header-content-inner">
-            <p>  </p>
-            <h1>Imprint</h1>
+            <p>Philipp Garbe  </p>
+            <h1>Running Docker Containers on AWS</h1>
         </div>
     </div>
     <div class="overlay"></div>
 </header>
 
+    <div class="content-box single-content">
+        <div class="inner-content">
+            <div class="clearfix"></div>
+            Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.</p>
 
-     <div class="content-box single-content">
-         <div class="inner-content"> 
+<p>But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?</p>
+
+<p>In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch. He also shows how to deploy and update applications based on Docker Compose v3. Principals like immutable infrastructure and configuration as code will influence the entire process as CloudFormation plays an important role.</p>
+
+<p><strong>Agenda:</strong></p>
+
+<ol>
+<li><p>Basic Setup</p>
+
+<ul>
+<li>Local Requirements</li>
+<li>Immutable Infrastructure with CloudFormation</li>
+<li>Basic VPC Setup</li>
+</ul></li>
+
+<li><p>Docker </p>
+
+<ul>
+<li>Run Docker on EC2 (VMs)</li>
+<li>Scale with AutoScaling Groups</li>
+</ul></li>
+
+<li><p>Docker Swarm</p>
+
+<ul>
+<li>Setup Manager Nodes</li>
+<li>Secure Swarm Tokens</li>
+<li>Automatically join Worker Nodes</li>
+<li>Deploy sample application</li>
+</ul></li>
+</ol>
+
+<h2 id="who-should-join">Who should join?</h2>
+
+<ul>
+<li>Everyone who wants to setup and run Docker Swarm on AWS</li>
+<li>Some experience with AWS or Docker is recommended (but not required)</li>
+</ul>
+
+<h2 id="prerequisites">Prerequisites:</h2>
+
+<ul>
+<li>Bring your own laptop</li>
+<li>Have your own AWS account (Free Tier, <a href="https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/">https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/</a>)</li>
+<li>Install AWS Cli (<a href="http://docs.aws.amazon.com/cli/latest/userguide/installing.html">http://docs.aws.amazon.com/cli/latest/userguide/installing.html</a>)</li>
+</ul>
+
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/phillip-garbe.png" alt=""></a>
+                </div>
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/phillip-garbe/">Philipp Garbe<span>AutoScout24</span></a></h2>
+                    <p>Philipp works as Lead Software Developer at AutoScout24 in Munich.
+<a href="/speakers/phillip-garbe/">read more</a></p>
+                </div>
+            </div>
             
-
-<p>Legal information that is necessary for a German site <br/>
-Information required under § 5 Para. 1 of the German Telemedia Act:</p>
-
-<h2 id="bee42-solutions-gmbh">bee42 solutions gmbh</h2>
-
-<p>Peter Rossbach (Geschäftsführer)<br>
-Am Josephsschacht 72<br>
-D-44879 Bochum<br>
-Germany<br>
-Email: <a href="info@bee42.com">mailto:info@bee42.com</a><br>
-Phone +49(0)157-72 54 92 63</p>
-
-<h2 id="responsible-for-the-content-according-to-55-abs-2-rstv">Responsible for the content according to § 55 Abs. 2 RStV:</h2>
-
-<p>Peter Rossbach (Geschäftsführer)<br>
-Am Josephsschacht 72<br>
-D-44879 Bochum<br>
-Germany</p>
-
-<p>VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374<br>
-Number in the commercial register HR B 14047</p>
-
-<p>Design &amp; Coding <br>
-<a href="http://www.agentur-aufgeweckt.de">Agentur Aufgeweckt</a></p>
-
         </div>
+    </div>
     </div>
     <!-- CONTACT -->
 <div class="content-box contact">
@@ -239,13 +244,13 @@ Number in the commercial register HR B 14047</p>
 	</div>  			
 		</div>
 
-    <footer>
+	<footer>
 	<div class="inner-content">
 		<p><a href="/">DevOps Gathering &copy; 2017</a></p>
 		<p><a href="/imprint">Imprint</a></p>
 	</div>
 </footer>
-     <!-- jQuery -->
+	<!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
@@ -257,6 +262,6 @@ Number in the commercial register HR B 14047</p>
 <!-- Custom Theme JavaScript -->
 <script src="https://devops-gathering.io/js/main.js"></script>
 
-    </body>
+</body>
 
 </html>

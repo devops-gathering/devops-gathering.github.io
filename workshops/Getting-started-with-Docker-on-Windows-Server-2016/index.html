@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-            <meta charset="utf-8">
+
+<head>
+    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Devops Gathering 2017">
@@ -28,27 +29,15 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-            
-<meta property="og:title" content="Imprint" />
-<meta property="og:description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047" />
+	
+<meta property="og:title" content="Getting started with Docker on Windows Server 2016" />
+<meta property="og:description" content="In this hands-on workshop you&rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates. You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/imprint/" />
+<meta property="og:url" content="https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/" />
 
 
 
-<meta property="og:updated_time" content="2016-12-04 19:26:55 &#43;0100 &#43;0100"/>
+<meta property="og:updated_time" content="0001-01-01 00:00:00 &#43;0000 UTC"/>
 
 
 
@@ -64,28 +53,16 @@ Number in the commercial register HR B 14047" />
 
 <meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
 
-<meta property="article:modified_time" content="2016-12-04 19:26:55 &#43;0100 &#43;0100" />
-<meta property="article:section" content="" />
+<meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
+<meta property="article:section" content="workshops" />
 
 
 
 
 
 
-<meta itemprop="name" content="Imprint">
-<meta itemprop="description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047">
+<meta itemprop="name" content="Getting started with Docker on Windows Server 2016">
+<meta itemprop="description" content="In this hands-on workshop you&rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates. You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine.">
 
 
 
@@ -94,48 +71,36 @@ Number in the commercial register HR B 14047">
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="80">
+<meta itemprop="wordCount" content="231">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Imprint"/>
-<meta name="twitter:description" content="Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Email: mailto:info@bee42.com
-Phone &#43;49(0)157-72 54 92 63
-Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
-Am Josephsschacht 72
-D-44879 Bochum
-Germany
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
-Number in the commercial register HR B 14047"/>
+<meta name="twitter:title" content="Getting started with Docker on Windows Server 2016"/>
+<meta name="twitter:description" content="In this hands-on workshop you&rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates. You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine."/>
 
 
 
 
 
 
-            
+	
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PZCPH3M');</script>
 
+</head>
 
-    </head>
-    <body class="single">
-     
+<body class="single">
+    
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZCPH3M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-     <nav class="navigation-container">
+	<nav class="navigation-container">
 	<div class="inner-content">
 		<a  class="branding" href="https://devops-gathering.io"><span>DevOps</span> Gathering <span>2017</span></a>
 		
@@ -153,48 +118,69 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
 </nav>
-     <!-- HEADER -->
+	<!-- HEADER -->
 <header class="single">
     <div class="header-content">
         <div class="header-content-inner">
-            <p>  </p>
-            <h1>Imprint</h1>
+            <p>Stefan Scherer   and Dieter Reuter  </p>
+            <h1>Getting started with Docker on Windows Server 2016</h1>
         </div>
     </div>
     <div class="overlay"></div>
 </header>
 
+    <div class="content-box single-content">
+        <div class="inner-content">
+            <div class="clearfix"></div>
+            In this hands-on workshop you&rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
+You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
+We&rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.
+Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.</p>
 
-     <div class="content-box single-content">
-         <div class="inner-content"> 
+<h2 id="agenda">Agenda</h2>
+
+<ul>
+<li>Setup Docker Engine on Windows Server 2016</li>
+<li>Learn about the base OS images</li>
+<li>Secure remote Docker access via TLS</li>
+<li>Networking, Logging</li>
+<li>Persisting data using volumes</li>
+<li>Dockerfile best practices</li>
+<li>Dockerizing a Windows application</li>
+</ul>
+
+<h2 id="what-you-will-need">What you will need</h2>
+
+<ul>
+<li>Basic Windows and Docker experience recommended, but not required</li>
+<li>Bring your own laptop (Windows, macOS, Linux)</li>
+<li>You&rsquo;ll need RDP client and Docker client on your laptop</li>
+</ul>
+
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/stefan-scherer.jpeg" alt=""></a>
+                </div>
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/stefan-scherer/">Stefan Scherer<span></span></a></h2>
+                    <p> Stefan is a Sr. Software Engineer at SEAL Systems. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain.
+<a href="/speakers/stefan-scherer/">read more</a></p>
+                </div>
+            </div>
             
-
-<p>Legal information that is necessary for a German site <br/>
-Information required under § 5 Para. 1 of the German Telemedia Act:</p>
-
-<h2 id="bee42-solutions-gmbh">bee42 solutions gmbh</h2>
-
-<p>Peter Rossbach (Geschäftsführer)<br>
-Am Josephsschacht 72<br>
-D-44879 Bochum<br>
-Germany<br>
-Email: <a href="info@bee42.com">mailto:info@bee42.com</a><br>
-Phone +49(0)157-72 54 92 63</p>
-
-<h2 id="responsible-for-the-content-according-to-55-abs-2-rstv">Responsible for the content according to § 55 Abs. 2 RStV:</h2>
-
-<p>Peter Rossbach (Geschäftsführer)<br>
-Am Josephsschacht 72<br>
-D-44879 Bochum<br>
-Germany</p>
-
-<p>VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374<br>
-Number in the commercial register HR B 14047</p>
-
-<p>Design &amp; Coding <br>
-<a href="http://www.agentur-aufgeweckt.de">Agentur Aufgeweckt</a></p>
-
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/dieter-reuter.png" alt=""></a>
+                </div>
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/dieter-reuter/">Dieter Reuter<span></span></a></h2>
+                    <p>Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity.
+<a href="/speakers/dieter-reuter/">read more</a></p>
+                </div>
+            </div>
+            
         </div>
+    </div>
     </div>
     <!-- CONTACT -->
 <div class="content-box contact">
@@ -239,13 +225,13 @@ Number in the commercial register HR B 14047</p>
 	</div>  			
 		</div>
 
-    <footer>
+	<footer>
 	<div class="inner-content">
 		<p><a href="/">DevOps Gathering &copy; 2017</a></p>
 		<p><a href="/imprint">Imprint</a></p>
 	</div>
 </footer>
-     <!-- jQuery -->
+	<!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
@@ -257,6 +243,6 @@ Number in the commercial register HR B 14047</p>
 <!-- Custom Theme JavaScript -->
 <script src="https://devops-gathering.io/js/main.js"></script>
 
-    </body>
+</body>
 
 </html>

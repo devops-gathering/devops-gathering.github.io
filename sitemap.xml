@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/sponsoring/</loc>
     <lastmod>2017-01-12T12:28:54+01:00</lastmod>
   </url>
@@ -17,8 +37,46 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/dieter-reuter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/kevin-wittek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/matthias-rottlaender/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/niclas-mietz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/peter-rossbach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/phillip-garbe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/stefan-scherer/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/</loc>
     <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/</loc>
     <priority>0</priority>
   </url>
   

@@ -83,13 +83,18 @@ header {
 				position: absolute;
 				bottom: 4rem;
 			}
-
+			
+			div {
+				float: left;
+				position: relative;
+			}
 
 			h1 {
 				position: relative;
 				text-align: left;
 				margin-bottom: 0;
 				font-size: 4rem;
+				width: auto;
 			}
 
 			p {
@@ -104,6 +109,18 @@ header {
 					top: -1.5rem;
 					left: 0;
 				}
+			}
+
+			img {
+			    width: 160px;
+			    height: auto;
+			    float: left;
+			    margin: -2.5rem 2rem 0 0;
+			    right: 0;
+			    bottom: 3rem;
+
+				right: 0;
+				bottom: 3rem;
 			}
 
 		}
@@ -143,13 +160,14 @@ header {
 		}
 
 		&.single {
-			height: 60vh;
+			height: 47vh;
 
 			.header-content {
 				max-width: 960px;
 
 				.header-content-inner {
 					padding: 0 1rem;
+					bottom: 3rem;
 				}
 
 				h1 {
@@ -164,13 +182,7 @@ header {
 					padding: 0;
 
 					&:before {
-						content: "";
-						width:  70px;
-						height: 3px;
-						background: $accent1;
-						position: absolute;	
-						top: -1.5rem;
-						left: 1rem;
+						left: 0;
 					}
 				}
 			}
@@ -235,9 +247,13 @@ header {
 					padding: 0;
 
 					&:before {
-						left: 2rem;
+						left: 0;
 					}
 				}
+
+				img {
+				    width: 115px;
+				}				
 			}
 		}
 	}	
@@ -296,9 +312,16 @@ header {
 				}
 
 				p {
+					margin: 0;
+					font-size: 1.125rem;
 					&:before {
-						left: 1rem;
+						display: none;
 					}
+				}
+
+				img {
+					width: 90px;
+					margin:  -1.5rem 2rem 0 0;
 				}
 			}
 		}
@@ -346,6 +369,10 @@ header {
 					font-size:  1.5rem;
 					margin: 0.5rem 0 0 0;
 				}
+
+				p {
+					margin-top:  1rem;
+				}			
 			}
 		}
 	}	
@@ -369,6 +396,26 @@ header {
 	h2 {
 		&:before {
 			background: $light;
+		}
+	}
+
+
+	h2.normal {
+		position: initial;
+	}
+	
+
+	.topics {
+		display: block;
+		list-style-type: none;
+		margin: 2rem 0 3rem 0;
+
+		li {
+			font-size: 1.3rem;
+			border-top: 1px solid #88c4de;
+			color: $light;
+			padding: 0.7rem 0;
+			line-height: 1.4;
 		}
 	}
 }
@@ -396,7 +443,7 @@ header {
 
 		li {
 			font-size: 1.3rem;
-			border-top: 1px solid #f59885;
+			border-top: 1px solid #88c4de;
 			color: $light;
 			padding: 0.7rem 0;
 			line-height: 1.4;
@@ -421,7 +468,7 @@ header {
 .content-box.advisory {
 	height: auto;
 	overflow: hidden;
-	background: #f7765a;
+	background: #44a6d0;
 	color: $light;
 
 	.inner-content {
@@ -522,7 +569,7 @@ header {
 		color: $dark;
 	}
 	
-	a {
+	a.logo {
 		@include flexbox;
 		justify-content:center;
 		align-items: center;
@@ -535,9 +582,10 @@ header {
 		}
 
 		img {
-			height: 90%;
+			height: auto;
+			max-height:  160px;
 			width: auto;
-			max-width: 170px;
+			max-width: 160px;
 		}
 
 		&.big {height: 170px;}
@@ -547,10 +595,101 @@ header {
 
 }
 
+// speaker
+//--------------------------------------------------------------------------------------------------------
+.content-box.speaker {
+	background: $accent4;
+
+	.inner-content {
+		max-width:  1100px;
+	}
+
+	.columns {
+		&:last-child {
+			float: left;
+		}
+	}
+
+	h2, p {
+		color: $dark;
+	}
+
+	p {
+		margin-bottom:  3rem;
+	}
+	
+	a {
+		@include default-trans(1s border-color ease);
+		margin-bottom:  2rem;
+		text-align: center;
+		overflow: hidden;
+		display: block;
+		color: $dark;
+		border-bottom: 2px solid #d0d0d0;
+
+		&:hover {
+			border-color: $accent1;
+		}
+
+		img {
+			height: auto;
+			width: 100%;
+			max-width: 200px;
+			text-align: center;
+			display: block;
+			margin:  0 auto 1rem;
+
+		}
+
+		span {
+			display: block;
+			padding-bottom:  1rem;
+			height:  46px;
+			line-height: 1.2;
+		}
+	}
+}
+
+// speaker box for content pages
+//--------------------------------------------------------------------------------------------------------
+.content-box.single-content {
+	.speaker-box{
+		background: #e6e6e6;
+		height: auto;
+		overflow: hidden;
+		width: 100%;
+		padding: 2rem;
+		margin-bottom:  1rem;
+		border-radius:  5px;
+
+		h2 {
+			font-size: 1.5rem;
+			margin-bottom:  0.5rem;
+			span {
+				font-size:  1.125rem;
+				font-family: $font2;
+				font-weight:  400;
+				display: block;
+				color: #868686;
+			}
+		}
+
+		p {
+			margin:  0;
+		}
+
+		a img {
+			width:  100%;
+			max-width: 120px;
+			height: auto;
+		}
+	}
+}
+
 // programm
 //--------------------------------------------------------------------------------------------------------
 .content-box.program {
-	background: $accent1;
+	background: $accent5;
 	padding-bottom:  6rem;
 
 	h2, p {
@@ -648,14 +787,22 @@ header {
 					text-align: left;
 					margin: 0 0 1rem 0;
 					padding-left: 155px;
-					font-size: 1rem;
+					font-size: 1.125rem;
 					line-height: 1.5;
 					color: #7d7d7d;
+					height:  auto;
+					overflow: hidden;
 
 					span {
 						font-family: $font1;
 						font-weight: 700;
 						color: #333;
+					}
+
+					a.more {
+						width:  auto;
+						float: left;
+						font-size:  1rem;
 					}
 				}
 			}
@@ -669,9 +816,16 @@ header {
 		.acc-container-break {
 			h3 {
 				cursor: default;
+				overflow: hidden;
+				line-height: 53px;
 
 				&:hover {
 					color: $dark;
+				}
+
+				span {
+					max-height: 43px;
+					line-height: 30px;
 				}
 			}
 		}	
@@ -694,6 +848,70 @@ header {
 			}
 		}
 	}
+}
+
+// location
+//--------------------------------------------------------------------------------------------------------
+.content-box.location {
+	background: $accent1;
+	padding-bottom: 3rem;
+
+	h2, p {
+		color: $light;
+
+		&:before {
+			background: $light;
+		}
+	}
+
+	p {
+		margin-bottom:  3rem;
+	}
+
+	h3 {
+		font-size: 1.5rem;
+		margin:  2rem 0 0.5rem 0;
+		color: $light;
+	}
+}
+
+#map1, #map2 {
+	height: 300px;
+	width: 100%;
+}
+
+// location
+//--------------------------------------------------------------------------------------------------------
+.content-box.tickets {
+	background: $accent5;
+	padding-bottom: 3rem;
+
+	h2, p {
+		color: $light;
+
+		&:before {
+			background: $light;
+		}
+	}
+
+	a {
+		color: $accent2;
+	}
+
+	p {
+		margin-bottom:  3rem;
+	}
+
+	h3 {
+		font-size: 1.5rem;
+		margin:  2rem 0 0.5rem 0;
+		color: $light;
+	}
+}
+
+#map1, #map2 {
+	height: 300px;
+	width: 100%;
 }
 
 // single-content
@@ -832,7 +1050,7 @@ header {
 
 @include mq-1024 {
 	.content-box.single-content {
-		padding: 1rem 1rem;
+		padding: 2rem 1rem;
 
 		.inner-content {
 			max-width: 960px;
@@ -889,6 +1107,57 @@ header {
 			color: $accent1;
 		}
 	}
+
+	#mc_embed_signup {
+		h3 {
+			font-size:  1.125em;
+			margin:  2rem 0 1rem;
+			color: $light;
+			font-family: $font2;
+			font-weight:  400;
+		}
+
+		.indicates-required {
+			display: none;
+		}
+
+		.mc-field-group {
+			max-width:  360px;
+			margin:  0 auto;
+
+			label {
+				display: none;
+			}
+
+			input {
+				width: 240px;
+				height: 44px;
+				float: left;
+				border-radius: 22px 0 0 22px;
+				padding: 0 22px;
+				font-family:  $font1;
+				font-size: 1rem;
+				color: $accent1;
+
+				&:hover, &:focus {
+					box-shadow: none;
+				}
+			}	
+		}
+	}
+
+	input.button {
+		border: none;
+		background: $accent1;
+		height: 44px;
+		width: 110px;
+		border-radius:  0 22px 22px 0;
+
+
+		&:hover {
+			background: $accent2;
+		}
+	}	
 }
 
 @include mq-768 {
@@ -897,6 +1166,49 @@ header {
 
 		h2 {
 			font-size: 2.5rem;
+		}
+	}
+}
+
+@include mq-420 {
+	.content-box.contact {	
+		#mc_embed_signup {
+
+			.mc-field-group {
+				max-width:  300px;
+				margin:  0 auto;
+
+				label {
+					display: none;
+				}
+
+				input {
+					width: 173px;
+					height: 44px;
+					float: left;
+					border-radius: 22px 0 0 22px;
+					padding: 0 22px;
+					font-family:  $font1;
+					font-size: 1rem;
+					color: $accent1;
+
+					&:hover, &:focus {
+						box-shadow: none;
+					}
+				}				
+			}
+	input.button {
+		border: none;
+		background: $accent1;
+		height: 44px;
+		width: 110px;
+		border-radius:  0 22px 22px 0;
+
+
+		&:hover {
+			background: $accent2;
+		}
+	}				
 		}
 	}
 }

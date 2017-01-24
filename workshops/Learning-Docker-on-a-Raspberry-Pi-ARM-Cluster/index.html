@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Devops Gathering 2017">
+<meta name="description" content="The DevOps Gathering is an international conference located in Bochum - surrounded by the metropolitan area of the Ruhr Valley. This melting pot of past times industrial revolutions is nowadays a hot spot for Germany’s IT industry - a perfect place to discuss the next big revolution of our industry, the DevOps revolution. Let’s discuss the hot topics inside the DevOps community and start talking about Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps.We are hosting a non-profit conference striving for high-quality content and providing a platform for experienced international speakers at the G DATA Campus in the heart of Bochum.">
+<title>Devops Gathering 2017</title>
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://devops-gathering.io/favicon.ico">
+<!-- Foundation Min CSS -->
+<link rel="stylesheet" href="https://devops-gathering.io/css/foundation.min.css" type="text/css">
+<!-- Custom Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Open+Sans:400,700,800" rel="stylesheet">
+<link rel="stylesheet" href="https://devops-gathering.io/font-awesome/css/font-awesome.min.css" type="text/css">
+<!-- Plugin CSS -->
+<!-- Custom CSS -->
+
+
+<link rel="stylesheet" href="https://devops-gathering.io/css/main.css" type="text/css">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+	
+<meta property="og:title" content="Learning Docker on a Raspberry Pi ARM-Cluster" />
+<meta property="og:description" content="Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/" />
+
+
+
+<meta property="og:updated_time" content="0001-01-01 00:00:00 &#43;0000 UTC"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:publisher" content="https://www.facebook.com/" />
+
+<meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
+
+<meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
+<meta property="article:section" content="workshops" />
+
+
+
+
+
+
+<meta itemprop="name" content="Learning Docker on a Raspberry Pi ARM-Cluster">
+<meta itemprop="description" content="Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose.">
+
+
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+<meta itemprop="wordCount" content="412">
+
+
+	<meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Learning Docker on a Raspberry Pi ARM-Cluster"/>
+<meta name="twitter:description" content="Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose."/>
+
+
+
+
+
+
+	
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PZCPH3M');</script>
+
+</head>
+
+<body class="single">
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZCPH3M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<nav class="navigation-container">
+	<div class="inner-content">
+		<a  class="branding" href="https://devops-gathering.io"><span>DevOps</span> Gathering <span>2017</span></a>
+		
+		<ul class="social-media">
+				<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
+		</ul> 		
+		<ul class="navigation">
+			<li><a href="https://devops-gathering.io#about">Home</a></li>
+			<li><a href="https://devops-gathering.io#workshops">Workshops</a></li>
+			<li><a href="https://devops-gathering.io#speakers">Speakers</a></li>
+			<li><a href="https://devops-gathering.io#tickets">Tickets</a></li>
+			<li><a href="https://devops-gathering.io#sponsoring">Sponsoring</a></li>
+		</ul>
+		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
+	</div>
+</nav>
+	<!-- HEADER -->
+<header class="single">
+    <div class="header-content">
+        <div class="header-content-inner">
+            <p>Dieter Reuter   and Peter Rossbach  </p>
+            <h1>Learning Docker on a Raspberry Pi ARM-Cluster</h1>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</header>
+
+    <div class="content-box single-content">
+        <div class="inner-content">
+            <div class="clearfix"></div>
+            Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose. Later on we&rsquo;re digging even deeper into the specific requirements for containerized IoT applications to build resource constraint containers and optimizing containers for minimal size.</p>
+
+<p>Docker can run and orchestrate your applications very efficiently, even on the smallest devices. Step into a new dimension when using Docker on low-powered ARM devices which breaks all limits and discover and resolve bottlenecks easily before they hit you in production. Scale down to the bare minimum, speed it up and get ready for a truly massive scale. Let’s start using Docker in your complete software stack to interconnect the Cloud and the future with Billions of IoT devices.</p>
+
+<p>In this hands-on workshop we’re going to introduce you to the basic principles of Docker and how the orchestration of container works, even if you have to handle a power or network outage. We&rsquo;ll install Docker on real baremetal hardware sitting on your desk as a multi-node Raspberry Pi cluster. Then deploying a first distributed application and scale it up to a fault-tolerant system and testing it in a chaos monkey fashion with real failures of the compute nodes.</p>
+
+<p>Additionally we&rsquo;ll dig deeper into the specific requirements of using containers for IoT use cases. By iterating through optimization steps for small devices, you will discover which value it even brings to classic container applications. This reveals the details and benefits of a container-based development and runtime environment, which helps to achieve better portability, maintenance and security by isolating the application code from the hardware. We&rsquo;ll try to inspire you to learn and use Docker and containers on ARM devices in a very practical way.</p>
+
+<h2 id="key-takeaways">Key Takeaways</h2>
+
+<ul>
+<li>Learn how to orchestrate containers with Docker on low-cost baremetal hardware</li>
+<li>Learn the basic concepts of Docker and building fault-tolerant services</li>
+<li>Learn building resource constraint containers and optimizing containers for minimal size</li>
+</ul>
+
+<h2 id="what-you-will-need">What you will need</h2>
+
+<ul>
+<li>Basic Docker experience recommended, but not required</li>
+<li>Bring your own laptop (Windows, macOS, Linux)</li>
+<li>You&rsquo;ll need a SSH client or Putty to access the ARM cluster</li>
+</ul>
+
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/dieter-reuter.png" alt=""></a>
+                </div>
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/dieter-reuter/">Dieter Reuter<span></span></a></h2>
+                    <p>Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity.
+<a href="/speakers/dieter-reuter/">read more</a></p>
+                </div>
+            </div>
+            
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/peter-rossbach.png" alt=""></a>
+                </div>
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/peter-rossbach/">Peter Rossbach<span></span></a></h2>
+                    <p>Peter Rossbach is a infra coder, docker enabler, system architect and coach of numerous web systems, CTO of the Setlog GmbH and founder of the bee42 solutions gmbh.
+<a href="/speakers/peter-rossbach/">read more</a></p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    </div>
+    <!-- CONTACT -->
+<div class="content-box contact">
+	<div class="inner-content">
+		
+				<h2 class="section-heading">Questions ?</h2>
+		
+		
+
+		
+		
+				<p>Send us an email and we will get back to you as soon as possible!</p>
+		
+		
+			<a href="mailto:info@devops-gathering.io"> 
+				<i class="fa fa-envelope-o wow bounceIn" data-wow-delay=".1s"></i>
+			</a>
+	</div>
+	
+
+	<div id="mc_embed_signup">
+		<form action="//bee42.us14.list-manage.com/subscribe/post?u=824895018aee17c0d9e3a50b7&amp;id=1f79b85105" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<div id="mc_embed_signup_scroll">
+				<h3>Subscribe to our mailing list</h3>
+			<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+		
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+			</label>
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address">
+		</div>
+		
+		<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+		</div>    
+		<div style="position: absolute; left: -5000px;" aria-hidden="true">
+		<input type="text" name="b_824895018aee17c0d9e3a50b7_1f79b85105" tabindex="-1" value=""></div>
+		<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+		</div>
+		</form>
+	</div>  			
+		</div>
+
+	<footer>
+	<div class="inner-content">
+		<p><a href="/">DevOps Gathering &copy; 2017</a></p>
+		<p><a href="/imprint">Imprint</a></p>
+	</div>
+</footer>
+	<!-- jQuery -->
+<script src="https://devops-gathering.io/js/jquery.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="https://devops-gathering.io/js/jquery.easing.min.js"></script>
+<script src="https://devops-gathering.io/js/jquery.fittext.js"></script>
+<script src="https://devops-gathering.io/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="https://devops-gathering.io/js/main.js"></script>
+
+</body>
+
+</html>
