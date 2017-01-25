@@ -80,10 +80,12 @@
       <guid>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</guid>
       <description>
 
-&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
-You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
-We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.
-Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
+&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.&lt;/p&gt;
+
+&lt;p&gt;You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
+We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.&lt;/p&gt;
+
+&lt;p&gt;Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
 
 &lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
 

@@ -81,10 +81,12 @@
       <guid>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</guid>
       <description>
 
-&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
-You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
-We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.
-Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
+&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.&lt;/p&gt;
+
+&lt;p&gt;You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
+We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.&lt;/p&gt;
+
+&lt;p&gt;Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
 
 &lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
 
@@ -368,8 +370,9 @@ Dieter is using Docker from the early days on and is pushing Docker and Containe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
-      <description>&lt;p&gt;Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
-Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
+      <description>&lt;p&gt;Java developer and JVM fanboy, since being introduced to the language back in school 12 years ago. Founded his own company during his study at university. Develops mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Nowadays Kevin is working at the cyber security company G DATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/&#34;&gt;&amp;ldquo;Bootiful&amp;rdquo; Containers with Spring-Boot and Docker&lt;/a&gt;&lt;/li&gt;
@@ -383,12 +386,11 @@ Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/matthias-rottlaender/</guid>
-      <description>&lt;p&gt;Jack-Of-All-Trades promoting perpetual pursuit of technical excellence.
-Developer of Java systems since about 10 years ago.
+      <description>&lt;p&gt;Jack-Of-All-Trades promoting perpetual pursuit of technical excellence.Developer of Java systems since about 10 years ago.
 Passionate usability nit-pick.
 Zealot hooking everyone in his vicinity on testing.
 Wholehearted embracer of agile principles.
-Found his home at German cyber security service provider GDATA Advanced Analytics, where he can do all of the above on a daily basis.&lt;/p&gt;
+Found his home at German cyber security service provider G DATA Advanced Analytics, where he can do all of the above on a daily basis.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/&#34;&gt;&amp;ldquo;Bootiful&amp;rdquo; Containers with Spring-Boot and Docker&lt;/a&gt;&lt;/li&gt;
@@ -402,10 +404,8 @@ Found his home at German cyber security service provider GDATA Advanced Analytic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
-      <description>&lt;p&gt;Niclas is Devops Engineer at the bee42 solutios and studies computer science at FH Dortmund.&lt;/p&gt;
-
-&lt;p&gt;Afterworks he likes to work with Open-Source projects with container touch and new technologies in the container ecosystem.
-He also likes to join locale meetups in his area also he is one of the organisators from Docker Bochum.&lt;/p&gt;
+      <description>&lt;p&gt;Niclas is DevOps Engineer at the bee42 solutions and studies computer science at FH Dortmund.
+Next to his job he likes to work with Open-Source projects with container touch and new technologies in the container ecosystem. Besides supporting and visiting local meetups his organizing the Docker Bochum meetup.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/&#34;&gt;Automated container builds with GitLab&lt;/a&gt;&lt;/li&gt;
@@ -433,7 +433,7 @@ He also likes to join locale meetups in his area also he is one of the organisat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/phillip-garbe/</guid>
-      <description>&lt;p&gt;Philipp works as Lead Software Developer at AutoScout24 in Munich. Since more than 7 years he&amp;rsquo;s working with web technologies and at the moment he&amp;rsquo;s part of &amp;ldquo;Tatsu&amp;rdquo; the project that transforms the matured AutoScout24 IT setup into a nextgen Web-Scale IT platform. As Docker Captain he also tries to share his knowledge and experience about Containers.&lt;/p&gt;
+      <description>&lt;p&gt;Philipp works as Lead Software Developer at AutoScout24 in Munich. Since more than 7 years he&amp;rsquo;s working with web technologies and at the moment he&amp;rsquo;s part of &amp;ldquo;Tatsu&amp;rdquo; the project that transforms the matured AutoScout24 IT setup into a nextgen Web-Scale IT platform. As Docker Captain he shares his knowledge and experience about Containers.&lt;/p&gt;
 
 &lt;p&gt;Philipp is driven by technologies and tools that allows him to release faster and more often. He expects that every commit automatically goes into production and it shouldn&amp;rsquo;t surprise that he&amp;rsquo;s excited about microservices, docker and the cloud. Affected by Pain Driven Development, he believes that things need to be changed whenever the pain is big enough.&lt;/p&gt;
 
@@ -449,7 +449,7 @@ He also likes to join locale meetups in his area also he is one of the organisat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/stefan-scherer/</guid>
-      <description>&lt;p&gt;Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.&lt;/p&gt;
+      <description>&lt;p&gt;Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows and gives, as a Microsoft MVP and Docker Captain, feedback directly to Microsoft about his experience. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/&#34;&gt;Getting started with Docker on Windows Server 2016&lt;/a&gt;&lt;/li&gt;
