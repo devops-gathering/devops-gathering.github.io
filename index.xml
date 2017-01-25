@@ -181,6 +181,8 @@ We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with u
 
 &lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
 
+&lt;p&gt;This workshop takes you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle. After that we take a glimpse into the new possibilities, that the container technology give our development and testing environments.&lt;/p&gt;
+
 &lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -370,7 +372,7 @@ Dieter is using Docker from the early days on and is pushing Docker and Containe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
-      <description>&lt;p&gt;Java developer and JVM fanboy, since being introduced to the language back in school 12 years ago. Founded his own company during his study at university. Develops mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem.&lt;/p&gt;
+      <description>&lt;p&gt;Java developer and JVM fanboy, since being introduced to the language back in school 12 years ago. Founded his own company besides his study at university. Develops mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem.&lt;/p&gt;
 
 &lt;p&gt;Nowadays Kevin is working at the cyber security company G DATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
 

@@ -180,6 +180,8 @@ We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with u
 
 &lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
 
+&lt;p&gt;This workshop takes you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle. After that we take a glimpse into the new possibilities, that the container technology give our development and testing environments.&lt;/p&gt;
+
 &lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
 
 &lt;ul&gt;
