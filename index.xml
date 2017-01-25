@@ -28,7 +28,7 @@
 &lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost baremetal hardware&lt;/li&gt;
+&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost bare metal hardware&lt;/li&gt;
 &lt;li&gt;Learn the basic concepts of Docker and building fault-tolerant services&lt;/li&gt;
 &lt;li&gt;Learn building resource constraint containers and optimizing containers for minimal size&lt;/li&gt;
 &lt;/ul&gt;
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Automated container builds with GitLab/CI</title>
+      <title>Automated container building with GitLab/CI</title>
       <link>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -175,18 +175,16 @@ Finally we will take a real world application based upon microservices and docke
       <guid>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</guid>
       <description>
 
-&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution space with which software developers are confronted nowadays has become even bigger and we - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
+&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
 
 &lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
-
-&lt;p&gt;This workshop walks you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle all the while taking a glimpse into the new possibilities container technology has brought to our development and testing environments.&lt;/p&gt;
 
 &lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Run Spring-Boot Apps inside a Docker container&lt;/li&gt;
 &lt;li&gt;Build your Spring-Boot Docker image using Gradle&lt;/li&gt;
-&lt;li&gt;Make Spring-Boot Apps configurable with Environment Variables&lt;/li&gt;
+&lt;li&gt;Make Spring-Boot Apps configurable with environment variables&lt;/li&gt;
 &lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
 &lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
 &lt;/ul&gt;
