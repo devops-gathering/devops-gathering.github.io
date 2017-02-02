@@ -43,6 +43,20 @@ Dieter is using Docker from the early days on and is pushing Docker and Containe
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/lucas-kaldstrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/lucas-kaldstrom/</guid>
+      <description>&lt;p&gt;Lucas Käldström (@luxas on Github) is an upper secondary school student who is a Kubernetes maintainer on his spare time. He has been actively engaged in the Kubernetes project for more than one and a half year now and ported Kubernetes to other platforms, including ARM 32 and 64-bit. He also wrote a design doc about how a multi-platform Kubernetes cluster should function and he has been a core member in the sig-cluster-lifecycle group since July 2016 and have been hacking code on kubeadm and been organizing kubeadm releases.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/&#34;&gt;Intel and ARM, let Kubernetes rule them all!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/matthias-rottlaender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -114,6 +128,79 @@ Next to his job he likes to work with Open-Source projects with container touch 
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/&#34;&gt;Getting started with Docker on Windows Server 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Build-and-deploy-multiarch-Linux-and-Windows-Container-images/&#34;&gt;Build and deploy multiarch Linux and Windows Container images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/timo-derstappen/</guid>
+      <description>&lt;p&gt;Timo Derstappen is co-founder of Giant Swarm in Cologne. He has many years of experience in building scalable and automated cloud architectures. He likes his minimal linux desktop setup, puts nearly everything into containers and thinks Minecraft is a gateway drug.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/&#34;&gt;How we run Kubernetes in Kubernetes, aka Kubeception&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/uwe-friedrichsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/uwe-friedrichsen/</guid>
+      <description>&lt;p&gt;Uwe Friedrichsen travels the IT world for many years. As a fellow of codecentric AG he is always in search of innovative ideas and concepts. His current focus areas are resilience, scalability and the IT of (the day after) tomorrow. Often, you can find him on conferences sharing his ideas, or as author of articles, blog posts, tweets and more.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/&#34;&gt;Keynote: DevOps is not enough - towards a DevOps ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/emile-vauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/emile-vauge/</guid>
+      <description>&lt;p&gt;Creator of traefik.io, Emile is developer and founder of containo.us. More than 10 years experience developing applications for the web and the industry, certified Docker trainer, he got interested lately in the DevOps method. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again/&#34;&gt;Make load-balancing great again!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
+      <description>&lt;p&gt;Dr. Roland Huss is a Principal Software Engineer at Red Hat working on Fuse. He has been developing in Java for twenty years now but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.
+&amp;ldquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/&#34;&gt;Docker and Kubernetes for Java Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Container-Loading/&#34;&gt;Docker Container Loading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/claus-matzinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/claus-matzinger/</guid>
+      <description>&lt;p&gt;A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/&#34;&gt;Getting the most out of your containerized database&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

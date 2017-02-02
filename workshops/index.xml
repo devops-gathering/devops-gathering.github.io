@@ -73,6 +73,64 @@
     </item>
     
     <item>
+      <title>Docker and Kubernetes for Java Developers</title>
+      <link>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</guid>
+      <description>
+
+&lt;p&gt;In the first part we will learn, how you can add the creation of Docker images to your Maven builds and how integration tests can be simplified by Docker. This will be demonstrated live by two connected Microservices based on Wildly-Swarm and Spring-Boot. Here we will also meet the peculiarities which have to be respected when putting JVMs into Docker containers, especially when it comes to memory allocation or thread tuning.  &lt;/p&gt;
+
+&lt;p&gt;The second part then shows how to bring these images to the container orchestration platform Kubernetes, whose concepts will be introduced first. It will be shown live how easy it is to install a local Kubernetes development environment and how our sample application is moved step-by-step to Kubernetes. A Maven build integration with the fabric8-maven-plugin will be explained in detail.&lt;/p&gt;
+
+&lt;p&gt;At the end the attendees will not only have a good overview how Java applications can be brought frictionlessly into this new shiny world, but also why putting Java application into containers makes sense for so many use cases. &lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to integrate Docker into your Java builds&lt;/li&gt;
+&lt;li&gt;Learn what to take care of when running Java in Docker containers&lt;/li&gt;
+&lt;li&gt;Get an introduction into Kubernetes and its concepts&lt;/li&gt;
+&lt;li&gt;Learn how to bring easily your Java apps to Kubernetes and integrate the generation of Kubernetes resource descriptors into your Java build&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker knowledge required&lt;/li&gt;
+&lt;li&gt;Some minimal Kubernetes knowlegde would be nice, but is not mandatory&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
+      <link>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</guid>
+      <description>
+
+&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
+
+&lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
+
+&lt;p&gt;This workshop takes you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle. After that we take a glimpse into the new possibilities, that the container technology give our development and testing environments.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Run Spring-Boot Apps inside a Docker container&lt;/li&gt;
+&lt;li&gt;Build your Spring-Boot Docker image using Gradle&lt;/li&gt;
+&lt;li&gt;Make Spring-Boot Apps configurable with environment variables&lt;/li&gt;
+&lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
+&lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Getting started with Docker on Windows Server 2016</title>
       <link>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -164,32 +222,6 @@ We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with u
 &lt;li&gt;Bring your own laptop&lt;/li&gt;
 &lt;li&gt;Have your own AWS account (Free Tier, &lt;a href=&#34;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&#34;&gt;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Install AWS Cli (&lt;a href=&#34;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&#34;&gt;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
-      <link>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</guid>
-      <description>
-
-&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
-
-&lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
-
-&lt;p&gt;This workshop takes you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle. After that we take a glimpse into the new possibilities, that the container technology give our development and testing environments.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Run Spring-Boot Apps inside a Docker container&lt;/li&gt;
-&lt;li&gt;Build your Spring-Boot Docker image using Gradle&lt;/li&gt;
-&lt;li&gt;Make Spring-Boot Apps configurable with environment variables&lt;/li&gt;
-&lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
-&lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

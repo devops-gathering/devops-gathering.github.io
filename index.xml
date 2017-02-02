@@ -10,346 +10,6 @@
     <atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
-      <link>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</guid>
-      <description>
-
-&lt;p&gt;Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose. Later on we&amp;rsquo;re digging even deeper into the specific requirements for containerized IoT applications to build resource constraint containers and optimizing containers for minimal size.&lt;/p&gt;
-
-&lt;p&gt;Docker can run and orchestrate your applications very efficiently, even on the smallest devices. Step into a new dimension when using Docker on low-powered ARM devices which breaks all limits and discover and resolve bottlenecks easily before they hit you in production. Scale down to the bare minimum, speed it up and get ready for a truly massive scale. Let’s start using Docker in your complete software stack to interconnect the Cloud and the future with Billions of IoT devices.&lt;/p&gt;
-
-&lt;p&gt;In this hands-on workshop we’re going to introduce you to the basic principles of Docker and how the orchestration of container works, even if you have to handle a power or network outage. We&amp;rsquo;ll install Docker on real baremetal hardware sitting on your desk as a multi-node Raspberry Pi cluster. Then deploying a first distributed application and scale it up to a fault-tolerant system and testing it in a chaos monkey fashion with real failures of the compute nodes.&lt;/p&gt;
-
-&lt;p&gt;Additionally we&amp;rsquo;ll dig deeper into the specific requirements of using containers for IoT use cases. By iterating through optimization steps for small devices, you will discover which value it even brings to classic container applications. This reveals the details and benefits of a container-based development and runtime environment, which helps to achieve better portability, maintenance and security by isolating the application code from the hardware. We&amp;rsquo;ll try to inspire you to learn and use Docker and containers on ARM devices in a very practical way.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost bare metal hardware&lt;/li&gt;
-&lt;li&gt;Learn the basic concepts of Docker and building fault-tolerant services&lt;/li&gt;
-&lt;li&gt;Learn building resource constraint containers and optimizing containers for minimal size&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basic Docker experience recommended, but not required&lt;/li&gt;
-&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the ARM cluster&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automated container building with GitLab/CI</title>
-      <link>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</guid>
-      <description>
-
-&lt;p&gt;Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images. At this workshop you learn how to setup GitLab/CI with the objective to maintain your project sources, automate your Continuous Integration and Delivery pipeline for simple Docker images.&lt;/p&gt;
-
-&lt;p&gt;We start with an overview and introduce the first steps by demonstrating the usage of GitLab/CI. You will get an overview of the most important components, instructions and concepts. Using a simple example, you will learn how to implement a microservice, automate the build with a simple gitlab runner, install with Docker, test and integrate with other services in an environment.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how to setup GitLab/CI in a simple way&lt;/li&gt;
-&lt;li&gt;Learn the basic concepts of build docker images with GitLab/CI&lt;/li&gt;
-&lt;li&gt;Learn to setup a simple microservice test pipeline&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basic Docker experience recommended&lt;/li&gt;
-&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the cloud instance&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting started with Docker on Windows Server 2016</title>
-      <link>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</guid>
-      <description>
-
-&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.&lt;/p&gt;
-
-&lt;p&gt;You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
-We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.&lt;/p&gt;
-
-&lt;p&gt;Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setup Docker Engine on Windows Server 2016&lt;/li&gt;
-&lt;li&gt;Learn about the base OS images&lt;/li&gt;
-&lt;li&gt;Secure remote Docker access via TLS&lt;/li&gt;
-&lt;li&gt;Networking, Logging&lt;/li&gt;
-&lt;li&gt;Persisting data using volumes&lt;/li&gt;
-&lt;li&gt;Dockerfile best practices&lt;/li&gt;
-&lt;li&gt;Dockerizing a Windows application&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basic Windows and Docker experience recommended, but not required&lt;/li&gt;
-&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ll need RDP client and Docker client on your laptop&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Running Docker Containers on AWS</title>
-      <link>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</guid>
-      <description>
-
-&lt;p&gt;Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.&lt;/p&gt;
-
-&lt;p&gt;But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?&lt;/p&gt;
-
-&lt;p&gt;In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch. He also shows how to deploy and update applications based on Docker Compose v3. Principals like immutable infrastructure and configuration as code will influence the entire process as CloudFormation plays an important role.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Basic Setup&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Local Requirements&lt;/li&gt;
-&lt;li&gt;Immutable Infrastructure with CloudFormation&lt;/li&gt;
-&lt;li&gt;Basic VPC Setup&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Docker &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Run Docker on EC2 (VMs)&lt;/li&gt;
-&lt;li&gt;Scale with AutoScaling Groups&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Docker Swarm&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setup Manager Nodes&lt;/li&gt;
-&lt;li&gt;Secure Swarm Tokens&lt;/li&gt;
-&lt;li&gt;Automatically join Worker Nodes&lt;/li&gt;
-&lt;li&gt;Deploy sample application&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;who-should-join&#34;&gt;Who should join?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Everyone who wants to setup and run Docker Swarm on AWS&lt;/li&gt;
-&lt;li&gt;Some experience with AWS or Docker is recommended (but not required)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;prerequisites&#34;&gt;Prerequisites:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bring your own laptop&lt;/li&gt;
-&lt;li&gt;Have your own AWS account (Free Tier, &lt;a href=&#34;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&#34;&gt;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Install AWS Cli (&lt;a href=&#34;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&#34;&gt;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
-      <link>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</guid>
-      <description>
-
-&lt;p&gt;The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.&lt;/p&gt;
-
-&lt;p&gt;Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore. So why not run your integration tests on your local machine, inside an environment which resembles production as close as possible?&lt;/p&gt;
-
-&lt;p&gt;This workshop takes you through the complete development lifecycle of a simple microservice, using familiar tools such as Spring-Boot and Gradle. After that we take a glimpse into the new possibilities, that the container technology give our development and testing environments.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Run Spring-Boot Apps inside a Docker container&lt;/li&gt;
-&lt;li&gt;Build your Spring-Boot Docker image using Gradle&lt;/li&gt;
-&lt;li&gt;Make Spring-Boot Apps configurable with environment variables&lt;/li&gt;
-&lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
-&lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to become a sponsor? </title>
-      <link>https://devops-gathering.io/sponsoring/</link>
-      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
-      
-      <guid>https://devops-gathering.io/sponsoring/</guid>
-      <description>
-
-&lt;h2 id=&#34;sponsoring-devops-gathering&#34;&gt;Sponsoring DevOps Gathering&lt;/h2&gt;
-
-&lt;p&gt;We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!&lt;/p&gt;
-
-&lt;p&gt;Join the DevOps Gathering and help bringing DevOps friends and communities together! :-)&lt;/p&gt;
-
-&lt;p&gt;We offer Gold, Silver, Bronze, Video, Coffee and Party Night sponsor packages. If you have other ideas how you want to sponsor the event, please get in touch with us. We are happy to create a new sponsor package just for you.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://devops-gathering.io/pdf/DevOpsGathering2017_Sponsoring_Information.pdf&#34; class=&#34;more&#34;&gt;sponsor packages&lt;/a&gt;
-&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There are so many reasons to become a sponsor&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Get in touch with the DevOps Community.&lt;/li&gt;
-&lt;li&gt;Meet with developers and operations experts ranging from students to CTOs, from corporate developers to senior technology executives.&lt;/li&gt;
-&lt;li&gt;Learn about the latest features and best practices regarding DevOps and the Docker architectures.&lt;/li&gt;
-&lt;li&gt;Learn what other companies are doing in terms of DevOps.&lt;/li&gt;
-&lt;li&gt;Collaborate with engineering managers from other companies.&lt;/li&gt;
-&lt;li&gt;Discuss strategic partnerships with technical product managers from other companies.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Do you have more questions? &lt;a href=&#34;mailto:sponsor@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;Please contact us!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://devops-gathering.io/pdf/DevOpsGathering2017_Sponsoring_Information.pdf&#34; class=&#34;more&#34;&gt;sponsor packages&lt;/a&gt;
-&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pricing &amp; Registration</title>
-      <link>https://devops-gathering.io/tickets/</link>
-      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
-      
-      <guid>https://devops-gathering.io/tickets/</guid>
-      <description>
-
-&lt;h2 id=&#34;price-categories-information&#34;&gt;Price Categories &amp;amp; Information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Early Bird ends February 16th, 2017: Get your ticket now!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All conference and workshop tickets include food, drinks, great talks and Wi-Fi.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Thursday (March 23th) - Workshops&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Friday (March 24th) - Conference and evening reception&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Saturday (March 25th) - Open Space&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The 2 Day Ticket includes the conference day, the evening reception and the Open Space. The 3 Day Ticket includes everything: The workshops, the conference, Open Space day and also the evening event.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Tickets (all prices incl. VAT)&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Early Bird (till February 16th)&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Standard&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3 Day Ticket (Workshops &amp;amp; Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;449€&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;499 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2 Day Ticket (Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;249 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;299 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1 Day Ticket (Workshops)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;299 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;349 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 3 Day Ticket (Workshops &amp;amp; Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;129€&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;149 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 2 Day Ticket (Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;59 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;79 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 1 Day Ticket (Workshops)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;79 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;99 €&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets. Please send us therefor an e-mail with the documents (info@devops-gathering.io) in advance of the event in order to validate your booking.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Early Bird ends February 16th, 2017: Get your ticket now!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style=&#34;width:100%; text-align:left;&#34;&gt;&lt;iframe src=&#34;//eventbrite.de/tickets-external?eid=30889729011&amp;ref=etckt&#34; frameborder=&#34;0&#34; height=&#34;1303&#34; width=&#34;100%&#34; vspace=&#34;0&#34; hspace=&#34;0&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;&#34; &gt;&lt;a class=&#34;powered-by-eb&#34; style=&#34;color: #ADB0B6; text-decoration: none;&#34; target=&#34;_blank&#34; href=&#34;http://www.eventbrite.de/&#34;&gt;Von Eventbrite&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Imprint</title>
-      <link>https://devops-gathering.io/imprint/</link>
-      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
-      
-      <guid>https://devops-gathering.io/imprint/</guid>
-      <description>
-
-&lt;p&gt;Legal information that is necessary for a German site &lt;br/&gt;
-Information required under § 5 Para. 1 of the German Telemedia Act:&lt;/p&gt;
-
-&lt;h2 id=&#34;bee42-solutions-gmbh&#34;&gt;bee42 solutions gmbh&lt;/h2&gt;
-
-&lt;p&gt;Peter Rossbach (Geschäftsführer)&lt;br&gt;
-Am Josephsschacht 72&lt;br&gt;
-D-44879 Bochum&lt;br&gt;
-Germany&lt;br&gt;
-Email: &lt;a href=&#34;info@bee42.com&#34;&gt;mailto:info@bee42.com&lt;/a&gt;&lt;br&gt;
-Phone +49(0)157-72 54 92 63&lt;/p&gt;
-
-&lt;h2 id=&#34;responsible-for-the-content-according-to-55-abs-2-rstv&#34;&gt;Responsible for the content according to § 55 Abs. 2 RStV:&lt;/h2&gt;
-
-&lt;p&gt;Peter Rossbach (Geschäftsführer)&lt;br&gt;
-Am Josephsschacht 72&lt;br&gt;
-D-44879 Bochum&lt;br&gt;
-Germany&lt;/p&gt;
-
-&lt;p&gt;VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374&lt;br&gt;
-Number in the commercial register HR B 14047&lt;/p&gt;
-
-&lt;p&gt;Design &amp;amp; Coding &lt;br&gt;
-&lt;a href=&#34;http://www.agentur-aufgeweckt.de&#34;&gt;Agentur Aufgeweckt&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://devops-gathering.io/speakers/dieter-reuter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -378,6 +38,20 @@ Dieter is using Docker from the early days on and is pushing Docker and Containe
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/&#34;&gt;&amp;ldquo;Bootiful&amp;rdquo; Containers with Spring-Boot and Docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/lucas-kaldstrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/lucas-kaldstrom/</guid>
+      <description>&lt;p&gt;Lucas Käldström (@luxas on Github) is an upper secondary school student who is a Kubernetes maintainer on his spare time. He has been actively engaged in the Kubernetes project for more than one and a half year now and ported Kubernetes to other platforms, including ARM 32 and 64-bit. He also wrote a design doc about how a multi-platform Kubernetes cluster should function and he has been a core member in the sig-cluster-lifecycle group since July 2016 and have been hacking code on kubeadm and been organizing kubeadm releases.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/&#34;&gt;Intel and ARM, let Kubernetes rule them all!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -455,6 +129,139 @@ Next to his job he likes to work with Open-Source projects with container touch 
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/&#34;&gt;Getting started with Docker on Windows Server 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Build-and-deploy-multiarch-Linux-and-Windows-Container-images/&#34;&gt;Build and deploy multiarch Linux and Windows Container images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/timo-derstappen/</guid>
+      <description>&lt;p&gt;Timo Derstappen is co-founder of Giant Swarm in Cologne. He has many years of experience in building scalable and automated cloud architectures. He likes his minimal linux desktop setup, puts nearly everything into containers and thinks Minecraft is a gateway drug.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/&#34;&gt;How we run Kubernetes in Kubernetes, aka Kubeception&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/uwe-friedrichsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/uwe-friedrichsen/</guid>
+      <description>&lt;p&gt;Uwe Friedrichsen travels the IT world for many years. As a fellow of codecentric AG he is always in search of innovative ideas and concepts. His current focus areas are resilience, scalability and the IT of (the day after) tomorrow. Often, you can find him on conferences sharing his ideas, or as author of articles, blog posts, tweets and more.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/&#34;&gt;Keynote: DevOps is not enough - towards a DevOps ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
+      <link>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</guid>
+      <description>&lt;p&gt;In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
+      <link>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</guid>
+      <description>
+
+&lt;p&gt;Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose. Later on we&amp;rsquo;re digging even deeper into the specific requirements for containerized IoT applications to build resource constraint containers and optimizing containers for minimal size.&lt;/p&gt;
+
+&lt;p&gt;Docker can run and orchestrate your applications very efficiently, even on the smallest devices. Step into a new dimension when using Docker on low-powered ARM devices which breaks all limits and discover and resolve bottlenecks easily before they hit you in production. Scale down to the bare minimum, speed it up and get ready for a truly massive scale. Let’s start using Docker in your complete software stack to interconnect the Cloud and the future with Billions of IoT devices.&lt;/p&gt;
+
+&lt;p&gt;In this hands-on workshop we’re going to introduce you to the basic principles of Docker and how the orchestration of container works, even if you have to handle a power or network outage. We&amp;rsquo;ll install Docker on real baremetal hardware sitting on your desk as a multi-node Raspberry Pi cluster. Then deploying a first distributed application and scale it up to a fault-tolerant system and testing it in a chaos monkey fashion with real failures of the compute nodes.&lt;/p&gt;
+
+&lt;p&gt;Additionally we&amp;rsquo;ll dig deeper into the specific requirements of using containers for IoT use cases. By iterating through optimization steps for small devices, you will discover which value it even brings to classic container applications. This reveals the details and benefits of a container-based development and runtime environment, which helps to achieve better portability, maintenance and security by isolating the application code from the hardware. We&amp;rsquo;ll try to inspire you to learn and use Docker and containers on ARM devices in a very practical way.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost bare metal hardware&lt;/li&gt;
+&lt;li&gt;Learn the basic concepts of Docker and building fault-tolerant services&lt;/li&gt;
+&lt;li&gt;Learn building resource constraint containers and optimizing containers for minimal size&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker experience recommended, but not required&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the ARM cluster&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/emile-vauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/emile-vauge/</guid>
+      <description>&lt;p&gt;Creator of traefik.io, Emile is developer and founder of containo.us. More than 10 years experience developing applications for the web and the industry, certified Docker trainer, he got interested lately in the DevOps method. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again/&#34;&gt;Make load-balancing great again!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
+      <description>&lt;p&gt;Dr. Roland Huss is a Principal Software Engineer at Red Hat working on Fuse. He has been developing in Java for twenty years now but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.
+&amp;ldquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/&#34;&gt;Docker and Kubernetes for Java Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Container-Loading/&#34;&gt;Docker Container Loading&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated container building with GitLab/CI</title>
+      <link>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</guid>
+      <description>
+
+&lt;p&gt;Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images. At this workshop you learn how to setup GitLab/CI with the objective to maintain your project sources, automate your Continuous Integration and Delivery pipeline for simple Docker images.&lt;/p&gt;
+
+&lt;p&gt;We start with an overview and introduce the first steps by demonstrating the usage of GitLab/CI. You will get an overview of the most important components, instructions and concepts. Using a simple example, you will learn how to implement a microservice, automate the build with a simple gitlab runner, install with Docker, test and integrate with other services in an environment.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to setup GitLab/CI in a simple way&lt;/li&gt;
+&lt;li&gt;Learn the basic concepts of build docker images with GitLab/CI&lt;/li&gt;
+&lt;li&gt;Learn to setup a simple microservice test pipeline&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker experience recommended&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the cloud instance&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

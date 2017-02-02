@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openspaces on Devops Gathering 2017</title>
+    <link>https://devops-gathering.io/openspace/index.xml</link>
+    <description>Recent content in Openspaces on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://devops-gathering.io/openspace/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>https://devops-gathering.io/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/openspace/container-open-space/</guid>
+      <description>
+
+&lt;p&gt;This Open Space is a perfect fit for Container experts; it offers attendees the opportunity to raise questions and problems regarding Docker, Kubernetes and Cloud technologies.&lt;/p&gt;
+
+&lt;p&gt;The concept of the open space is to leave room for debates about how to solve the problems that go hand in hand with this new technology. The goal of this Open Space is to allow attendees to interact with one another and learn from each other – all under the guidance of an experienced moderator.&lt;/p&gt;
+
+&lt;p&gt;What technical challenges emerge?&lt;/p&gt;
+
+&lt;p&gt;Have we reaped the benefits of the existing solutions?
+What experience values do we already have regarding Docker or Kubernetes in production?&lt;/p&gt;
+
+&lt;p&gt;These are some of the questions that will be addressed in the Container expert open space. Attendees are required to have basic Docker and Kubernetes knowledge.&lt;/p&gt;
+
+&lt;h2 id=&#34;open-space-rules&#34;&gt;Open Space Rules&lt;/h2&gt;
+
+&lt;p&gt;Open Space is the only process that focuses on expanding time and space for the force of self-organisation to do its thing.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Whoever comes it the right One!&lt;/li&gt;
+&lt;li&gt;Be prepared to be surprised!&lt;/li&gt;
+&lt;li&gt;There are people in Open Space who are like butterflies &amp;hellip;&lt;/li&gt;
+&lt;li&gt;There are people in Open Space who are like bumblebees &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Infomarket: write down what&amp;rsquo;s important (to you)!&lt;/li&gt;
+&lt;li&gt;Whenever it starts, it&amp;rsquo;s the right time!&lt;/li&gt;
+&lt;li&gt;When it&amp;rsquo;s over, it&amp;rsquo;s over!&lt;/li&gt;
+&lt;li&gt;Whatever happens it&amp;rsquo;s the only thing that can happen!&lt;/li&gt;
+&lt;li&gt;The law of the two feet&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;schedule-of-the-day&#34;&gt;Schedule of the day&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Time&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Action&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;8:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Reception&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;9:30 - 9:45&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Space Introduction&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;9:45 - 10:15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Finding Topics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;10:15 - 11:15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Space Sessions I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;11:15 - 12:15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Space Sessions II&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1 hour&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Lunch Break&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;12:45 - 13:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Stage Talks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;13:30 - 14:15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Space Sessions III&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;14:15 - 15:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Open Space Sessions IV&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;15:00 - 16:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Wrap-Up and Final Words&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;&amp;gt;16:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Say good bye&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Moderation&lt;/li&gt;
+&lt;li&gt;WiFi&lt;/li&gt;
+&lt;li&gt;Flipcharts, PostIT&amp;rsquo;s,&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Foot and Drinks&lt;/li&gt;
+&lt;li&gt;Room for discussion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
