@@ -155,5 +155,15 @@ In another recipe you will learn how to reproducibly create Docker images with A
 </description>
     </item>
     
+    <item>
+      <title>Docker Orchestration and Swarming </title>
+      <link>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</guid>
+      <description>&lt;p&gt;This presentation gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly being expanded and adapted to different use cases. Your microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
