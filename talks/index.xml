@@ -112,7 +112,7 @@ In another recipe you will learn how to reproducibly create Docker images with A
       <guid>https://devops-gathering.io/talks/Build-and-deploy-multiarch-Linux-and-Windows-Container-images/</guid>
       <description>
 
-&lt;p&gt;With Docker we have learned how to build and run applications in Linux containers. But what if you also have tasks that can run only on Windows machines?&lt;/p&gt;
+&lt;p&gt;With Docker we learned how to build and run applications in Linux containers. But about tasks that can run only on Windows machines?&lt;/p&gt;
 
 &lt;p&gt;With Windows Server 2016 you can use Docker and Windows Containers to have the same experience and workflow.&lt;/p&gt;
 
@@ -161,7 +161,7 @@ In another recipe you will learn how to reproducibly create Docker images with A
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</guid>
-      <description>&lt;p&gt;This presentation gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly being expanded and adapted to different use cases. Your microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
+      <description>&lt;p&gt;This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
 </description>
     </item>
     
