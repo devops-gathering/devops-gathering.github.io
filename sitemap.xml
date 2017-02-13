@@ -42,7 +42,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</loc>
+    <loc>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</loc>
   </url>
   
   <url>
@@ -51,6 +51,10 @@
   
   <url>
     <loc>https://devops-gathering.io/speakers/emile-vauge/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/maykel-moya/</loc>
   </url>
   
   <url>
@@ -66,23 +70,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Make-load-balancing-great-again/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/claus-matzinger/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</loc>
+    <loc>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</loc>
+    <loc>https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/</loc>
   </url>
   
   <url>
@@ -98,7 +94,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</loc>
+    <loc>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</loc>
   </url>
   
   <url>
@@ -106,11 +102,24 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</loc>
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/accommodations/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/after-conference/</loc>
     <lastmod>2017-01-12T12:28:54+01:00</lastmod>
   </url>
   
@@ -151,6 +160,14 @@
   
   <url>
     <loc>https://devops-gathering.io/imprint-de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/claus-matzinger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/manuel-laufenberg/</loc>
   </url>
   
   <url>

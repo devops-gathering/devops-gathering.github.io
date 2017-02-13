@@ -10,6 +10,35 @@
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/claus-matzinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/claus-matzinger/</guid>
+      <description>&lt;p&gt;A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/&#34;&gt;Getting the most out of your containerized database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/manuel-laufenberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/manuel-laufenberg/</guid>
+      <description>&lt;p&gt;Maintainer of &lt;a href=&#34;traefik.io&#34;&gt;traefik.io&lt;/a&gt;, Manuel is a technical architect for a local cologne based agency called Colognetworx.
+His main focus is on a variety on PHP based (E-Commerce) Projects. However, his special interest is in deploying that applications scalable by using cloud and container technologies.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/&#34;&gt;Make load-balancing great again with Træfik!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/dieter-reuter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -168,10 +197,26 @@ Next to his job he likes to work with Open-Source projects with container touch 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/emile-vauge/</guid>
-      <description>&lt;p&gt;Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
+      <description>&lt;p&gt;Creator of &lt;a href=&#34;traefik.io&#34;&gt;traefik.io&lt;/a&gt;, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again/&#34;&gt;Make load-balancing great again!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/&#34;&gt;Make load-balancing great again with Træfik!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/maykel-moya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/maykel-moya/</guid>
+      <description>&lt;p&gt;Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.&lt;/p&gt;
+
+&lt;p&gt;He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/&#34;&gt;One year monitoring a small startup with Prometheus lessons learned&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -188,20 +233,6 @@ Next to his job he likes to work with Open-Source projects with container touch 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/&#34;&gt;Docker and Kubernetes for Java Developers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Container-Loading/&#34;&gt;Docker Container Loading&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/claus-matzinger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/claus-matzinger/</guid>
-      <description>&lt;p&gt;A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/&#34;&gt;Getting the most out of your containerized database&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

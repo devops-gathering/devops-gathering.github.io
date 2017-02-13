@@ -164,12 +164,26 @@ Next to his job he likes to work with Open-Source projects with container touch 
     </item>
     
     <item>
-      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
-      <link>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</link>
+      <title>How we run Kubernetes in Kubernetes, aka Kubeception</title>
+      <link>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</guid>
-      <description>&lt;p&gt;In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</guid>
+      <description>
+
+&lt;p&gt;How we run Kubernetes in Kubernetes, aka Kubeception&lt;/p&gt;
+
+&lt;p&gt;At Giant Swarm our users want fully-managed Kubernetes clusters without any limitations (incl. privileged access to the nodes). We deploy and manage these clusters either in our data center, in the preferred cloud of the customer, or even on-premise. Both for ourselves as well as for enterprise customers we need full isolation between clusters and a easy way to manage and update clusters without downtime.&lt;/p&gt;
+
+&lt;p&gt;In this talk we explain how we use a “mother” Kubernetes to deploy and manage fully-isolated and encrypted Kubernetes clusters for different customers or teams - aka Kubeception. Our model treats (inner) Kubernetes clusters as a third party resource and manages them with a custom controller. This way we have an automated way of provisioning and managing clusters without additional tooling or complex monitoring setups. Further, through our API, we are to be able to spin clusters up and down on demand, scale them, update them, keep track of which clusters are available, and be able to assign them to organizations and teams flexibly.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how a modern kubernetes CaaS works&lt;/li&gt;
+&lt;li&gt;Learn how to publish many dynamic kubernetes cluster OnPremise.&lt;/li&gt;
+&lt;li&gt;Learn how easy to use kubernetes with Giant Swarm toolset&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -213,10 +227,26 @@ Next to his job he likes to work with Open-Source projects with container touch 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/emile-vauge/</guid>
-      <description>&lt;p&gt;Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
+      <description>&lt;p&gt;Creator of &lt;a href=&#34;traefik.io&#34;&gt;traefik.io&lt;/a&gt;, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again/&#34;&gt;Make load-balancing great again!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/&#34;&gt;Make load-balancing great again with Træfik!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/maykel-moya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/maykel-moya/</guid>
+      <description>&lt;p&gt;Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.&lt;/p&gt;
+
+&lt;p&gt;He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/&#34;&gt;One year monitoring a small startup with Prometheus lessons learned&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -233,36 +263,6 @@ Next to his job he likes to work with Open-Source projects with container touch 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/&#34;&gt;Docker and Kubernetes for Java Developers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Container-Loading/&#34;&gt;Docker Container Loading&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automated container building with GitLab/CI</title>
-      <link>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Automated-container-builds-with-gitlab-ci/</guid>
-      <description>
-
-&lt;p&gt;Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images. At this workshop you learn how to setup GitLab/CI with the objective to maintain your project sources, automate your Continuous Integration and Delivery pipeline for simple Docker images.&lt;/p&gt;
-
-&lt;p&gt;We start with an overview and introduce the first steps by demonstrating the usage of GitLab/CI. You will get an overview of the most important components, instructions and concepts. Using a simple example, you will learn how to implement a microservice, automate the build with a simple gitlab runner, install with Docker, test and integrate with other services in an environment.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how to setup GitLab/CI in a simple way&lt;/li&gt;
-&lt;li&gt;Learn the basic concepts of build docker images with GitLab/CI&lt;/li&gt;
-&lt;li&gt;Learn to setup a simple microservice test pipeline&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basic Docker experience recommended&lt;/li&gt;
-&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the cloud instance&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

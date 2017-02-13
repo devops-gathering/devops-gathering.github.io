@@ -9,12 +9,26 @@
     <atom:link href="https://devops-gathering.io/talks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
-      <link>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</link>
+      <title>How we run Kubernetes in Kubernetes, aka Kubeception</title>
+      <link>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</guid>
-      <description>&lt;p&gt;In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</guid>
+      <description>
+
+&lt;p&gt;How we run Kubernetes in Kubernetes, aka Kubeception&lt;/p&gt;
+
+&lt;p&gt;At Giant Swarm our users want fully-managed Kubernetes clusters without any limitations (incl. privileged access to the nodes). We deploy and manage these clusters either in our data center, in the preferred cloud of the customer, or even on-premise. Both for ourselves as well as for enterprise customers we need full isolation between clusters and a easy way to manage and update clusters without downtime.&lt;/p&gt;
+
+&lt;p&gt;In this talk we explain how we use a “mother” Kubernetes to deploy and manage fully-isolated and encrypted Kubernetes clusters for different customers or teams - aka Kubeception. Our model treats (inner) Kubernetes clusters as a third party resource and manages them with a custom controller. This way we have an automated way of provisioning and managing clusters without additional tooling or complex monitoring setups. Further, through our API, we are to be able to spin clusters up and down on demand, scale them, update them, keep track of which clusters are available, and be able to assign them to organizations and teams flexibly.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how a modern kubernetes CaaS works&lt;/li&gt;
+&lt;li&gt;Learn how to publish many dynamic kubernetes cluster OnPremise.&lt;/li&gt;
+&lt;li&gt;Learn how easy to use kubernetes with Giant Swarm toolset&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -36,55 +50,6 @@ In another recipe you will learn how to reproducibly create Docker images with A
     </item>
     
     <item>
-      <title>Make load-balancing great again with Træfik!</title>
-      <link>https://devops-gathering.io/talks/Make-load-balancing-great-again/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Make-load-balancing-great-again/</guid>
-      <description>
-
-&lt;p&gt;Microservices seem to come off over the years and has now become the model for the development of modern applications. This model, initiated by some web giants (Netflix, Google …), promotes extreme applications modularization, runs counter to the monolithic model. Microservices allows: reduced release cycle, loose coupling between services, standardization of communication (REST), reduction of risks during deliveries, cloud orientation, etc.&lt;/p&gt;
-
-&lt;p&gt;But it still remains tedious to easily connect these services without changing the application code. Træfik was born from this.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://traefik.io&#34;&gt;traefik.io&lt;/a&gt;, a reverse-proxy that can watch orchestrators’ API to generate its configuration automatically. This tiny tools solves what can be a huge pain when dealing with microservices deployed in an orchestrator.&lt;/p&gt;
-
-&lt;p&gt;This talk will be co-presented with Manuel Laufenberg, maintainer on Træfik.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how a modern reverse-proxy and ingress loadbalancer work&lt;/li&gt;
-&lt;li&gt;Learn how to publish many dynamic microservices at container orchestrator.&lt;/li&gt;
-&lt;li&gt;Learn how easy it is to setup automatically Let’s Encrypt&lt;/li&gt;
-&lt;li&gt;Scale services without any manual reconfiguration&lt;/li&gt;
-&lt;li&gt;Learn tricks from active Træfik developers&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Intel and ARM, let Kubernetes rule them all!</title>
-      <link>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</guid>
-      <description>
-
-&lt;p&gt;The talk will explain what the difficulties are when dealing with clusters of various platforms, as well as how to solve them. As a demo, a cross-platform nginx workload backed with persistent, reliable storage will be deployed from the dashboard, monitored with Heapster, InfluxDB and Grafana and autoscaled while traffic is generated against the Ingress controller. There might be a chance for someone from the audience to be a chaos monkey and unplug a power cable from any node at any time during the heavy traffic in order to demonstrate the auto-healing functions of Kubernetes.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how easy it is to setup kubernetes on ARM Clusters&lt;/li&gt;
-&lt;li&gt;Learn how kubernetes administration work on ARM&lt;/li&gt;
-&lt;li&gt;Learn how to publish microservices with kubernetes&lt;/li&gt;
-&lt;li&gt;Learn how to monitor the complete cluster and services&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Getting the most out of your containerized database</title>
       <link>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,6 +65,29 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Learn how a setup CrateDB at a container world&lt;/li&gt;
 &lt;li&gt;Learn how setup a masterless DB architecture&lt;/li&gt;
 &lt;li&gt;Learn how to tune CrateDB&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One year monitoring a small startup with Prometheus: lessons learned</title>
+      <link>https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/</guid>
+      <description>
+
+&lt;p&gt;ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to &lt;a href=&#34;https://prometheus.io&#34;&gt;Prometheus&lt;/a&gt; one year ago and the switch have proved being cost-effective.&lt;/p&gt;
+
+&lt;p&gt;In this talk I&amp;rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&amp;rsquo;ve learned down the road.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn monitoring patterns&lt;/li&gt;
+&lt;li&gt;Learn about the instrumentation of prometheus&lt;/li&gt;
+&lt;li&gt;Learn how to scale prometheus&lt;/li&gt;
+&lt;li&gt;Learn how to setup prometheus at kubernetes&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -132,25 +120,48 @@ In another recipe you will learn how to reproducibly create Docker images with A
     </item>
     
     <item>
-      <title>How we run Kubernetes in Kubernetes, aka Kubeception</title>
-      <link>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</link>
+      <title>Intel and ARM, let Kubernetes rule them all!</title>
+      <link>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</guid>
+      <guid>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</guid>
       <description>
 
-&lt;p&gt;How we run Kubernetes in Kubernetes, aka Kubeception&lt;/p&gt;
-
-&lt;p&gt;At Giant Swarm our users want fully-managed Kubernetes clusters without any limitations (incl. privileged access to the nodes). We deploy and manage these clusters either in our data center, in the preferred cloud of the customer, or even on-premise. Both for ourselves as well as for enterprise customers we need full isolation between clusters and a easy way to manage and update clusters without downtime.&lt;/p&gt;
-
-&lt;p&gt;In this talk we explain how we use a “mother” Kubernetes to deploy and manage fully-isolated and encrypted Kubernetes clusters for different customers or teams - aka Kubeception. Our model treats (inner) Kubernetes clusters as a third party resource and manages them with a custom controller. This way we have an automated way of provisioning and managing clusters without additional tooling or complex monitoring setups. Further, through our API, we are to be able to spin clusters up and down on demand, scale them, update them, keep track of which clusters are available, and be able to assign them to organizations and teams flexibly.&lt;/p&gt;
+&lt;p&gt;The talk will explain what the difficulties are when dealing with clusters of various platforms, as well as how to solve them. As a demo, a cross-platform nginx workload backed with persistent, reliable storage will be deployed from the dashboard, monitored with Heapster, InfluxDB and Grafana and autoscaled while traffic is generated against the Ingress controller. There might be a chance for someone from the audience to be a chaos monkey and unplug a power cable from any node at any time during the heavy traffic in order to demonstrate the auto-healing functions of Kubernetes.&lt;/p&gt;
 
 &lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Learn how a modern kubernetes CaaS works&lt;/li&gt;
-&lt;li&gt;Learn how to publish many dynamic kubernetes cluster OnPremise.&lt;/li&gt;
-&lt;li&gt;Learn how easy to use kubernetes with Giant Swarm toolset&lt;/li&gt;
+&lt;li&gt;Learn how easy it is to setup kubernetes on ARM Clusters&lt;/li&gt;
+&lt;li&gt;Learn how kubernetes administration work on ARM&lt;/li&gt;
+&lt;li&gt;Learn how to publish microservices with kubernetes&lt;/li&gt;
+&lt;li&gt;Learn how to monitor the complete cluster and services&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Make load-balancing great again with Træfik!</title>
+      <link>https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/</guid>
+      <description>
+
+&lt;p&gt;Microservices seem to come off over the years and has now become the model for the development of modern applications. This model, initiated by some web giants (Netflix, Google …), promotes extreme applications modularization, runs counter to the monolithic model. Microservices allows: reduced release cycle, loose coupling between services, standardization of communication (REST), reduction of risks during deliveries, cloud orientation, etc.&lt;/p&gt;
+
+&lt;p&gt;But it still remains tedious to easily connect these services without changing the application code. Træfik was born from this.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://traefik.io&#34;&gt;traefik.io&lt;/a&gt;, a reverse-proxy that can watch orchestrators’ API to generate its configuration automatically. This tiny tools solves what can be a huge pain when dealing with microservices deployed in an orchestrator.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how a modern reverse-proxy and ingress loadbalancer work&lt;/li&gt;
+&lt;li&gt;Learn how to publish many dynamic microservices at container orchestrator.&lt;/li&gt;
+&lt;li&gt;Learn how easy it is to setup automatically Let’s Encrypt&lt;/li&gt;
+&lt;li&gt;Scale services without any manual reconfiguration&lt;/li&gt;
+&lt;li&gt;Learn tricks from active Træfik developers&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -162,6 +173,16 @@ In another recipe you will learn how to reproducibly create Docker images with A
       
       <guid>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</guid>
       <description>&lt;p&gt;This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
+      <link>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</guid>
+      <description>&lt;p&gt;In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.&lt;/p&gt;
 </description>
     </item>
     
