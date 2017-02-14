@@ -41,7 +41,7 @@
 <meta property="og:title" content="One year monitoring a small startup with Prometheus: lessons learned" />
 <meta property="og:description" content=" ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to Prometheus one year ago and the switch have proved being cost-effective.
 In this talk I&rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&rsquo;ve learned down the road.
-Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus Learn how to setup prometheus at kubernetes  " />
+Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus  " />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/" />
 
@@ -76,7 +76,7 @@ Key takeaways:  Learn monitoring patterns Learn about the instrumentation of pro
 <meta itemprop="name" content="One year monitoring a small startup with Prometheus: lessons learned">
 <meta itemprop="description" content=" ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to Prometheus one year ago and the switch have proved being cost-effective.
 In this talk I&rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&rsquo;ve learned down the road.
-Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus Learn how to setup prometheus at kubernetes  ">
+Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus  ">
 
 
 
@@ -85,7 +85,7 @@ Key takeaways:  Learn monitoring patterns Learn about the instrumentation of pro
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="86">
+<meta itemprop="wordCount" content="79">
 
 
 	<meta name="twitter:card" content="summary"/>
@@ -95,7 +95,7 @@ Key takeaways:  Learn monitoring patterns Learn about the instrumentation of pro
 <meta name="twitter:title" content="One year monitoring a small startup with Prometheus: lessons learned"/>
 <meta name="twitter:description"  content=" ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to Prometheus one year ago and the switch have proved being cost-effective.
 In this talk I&rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&rsquo;ve learned down the road.
-Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus Learn how to setup prometheus at kubernetes  "/>
+Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus  "/>
 
 
 
@@ -127,12 +127,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<li class="bee"><a href="https://bee42.com/" target="_blank">Organizer <img src="/img/bee42.svg" alt=""></a> </li>
 		</ul> 		
 		<ul class="navigation">
-			<li><a href="https://devops-gathering.io#top">Home</a></li>
 			<li><a href="https://devops-gathering.io#workshops">Workshops</a></li>
 			<li><a href="https://devops-gathering.io#talks">Talks</a></li>
 			<li><a href="https://devops-gathering.io#speakers">Speakers</a></li>
 			<li><a href="https://devops-gathering.io#tickets">Tickets</a></li>
 			<li><a href="https://devops-gathering.io#sponsoring">Sponsoring</a></li>
+			<li><a href="#">Infos</a>
+				<ul>
+					<li><a href="https://devops-gathering.io/venue"><i class="fa fa-angle-right" aria-hidden="true"></i> venue</a></li>
+					<li><a href="https://devops-gathering.io/accommodations/"><i class="fa fa-angle-right" aria-hidden="true"></i> accommodations</a></li>
+					<li><a href="https://devops-gathering.io/code-of-conduct/"><i class="fa fa-angle-right" aria-hidden="true"></i> code of conduct</a></li>
+					<li><a href="https://devops-gathering.io//general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> terms and condition</a></li>
+				</ul>
+			</li>
+
 		</ul>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
@@ -161,7 +169,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>Learn monitoring patterns</li>
 <li>Learn about the instrumentation of prometheus</li>
 <li>Learn how to scale prometheus</li>
-<li>Learn how to setup prometheus at kubernetes</li>
 </ul>
 
             <div class="speaker-box">
@@ -170,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <div class="small-12 medium-8 large-10 columns">
                     <h2><a href="/speakers/maykel-moya/">Maykel Moya<span></span></a></h2>
-                    <p>Maykel is Site Realibilty Engineer at Shuttlcloud.
+                    <p>Maykel is Site Reliability Engineer at ShuttleCloud Corp.
 <a href="/speakers/maykel-moya/">read more</a></p>
                 </div>
             </div>
@@ -226,24 +233,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<footer>
 	<div class="inner-content">
 		<p><a href="/">DevOps Gathering &copy; 2017</a></p>
-
-		<p>
-				<a href="/code-of-conduct">Conference Code of Conduct</a>	
-		</p>
-
-		<p>
-	<a href="/general-terms-and-conditions">Terms and Conditions</a> 
-	<a href="/privacy-policy">Privacy Policy</a>
-		<a href="/imprint">Imprint</a> 
-		</p>
-
-				<p>
-<a href="https://bee42.com/" target="_blank">Organizer <img src="/img/bee42.svg" alt=""></a> 
-		</p>
-
-
-
+		<p><a href="https://bee42.com/" target="_blank">Organizer <img src="/img/bee42.svg" alt=""></a> </p>
 	</div>
+	
+	<div class="inner-content">
+		<ul class="footer-nav">
+			<li><a href="/code-of-conduct">Conference Code of Conduct</a>	</li>
+			<li><a href="/general-terms-and-conditions">Terms and Conditions</a> </li>
+			<li><a href="/privacy-policy">Privacy Policy</a></li>
+			<li><a href="/imprint">Imprint</a> </li>
+		</ul>	
+	</div>
+
 </footer>
 	<!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>

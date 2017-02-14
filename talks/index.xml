@@ -50,22 +50,12 @@ In another recipe you will learn how to reproducibly create Docker images with A
     </item>
     
     <item>
-      <title>Getting the most out of your containerized database</title>
-      <link>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</link>
+      <title>Docker Orchestration and Swarming </title>
+      <link>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</guid>
-      <description>
-
-&lt;p&gt;You’re part of an experienced DevOps team who are both container and database savvy. This talk will offer a tune up, helping you make sure that your containerized databases are performing at their best. We’ll look at how to capitalize on the elastic scalability of containers for your database, how configuration via shared nothing/masterless architecture could help you do more and how to avoid unnecessary network traffic and utilize local instance stores. Also, you will learn about CrateDB.&lt;/p&gt;
-
-&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Learn how a setup CrateDB at a container world&lt;/li&gt;
-&lt;li&gt;Learn how setup a masterless DB architecture&lt;/li&gt;
-&lt;li&gt;Learn how to tune CrateDB&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</guid>
+      <description>&lt;p&gt;This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
 </description>
     </item>
     
@@ -87,7 +77,6 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Learn monitoring patterns&lt;/li&gt;
 &lt;li&gt;Learn about the instrumentation of prometheus&lt;/li&gt;
 &lt;li&gt;Learn how to scale prometheus&lt;/li&gt;
-&lt;li&gt;Learn how to setup prometheus at kubernetes&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -167,12 +156,22 @@ In another recipe you will learn how to reproducibly create Docker images with A
     </item>
     
     <item>
-      <title>Docker Orchestration and Swarming </title>
-      <link>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</link>
+      <title>Getting the most out of your containerized database</title>
+      <link>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</guid>
-      <description>&lt;p&gt;This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment. The talk presents and discusses the practical benefits of the Docker orchestration platform.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</guid>
+      <description>
+
+&lt;p&gt;You’re part of an experienced DevOps team who are both container and database savvy. This talk will offer a tune up, helping you make sure that your containerized databases are performing at their best. We’ll look at how to capitalize on the elastic scalability of containers for your database, how configuration via shared nothing/masterless architecture could help you do more and how to avoid unnecessary network traffic and utilize local instance stores. Also, you will learn about CrateDB.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key takeaways:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how a setup CrateDB at a container world&lt;/li&gt;
+&lt;li&gt;Learn how setup a masterless DB architecture&lt;/li&gt;
+&lt;li&gt;Learn how to tune CrateDB&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

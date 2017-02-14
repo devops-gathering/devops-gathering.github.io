@@ -70,11 +70,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</loc>
+    <loc>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</loc>
+    <loc>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</loc>
   </url>
   
   <url>
@@ -106,7 +106,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</loc>
+    <loc>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</loc>
   </url>
   
   <url>
@@ -135,11 +135,6 @@
   
   <url>
     <loc>https://devops-gathering.io/sponsoring/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/</loc>
     <lastmod>2017-01-12T12:28:54+01:00</lastmod>
   </url>
   
@@ -176,6 +171,22 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/sponsors/9elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/aufgeweckt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/wifo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/codecentric/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
   </url>
   
@@ -183,6 +194,10 @@
     <loc>https://devops-gathering.io/</loc>
     <lastmod>2017-01-12T12:28:54+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/gdata/</loc>
   </url>
   
   <url>
@@ -195,8 +210,21 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/sponsors/setlog/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/</loc>
   </url>
   
   <url>
@@ -207,6 +235,14 @@
   <url>
     <loc>https://devops-gathering.io/workshops/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/bee42/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/open-knowledge/</loc>
   </url>
   
 </urlset>
