@@ -130,7 +130,7 @@ In another recipe you will learn how to reproducibly create Docker images with A
     </item>
     
     <item>
-      <title>Make load-balancing great again with Træfik!</title>
+      <title>Make load-balancing great again with Traefik!</title>
       <link>https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -139,7 +139,7 @@ In another recipe you will learn how to reproducibly create Docker images with A
 
 &lt;p&gt;Microservices seem to come off over the years and has now become the model for the development of modern applications. This model, initiated by some web giants (Netflix, Google …), promotes extreme applications modularization, runs counter to the monolithic model. Microservices allows: reduced release cycle, loose coupling between services, standardization of communication (REST), reduction of risks during deliveries, cloud orientation, etc.&lt;/p&gt;
 
-&lt;p&gt;But it still remains tedious to easily connect these services without changing the application code. Træfik was born from this.&lt;/p&gt;
+&lt;p&gt;But it still remains tedious to easily connect these services without changing the application code. Traefik was born from this.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://traefik.io&#34;&gt;traefik.io&lt;/a&gt;, a reverse-proxy that can watch orchestrators’ API to generate its configuration automatically. This tiny tools solves what can be a huge pain when dealing with microservices deployed in an orchestrator.&lt;/p&gt;
 
@@ -150,7 +150,7 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Learn how to publish many dynamic microservices at container orchestrator.&lt;/li&gt;
 &lt;li&gt;Learn how easy it is to setup automatically Let’s Encrypt&lt;/li&gt;
 &lt;li&gt;Scale services without any manual reconfiguration&lt;/li&gt;
-&lt;li&gt;Learn tricks from active Træfik developers&lt;/li&gt;
+&lt;li&gt;Learn tricks from active Traefik developers&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
