@@ -105,6 +105,10 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Draft a multiarch Docker image&lt;/li&gt;
 &lt;li&gt;Push your images to Docker Hub&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/stefscherer/build-and-deploy-multiarch-linux-and-windows-container-images&#34;&gt;https://www.slideshare.net/stefscherer/build-and-deploy-multiarch-linux-and-windows-container-images&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -150,8 +154,12 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Learn how to publish many dynamic microservices at container orchestrator.&lt;/li&gt;
 &lt;li&gt;Learn how easy it is to setup automatically Let’s Encrypt&lt;/li&gt;
 &lt;li&gt;Scale services without any manual reconfiguration&lt;/li&gt;
-&lt;li&gt;Learn tricks from active Traefik developers&lt;/li&gt;
+&lt;li&gt;Learn tricks from active Træfik developers&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://emilevauge.github.io/DOG2017&#34;&gt;https://emilevauge.github.io/DOG2017&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -172,6 +180,10 @@ In another recipe you will learn how to reproducibly create Docker images with A
 &lt;li&gt;Learn how setup a masterless DB architecture&lt;/li&gt;
 &lt;li&gt;Learn how to tune CrateDB&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/ClausMatzinger/getting-the-most-out-of-your-containerized-database&#34;&gt;https://www.slideshare.net/ClausMatzinger/getting-the-most-out-of-your-containerized-database&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

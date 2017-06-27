@@ -127,6 +127,10 @@
 &lt;li&gt;Unit- and Integration-Test your Spring-Boot App with Spock and Docker&lt;/li&gt;
 &lt;li&gt;Deploy and configure Spring-Boot microservices using docker-compose&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://slides.com/kiview/deck-8&#34;&gt;http://slides.com/kiview/deck-8&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -164,6 +168,10 @@ We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with u
 &lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
 &lt;li&gt;You&amp;rsquo;ll need RDP client and Docker client on your laptop&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stefanscherer.github.io/windows-docker-workshop/&#34;&gt;http://stefanscherer.github.io/windows-docker-workshop/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -223,6 +231,10 @@ We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with u
 &lt;li&gt;Have your own AWS account (Free Tier, &lt;a href=&#34;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&#34;&gt;https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Install AWS Cli (&lt;a href=&#34;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&#34;&gt;http://docs.aws.amazon.com/cli/latest/userguide/installing.html&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/pgarbe/containers_on_aws_workshop&#34;&gt;https://github.com/pgarbe/containers_on_aws_workshop&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
