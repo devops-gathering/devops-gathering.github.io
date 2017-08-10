@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Devops Gathering 2017</title>
+    <link>/2017/workshops/</link>
+    <description>Recent content in Workshops on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/2017/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
+      <link>/2017/workshops/learning-docker-on-a-raspberry-pi-arm-cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/learning-docker-on-a-raspberry-pi-arm-cluster/</guid>
+      <description>Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title>Automated container building with GitLab/CI</title>
+      <link>/2017/workshops/automated-container-builds-with-gitlab-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/automated-container-builds-with-gitlab-ci/</guid>
+      <description>Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images.</description>
+    </item>
+    
+    <item>
+      <title>Docker and Kubernetes for Java Developers</title>
+      <link>/2017/workshops/docker-and-kubernetes-for-java-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/docker-and-kubernetes-for-java-developers/</guid>
+      <description>In the first part we will learn, how you can add the creation of Docker images to your Maven builds and how integration tests can be simplified by Docker. This will be demonstrated live by two connected Microservices based on Wildly-Swarm and Spring-Boot. Here we will also meet the peculiarities which have to be respected when putting JVMs into Docker containers, especially when it comes to memory allocation or thread tuning.</description>
+    </item>
+    
+    <item>
+      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
+      <link>/2017/workshops/bootiful-containers-with-spring-boot-and-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/bootiful-containers-with-spring-boot-and-docker/</guid>
+      <description>The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.
+Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Docker on Windows Server 2016</title>
+      <link>/2017/workshops/getting-started-with-docker-on-windows-server-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/getting-started-with-docker-on-windows-server-2016/</guid>
+      <description>In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
+You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine.</description>
+    </item>
+    
+    <item>
+      <title>Running Docker Containers on AWS</title>
+      <link>/2017/workshops/running-docker-containers-on-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/running-docker-containers-on-aws/</guid>
+      <description>Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.
+But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?
+In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://devops-gathering.io/</loc>
+    <lastmod>2017-08-01T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/media-and-photos/</loc>
+    <lastmod>2017-08-01T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/accommodations/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/after-conference/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/code-of-conduct/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/general-terms-and-conditions/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsoring/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/tickets/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/privacy-policy/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/imprint/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/venue/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/imprint-de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/claus-matzinger/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/manuel-laufenberg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/dieter-reuter/</loc>
   </url>
   
@@ -111,150 +190,6 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/accommodations/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/after-conference/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/code-of-conduct/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/general-terms-and-conditions/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsoring/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/tickets/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/privacy-policy/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/imprint/</loc>
-    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/venue/</loc>
-    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/imprint-de/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/claus-matzinger/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/manuel-laufenberg/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/9elements/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/aufgeweckt/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/wifo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/codecentric/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/</loc>
-    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/gdata/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/host1plus/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/openspace/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/setlog/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/styracosoft/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/bee42/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/dpunkt/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/sponsors/open-knowledge/</loc>
   </url>
   
 </urlset>

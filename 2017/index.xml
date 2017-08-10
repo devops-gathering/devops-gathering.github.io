@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops Gathering 2017</title>
+    <link>/2017/</link>
+    <description>Recent content on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2017 12:28:54 +0100</lastBuildDate>
+    
+	<atom:link href="/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/dieter-reuter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/dieter-reuter/</guid>
+      <description>Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity. Dealing with cutting-edge cloud technologies, obsessed with the DevOps movement and its associated automation. Dieter is using Docker from the early days on and is pushing Docker and Containers to ARM based IoT devices with rocket-like speed.
+ Learning Docker on a Raspberry Pi ARM-Cluster Getting started with Docker on Windows Server 2016  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/kevin-wittek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/kevin-wittek/</guid>
+      <description>Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
+Nowadays Kevin is working at the cyber security company G DATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/lucas-kaldstrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/lucas-kaldstrom/</guid>
+      <description>Lucas Käldström (@luxas on Github) is an upper secondary school student who is a Kubernetes maintainer on his spare time. He has been actively engaged in the Kubernetes project for more than one and a half year now and ported Kubernetes to other platforms, including ARM 32 and 64-bit. He also wrote a design doc about how a multi-platform Kubernetes cluster should function and he has been a core member in the sig-cluster-lifecycle group since July 2016 and have been hacking code on kubeadm and been organizing kubeadm releases.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/matthias-rottlaender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/matthias-rottlaender/</guid>
+      <description>Jack-Of-All-Trades promoting perpetual pursuit of technical excellence.Developer of Java systems since about 10 years ago. Passionate usability nit-pick. Zealot hooking everyone in his vicinity on testing. Wholehearted embracer of agile principles. Found his home at German cyber security service provider G DATA Advanced Analytics, where he can do all of the above on a daily basis.
+ &amp;ldquo;Bootiful&amp;rdquo; Containers with Spring-Boot and Docker  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/niclas-mietz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/niclas-mietz/</guid>
+      <description>Niclas is DevOps Engineer at the bee42 solutions and studies computer science at FH Dortmund. Next to his job he likes to work with Open-Source projects with container touch and new technologies in the container ecosystem. Besides supporting and visiting local meetups his organizing the Docker Bochum meetup.
+ Automated container builds with GitLab  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/peter-rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/peter-rossbach/</guid>
+      <description>Peter Rossbach is a infra coder, system architect and coach of numerous web systems and founder of the bee42 solutions gmbh. He is also CTO of Setlog Gmbh a Supply Chain Management company. Peter realized appropriate infrastructure products and offer many training based on the Docker and Kubernetes ecosystem, current web technologies, microservices, Apache Tomcat, Java, NoSQL databases and cloud platforms.
+ Learning Docker on a Raspberry Pi ARM-Cluster Docker Orchestration and Swarming  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/philipp-garbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/philipp-garbe/</guid>
+      <description>Philipp works as Lead Software Developer at AutoScout24 in Munich. Since more than 7 years he&amp;rsquo;s working with web technologies and at the moment he&amp;rsquo;s part of &amp;ldquo;Tatsu&amp;rdquo; the project that transforms the matured AutoScout24 IT setup into a nextgen Web-Scale IT platform. As Docker Captain he shares his knowledge and experience about Containers.
+Philipp is driven by technologies and tools that allows him to release faster and more often. He expects that every commit automatically goes into production and it shouldn&amp;rsquo;t surprise that he&amp;rsquo;s excited about microservices, docker and the cloud.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/stefan-scherer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/stefan-scherer/</guid>
+      <description>Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows and gives, as a Microsoft MVP and Docker Captain, feedback directly to Microsoft about his experience. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/timo-derstappen/</guid>
+      <description>Timo Derstappen is co-founder of Giant Swarm in Cologne. He has many years of experience in building scalable and automated cloud architectures. He likes his minimal linux desktop setup, puts nearly everything into containers and thinks Minecraft is a gateway drug.
+ How we run Kubernetes in Kubernetes, aka Kubeception  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/uwe-friedrichsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/uwe-friedrichsen/</guid>
+      <description>UUwe Friedrichsen travels the IT world since many years. As a fellow of codecentric AG he is always looking for innovative ideas and concepts. His current focus areas are resilience, scalability and the IT of (the day after) tomorrow. Often, you can find him on conferences sharing his ideas, or as author of articles, blog posts, tweets and more.
+ Keynote: DevOps is not enough - towards a DevOps ecosystem  </description>
+    </item>
+    
+    <item>
+      <title>How we run Kubernetes in Kubernetes, aka Kubeception</title>
+      <link>/2017/talks/how-we-run-kubernetes-in-kubernetes-aka-kubeception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/how-we-run-kubernetes-in-kubernetes-aka-kubeception/</guid>
+      <description>How we run Kubernetes in Kubernetes, aka Kubeception
+At Giant Swarm our users want fully-managed Kubernetes clusters without any limitations (incl. privileged access to the nodes). We deploy and manage these clusters either in our data center, in the preferred cloud of the customer, or even on-premise. Both for ourselves as well as for enterprise customers we need full isolation between clusters and a easy way to manage and update clusters without downtime.</description>
+    </item>
+    
+    <item>
+      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
+      <link>/2017/workshops/learning-docker-on-a-raspberry-pi-arm-cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/learning-docker-on-a-raspberry-pi-arm-cluster/</guid>
+      <description>Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/emile-vauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/emile-vauge/</guid>
+      <description>Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.
+ Make load-balancing great again with Træfik!  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/maykel-moya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/maykel-moya/</guid>
+      <description>Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.
+He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.
+ One year monitoring a small startup with Prometheus lessons learned  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/roland-huss/</guid>
+      <description>Dr. Roland Huss is a Principal Software Engineer at Red Hat working on Fuse. He has been developing in Java for twenty years now, but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli peppers. &amp;ldquo;&amp;rdquo;&amp;rdquo;
+ Docker and Kubernetes for Java Developers Docker Container Loading  </description>
+    </item>
+    
+    <item>
+      <title>Automated container building with GitLab/CI</title>
+      <link>/2017/workshops/automated-container-builds-with-gitlab-ci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/automated-container-builds-with-gitlab-ci/</guid>
+      <description>Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images.</description>
+    </item>
+    
+    <item>
+      <title>Docker Container Loading</title>
+      <link>/2017/talks/docker-container-loading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/docker-container-loading/</guid>
+      <description>&amp;ldquo;Docker build” with plain Dockerfiles is currently the canonical and recommended approach for creating Docker images. But is this also always the best way for all use cases?
+This talk presents alternative and creative ways to produce Docker images.
+You will meet dedicated template systems like fish-pepper which adds composability and parametrisation in addition to the Dockerfile intrinsic extension mechanism. In another recipe you will learn how to reproducibly create Docker images with Ansible.</description>
+    </item>
+    
+    <item>
+      <title>Docker Orchestration and Swarming </title>
+      <link>/2017/talks/docker-orchestration-and-swarming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/docker-orchestration-and-swarming/</guid>
+      <description>This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment.</description>
+    </item>
+    
+    <item>
+      <title>Docker and Kubernetes for Java Developers</title>
+      <link>/2017/workshops/docker-and-kubernetes-for-java-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/docker-and-kubernetes-for-java-developers/</guid>
+      <description>In the first part we will learn, how you can add the creation of Docker images to your Maven builds and how integration tests can be simplified by Docker. This will be demonstrated live by two connected Microservices based on Wildly-Swarm and Spring-Boot. Here we will also meet the peculiarities which have to be respected when putting JVMs into Docker containers, especially when it comes to memory allocation or thread tuning.</description>
+    </item>
+    
+    <item>
+      <title>One year monitoring a small startup with Prometheus: lessons learned</title>
+      <link>/2017/talks/one-year-monitoring-a-small-startup-with-prometheus-lessons-learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/one-year-monitoring-a-small-startup-with-prometheus-lessons-learned/</guid>
+      <description> ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to Prometheus one year ago and the switch have proved being cost-effective.
+In this talk I&amp;rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&amp;rsquo;ve learned down the road.
+Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus  </description>
+    </item>
+    
+    <item>
+      <title>&#34;Bootiful&#34; Containers with Spring-Boot and Docker</title>
+      <link>/2017/workshops/bootiful-containers-with-spring-boot-and-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/bootiful-containers-with-spring-boot-and-docker/</guid>
+      <description>The rise of container technologies allows us to fundamentally change the way we develop, test and deploy software. However, the problem and solution gap by which software developers are confronted nowadays has become even bigger. We - as a profession - still need to discover patterns and practices for successfully dealing with this level of complexity.
+Thanks to tools like Docker, spinning up a full-fledged relational database isn’t more difficult or time consuming than using an in-memory database anymore.</description>
+    </item>
+    
+    <item>
+      <title>Build and deploy multiarch Linux and Windows Container images</title>
+      <link>/2017/talks/build-and-deploy-multiarch-linux-and-windows-container-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/build-and-deploy-multiarch-linux-and-windows-container-images/</guid>
+      <description>With Docker we learned how to build and run applications in Linux containers. But about tasks that can run only on Windows machines?
+With Windows Server 2016 you can use Docker and Windows Containers to have the same experience and workflow.
+In this talk you will learn how to release your application both as Linux and Windows container and deploy them as multiarch Docker image.
+Key takeaways:  Learn how to build and release an application with GitHub Build a Linux application with Travis CI Build a Windows application with AppVeyor CI Push both platform specific Docker images Draft a multiarch Docker image Push your images to Docker Hub  Slides https://www.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Docker on Windows Server 2016</title>
+      <link>/2017/workshops/getting-started-with-docker-on-windows-server-2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/getting-started-with-docker-on-windows-server-2016/</guid>
+      <description>In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.
+You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine.</description>
+    </item>
+    
+    <item>
+      <title>Intel and ARM, let Kubernetes rule them all!</title>
+      <link>/2017/talks/intel-and-arm-let-kubernetes-rule-them-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/intel-and-arm-let-kubernetes-rule-them-all/</guid>
+      <description>The talk will explain what the difficulties are when dealing with clusters of various platforms, as well as how to solve them. As a demo, a cross-platform nginx workload backed with persistent, reliable storage will be deployed from the dashboard, monitored with Heapster, InfluxDB and Grafana and autoscaled while traffic is generated against the Ingress controller. There might be a chance for someone from the audience to be a chaos monkey and unplug a power cable from any node at any time during the heavy traffic in order to demonstrate the auto-healing functions of Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Running Docker Containers on AWS</title>
+      <link>/2017/workshops/running-docker-containers-on-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/workshops/running-docker-containers-on-aws/</guid>
+      <description>Running containers locally has been made very easy by Docker with tools like Docker for Mac or Windows. With Docker Swarm a group of Docker engines can be turned into a virtual Docker Engine providing native clustering capabilities.
+But how do you setup Docker Swarm cluster on AWS? What is necessary to deploy your application to the swarm?
+In this workshop, Philipp guides you step-by-step through the process of setting up Docker Swarm from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Make load-balancing great again with Træfik!</title>
+      <link>/2017/talks/make-load-balancing-great-again-with-traefik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/make-load-balancing-great-again-with-traefik/</guid>
+      <description>Microservices seem to come off over the years and has now become the model for the development of modern applications. This model, initiated by some web giants (Netflix, Google …), promotes extreme applications modularization, runs counter to the monolithic model. Microservices allows: reduced release cycle, loose coupling between services, standardization of communication (REST), reduction of risks during deliveries, cloud orientation, etc.
+But it still remains tedious to easily connect these services without changing the application code.</description>
+    </item>
+    
+    <item>
+      <title>Getting the most out of your containerized database</title>
+      <link>/2017/talks/getting-the-most-out-of-your-containerized-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/getting-the-most-out-of-your-containerized-database/</guid>
+      <description>You’re part of an experienced DevOps team who are both container and database savvy. This talk will offer a tune up, helping you make sure that your containerized databases are performing at their best. We’ll look at how to capitalize on the elastic scalability of containers for your database, how configuration via shared nothing/masterless architecture could help you do more and how to avoid unnecessary network traffic and utilize local instance stores.</description>
+    </item>
+    
+    <item>
+      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
+      <link>/2017/talks/devops-is-not-enough-towards-a-devops-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/devops-is-not-enough-towards-a-devops-ecosystem/</guid>
+      <description>In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.</description>
+    </item>
+    
+    <item>
+      <title>Accommodations</title>
+      <link>/2017/accommodations/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/accommodations/</guid>
+      <description>Accommodations &amp;amp; Hotels The DevOps Gathering Team has arranged accommodations close to the venue and some exclusive offers for you:
+Art Hotel Tucholsky Viktoriastraße 73, 44787 Bochum
+ Code for booking: DOG bookable till March 10, 2017 single standard room for 65,00 Euro for the night 24/03/17 - 25/03/17 single comfort room for 70,00 Euro for the night 24/03/17 - 25/03/17 single superior room for 75,00 Euro for the night 24/03/17 - 25/03/17 breakfast is exclusive: 9,90 Euro per day/breakfast  Booking</description>
+    </item>
+    
+    <item>
+      <title>After Conference Reception</title>
+      <link>/2017/after-conference/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/after-conference/</guid>
+      <description>6:30pm - 10:00 pm at G Data Campus After a day of great talks, nothing sounds better than grabbing a cold beer, tasty food and networking with fellow developers and enthusiasts. Luckily, the DevOps Gathering Reception is just that.
+G Data provides awesome people, tasty food and high quality drinks. Feel free to join us and to talk with other DevOps interested people, including the speakers. Socialize and make new friends.</description>
+    </item>
+    
+    <item>
+      <title>Conference Code of Conduct </title>
+      <link>/2017/code-of-conduct/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+Need Help? We have a dedicated team that takes care of your safety. If you experience harassment or other Code of Conduct violations, please contact the care team (twitter: @DevOpsGathering; e-mail: care@devops-gathering.</description>
+    </item>
+    
+    <item>
+      <title>General terms and conditions</title>
+      <link>/2017/general-terms-and-conditions/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/general-terms-and-conditions/</guid>
+      <description>By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.
+Please read these conditions carefully!
+SCOPE OF APPLICATION The organizer of the conference and workshops is
+bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).
+For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.</description>
+    </item>
+    
+    <item>
+      <title>How to become a sponsor? </title>
+      <link>/2017/sponsoring/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/sponsoring/</guid>
+      <description>Sponsoring DevOps Gathering We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!
+Join the DevOps Gathering and help bringing DevOps friends and communities together!</description>
+    </item>
+    
+    <item>
+      <title>Pricing &amp; Registration</title>
+      <link>/2017/tickets/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/tickets/</guid>
+      <description>Price Categories &amp;amp; Information All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
+Thursday (March 23th) - Pre-Conference Workshops
+Friday (March 24th) - Conference and evening reception
+Saturday (March 25th) - Open Space
+The 2 Day Ticket includes the conference day, the evening reception and the Open Space. The 3 Day Ticket includes everything: The pre-conference workshops, the conference, Open Space day and also the evening event.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/2017/privacy-policy/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2017/privacy-policy/</guid>
+      <description>Data Privacy Policy Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/2017/imprint/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>/2017/imprint/</guid>
+      <description>Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
+bee42 solutions gmbh Peter Rossbach (Geschäftsführer)
+Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Email: mailto:info@bee42.com
+Phone +49(0)157-72 54 92 63
+Responsible for the content according to § 55 Abs. 2 RStV: Peter Rossbach (Geschäftsführer)
+Am Josephsschacht 72
+D-44879 Bochum
+Germany
+VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374
+Number in the commercial register HR B 14047</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>/2017/venue/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>/2017/venue/</guid>
+      <description> Pre-Conference-Workshops on Thursday (March 23) Veranstaltungszentrum RUB, Universitätsstraße 150, 44801 Bochum
+ Directions    
+Conference on Friday and Saturday (March 24 - 25) G Data Campus, Königsallee 178b, 44799 Bochum
+ Directions   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/imprint-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/imprint-de/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG: bee42 solutions GmbH Am Josephsschacht 72 44879 Bochum
+Gesellschaftsform: Gesellschaft mit beschränkter Haftung
+Vertreten durch: Peter Rossbach
+Kontakt: Telefon: +49 157 72 54 92 63 E-Mail: info@bee42.com
+Registereintrag: Eintragung im Handelsregister. Registergericht:Amtsgericht Bochum Registernummer: HRB 14047
+Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 28 49 32 374
+Quelle: Mit dem von eRecht24 bereitgestellten Impressum-Generator erzeugt.
+Haftungsausschluss: Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/claus-matzinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/claus-matzinger/</guid>
+      <description>A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/manuel-laufenberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/manuel-laufenberg/</guid>
+      <description>Maintainer of traefik.io, Manuel is a technical architect for a local cologne based agency called Colognetworx. His main focus is on a variety on PHP based (E-Commerce) Projects. However, his special interest is in deploying that applications scalable by using cloud and container technologies.
+ Make load-balancing great again with Træfik!  </description>
+    </item>
+    
+    <item>
+      <title>9elements</title>
+      <link>/2017/sponsors/9elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/9elements/</guid>
+      <description>We craft digital products and services.
+We combine finest technical craftsmanship with elegant and functional design to ship innovative digital experiences. We have a track record of building successful web and mobile applications for our clients.</description>
+    </item>
+    
+    <item>
+      <title>Agentur aufgeweckt</title>
+      <link>/2017/sponsors/aufgeweckt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/aufgeweckt/</guid>
+      <description>Trust forms identity - deeply rooted in our location Bochum in the Ruhr area, we are your agency for the digital age. Modern web design and front-end development are our expertise. Trust us and together we shape your identity on the web.</description>
+    </item>
+    
+    <item>
+      <title>Bochum Wirtschaftsentwicklung</title>
+      <link>/2017/sponsors/wifo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/wifo/</guid>
+      <description>We create opportunities and have lots of space, we open doors for you and arrange contacts, we produce ideas, develop concepts and help start-ups. We put our heart and soul into helping you and we’ll never let you down. We at the Bochum Office of Economic Development will support you with our know-how and our passion. Your success is very close to our hearts.</description>
+    </item>
+    
+    <item>
+      <title>Codencentric AG</title>
+      <link>/2017/sponsors/codecentric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/codecentric/</guid>
+      <description>As an expert in custom software development, codecentric develops software solutions for the future, something every one of our employees at each of our 15 locations is passionate about.</description>
+    </item>
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>/2017/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/openspace/container-open-space/</guid>
+      <description>The Open Space format perfectly fits to the fast moving development of the Container ecosystem. It offers participants and experts the opportunity to launch discussions, address questions and challenges regarding Docker, Kubernetes and Cloud technologies.
+An Open Space is a simple and productive way for hosting conferences. Participants and experts will create and manage together their own agenda of parallel working sessions. The goal of this Open Space is to allow attendees to interact with one another and learn from each other – all under the guidance of an experienced moderator.</description>
+    </item>
+    
+    <item>
+      <title>G Data</title>
+      <link>/2017/sponsors/gdata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/gdata/</guid>
+      <description>G DATA Software AG, with its head office in Bochum, is an innovative and quickly expanding software house focusing on antivirus security solutions. As a specialist in Internet security and pioneer in the field of virus protection, the company, founded in Bochum in 1985, developed the first antivirus program more than 20 years ago and celebrated its 25th birthday in 2010. Consequently G DATA is amongst the eldest security software companies in the world.</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>/2017/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/contact/</guid>
+      <description>Contact Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)
+If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!
+e-mail: info@devops-gathering.io phone: +49 (0)174 -9760024
+Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts.</description>
+    </item>
+    
+    <item>
+      <title>Host1Plus</title>
+      <link>/2017/sponsors/host1plus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/host1plus/</guid>
+      <description>Host1Plus is a global Cloud service delivery platform providing virtualization services in Frankfurt, Chicago, Los Angeles, São Paulo and Johannesburg. Powered by an intuitive UI, on-demand resources and high connectivity around the globe, Host1Plus services are well-built for power users – developers, startups, agencies, big data and business intelligence companies.</description>
+    </item>
+    
+    <item>
+      <title>Setlog</title>
+      <link>/2017/sponsors/setlog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/setlog/</guid>
+      <description>At Setlog we like to think value chains holistically – from inbound to outbound. More than a decade ago we&amp;rsquo;ve set out to develop software code that shall be groundbreaking for connective supply chain and vendor management. Our code of conduct? Be distinct, smart, and connective. Expect no less.
+Our software provides real-time access to crucial information: transparent and coherent. It&amp;rsquo;s universal, uniting each client&amp;rsquo;s global interfaces on one smart connective platform.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/2017/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/</guid>
+      <description>The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helps support the first DevOps Gathering. Thank you for making this great conference possible! :-)
+Contact us at sponsors@devops-gathering.io directly about sponsorship, or click here for more information and the sponsoring packages.</description>
+    </item>
+    
+    <item>
+      <title>Styracosoft</title>
+      <link>/2017/sponsors/styracosoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/styracosoft/</guid>
+      <description>Being Software Craftsmen at heart, we want to help other companies in delivering value by sharing our passion for sofware development and providing consulting, workshops and trainings on topics such as Clean Code, TDD, Continuous Integration, Infrastructure as Code and many more.</description>
+    </item>
+    
+    <item>
+      <title>bee42 solutions gmbh</title>
+      <link>/2017/sponsors/bee42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/bee42/</guid>
+      <description>The DevOps company bee42 solutions gmbh in Bochum raises the level of your IT by implementing solutions that perfectly match your requirements. We provide a unique infrastructure solution based on the Docker ecosystem for your needs to build and operate your IT. We love to build infrastructure, implement software, measure systems and are always looking for the next improvement.</description>
+    </item>
+    
+    <item>
+      <title>dpunkt.verlag</title>
+      <link>/2017/sponsors/dpunkt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/dpunkt/</guid>
+      <description>Der dpunkt.verlag ist ein modernes Unternehmen im Informationsmarkt. Er bietet Bücher, Zeitschriften und Veranstaltungen für die professionelle Computing-Szene.
+Fixpunkte des Programms sind Computertechnologie und ihre Anwendungen. dpunkt.bücher wenden sich an Computer-Profis zur Aus- und Fortbildung, ein Schwerpunkt sind Lehrbücher für Studenten an Universitäten und Hochschulen. Eine weitere wichtige Zielgruppe sind professionelle Anwender, für die der Computer das &amp;ldquo;zentrale Werkzeug&amp;rdquo; ihrer Arbeit ist.</description>
+    </item>
+    
+    <item>
+      <title>open knowledge</title>
+      <link>/2017/sponsors/open-knowledge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/sponsors/open-knowledge/</guid>
+      <description>For more than 15 years OPEN KNOWLEDGE is known for best-in-class consulting, custom software development and coaching in enterprise and mobile computing. We have a strong track record of successfully implemented solutions that are cutting edge whilst being highly maintainable for our national and international customers. Our recipe for success? The perfect mixture of innovation and experience.</description>
+    </item>
+    
+  </channel>
+</rss>

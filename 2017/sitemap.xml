@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/2017/speakers/dieter-reuter/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/kevin-wittek/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/lucas-kaldstrom/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/matthias-rottlaender/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/niclas-mietz/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/peter-rossbach/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/philipp-garbe/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/stefan-scherer/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/timo-derstappen/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/uwe-friedrichsen/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/how-we-run-kubernetes-in-kubernetes-aka-kubeception/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/learning-docker-on-a-raspberry-pi-arm-cluster/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/emile-vauge/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/maykel-moya/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/roland-huss/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/automated-container-builds-with-gitlab-ci/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/docker-container-loading/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/docker-orchestration-and-swarming/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/docker-and-kubernetes-for-java-developers/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/one-year-monitoring-a-small-startup-with-prometheus-lessons-learned/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/bootiful-containers-with-spring-boot-and-docker/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/build-and-deploy-multiarch-linux-and-windows-container-images/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/getting-started-with-docker-on-windows-server-2016/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/intel-and-arm-let-kubernetes-rule-them-all/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/running-docker-containers-on-aws/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/make-load-balancing-great-again-with-traefik/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/getting-the-most-out-of-your-containerized-database/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/devops-is-not-enough-towards-a-devops-ecosystem/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/accommodations/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/after-conference/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/code-of-conduct/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/general-terms-and-conditions/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsoring/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/tickets/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/privacy-policy/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/imprint/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/venue/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/imprint-de/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/claus-matzinger/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/manuel-laufenberg/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/9elements/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/aufgeweckt/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/wifo/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/codecentric/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/openspace/container-open-space/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/gdata/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/host1plus/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/openspace/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/setlog/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/speakers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/styracosoft/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/talks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/workshops/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/bee42/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/dpunkt/</loc>
+  </url>
+  
+  <url>
+    <loc>/2017/sponsors/open-knowledge/</loc>
+  </url>
+  
+</urlset>

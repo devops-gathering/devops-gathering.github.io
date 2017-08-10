@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on Devops Gathering 2017</title>
+    <link>/2017/speakers/</link>
+    <description>Recent content in Speakers on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/2017/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/dieter-reuter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/dieter-reuter/</guid>
+      <description>Dieter Reuter is a Senior Consultant at bee42 solutions gmbh and Docker Captain at Hypriot with more than 30 years of enterprise IT experience and unquenchable curiosity. Dealing with cutting-edge cloud technologies, obsessed with the DevOps movement and its associated automation. Dieter is using Docker from the early days on and is pushing Docker and Containers to ARM based IoT devices with rocket-like speed.
+ Learning Docker on a Raspberry Pi ARM-Cluster Getting started with Docker on Windows Server 2016  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/kevin-wittek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/kevin-wittek/</guid>
+      <description>Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
+Nowadays Kevin is working at the cyber security company G DATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/lucas-kaldstrom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/lucas-kaldstrom/</guid>
+      <description>Lucas Käldström (@luxas on Github) is an upper secondary school student who is a Kubernetes maintainer on his spare time. He has been actively engaged in the Kubernetes project for more than one and a half year now and ported Kubernetes to other platforms, including ARM 32 and 64-bit. He also wrote a design doc about how a multi-platform Kubernetes cluster should function and he has been a core member in the sig-cluster-lifecycle group since July 2016 and have been hacking code on kubeadm and been organizing kubeadm releases.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/matthias-rottlaender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/matthias-rottlaender/</guid>
+      <description>Jack-Of-All-Trades promoting perpetual pursuit of technical excellence.Developer of Java systems since about 10 years ago. Passionate usability nit-pick. Zealot hooking everyone in his vicinity on testing. Wholehearted embracer of agile principles. Found his home at German cyber security service provider G DATA Advanced Analytics, where he can do all of the above on a daily basis.
+ &amp;ldquo;Bootiful&amp;rdquo; Containers with Spring-Boot and Docker  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/niclas-mietz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/niclas-mietz/</guid>
+      <description>Niclas is DevOps Engineer at the bee42 solutions and studies computer science at FH Dortmund. Next to his job he likes to work with Open-Source projects with container touch and new technologies in the container ecosystem. Besides supporting and visiting local meetups his organizing the Docker Bochum meetup.
+ Automated container builds with GitLab  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/peter-rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/peter-rossbach/</guid>
+      <description>Peter Rossbach is a infra coder, system architect and coach of numerous web systems and founder of the bee42 solutions gmbh. He is also CTO of Setlog Gmbh a Supply Chain Management company. Peter realized appropriate infrastructure products and offer many training based on the Docker and Kubernetes ecosystem, current web technologies, microservices, Apache Tomcat, Java, NoSQL databases and cloud platforms.
+ Learning Docker on a Raspberry Pi ARM-Cluster Docker Orchestration and Swarming  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/philipp-garbe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/philipp-garbe/</guid>
+      <description>Philipp works as Lead Software Developer at AutoScout24 in Munich. Since more than 7 years he&amp;rsquo;s working with web technologies and at the moment he&amp;rsquo;s part of &amp;ldquo;Tatsu&amp;rdquo; the project that transforms the matured AutoScout24 IT setup into a nextgen Web-Scale IT platform. As Docker Captain he shares his knowledge and experience about Containers.
+Philipp is driven by technologies and tools that allows him to release faster and more often. He expects that every commit automatically goes into production and it shouldn&amp;rsquo;t surprise that he&amp;rsquo;s excited about microservices, docker and the cloud.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/stefan-scherer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/stefan-scherer/</guid>
+      <description>Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows and gives, as a Microsoft MVP and Docker Captain, feedback directly to Microsoft about his experience. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/timo-derstappen/</guid>
+      <description>Timo Derstappen is co-founder of Giant Swarm in Cologne. He has many years of experience in building scalable and automated cloud architectures. He likes his minimal linux desktop setup, puts nearly everything into containers and thinks Minecraft is a gateway drug.
+ How we run Kubernetes in Kubernetes, aka Kubeception  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/uwe-friedrichsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/uwe-friedrichsen/</guid>
+      <description>UUwe Friedrichsen travels the IT world since many years. As a fellow of codecentric AG he is always looking for innovative ideas and concepts. His current focus areas are resilience, scalability and the IT of (the day after) tomorrow. Often, you can find him on conferences sharing his ideas, or as author of articles, blog posts, tweets and more.
+ Keynote: DevOps is not enough - towards a DevOps ecosystem  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/emile-vauge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/emile-vauge/</guid>
+      <description>Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.
+ Make load-balancing great again with Træfik!  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/maykel-moya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/maykel-moya/</guid>
+      <description>Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.
+He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.
+ One year monitoring a small startup with Prometheus lessons learned  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/roland-huss/</guid>
+      <description>Dr. Roland Huss is a Principal Software Engineer at Red Hat working on Fuse. He has been developing in Java for twenty years now, but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli peppers. &amp;ldquo;&amp;rdquo;&amp;rdquo;
+ Docker and Kubernetes for Java Developers Docker Container Loading  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/claus-matzinger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/claus-matzinger/</guid>
+      <description>A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2017/speakers/manuel-laufenberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/speakers/manuel-laufenberg/</guid>
+      <description>Maintainer of traefik.io, Manuel is a technical architect for a local cologne based agency called Colognetworx. His main focus is on a variety on PHP based (E-Commerce) Projects. However, his special interest is in deploying that applications scalable by using cloud and container technologies.
+ Make load-balancing great again with Træfik!  </description>
+    </item>
+    
+  </channel>
+</rss>

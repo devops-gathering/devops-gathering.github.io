@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Devops Gathering 2017</title>
+    <link>/2017/talks/</link>
+    <description>Recent content in Talks on Devops Gathering 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/2017/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How we run Kubernetes in Kubernetes, aka Kubeception</title>
+      <link>/2017/talks/how-we-run-kubernetes-in-kubernetes-aka-kubeception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/how-we-run-kubernetes-in-kubernetes-aka-kubeception/</guid>
+      <description>How we run Kubernetes in Kubernetes, aka Kubeception
+At Giant Swarm our users want fully-managed Kubernetes clusters without any limitations (incl. privileged access to the nodes). We deploy and manage these clusters either in our data center, in the preferred cloud of the customer, or even on-premise. Both for ourselves as well as for enterprise customers we need full isolation between clusters and a easy way to manage and update clusters without downtime.</description>
+    </item>
+    
+    <item>
+      <title>Docker Container Loading</title>
+      <link>/2017/talks/docker-container-loading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/docker-container-loading/</guid>
+      <description>&amp;ldquo;Docker build” with plain Dockerfiles is currently the canonical and recommended approach for creating Docker images. But is this also always the best way for all use cases?
+This talk presents alternative and creative ways to produce Docker images.
+You will meet dedicated template systems like fish-pepper which adds composability and parametrisation in addition to the Dockerfile intrinsic extension mechanism. In another recipe you will learn how to reproducibly create Docker images with Ansible.</description>
+    </item>
+    
+    <item>
+      <title>Docker Orchestration and Swarming </title>
+      <link>/2017/talks/docker-orchestration-and-swarming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/docker-orchestration-and-swarming/</guid>
+      <description>This talk gives an overview of the technical solutions for the orchestration of Docker-based services. This means rethinking your IT-business in every area. Create, maintain and modify many machines and containers on your developer notebook, in your data center or the cloud is a challenge. Our applications are constantly expanded and adapted to different use cases. Hence, microservices need a better environment. The Docker ecosystem offers promising tools for service discovering, automatic scaling, failover and deployment.</description>
+    </item>
+    
+    <item>
+      <title>One year monitoring a small startup with Prometheus: lessons learned</title>
+      <link>/2017/talks/one-year-monitoring-a-small-startup-with-prometheus-lessons-learned/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/one-year-monitoring-a-small-startup-with-prometheus-lessons-learned/</guid>
+      <description> ShuttleCloud is a small startup specialized in migrating email and contacts at scale, proud of having Google among its customers. We migrated our primitive monitoring to Prometheus one year ago and the switch have proved being cost-effective.
+In this talk I&amp;rsquo;ll present our monitoring infrastructure, the instrumentation and operational challenges we have faced and some good/bad monitoring patterns we&amp;rsquo;ve learned down the road.
+Key takeaways:  Learn monitoring patterns Learn about the instrumentation of prometheus Learn how to scale prometheus  </description>
+    </item>
+    
+    <item>
+      <title>Build and deploy multiarch Linux and Windows Container images</title>
+      <link>/2017/talks/build-and-deploy-multiarch-linux-and-windows-container-images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/build-and-deploy-multiarch-linux-and-windows-container-images/</guid>
+      <description>With Docker we learned how to build and run applications in Linux containers. But about tasks that can run only on Windows machines?
+With Windows Server 2016 you can use Docker and Windows Containers to have the same experience and workflow.
+In this talk you will learn how to release your application both as Linux and Windows container and deploy them as multiarch Docker image.
+Key takeaways:  Learn how to build and release an application with GitHub Build a Linux application with Travis CI Build a Windows application with AppVeyor CI Push both platform specific Docker images Draft a multiarch Docker image Push your images to Docker Hub  Slides https://www.</description>
+    </item>
+    
+    <item>
+      <title>Intel and ARM, let Kubernetes rule them all!</title>
+      <link>/2017/talks/intel-and-arm-let-kubernetes-rule-them-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/intel-and-arm-let-kubernetes-rule-them-all/</guid>
+      <description>The talk will explain what the difficulties are when dealing with clusters of various platforms, as well as how to solve them. As a demo, a cross-platform nginx workload backed with persistent, reliable storage will be deployed from the dashboard, monitored with Heapster, InfluxDB and Grafana and autoscaled while traffic is generated against the Ingress controller. There might be a chance for someone from the audience to be a chaos monkey and unplug a power cable from any node at any time during the heavy traffic in order to demonstrate the auto-healing functions of Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Make load-balancing great again with Træfik!</title>
+      <link>/2017/talks/make-load-balancing-great-again-with-traefik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/make-load-balancing-great-again-with-traefik/</guid>
+      <description>Microservices seem to come off over the years and has now become the model for the development of modern applications. This model, initiated by some web giants (Netflix, Google …), promotes extreme applications modularization, runs counter to the monolithic model. Microservices allows: reduced release cycle, loose coupling between services, standardization of communication (REST), reduction of risks during deliveries, cloud orientation, etc.
+But it still remains tedious to easily connect these services without changing the application code.</description>
+    </item>
+    
+    <item>
+      <title>Getting the most out of your containerized database</title>
+      <link>/2017/talks/getting-the-most-out-of-your-containerized-database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/getting-the-most-out-of-your-containerized-database/</guid>
+      <description>You’re part of an experienced DevOps team who are both container and database savvy. This talk will offer a tune up, helping you make sure that your containerized databases are performing at their best. We’ll look at how to capitalize on the elastic scalability of containers for your database, how configuration via shared nothing/masterless architecture could help you do more and how to avoid unnecessary network traffic and utilize local instance stores.</description>
+    </item>
+    
+    <item>
+      <title>Keynote: DevOps is not enough - towards a DevOps ecosystem</title>
+      <link>/2017/talks/devops-is-not-enough-towards-a-devops-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/talks/devops-is-not-enough-towards-a-devops-ecosystem/</guid>
+      <description>In this keynote we will examine the drivers and goals behind DevOps, why we need the change, how DevOps affects the whole IT value chain and what else is needed to really &amp;ldquo;become DevOps&amp;rdquo;. We will develop a DevOps ecosystem and draw the missing lines between several important concepts that all feed into the goals behind DevOps.</description>
+    </item>
+    
+  </channel>
+</rss>
