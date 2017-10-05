@@ -10,6 +10,21 @@
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Roland-Huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Roland-Huss/</guid>
+      <description>&lt;p&gt;Dr. Roland Huß is a Principal Software Engineer at Red Hat working in the Fuse team. He has been developing in Java for twenty years now but never forgot his roots as system administrator.
+Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Kubernetes-Patterns/&#34;&gt;Kubernetes Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,6 +47,20 @@
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/&#34;&gt;Tear down silos! How? What comes next?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
+      <description>&lt;p&gt;Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She is in the organisation team of Softwerkskammer Ruhrgebiet.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/&#34;&gt;Continuous Databas Integration with Flyway&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -61,11 +61,19 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/Roland-Huss/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/bjoern-rabenstein/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/speakers/konstantin-diener/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/sandra-parsick/</loc>
   </url>
   
   <url>
@@ -102,6 +110,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
   </url>
   
   <url>
