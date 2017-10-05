@@ -1311,162 +1311,16 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
     </item>
     
     <item>
-      <title>Container Open Space</title>
-      <link>https://devops-gathering.io/openspace/container-open-space/</link>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/openspace/container-open-space/</guid>
-      <description>
-
-&lt;h1 id=&#34;what-is-an-open-space&#34;&gt;WHAT IS AN OPEN SPACE?&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;What do you need to bring with you for the conference?&lt;/strong&gt;
--&amp;gt; Only you, good ideas and curiosity! :-)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Where can I find more information about the open space?&lt;/strong&gt;
-Here you can find definitions, videos and more information about the format open space :
-* &lt;a href=&#34;https://de.wikipedia.org/wiki/Open_Space&#34;&gt;https://de.wikipedia.org/wiki/Open_Space&lt;/a&gt;
-* &lt;a href=&#34;http://www.agonda.de/open-space/open-space.html&#34;&gt;http://www.agonda.de/open-space/open-space.html&lt;/a&gt;
-* &lt;a href=&#34;https://www.youtube.com/watch?v=eZD0PtnN1vQ&#34;&gt;https://www.youtube.com/watch?v=eZD0PtnN1vQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;An Open Space is a simple and productive way for hosting knowledge events. Participants and experts will create and manage together their own agenda of parallel working sessions. The goal of this Open Space is to allow attendees to interact with one another and learn from each other – all under the guidance of an experienced moderator.&lt;/p&gt;
-
-&lt;p&gt;The DevOps Gathering Open Space format perfectly fits to the fast moving development of the Container ecosystem. It offers participants and experts the opportunity to launch discussions, address questions and challenges regarding Docker, Kubernetes and Cloud technologies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;The topic of our Open Space is: What technical challenges emerge with Docker and Kubernetes?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Among others, we address the following questions:&lt;/p&gt;
+      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
+      <description>&lt;p&gt;Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She is in the organisation team of Softwerkskammer Ruhrgebiet.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Do we know and proper use the benefits of existing solutions?&lt;/li&gt;
-&lt;li&gt;What experience do we already have with Docker or Kubernetes in production?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/&#34;&gt;Continuous Databas Integration with Flyway&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;However, these are only some of the questions we want to discuss with participants and Container experts. We are very interested about your input and ideas on this topics.&lt;/p&gt;
-
-&lt;h2 id=&#34;open-space-what-will-happen&#34;&gt;Open Space - What will happen&lt;/h2&gt;
-
-&lt;p&gt;We never know exactly what will happen when we open the space for people to do their most important work, but we can guarantee these results when any group gets into Open Space:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;All of the issues that are MOST important to the participants will be raised.&lt;/li&gt;
-&lt;li&gt;All of the issues raised will be addressed by those participants most qualified and capable of getting something done on each of them.&lt;/li&gt;
-&lt;li&gt;In a time as short as one day, all of the most important ideas, discussion, recommendations, conclusions, questions for further study, and plans for immediate action will be documented in each session.&lt;/li&gt;
-&lt;li&gt;At the end, all results of each session will available and briefly discussed with all participants of the day.&lt;/li&gt;
-&lt;li&gt;AND… results like these can be planned and implemented faster than any other kind of so-called “large-group intervention.” It is literally possible to accomplish in one day what some other approaches take weeks or months to do.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;to-lead-an-openspace-talk&#34;&gt;To lead an OpenSpace Talk&lt;/h3&gt;
-
-&lt;p&gt;Come up with an interesting topic and title for your discussion. You don’t need to develop these before the conference; most of the ideas will come to you during the event, but be prepared is also an option.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fill out a schedule Post-It for your topic.&lt;/li&gt;
-&lt;li&gt;Place the topic on the schedule.&lt;/li&gt;
-&lt;li&gt;If you see topics that have something in common, consider combining them into a single time slot.&lt;/li&gt;
-&lt;li&gt;If a significant number of people want to attend your discussion and another discussion in the same time slot, try to trade into another time slot to ensure maximum dialogue and participation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;to-attend-an-openspace-talk&#34;&gt;To attend an OpenSpace Talk:&lt;/h3&gt;
-
-&lt;p&gt;Check the schedule and sign up for a talk or just drop in if you wish. Use the ‘Law of two feet.’ If you feel that you are not contributing or benefiting from a presentation, please feel free to move on to something else. Allow the discussion convener to steer his or her topic. If you have an opposing opinion that needs a full time slot you should feel free to add your own OpenSpace slot to discuss the topic.
-Rules of an Open Space&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Whoever shows up is the right people&lt;/li&gt;
-&lt;li&gt;Whatever happens is the only thing that could have&lt;/li&gt;
-&lt;li&gt;Whenever it starts is the right time&lt;/li&gt;
-&lt;li&gt;When it’s over, it’s over&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;open-space-lighting-talks&#34;&gt;Open Space - Lighting Talks&lt;/h2&gt;
-
-&lt;p&gt;At every event a lot of attendees had idea at another talk. Here is your chance to bring your  most interested topic to the audience. Ten minutes to talk about your tool, project or experience with Container and DevOps. Please, send us your request of a cool lighting talk to &lt;a href=&#34;devops-gathering.io&#34;&gt;info@devops-gathering.io&lt;/a&gt; &amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule-of-the-day&#34;&gt;Schedule of the day&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Time&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Action&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;8:30&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Reception&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;9:30 - 9:45&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Space Introduction&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;9:45 - 10:15&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Finding Topics&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;10:15 - 11:15&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Space Sessions I&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;11:15 - 12:15&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Space Sessions II&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1 hour&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Lunch Break&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;12:45 - 13:30&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Stage Talks&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;13:30 - 14:15&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Space Sessions III&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;14:15 - 15:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Open Space Sessions IV&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;15:00 - 16:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Wrap-Up and Final Words&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;&amp;gt;16:00&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Say good bye&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;what-we-offer&#34;&gt;What we offer?&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Moderation&lt;/li&gt;
-&lt;li&gt;WiFi&lt;/li&gt;
-&lt;li&gt;Flipcharts, PostIT&amp;rsquo;s,&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Foot and Drinks&lt;/li&gt;
-&lt;li&gt;Room for discussion&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We looking forward to an exciting day with a lot discussion with you!&lt;/p&gt;
-
-&lt;p&gt;If you have further questions, don’t hesitate to contact us.&lt;/p&gt;
-
-&lt;p&gt;—
-DevOps Gathering Conference Crew&lt;/p&gt;
 </description>
     </item>
     

@@ -73,6 +73,14 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/sandra-parsick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/victor-farcic/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
   </url>
   
@@ -114,6 +122,10 @@
   
   <url>
     <loc>https://devops-gathering.io/workshops/Bootiful-Containers-with-Spring-Boot-and-Docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Building-a-Self-Sufficient-System/</loc>
   </url>
   
   <url>
