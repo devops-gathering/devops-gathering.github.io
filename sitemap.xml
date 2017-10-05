@@ -61,14 +61,6 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/claus-matzinger/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/manuel-laufenberg/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
   </url>
   
@@ -81,63 +73,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/dieter-reuter/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/kevin-wittek/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/lucas-kaldstrom/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/matthias-rottlaender/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/niclas-mietz/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/peter-rossbach/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/philipp-garbe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/stefan-scherer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/timo-derstappen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/uwe-friedrichsen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/How-we-run-Kubernetes-in-Kubernetes-aka-Kubeception/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/emile-vauge/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/maykel-moya/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/roland-huss/</loc>
+    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
   </url>
   
   <url>
@@ -145,19 +85,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Docker-Container-Loading/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Docker-Orchestration-and-Swarming/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Docker-and-Kubernetes-for-Java-Developers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/One-year-monitoring-a-small-startup-with-Prometheus-lessons-learned/</loc>
   </url>
   
   <url>
@@ -165,31 +93,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Build-and-deploy-multiarch-Linux-and-Windows-Container-images/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Intel-and-ARM-let-Kubernetes-rule-them-all/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/DevOps-is-not-enough-towards-a-DevOps-ecosystem/</loc>
   </url>
   
 </urlset>

@@ -1268,35 +1268,6 @@ Haftung für Inhalte&lt;/p&gt;
     </item>
     
     <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/claus-matzinger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/claus-matzinger/</guid>
-      <description>&lt;p&gt;A software engineer by trade, Claus Matzinger runs field engineering at Crate.io. Crate.io is the developer of CrateDB, an open source SQL DBMS that combines SQL &amp;amp; search together to handle machine data on Docker and other platforms. Prior to Crate, Claus co-founded Affective Signals, a video analytics research project in the psychotherapy field. Claus develops in Java, C#, C, Scala, and his personal favorite, Rust. He loves connecting with developers putting machine data to work in exciting new industrial, transportation, entertainment, and consumer IoT systems.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Getting-the-most-out-of-your-containerized-database/&#34;&gt;Getting the most out of your containerized database&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/manuel-laufenberg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/manuel-laufenberg/</guid>
-      <description>&lt;p&gt;Maintainer of &lt;a href=&#34;traefik.io&#34;&gt;traefik.io&lt;/a&gt;, Manuel is a technical architect for a local cologne based agency called Colognetworx.
-His main focus is on a variety on PHP based (E-Commerce) Projects. However, his special interest is in deploying that applications scalable by using cloud and container technologies.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Make-load-balancing-great-again-with-traefik/&#34;&gt;Make load-balancing great again with Træfik!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Container Open Space</title>
       <link>https://devops-gathering.io/openspace/container-open-space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1478,6 +1449,80 @@ DevOps Gathering Conference Crew&lt;/p&gt;
 &lt;p&gt;Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts. Subscribe and join the DevOps Gathering community:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hier soll der Suscribe Bereich rein (wie auch auf der Startseite unten)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://devops-gathering.io/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/sponsors/</guid>
+      <description>&lt;p&gt;The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helped and supported the first DevOps Gathering 2017. Thank you for making this great conference possible! :-)
+After this year‘s and first successful community conference, we are now preparing the second edition of the DevOps Gathering. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.&lt;/p&gt;
+
+&lt;p&gt;We would be happy and grateful to have YOU as a supporter of this great community!&lt;/p&gt;
+
+&lt;p&gt;Contact us at &lt;a href=&#34;mailto:sponsor@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;sponsors@devops-gathering.io&lt;/a&gt; directly about sponsorship, or click &lt;a href=&#34;https://devops-gathering.io/sponsoring/&#34;&gt;here&lt;/a&gt; for more information and the sponsoring packages 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+            &lt;div class=&#34;cat-container gold&#34;&gt;
+                &lt;h3&gt;Gold Sponsor&lt;/h3&gt;
+                &lt;div class=&#34;logo-container small-12 medium-12 large-12 columns&#34; &gt;
+                    &lt;div class=&#34;small-12 medium-4 large-4 columns&#34; id=&#34;gdata&#34;&gt;
+                        &lt;a traget=&#34;_blank&#34; class=&#34;big logo&#34; href=&#34;https://gdata.de&#34;&gt;&lt;img class=&#34;&#34; src=&#34;https://devops-gathering.io/img/gdata.png&#34;/&gt;&lt;/a&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;small-12 medium-8 large-8 columns&#34;&gt;
+                        &lt;p&gt;&lt;p&gt;G DATA Software AG, with its head office in Bochum, is an innovative and quickly expanding software house focusing on antivirus security solutions. As a specialist in Internet security and pioneer in the field of virus protection, the company, founded in Bochum in 1985, developed the first antivirus program more than 20 years ago and celebrated its 25th birthday in 2010. Consequently G DATA is amongst the eldest security software companies in the world.&lt;/p&gt;
+&lt;/p&gt;
+                        &lt;a class=&#34;external&#34; href=&#34;https://gdata.de&#34;&gt;&lt;i class=&#34;fa fa-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; G Data &lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&#34;logo-container small-12 medium-12 large-12 columns&#34; &gt;
+                    &lt;div class=&#34;small-12 medium-4 large-4 columns&#34; id=&#34;bee42&#34;&gt;
+                        &lt;a traget=&#34;_blank&#34; class=&#34;big logo&#34; href=&#34;https://bee42.com&#34;&gt;&lt;img class=&#34;&#34; src=&#34;https://devops-gathering.io/img/bee42.svg&#34;/&gt;&lt;/a&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&#34;small-12 medium-8 large-8 columns&#34;&gt;
+                        &lt;p&gt;&lt;p&gt;The DevOps company bee42 solutions gmbh in Bochum raises the level of your IT by implementing solutions that perfectly match your requirements. We provide a unique infrastructure solution based on the Docker ecosystem for your needs to build and operate your IT. We love to build infrastructure, implement software, measure systems and are always looking for the next improvement.&lt;/p&gt;
+&lt;/p&gt;
+                        &lt;a class=&#34;external&#34; href=&#34;https://bee42.com&#34;&gt;&lt;i class=&#34;fa fa-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; bee42 solutions gmbh &lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Docker on a Raspberry Pi ARM-Cluster</title>
+      <link>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Learning-Docker-on-a-Raspberry-Pi-ARM-Cluster/</guid>
+      <description>
+
+&lt;p&gt;Using containers to develop, test and run applications is well known for cloud and datacenter environments. Since last year Docker is also officially available for a wide range of ARM devices. In this hands-on workshop we&amp;rsquo;re going to introduce you to the principles and specific requirements of using Docker on a low-cost ARM cluster. Step by step we&amp;rsquo;re looking into the details on how to install Docker in no time and run your first microservice application with Docker Compose. Later on we&amp;rsquo;re digging even deeper into the specific requirements for containerized IoT applications to build resource constraint containers and optimizing containers for minimal size.&lt;/p&gt;
+
+&lt;p&gt;Docker can run and orchestrate your applications very efficiently, even on the smallest devices. Step into a new dimension when using Docker on low-powered ARM devices which breaks all limits and discover and resolve bottlenecks easily before they hit you in production. Scale down to the bare minimum, speed it up and get ready for a truly massive scale. Let’s start using Docker in your complete software stack to interconnect the Cloud and the future with Billions of IoT devices.&lt;/p&gt;
+
+&lt;p&gt;In this hands-on workshop we’re going to introduce you to the basic principles of Docker and how the orchestration of container works, even if you have to handle a power or network outage. We&amp;rsquo;ll install Docker on real baremetal hardware sitting on your desk as a multi-node Raspberry Pi cluster. Then deploying a first distributed application and scale it up to a fault-tolerant system and testing it in a chaos monkey fashion with real failures of the compute nodes.&lt;/p&gt;
+
+&lt;p&gt;Additionally we&amp;rsquo;ll dig deeper into the specific requirements of using containers for IoT use cases. By iterating through optimization steps for small devices, you will discover which value it even brings to classic container applications. This reveals the details and benefits of a container-based development and runtime environment, which helps to achieve better portability, maintenance and security by isolating the application code from the hardware. We&amp;rsquo;ll try to inspire you to learn and use Docker and containers on ARM devices in a very practical way.&lt;/p&gt;
+
+&lt;h2 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Learn how to orchestrate containers with Docker on low-cost bare metal hardware&lt;/li&gt;
+&lt;li&gt;Learn the basic concepts of Docker and building fault-tolerant services&lt;/li&gt;
+&lt;li&gt;Learn building resource constraint containers and optimizing containers for minimal size&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic Docker experience recommended, but not required&lt;/li&gt;
+&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;ll need a SSH client or Putty to access the ARM cluster&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
