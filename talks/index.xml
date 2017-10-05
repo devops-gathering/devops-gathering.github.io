@@ -42,5 +42,28 @@
 </description>
     </item>
     
+    <item>
+      <title>Kubernetes Patterns</title>
+      <link>https://devops-gathering.io/talks/Kubernetes-Patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Kubernetes-Patterns/</guid>
+      <description>&lt;p&gt;The way we develop and run applications on Cloud Native platforms like Kubernetes differs significantly from the traditional approach. There are fewer concerns for developers to think about, but at the same time, there are new patterns and practices for solving every-day challenges.&lt;/p&gt;
+
+&lt;p&gt;In this talk, we will look at a collection of common patterns for developing Cloud Native applications. These patterns encapsulate proven solutions to common problems and help you to prevent inventing the wheel again.&lt;/p&gt;
+
+&lt;p&gt;After a short introduction into the Kubernetes platform we will look at the following pattern categories:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Foundational Patterns_ which build the basis of the Kubernetes platform&lt;/li&gt;
+&lt;li&gt;Behavioral Patterns_ describe concepts for different types of applications&lt;/li&gt;
+&lt;li&gt;Structural Patterns_ are for structuring your Cloud Native application&lt;/li&gt;
+&lt;li&gt;Configuration Patterns_ provide various approaches to application configuration.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the end, you will have a solid overview how common problems can be solved when developing Cloud Native application for Kubernetes.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

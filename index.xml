@@ -1269,6 +1269,21 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Roland-Huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Roland-Huss/</guid>
+      <description>&lt;p&gt;Dr. Roland Huß is a Principal Software Engineer at Red Hat working in the Fuse team. He has been developing in Java for twenty years now but never forgot his roots as system administrator.
+Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Kubernetes-Patterns/&#34;&gt;Kubernetes Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1452,31 +1467,6 @@ Rules of an Open Space&lt;/p&gt;
 
 &lt;p&gt;—
 DevOps Gathering Conference Crew&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Get in touch</title>
-      <link>https://devops-gathering.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/contact/</guid>
-      <description>
-
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)&lt;/p&gt;
-
-&lt;p&gt;If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;e-mail:&lt;/strong&gt; &lt;a href=&#34;mailto:sponsor@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;info@devops-gathering.io&lt;/a&gt;
-&lt;strong&gt;phone:&lt;/strong&gt; +49 (0)174 -9760024&lt;/p&gt;
-
-&lt;h2 id=&#34;let-s-keep-in-touch&#34;&gt;Let&amp;rsquo;s keep in touch&lt;/h2&gt;
-
-&lt;p&gt;Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts. Subscribe and join the DevOps Gathering community:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hier soll der Suscribe Bereich rein (wie auch auf der Startseite unten)&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
