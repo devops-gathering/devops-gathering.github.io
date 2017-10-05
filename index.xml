@@ -1269,6 +1269,20 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/bjoern-rabenstein/</guid>
+      <description>&lt;p&gt;Björn is a Production Engineer at SoundCloud and a Prometheus developer. Previously, he was a Site Reliability Engineer at Google and a number cruncher for science.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/&#34;&gt;Modern Monitoring for Dev and Ops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1463,46 +1477,6 @@ DevOps Gathering Conference Crew&lt;/p&gt;
 &lt;p&gt;Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts. Subscribe and join the DevOps Gathering community:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Hier soll der Suscribe Bereich rein (wie auch auf der Startseite unten)&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sponsors</title>
-      <link>https://devops-gathering.io/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/sponsors/</guid>
-      <description>&lt;p&gt;The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helped and supported the first DevOps Gathering 2017. Thank you for making this great conference possible! :-)
-After this year‘s and first successful community conference, we are now preparing the second edition of the DevOps Gathering. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.&lt;/p&gt;
-
-&lt;p&gt;We would be happy and grateful to have YOU as a supporter of this great community!&lt;/p&gt;
-
-&lt;p&gt;Contact us at &lt;a href=&#34;mailto:sponsor@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;sponsors@devops-gathering.io&lt;/a&gt; directly about sponsorship, or click &lt;a href=&#34;https://devops-gathering.io/sponsoring/&#34;&gt;here&lt;/a&gt; for more information and the sponsoring packages 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-            &lt;div class=&#34;cat-container gold&#34;&gt;
-                &lt;h3&gt;Gold Sponsor&lt;/h3&gt;
-                &lt;div class=&#34;logo-container small-12 medium-12 large-12 columns&#34; &gt;
-                    &lt;div class=&#34;small-12 medium-4 large-4 columns&#34; id=&#34;gdata&#34;&gt;
-                        &lt;a traget=&#34;_blank&#34; class=&#34;big logo&#34; href=&#34;https://gdata.de&#34;&gt;&lt;img class=&#34;&#34; src=&#34;https://devops-gathering.io/img/gdata.png&#34;/&gt;&lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;small-12 medium-8 large-8 columns&#34;&gt;
-                        &lt;p&gt;&lt;p&gt;G DATA Software AG, with its head office in Bochum, is an innovative and quickly expanding software house focusing on antivirus security solutions. As a specialist in Internet security and pioneer in the field of virus protection, the company, founded in Bochum in 1985, developed the first antivirus program more than 20 years ago and celebrated its 25th birthday in 2010. Consequently G DATA is amongst the eldest security software companies in the world.&lt;/p&gt;
-&lt;/p&gt;
-                        &lt;a class=&#34;external&#34; href=&#34;https://gdata.de&#34;&gt;&lt;i class=&#34;fa fa-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; G Data &lt;/a&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-                &lt;div class=&#34;logo-container small-12 medium-12 large-12 columns&#34; &gt;
-                    &lt;div class=&#34;small-12 medium-4 large-4 columns&#34; id=&#34;bee42&#34;&gt;
-                        &lt;a traget=&#34;_blank&#34; class=&#34;big logo&#34; href=&#34;https://bee42.com&#34;&gt;&lt;img class=&#34;&#34; src=&#34;https://devops-gathering.io/img/bee42.svg&#34;/&gt;&lt;/a&gt;
-                    &lt;/div&gt;
-                    &lt;div class=&#34;small-12 medium-8 large-8 columns&#34;&gt;
-                        &lt;p&gt;&lt;p&gt;The DevOps company bee42 solutions gmbh in Bochum raises the level of your IT by implementing solutions that perfectly match your requirements. We provide a unique infrastructure solution based on the Docker ecosystem for your needs to build and operate your IT. We love to build infrastructure, implement software, measure systems and are always looking for the next improvement.&lt;/p&gt;
-&lt;/p&gt;
-                        &lt;a class=&#34;external&#34; href=&#34;https://bee42.com&#34;&gt;&lt;i class=&#34;fa fa-arrow-right&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; bee42 solutions gmbh &lt;/a&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
