@@ -1298,6 +1298,20 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/jan-bruder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jan-bruder/</guid>
+      <description>&lt;p&gt;Jan Bruder is a Linux containers and open source enthusiast. He joined Rancher Labs in 2016 and is working with Rancher users all over Europe on adopting Linux containers in their production environments.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/&#34;&gt;Deploying and managing production-grade Kubernetes clusters with Rancher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/joao-santos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1306,20 +1320,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/CI-CD-at-Zalando/&#34;&gt;CI/CD at Zalando&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/konstantin-diener/</guid>
-      <description>&lt;p&gt;Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/&#34;&gt;Tear down silos! How? What comes next?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
