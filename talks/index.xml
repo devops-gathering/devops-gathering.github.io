@@ -114,5 +114,16 @@ This talk shows, why it is important to include database scripts in your continu
 </description>
     </item>
     
+    <item>
+      <title>Managed Container Orchestration with ECS at Scout24</title>
+      <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</guid>
+      <description>&lt;p&gt;With ECS, AWS offers a managed container service that states to schedule containers based on resource needs, isolation policies and availability requirements. Sounds good, but is it really that easy?
+In this talk, Philipp gives insights how Scout24 uses ECS to improve their developer experience. Learn, what needs to be done to make ECS production ready, which tweaks are useful and how changes can be delivered continuously. Let yourself be surprised by a a better solution to scale your cluster effectively and save some money. Also, find out, how CloudFormation can be leveraged to free teams from the burden of running their own cluster while keeping a &amp;ldquo;You build it, you run it&amp;rdquo; culture.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
