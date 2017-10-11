@@ -160,4 +160,8 @@
     <loc>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</loc>
   </url>
   
+  <url>
+    <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
+  </url>
+  
 </urlset>
