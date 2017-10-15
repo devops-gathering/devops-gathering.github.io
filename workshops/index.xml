@@ -43,47 +43,6 @@
     </item>
     
     <item>
-      <title>Getting started with Docker on Windows Server 2016</title>
-      <link>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/Getting-started-with-Docker-on-Windows-Server-2016/</guid>
-      <description>
-
-&lt;p&gt;In this hands-on workshop you&amp;rsquo;ll learn about the new features of Windows Server 2016: Docker and Windows Containers. We will start how to install the Docker Engine on Microsoft Azure and secure it for remote access with TLS certificates.&lt;/p&gt;
-
-&lt;p&gt;You will learn the basic Docker commands to create Docker images and push them to the Docker Hub. In order to run a Docker container you&amp;rsquo;ll pull a specific Docker image from the Docker Hub and run it on your Docker Engine. With this practice you&amp;rsquo;ll also learn how to configure TCP/IP ports and volumes to connect your running container to the outside world.
-We&amp;rsquo;ll dig deep into the art of crafting Dockerfiles for Windows with utilizing PowerShell commands. This way you&amp;rsquo;ll learn some best practices how to write almost perfect Dockerfiles for Windows.&lt;/p&gt;
-
-&lt;p&gt;Finally we will take a real world application based upon microservices and dockerize it into a set of Windows containers. You&amp;rsquo;ll learn how to use Docker Compose to start, orchestrate and scale the whole application.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setup Docker Engine on Windows Server 2016&lt;/li&gt;
-&lt;li&gt;Learn about the base OS images&lt;/li&gt;
-&lt;li&gt;Secure remote Docker access via TLS&lt;/li&gt;
-&lt;li&gt;Networking, Logging&lt;/li&gt;
-&lt;li&gt;Persisting data using volumes&lt;/li&gt;
-&lt;li&gt;Dockerfile best practices&lt;/li&gt;
-&lt;li&gt;Dockerizing a Windows application&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;what-you-will-need&#34;&gt;What you will need&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Basic Windows and Docker experience recommended, but not required&lt;/li&gt;
-&lt;li&gt;Bring your own laptop (Windows, macOS, Linux)&lt;/li&gt;
-&lt;li&gt;You&amp;rsquo;ll need RDP client and Docker client on your laptop&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://stefanscherer.github.io/windows-docker-workshop/&#34;&gt;http://stefanscherer.github.io/windows-docker-workshop/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Running Docker Containers on AWS</title>
       <link>https://devops-gathering.io/workshops/Running-Docker-Containers-on-AWS/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
