@@ -1283,6 +1283,21 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Kevin-Wittek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Kevin-Wittek/</guid>
+      <description>&lt;p&gt;Java developer and JVM fanboy since being introduced to the language back in  school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
+Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/&#34;&gt;Groovy integration testing with Docker and TestContainers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Roland-Huss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1306,20 +1321,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/&#34;&gt;Modern Monitoring for Dev and Ops&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/jan-bruder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/jan-bruder/</guid>
-      <description>&lt;p&gt;Jan Bruder is a Linux containers and open source enthusiast. He joined Rancher Labs in 2016 and is working with Rancher users all over Europe on adopting Linux containers in their production environments.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/&#34;&gt;Deploying and managing production-grade Kubernetes clusters with Rancher&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
