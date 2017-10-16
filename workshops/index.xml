@@ -51,11 +51,13 @@ We start with an overview and introduce the first steps by demonstrating the usa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</guid>
-      <description>&lt;p&gt;Use a production-like, portable test environment described in code - gone is the need for heavyweight manual setup of test systems and the pain of sharing test infrastructure with multiple developers and teams. Launch a fully functional testing suite not only consisting of unit tests, but also of integration tests, right from source control. And instead of manually writing and maintaining a bunch of brittle bash scripts for instrumenting your containers, participants will learn to leverage existing knowledge in writing JUnit tests and make use of the powerful TestContainers Java library.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Use a production-like, portable test environment described in code - gone is the need for heavyweight manual setup of test systems and the pain of sharing test infrastructure with multiple developers and teams. Launch a fully functional testing suite not only consisting of unit tests, but also of integration tests, right from source control. And instead of manually writing and maintaining a bunch of brittle bash scripts for instrumenting your containers, participants will learn to leverage existing knowledge in writing JUnit tests and make use of the powerful TestContainers Java library.&lt;/p&gt;
 
 &lt;p&gt;Going one step further, the workshop will also introduce Groovy and Spock as a substitute for JUnit, allowing to write easily readable and expressive BDD style tests.&lt;/p&gt;
 
-&lt;p&gt;##Important:&lt;/p&gt;
+&lt;h3 id=&#34;important&#34;&gt;Important:&lt;/h3&gt;
 
 &lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:&lt;/p&gt;
 
