@@ -125,15 +125,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
   </url>
   
   <url>
