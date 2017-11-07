@@ -145,5 +145,17 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
 </description>
     </item>
     
+    <item>
+      <title>Docker on AWS</title>
+      <link>https://devops-gathering.io/talks/Docker-on-AWS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Docker-on-AWS/</guid>
+      <description>&lt;p&gt;Amazon Webservices - the cloud offering of Amazon - has introduced more and more support for using Docker on AWS. This talks looks at the different options of running Docker on AWS and how they can help you make your life as a professional Docker user easier.&lt;/p&gt;
+
+&lt;p&gt;The talk will start by providing some background about the relevant AWS building blocks for the highly available infrastructure that is used by all the different Docker options available. Then it will continue with a deep dive of each individual option and end with a comparison and advice when to use what.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
