@@ -157,5 +157,15 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
 </description>
     </item>
     
+    <item>
+      <title>Stateful Applications on Kubernetes</title>
+      <link>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</guid>
+      <description>&lt;p&gt;The nature of the container is ephemeral. Data inside it only lives as long as it’s container. Using this paradigma containerisation has revolutionized software development of applications. But once in a while, every application needs to store some data in a persistent way. Kubernetes offers here multiple solutions to provision persistent storage for containers. After a short introduction about the usage of storage in Kubernetes, we will you some examples how this can be handled practically. Doing this, we will evolve the architecture of an application from a single master database to a distributed, easily scalable backed.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

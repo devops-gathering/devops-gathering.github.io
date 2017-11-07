@@ -81,6 +81,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/Nicolas-Byl/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/Roland-Huss/</loc>
   </url>
   
@@ -182,6 +186,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</loc>
   </url>
   
 </urlset>
