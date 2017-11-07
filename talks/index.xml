@@ -167,5 +167,15 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
 </description>
     </item>
     
+    <item>
+      <title>Monitoring FairCoin blockchain with Prometheus</title>
+      <link>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</guid>
+      <description>&lt;p&gt;FairCoin is experimenting with a novel method for maintaining the blockchain called Proof of Cooperation (PoC). PoC depends on the high availability of some nodes called CVN. In this talk I&amp;rsquo;ll present a Prometheus based monitoring stack that is currently being used for assisting CVN operators.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
