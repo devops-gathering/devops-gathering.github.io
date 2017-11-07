@@ -72,6 +72,20 @@ Found his home at German cyber security service provider GDATA Advanced Analytic
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Maykel-Moya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Maykel-Moya/</guid>
+      <description>&lt;p&gt;Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services. He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/&#34;&gt;Monitoring FairCoin blockchain with Prometheus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Niclas-Mietz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -207,25 +221,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/&#34;&gt;Continuous Databas Integration with Flyway&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/victor-farcic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/victor-farcic/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Viktor Farcic&lt;/strong&gt; is a Senior Consultant at CloudBees, a member of the Docker Captains group, and books author. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, Java, Scala, etc. He never worked with Fortran. His current favorite is &lt;strong&gt;Go&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;His big passions are DevOps, Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD). He often speaks at community gatherings and conferences. He published The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices, [The DevOps 2.1 Toolkit: Docker Swarm: Building, testing, deploying, and monitoring services inside Docker Swarm clusters, and the Test-Driven Java Development.&lt;/p&gt;
-
-&lt;p&gt;His random thoughts and tutorials can be found in his blog TechnologyConversations.com.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Building-a-Self-Sufficient-System/&#34;&gt;Building A Self-Sufficient System&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/&#34;&gt;Workshop: Building A Self-Sufficient System&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
