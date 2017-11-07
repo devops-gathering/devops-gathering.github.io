@@ -1283,6 +1283,20 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Govinda-Fichtner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Govinda-Fichtner/</guid>
+      <description>&lt;p&gt;Senior DevOps &amp;amp; Cloud-Engineer at Paessler AG Govinda has been working in the IT industry for more than 18 years in many different roles such as developer, administrator, consultant, architect, trainer, project manager, team lead and CTO. Currently he is busy building www.my-prtg.com, which is an AWS-based SaaS infrastructure monitoring solution. Govinda is a certified Linux and AWS professional who has been working as a DevOps based on agile principles since 2005. As part of the Hypriot-Team and as organiser of the &amp;ldquo;DevOps Franken&amp;rdquo;- and &amp;ldquo;Docker Bamberg&amp;rdquo;-User-Groups he is organising workshops about Docker, IoT, DevOps and Cloud and also giving talks on a regular base about a broad range of subjects like Docker, IoT, AWS and Microservices.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-on-AWS/&#34;&gt;Docker on AWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Kevin-Wittek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1311,20 +1325,6 @@ Found his home at German cyber security service provider GDATA Advanced Analytic
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/&#34;&gt;Groovy integration testing with Docker and TestContainers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/Niclas-Mietz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/Niclas-Mietz/</guid>
-      <description>&lt;p&gt;Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/&#34;&gt;Workshop: GitLab/CI Basics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
