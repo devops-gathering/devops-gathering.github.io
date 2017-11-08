@@ -76,7 +76,12 @@ Found his home at German cyber security service provider GDATA Advanced Analytic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/Maykel-Moya/</guid>
-      <description>&lt;p&gt;Maykel is working as a SRE at ShuttleCloud Corp., a small startup specialized in migrating email and contacts at scale. If you have recently imported data to GMail, GContacts or Yahoo!, you have used ShuttleCloud services. He studied Software Engineering in La Habana, Cuba. His current ongoing challenges are improving the monitoring of the infrastructure and migrating it to kubernetes.&lt;/p&gt;
+      <description>&lt;p&gt;Maykel studied Software Engineering in La Habana, Cuba. He is currently the Engineering Lead in ShuttleCloud Corp., a small company specialized
+in migrating email and contacts at scale. If you have recently imported contacts or email to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.&lt;/p&gt;
+
+&lt;p&gt;His ongoing challenges are migrating the infrastructure to kubernetes and improve its overall reliability. Enhance the monitoring is one concrete front he is closely working with.&lt;/p&gt;
+
+&lt;p&gt;Being also a cryptocoin enthusiast, he tries to combine both worlds where there are an opportunity.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/&#34;&gt;Monitoring FairCoin blockchain with Prometheus&lt;/a&gt;&lt;/li&gt;
