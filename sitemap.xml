@@ -157,10 +157,6 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</loc>
   </url>
   
@@ -185,15 +181,19 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
   </url>
   
   <url>
