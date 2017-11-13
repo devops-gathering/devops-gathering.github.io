@@ -150,6 +150,20 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Thomas-Fricke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Thomas-Fricke/</guid>
+      <description>&lt;p&gt;Thomas Fricke is the CTO of Endocode and a cloud architect. He likes to work with scaling applications, especially with distributed databases. He has worked as a development engineer, system, software and cloud architect for many years. Current topics are large scale system automation for cloud native applications.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Architecture-Patterns-for-Microservices-in-Kubernetes/&#34;&gt;Architecture Patterns for Microservices in Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -214,20 +228,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Ops-unleashed/&#34;&gt;Docker: Ops unleashed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/philipp-garbe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/philipp-garbe/</guid>
-      <description>&lt;p&gt;Philipp works as Lead Platform Engineer at Scout24 in Munich. He is driven by technologies and tools that allows him to release faster and more often. He expects that every commit automatically goes into production and it shouldn&amp;rsquo;t surprise that he&amp;rsquo;s excited about microservices, Docker and the cloud. Affected by Pain Driven Development, Philipp believes that things need to be changed whenever the pain is big enough. As Docker Captain he also tries to share his knowledge and experience about Containers with the community.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/&#34;&gt;Managed Container Orchestration with ECS at Scout24&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
