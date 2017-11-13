@@ -137,6 +137,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Building-a-Self-Sufficient-System/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
   </url>
   
@@ -162,10 +166,6 @@
   
   <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Building-a-Self-Sufficient-System/</loc>
   </url>
   
   <url>
