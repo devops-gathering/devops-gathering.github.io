@@ -177,6 +177,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
   </url>
   
@@ -186,10 +190,6 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
   </url>
   
   <url>
