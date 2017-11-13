@@ -156,6 +156,16 @@ This talk shows, why it is important to include database scripts in your continu
     </item>
     
     <item>
+      <title>Architecture Patterns for Microservices in Kubernetes</title>
+      <link>https://devops-gathering.io/talks/Architecture-Patterns-for-Microservices-in-Kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Architecture-Patterns-for-Microservices-in-Kubernetes/</guid>
+      <description>&lt;p&gt;The talk describes the common patterns to build applications for the use in containers, of &amp;lsquo;Container Design Patterns&amp;rsquo; which describe container interactions on a single host and the revival of &amp;lsquo;Deployment Patterns&amp;rsquo; to be used in the distributed systems. Kubernetes is used to look into real world examples with configurations for common problems from simple sidecars to more complex pattern templating application suites from persistent systems to the loadbalancer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Managed Container Orchestration with ECS at Scout24</title>
       <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
