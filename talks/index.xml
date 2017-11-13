@@ -127,6 +127,17 @@ This talk shows, why it is important to include database scripts in your continu
     </item>
     
     <item>
+      <title>Container Software Supply Chain</title>
+      <link>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</guid>
+      <description>&lt;p&gt;To drive the container innovation and efficiency in critical business infrastructure more automation is needed. Create your own CI/CD systems and pipelines speedup your deliveries. Planing and management of software supply chain can be a complex challenge.
+This talk discuss some useful patterns and tools of build a secure container software supply chain. We present some solutions to manage container promotion from development to production with a secure container registry.  You can learn to create container images with passion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Managed Container Orchestration with ECS at Scout24</title>
       <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
