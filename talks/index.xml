@@ -35,6 +35,18 @@
     </item>
     
     <item>
+      <title>Modern Monitoring for Dev and Ops</title>
+      <link>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</guid>
+      <description>&lt;p&gt;Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.&lt;/p&gt;
+
+&lt;p&gt;Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting? Luckily, &lt;a href=&#34;https://landing.google.com/sre/book.html&#34;&gt;the gods have shared some of their wisdom with us&lt;/a&gt;. One thing that sticks out is the importance of symptom-based alerting. Black-box probing seems to be just perfect for that. However, while it plays its role, it is by far not sufficient. This talk will shed light on the not necessarily obvious reasons why black-box monitoring needs to be complemented by quite a lot of white-box monitoring. Our showcase will be &lt;a href=&#34;https://prometheus.io&#34;&gt;Prometheus&lt;/a&gt;, a monitoring and alerting system focused on white-box monitoring, bringing you the enlightening fire of the gods since 2015. We will not focus on technical details of Prometheus (there are loads of talks and tutorials out there on the internet). Instead, this is about the change of monitoring from being mainly an operational concern to a firm involvement of developers as a prerequisite of meaningful white-box monitoring. This both requires and encourages some kind of DevOps approach and will, in best DevOps spirit, end up beneficial for all parties involved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stateful Applications on Kubernetes</title>
       <link>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -151,18 +163,6 @@ This talk shows, why it is important to include database scripts in your continu
 &lt;li&gt;Built-in infrastructure services such as load balancers, cross-host networking and storage drivers&lt;/li&gt;
 &lt;li&gt;Access control and authentication of users across Kubernetes clusters&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modern Monitoring for Dev and Ops</title>
-      <link>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</guid>
-      <description>&lt;p&gt;Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.&lt;/p&gt;
-
-&lt;p&gt;Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting? Luckily, &lt;a href=&#34;https://landing.google.com/sre/book.html&#34;&gt;the gods have shared some of their wisdom with us&lt;/a&gt;. One thing that sticks out is the importance of symptom-based alerting. Black-box probing seems to be just perfect for that. However, while it plays its role, it is by far not sufficient. This talk will shed light on the not necessarily obvious reasons why black-box monitoring needs to be complemented by quite a lot of white-box monitoring. Our showcase will be &lt;a href=&#34;https://prometheus.io&#34;&gt;Prometheus&lt;/a&gt;, a monitoring and alerting system focused on white-box monitoring, bringing you the enlightening fire of the gods since 2015. We will not focus on technical details of Prometheus (there are loads of talks and tutorials out there on the internet). Instead, this is about the change of monitoring from being mainly an operational concern to a firm involvement of developers as a prerequisite of meaningful white-box monitoring. This both requires and encourages some kind of DevOps approach and will, in best DevOps spirit, end up beneficial for all parties involved.&lt;/p&gt;
 </description>
     </item>
     

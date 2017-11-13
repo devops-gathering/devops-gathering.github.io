@@ -153,6 +153,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/</loc>
   </url>
   
@@ -198,10 +202,6 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
   </url>
   
   <url>
