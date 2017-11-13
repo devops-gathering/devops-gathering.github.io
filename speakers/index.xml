@@ -99,6 +99,7 @@ in migrating email and contacts at scale. If you have recently imported contacts
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/&#34;&gt;Workshop: GitLab/CI Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Container-Software-Supply-Chain/&#34;&gt;Container Software Supply Chain&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -113,6 +114,21 @@ in migrating email and contacts at scale. If you have recently imported contacts
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/&#34;&gt;Stateful Applications on Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/Peter-Rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Peter-Rossbach/</guid>
+      <description>&lt;p&gt;As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but
+also our customers to top performances.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Container-Software-Supply-Chain/&#34;&gt;Container Software Supply Chain&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -212,20 +228,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/&#34;&gt;Managed Container Orchestration with ECS at Scout24&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
-      <description>&lt;p&gt;Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She is in the organisation team of Softwerkskammer Ruhrgebiet.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/&#34;&gt;Continuous Databas Integration with Flyway&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

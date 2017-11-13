@@ -89,6 +89,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/Peter-Rossbach/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/Roland-Huss/</loc>
   </url>
   
@@ -141,10 +145,6 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/</loc>
   </url>
   
@@ -153,23 +153,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
   </url>
   
   <url>
@@ -181,11 +169,27 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</loc>
+    <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
   </url>
   
   <url>
@@ -193,11 +197,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
+    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
+    <loc>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
   </url>
   
 </urlset>

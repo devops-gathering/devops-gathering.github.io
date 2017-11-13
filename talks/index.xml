@@ -21,28 +21,6 @@
     </item>
     
     <item>
-      <title>Tear down silos! How? What comes next?</title>
-      <link>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</guid>
-      <description>
-
-&lt;p&gt;The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And is about the rest of the organization beside Dev and Ops people?&lt;/p&gt;
-
-&lt;h2 id=&#34;i-will-discuss-topic-like&#34;&gt;I will discuss topic like:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Team Topologies&lt;/li&gt;
-&lt;li&gt;Communities of Practice&lt;/li&gt;
-&lt;li&gt;real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams&lt;/li&gt;
-&lt;li&gt;Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams&lt;/li&gt;
-&lt;li&gt;Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CI/CD at Zalando</title>
       <link>https://devops-gathering.io/talks/CI-CD-at-Zalando/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,14 +35,46 @@
     </item>
     
     <item>
-      <title>Modern Monitoring for Dev and Ops</title>
-      <link>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</link>
+      <title>Stateful Applications on Kubernetes</title>
+      <link>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</guid>
-      <description>&lt;p&gt;Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</guid>
+      <description>&lt;p&gt;The nature of the container is ephemeral. Data inside it only lives as long as it’s container. Using this paradigma containerisation has revolutionized software development of applications. But once in a while, every application needs to store some data in a persistent way. Kubernetes offers here multiple solutions to provision persistent storage for containers. After a short introduction about the usage of storage in Kubernetes, we will you some examples how this can be handled practically. Doing this, we will evolve the architecture of an application from a single master database to a distributed, easily scalable backed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker: Ops unleashed</title>
+      <link>https://devops-gathering.io/talks/Docker-Ops-unleashed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Docker-Ops-unleashed/</guid>
+      <description>&lt;p&gt;Ops are doomed in the quicksand of enterprise. We gained experience across our Docker journey which I would like to share. I will show you that it is possible to run Docker On-Premise and I will show you that it is worth it because you will be able to escape the “I have no time daemon&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting? Luckily, &lt;a href=&#34;https://landing.google.com/sre/book.html&#34;&gt;the gods have shared some of their wisdom with us&lt;/a&gt;. One thing that sticks out is the importance of symptom-based alerting. Black-box probing seems to be just perfect for that. However, while it plays its role, it is by far not sufficient. This talk will shed light on the not necessarily obvious reasons why black-box monitoring needs to be complemented by quite a lot of white-box monitoring. Our showcase will be &lt;a href=&#34;https://prometheus.io&#34;&gt;Prometheus&lt;/a&gt;, a monitoring and alerting system focused on white-box monitoring, bringing you the enlightening fire of the gods since 2015. We will not focus on technical details of Prometheus (there are loads of talks and tutorials out there on the internet). Instead, this is about the change of monitoring from being mainly an operational concern to a firm involvement of developers as a prerequisite of meaningful white-box monitoring. This both requires and encourages some kind of DevOps approach and will, in best DevOps spirit, end up beneficial for all parties involved.&lt;/p&gt;
+&lt;p&gt;In my talk I will give you a brief description about what we are doing in the Ops department and why it is hard to manage thousands of servers with three persons although we are currently using containers based on OpenVZ. The “I have no time daemon” leads the Ops into a situation where they are working like beasts but in the end they feel like as they are trapped in quicksand. Ops are trying to escape this trap, but the harder they try, the more they will be trapped. The time consuming roll out of new servers, the management of them and the continuous pop up of new applications will lock them down. The solution to solve this situation is to use Docker. But Docker is hard to manage on-premise. You will need to have a lot of knowhow and you will have to persuade the developers where their benefits will be if they use Docker. During a short online demo I will show you how such an on-premise translation looks like in real live to unleash the power of your ops. Afterwards I will close my talk with a conclusion and lookout on what is just in front of our ship&amp;rsquo;s bow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud</title>
+      <link>https://devops-gathering.io/talks/Docker-on-AWS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Docker-on-AWS/</guid>
+      <description>&lt;p&gt;Amazon Webservices - the cloud offering of Amazon - has introduced more and more support for using Docker on AWS. This talks looks at the different options of running Docker on AWS and how they can help you make your life as a professional Docker user easier.&lt;/p&gt;
+
+&lt;p&gt;The talk will start by providing some background about the relevant AWS building blocks for the highly available infrastructure that is used by all the different Docker options available. Then it will continue with a deep dive of each individual option and end with a comparison and advice when to use what.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monitoring FairCoin blockchain with Prometheus</title>
+      <link>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</guid>
+      <description>&lt;p&gt;FairCoin is experimenting with a novel method for maintaining the blockchain called Proof of Cooperation (PoC). PoC depends on the high availability of some nodes called CVN. In this talk I&amp;rsquo;ll present a Prometheus based monitoring stack that is currently being used for assisting CVN operators.&lt;/p&gt;
 </description>
     </item>
     
@@ -92,12 +102,13 @@
     </item>
     
     <item>
-      <title>Stateful Applications on Kubernetes</title>
-      <link>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</link>
+      <title>Container Software Supply Chain</title>
+      <link>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</guid>
-      <description>&lt;p&gt;The nature of the container is ephemeral. Data inside it only lives as long as it’s container. Using this paradigma containerisation has revolutionized software development of applications. But once in a while, every application needs to store some data in a persistent way. Kubernetes offers here multiple solutions to provision persistent storage for containers. After a short introduction about the usage of storage in Kubernetes, we will you some examples how this can be handled practically. Doing this, we will evolve the architecture of an application from a single master database to a distributed, easily scalable backed.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</guid>
+      <description>&lt;p&gt;To drive the container innovation and efficiency in critical business infrastructure more automation is needed. Create your own CI/CD systems and pipelines speedup your deliveries. Planing and management of software supply chain can be a complex challenge.
+This talk discuss some useful patterns and tools of build a secure container software supply chain. We present some solutions to manage container promotion from development to production with a secure container registry.  You can learn to create container images with passion.&lt;/p&gt;
 </description>
     </item>
     
@@ -111,29 +122,6 @@
 
 &lt;p&gt;Developers often neglect scritpts for relational databases. For the first release, they are generated by the ORM framework. But at the lastest during the second release, developers have to write the database migration scripts by themself. At this point the mess begins: the migration script are attached on tickets in the ticket system; they are shared via emails; maybe they are hidden in release notes and so on. At some point the overview, which migration script is for which software version is lost.
 This talk shows, why it is important to include database scripts in your continuous integration process and which conditions, not only technical, have to be defined. A demo, based on a Java web application, shows how Flyway can support in this challenge.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Docker: Ops unleashed</title>
-      <link>https://devops-gathering.io/talks/Docker-Ops-unleashed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Docker-Ops-unleashed/</guid>
-      <description>&lt;p&gt;Ops are doomed in the quicksand of enterprise. We gained experience across our Docker journey which I would like to share. I will show you that it is possible to run Docker On-Premise and I will show you that it is worth it because you will be able to escape the “I have no time daemon&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;In my talk I will give you a brief description about what we are doing in the Ops department and why it is hard to manage thousands of servers with three persons although we are currently using containers based on OpenVZ. The “I have no time daemon” leads the Ops into a situation where they are working like beasts but in the end they feel like as they are trapped in quicksand. Ops are trying to escape this trap, but the harder they try, the more they will be trapped. The time consuming roll out of new servers, the management of them and the continuous pop up of new applications will lock them down. The solution to solve this situation is to use Docker. But Docker is hard to manage on-premise. You will need to have a lot of knowhow and you will have to persuade the developers where their benefits will be if they use Docker. During a short online demo I will show you how such an on-premise translation looks like in real live to unleash the power of your ops. Afterwards I will close my talk with a conclusion and lookout on what is just in front of our ship&amp;rsquo;s bow.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managed Container Orchestration with ECS at Scout24</title>
-      <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</guid>
-      <description>&lt;p&gt;With ECS, AWS offers a managed container service that states to schedule containers based on resource needs, isolation policies and availability requirements. Sounds good, but is it really that easy?
-In this talk, Philipp gives insights how Scout24 uses ECS to improve their developer experience. Learn, what needs to be done to make ECS production ready, which tweaks are useful and how changes can be delivered continuously. Let yourself be surprised by a a better solution to scale your cluster effectively and save some money. Also, find out, how CloudFormation can be leveraged to free teams from the burden of running their own cluster while keeping a &amp;ldquo;You build it, you run it&amp;rdquo; culture.&lt;/p&gt;
 </description>
     </item>
     
@@ -156,24 +144,47 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
     </item>
     
     <item>
-      <title>DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud</title>
-      <link>https://devops-gathering.io/talks/Docker-on-AWS/</link>
+      <title>Modern Monitoring for Dev and Ops</title>
+      <link>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Docker-on-AWS/</guid>
-      <description>&lt;p&gt;Amazon Webservices - the cloud offering of Amazon - has introduced more and more support for using Docker on AWS. This talks looks at the different options of running Docker on AWS and how they can help you make your life as a professional Docker user easier.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</guid>
+      <description>&lt;p&gt;Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.&lt;/p&gt;
 
-&lt;p&gt;The talk will start by providing some background about the relevant AWS building blocks for the highly available infrastructure that is used by all the different Docker options available. Then it will continue with a deep dive of each individual option and end with a comparison and advice when to use what.&lt;/p&gt;
+&lt;p&gt;Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting? Luckily, &lt;a href=&#34;https://landing.google.com/sre/book.html&#34;&gt;the gods have shared some of their wisdom with us&lt;/a&gt;. One thing that sticks out is the importance of symptom-based alerting. Black-box probing seems to be just perfect for that. However, while it plays its role, it is by far not sufficient. This talk will shed light on the not necessarily obvious reasons why black-box monitoring needs to be complemented by quite a lot of white-box monitoring. Our showcase will be &lt;a href=&#34;https://prometheus.io&#34;&gt;Prometheus&lt;/a&gt;, a monitoring and alerting system focused on white-box monitoring, bringing you the enlightening fire of the gods since 2015. We will not focus on technical details of Prometheus (there are loads of talks and tutorials out there on the internet). Instead, this is about the change of monitoring from being mainly an operational concern to a firm involvement of developers as a prerequisite of meaningful white-box monitoring. This both requires and encourages some kind of DevOps approach and will, in best DevOps spirit, end up beneficial for all parties involved.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Monitoring FairCoin blockchain with Prometheus</title>
-      <link>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</link>
+      <title>Managed Container Orchestration with ECS at Scout24</title>
+      <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</guid>
-      <description>&lt;p&gt;FairCoin is experimenting with a novel method for maintaining the blockchain called Proof of Cooperation (PoC). PoC depends on the high availability of some nodes called CVN. In this talk I&amp;rsquo;ll present a Prometheus based monitoring stack that is currently being used for assisting CVN operators.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</guid>
+      <description>&lt;p&gt;With ECS, AWS offers a managed container service that states to schedule containers based on resource needs, isolation policies and availability requirements. Sounds good, but is it really that easy?
+In this talk, Philipp gives insights how Scout24 uses ECS to improve their developer experience. Learn, what needs to be done to make ECS production ready, which tweaks are useful and how changes can be delivered continuously. Let yourself be surprised by a a better solution to scale your cluster effectively and save some money. Also, find out, how CloudFormation can be leveraged to free teams from the burden of running their own cluster while keeping a &amp;ldquo;You build it, you run it&amp;rdquo; culture.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tear down silos! How? What comes next?</title>
+      <link>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</guid>
+      <description>
+
+&lt;p&gt;The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And is about the rest of the organization beside Dev and Ops people?&lt;/p&gt;
+
+&lt;h2 id=&#34;i-will-discuss-topic-like&#34;&gt;I will discuss topic like:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Team Topologies&lt;/li&gt;
+&lt;li&gt;Communities of Practice&lt;/li&gt;
+&lt;li&gt;real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams&lt;/li&gt;
+&lt;li&gt;Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams&lt;/li&gt;
+&lt;li&gt;Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
