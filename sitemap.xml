@@ -141,10 +141,6 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/</loc>
   </url>
   
@@ -173,15 +169,15 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
   </url>
   
   <url>
@@ -198,6 +194,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
   </url>
   
 </urlset>

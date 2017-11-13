@@ -21,28 +21,6 @@
     </item>
     
     <item>
-      <title>Tear down silos! How? What comes next?</title>
-      <link>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</guid>
-      <description>
-
-&lt;p&gt;The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And is about the rest of the organization beside Dev and Ops people?&lt;/p&gt;
-
-&lt;h2 id=&#34;i-will-discuss-topic-like&#34;&gt;I will discuss topic like:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Team Topologies&lt;/li&gt;
-&lt;li&gt;Communities of Practice&lt;/li&gt;
-&lt;li&gt;real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams&lt;/li&gt;
-&lt;li&gt;Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams&lt;/li&gt;
-&lt;li&gt;Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CI/CD at Zalando</title>
       <link>https://devops-gathering.io/talks/CI-CD-at-Zalando/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,6 +152,28 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
       
       <guid>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</guid>
       <description>&lt;p&gt;FairCoin is experimenting with a novel method for maintaining the blockchain called Proof of Cooperation (PoC). PoC depends on the high availability of some nodes called CVN. In this talk I&amp;rsquo;ll present a Prometheus based monitoring stack that is currently being used for assisting CVN operators.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tear down silos! How? What comes next?</title>
+      <link>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</guid>
+      <description>
+
+&lt;p&gt;The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And is about the rest of the organization beside Dev and Ops people?&lt;/p&gt;
+
+&lt;h2 id=&#34;i-will-discuss-topic-like&#34;&gt;I will discuss topic like:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Team Topologies&lt;/li&gt;
+&lt;li&gt;Communities of Practice&lt;/li&gt;
+&lt;li&gt;real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams&lt;/li&gt;
+&lt;li&gt;Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams&lt;/li&gt;
+&lt;li&gt;Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
