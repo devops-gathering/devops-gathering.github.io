@@ -153,19 +153,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
   </url>
   
   <url>
@@ -201,7 +193,15 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
   </url>
   
   <url>
