@@ -6,8 +6,33 @@
     <description>Recent content on Devops Gathering 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 09:28:54 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
     <atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Student Ticket Sponsoring (by open knowledge)</title>
+      <link>https://devops-gathering.io/student-ticket-sponsoring/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/student-ticket-sponsoring/</guid>
+      <description>
+
+&lt;p&gt;Dear DevOps-Friends and students!&lt;/p&gt;
+
+&lt;p&gt;We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2018 :-)
+At this point a big thank you to our student sponsor &lt;a href=&#34;http://www.openknowledge.de/&#34;&gt;open knowledge&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;you-have-the-chance-to-get-one-sponsored-ticket-for-the-conference-days&#34;&gt;You have the chance to get one sponsored ticket for the conference days!&lt;/h2&gt;
+
+&lt;p&gt;Want to win one ticket? Then please fill out the following application form and send us afterwards your student-ID (mail to: info@devops-gathering.io)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfx60Ym-UWf-oXOfuQqY4hoox6RWKa0yv-eO9qtt8Uk9ylOIQ/viewform&#34;&gt;https://docs.google.com/forms/d/e/1FAIpQLSfx60Ym-UWf-oXOfuQqY4hoox6RWKa0yv-eO9qtt8Uk9ylOIQ/viewform&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Videos, photos and impressions of the DevOps Gathering</title>
@@ -1303,25 +1328,6 @@ Haftung für Inhalte&lt;/p&gt;
       <guid>https://devops-gathering.io/speakers/Kevin-Wittek/</guid>
       <description>&lt;p&gt;Java developer and JVM fanboy since being introduced to the language back in  school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
 Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/&#34;&gt;Groovy integration testing with Docker and TestContainers&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/Matthias-Rottlaender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/Matthias-Rottlaender/</guid>
-      <description>&lt;p&gt;Jack-Of-All-Trades promoting perpetual pursuit of technical excellence.
-Developer of Java systems since about 10 years ago.
-Passionate usability nit-pick.
-Zealot hooking everyone in his vicinity on testing.
-Wholehearted embracer of agile principles.
-Found his home at German cyber security service provider GDATA Advanced Analytics, where he can do all of the above on a daily basis.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/&#34;&gt;Groovy integration testing with Docker and TestContainers&lt;/a&gt;&lt;/li&gt;
