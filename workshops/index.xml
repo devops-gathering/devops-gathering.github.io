@@ -41,16 +41,27 @@ We start with an overview and introduce the first steps by demonstrating the usa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/workshops/Workshop-Alternative-Container-Runtimes/</guid>
-      <description>&lt;p&gt;In this Workshop we will deal with the &amp;ldquo;other&amp;rdquo; Container Runtimes.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;In this workshop we will look into &amp;ldquo;alternative&amp;rdquo; container runtimes.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Was macht eigentlich einen Container aus?&lt;/li&gt;
-&lt;li&gt;Was steckt hinter OCI?&lt;/li&gt;
-&lt;li&gt;Welche Runtimes gibt es?&lt;/li&gt;
-&lt;li&gt;Wie ist der Stand von Rkt, Clear Container, Cri-o?&lt;/li&gt;
-&lt;li&gt;Handson: Kubernetes Minikube mit Cri-o, was geht, was geht nicht mehr
-und ist das gut so?&lt;/li&gt;
+&lt;li&gt;What defines a container?&lt;/li&gt;
+&lt;li&gt;What is behind OCI?&lt;/li&gt;
+&lt;li&gt;Which runtimes can we use?&lt;/li&gt;
+&lt;li&gt;What is the state of rkt, clear containers, cri-o?&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;hands-on&#34;&gt;Hands-On&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;what is up with Kubernetes and Minikube using Cri-o,&lt;/li&gt;
+&lt;li&gt;whatdoes not work any more and is it wrong or right.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;requirement&#34;&gt;Requirement:&lt;/h2&gt;
+
+&lt;p&gt;Works best with an up to date Linux laptop. On  Mac and Windows we need to use virtual machines. To use the latest versions, one week before the workshop begins you will receive the lates installation requirements&lt;/p&gt;
 </description>
     </item>
     
