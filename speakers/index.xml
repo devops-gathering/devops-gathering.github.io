@@ -206,6 +206,22 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/jorge-salamero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jorge-salamero/</guid>
+      <description>&lt;p&gt;Jorge enjoys monitoring all the things, from his container clusters to writing sensors plugins and DIY projects with Raspberry PI and ESP8266.&lt;/p&gt;
+
+&lt;p&gt;Currently he is part of the Sysdig team, and in the past was one of the promoters of HumanOps. When he is away from computers, you will find him walking with his 2 dogs across the countryside or driving his car through a twisted road.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Container-Troubleshooting-with-Sysdig-Open-Source/&#34;&gt;Workshop: Container Troubleshooting with Sysdig Open Source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -214,20 +230,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/&#34;&gt;Tear down silos! How? What comes next?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/mario-kleinsasser/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
-      <description>&lt;p&gt;Mario Kleinsasser is the team leader of a small web-hosting department of a large construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Through the transition and migration to Docker he transforms theoretical concepts into working durable Docker solutions.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-Ops-unleashed/&#34;&gt;Docker: Ops unleashed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

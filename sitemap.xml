@@ -118,6 +118,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/jorge-salamero/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/konstantin-diener/</loc>
   </url>
   
@@ -179,6 +183,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Workshop-Container-Troubleshooting-with-Sysdig-Open-Source/</loc>
   </url>
   
   <url>
