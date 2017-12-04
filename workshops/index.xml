@@ -36,6 +36,25 @@ We start with an overview and introduce the first steps by demonstrating the usa
     </item>
     
     <item>
+      <title>Workshop: Alternative Container Runtimes - The World after Docker?</title>
+      <link>https://devops-gathering.io/workshops/Workshop-Alternative-Container-Runtimes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/Workshop-Alternative-Container-Runtimes/</guid>
+      <description>&lt;p&gt;In this Workshop we will deal with the &amp;ldquo;other&amp;rdquo; Container Runtimes.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Was macht eigentlich einen Container aus?&lt;/li&gt;
+&lt;li&gt;Was steckt hinter OCI?&lt;/li&gt;
+&lt;li&gt;Welche Runtimes gibt es?&lt;/li&gt;
+&lt;li&gt;Wie ist der Stand von Rkt, Clear Container, Cri-o?&lt;/li&gt;
+&lt;li&gt;Handson: Kubernetes Minikube mit Cri-o, was geht, was geht nicht mehr
+und ist das gut so?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Workshop: Building a Modern CI/CD Pipeline (with Docker and Kubernetes)</title>
       <link>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

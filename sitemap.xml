@@ -174,11 +174,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
+    <loc>https://devops-gathering.io/workshops/Workshop-Alternative-Container-Runtimes/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
+    <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
   </url>
   
   <url>
@@ -186,11 +186,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
+    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
   </url>
   
   <url>
