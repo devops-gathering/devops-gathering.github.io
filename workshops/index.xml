@@ -56,7 +56,7 @@ We start with an overview and introduce the first steps by demonstrating the usa
 
 &lt;ul&gt;
 &lt;li&gt;what is up with Kubernetes and Minikube using Cri-o,&lt;/li&gt;
-&lt;li&gt;whatdoes not work any more and is it wrong or right.&lt;/li&gt;
+&lt;li&gt;what does not work any more and is it wrong or right.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;requirement&#34;&gt;Requirement:&lt;/h2&gt;
