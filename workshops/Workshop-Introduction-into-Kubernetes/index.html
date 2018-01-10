@@ -38,11 +38,12 @@
 <![endif]-->
 
 	
-<meta property="og:title" content="Workshop: Alternative Container Runtimes - The World after Docker?" />
-<meta property="og:description" content="In this workshop we will look into &ldquo;alternative&rdquo; container runtimes.
- What defines a container? What is behind OCI? Which runtimes can we use? What is the state of rkt, clear containers, cri-o?  Hands-On  what is up with Kubernetes and Minikube using Cri-o, what does not work any more and is it wrong or right.  Requirement: Works best with an up to date Linux laptop. On Mac and Windows we need to use virtual machines." />
+<meta property="og:title" content="Workshop: Introduction into Kubernetes" />
+<meta property="og:description" content="The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and lel arn the basic concepts of Kubernetes.
+ Pods Services Autoscaling Rolling Updates  All handson, basic Docker and Linux knowhow required.
+Requirements:  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/workshops/Workshop-Alternative-Container-Runtimes/" />
+<meta property="og:url" content="https://devops-gathering.io/workshops/Workshop-Introduction-into-Kubernetes/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -72,9 +73,10 @@
 
 
 
-<meta itemprop="name" content="Workshop: Alternative Container Runtimes - The World after Docker?">
-<meta itemprop="description" content="In this workshop we will look into &ldquo;alternative&rdquo; container runtimes.
- What defines a container? What is behind OCI? Which runtimes can we use? What is the state of rkt, clear containers, cri-o?  Hands-On  what is up with Kubernetes and Minikube using Cri-o, what does not work any more and is it wrong or right.  Requirement: Works best with an up to date Linux laptop. On Mac and Windows we need to use virtual machines.">
+<meta itemprop="name" content="Workshop: Introduction into Kubernetes">
+<meta itemprop="description" content="The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and lel arn the basic concepts of Kubernetes.
+ Pods Services Autoscaling Rolling Updates  All handson, basic Docker and Linux knowhow required.
+Requirements:  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE.">
 
 
 
@@ -83,16 +85,17 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="92">
+<meta itemprop="wordCount" content="86">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Workshop: Alternative Container Runtimes - The World after Docker?"/>
-<meta name="twitter:description"  content="In this workshop we will look into &ldquo;alternative&rdquo; container runtimes.
- What defines a container? What is behind OCI? Which runtimes can we use? What is the state of rkt, clear containers, cri-o?  Hands-On  what is up with Kubernetes and Minikube using Cri-o, what does not work any more and is it wrong or right.  Requirement: Works best with an up to date Linux laptop. On Mac and Windows we need to use virtual machines."/>
+<meta name="twitter:title" content="Workshop: Introduction into Kubernetes"/>
+<meta name="twitter:description"  content="The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and lel arn the basic concepts of Kubernetes.
+ Pods Services Autoscaling Rolling Updates  All handson, basic Docker and Linux knowhow required.
+Requirements:  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE."/>
 
 
 
@@ -147,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="header-content" id="top">
         <div class="header-content-inner">
             <p>Thomas Fricke  </p>
-            <h1>Workshop: Alternative Container Runtimes - The World after Docker?</h1>
+            <h1>Workshop: Introduction into Kubernetes</h1>
         </div>
     </div>
     <div class="overlay"></div>
@@ -156,25 +159,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="content-box single-content">
         <div class="inner-content">
             <div class="clearfix"></div>
-            In this workshop we will look into &ldquo;alternative&rdquo; container runtimes.</p>
+            The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and lel arn the basic concepts of Kubernetes.</p>
 
 <ul>
-<li>What defines a container?</li>
-<li>What is behind OCI?</li>
-<li>Which runtimes can we use?</li>
-<li>What is the state of rkt, clear containers, cri-o?</li>
+<li>Pods</li>
+<li>Services</li>
+<li>Autoscaling</li>
+<li>Rolling Updates</li>
 </ul>
 
-<h2 id="hands-on">Hands-On</h2>
+<p>All handson, basic Docker and Linux knowhow required.</p>
+
+<h2 id="requirements">Requirements:</h2>
 
 <ul>
-<li>what is up with Kubernetes and Minikube using Cri-o,</li>
-<li>what does not work any more and is it wrong or right.</li>
+<li>either a Laptop with at least 8 GB of memory and a preinstalled
+minikube for your operating system.
+Installation instructions are here <a href="https://github.com/kubernetes/minikube">https://github.com/kubernetes/minikube</a></li>
+<li>or alternatively access to Kubernetes in a cloud like GCE.
+Instructions for GKE are here
+<a href="https://cloud.google.com/kubernetes-engine/docs/quickstart">https://cloud.google.com/kubernetes-engine/docs/quickstart</a></li>
+<li>and an installed version of Kubectl <a href="https://kubernetes.io/docs/tasks/tools/install-kubectl">https://kubernetes.io/docs/tasks/tools/install-kubectl</a></li>
 </ul>
 
-<h2 id="requirement">Requirement:</h2>
-
-<p>Works best with an up to date Linux laptop. On  Mac and Windows we need to use virtual machines. To use the latest versions, one week before the workshop begins you will receive the lates installation requirements
             <div class="speaker-box">
                 <div class="small-12 medium-4 large-2 columns">
                     <a href=""><img src="/img/speakers/thomas-fricke.png" alt=""></a>
