@@ -43,7 +43,7 @@ We start with an overview and introduce the first steps by demonstrating the usa
       <guid>https://devops-gathering.io/workshops/Workshop-Introduction-into-Kubernetes/</guid>
       <description>
 
-&lt;p&gt;The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and lel arn the basic concepts of Kubernetes.&lt;/p&gt;
+&lt;p&gt;The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and learn the basic concepts of Kubernetes.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Pods&lt;/li&gt;
