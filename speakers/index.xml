@@ -24,6 +24,20 @@
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Christian-Daschner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Christian-Daschner/</guid>
+      <description>&lt;p&gt;Christian is Senior Systems Engineer at replex and has over 12 years of IT / DevOps experience in multiple european companies. He is the founder of LinuxUserGroup Freising and started his career as Co-Maintainer for Debian packages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/The-Modern-IT-Stack/&#34;&gt;The Modern IT Stack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Govinda-Fichtner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -120,6 +134,20 @@ in migrating email and contacts at scale. If you have recently imported contacts
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Patrick-Gruhn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Patrick-Gruhn/</guid>
+      <description>&lt;p&gt;Patrick has experience in both high-tech startups and multinational enterprises. Patrick has a MSc in computer science and a Master in International Business Management, combining his ability to connect real business problems with the underlying IT.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/The-Modern-IT-Stack/&#34;&gt;The Modern IT Stack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Peter-Rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -201,36 +229,6 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/CI-CD-at-Zalando/&#34;&gt;CI/CD at Zalando&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/jorge-salamero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/jorge-salamero/</guid>
-      <description>&lt;p&gt;Jorge enjoys monitoring all the things, from his container clusters to writing sensors plugins and DIY projects with Raspberry PI and ESP8266.&lt;/p&gt;
-
-&lt;p&gt;Currently he is part of the Sysdig team, and in the past was one of the promoters of HumanOps. When he is away from computers, you will find him walking with his 2 dogs across the countryside or driving his car through a twisted road.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Container-Troubleshooting-with-Sysdig-Open-Source/&#34;&gt;Workshop: Container Troubleshooting with Sysdig Open Source&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/konstantin-diener/</guid>
-      <description>&lt;p&gt;Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/&#34;&gt;Tear down silos! How? What comes next?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

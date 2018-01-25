@@ -1317,6 +1317,20 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/Christian-Daschner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/Christian-Daschner/</guid>
+      <description>&lt;p&gt;Christian is Senior Systems Engineer at replex and has over 12 years of IT / DevOps experience in multiple european companies. He is the founder of LinuxUserGroup Freising and started his career as Co-Maintainer for Debian packages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/The-Modern-IT-Stack/&#34;&gt;The Modern IT Stack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/Govinda-Fichtner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1325,21 +1339,6 @@ Haftung für Inhalte&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-on-AWS/&#34;&gt;DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/Kevin-Wittek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/Kevin-Wittek/</guid>
-      <description>&lt;p&gt;Java developer and JVM fanboy since being introduced to the language back in  school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
-Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/&#34;&gt;Groovy integration testing with Docker and TestContainers&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
