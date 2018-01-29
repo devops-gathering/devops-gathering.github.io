@@ -9,12 +9,14 @@
     <atom:link href="https://devops-gathering.io/workshops/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Workshop: Building A Self-Sufficient System</title>
+      <title>Workshop (SOLD OUT): Building A Self-Sufficient System</title>
       <link>https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/</guid>
-      <description>&lt;p&gt;What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us. Many solutions provide self-healing by making sure that the system is (almost) always in the desired state.&lt;/p&gt;
+      <description>&lt;p&gt;###Please note that this workshop is already sold out!&lt;/p&gt;
+
+&lt;p&gt;What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us. Many solutions provide self-healing by making sure that the system is (almost) always in the desired state.&lt;/p&gt;
 
 &lt;p&gt;The problem with self-healing is that it does not take into the account constant changes. The number of requests is continuously changing, errors are created, network bandwidth is fluctuating, and so on. A cluster, and services inside it, is like a living body that needs to adapt to changes continuously. Services need to be scaled and de-scaled, nodes need to be created and added to the cluster only to be removed soon after. We call that process adaptation. Even that is not the problem in itself, as long as we have an army of operators that will monitor the system and do reactive and preventive actions.&lt;/p&gt;
 
