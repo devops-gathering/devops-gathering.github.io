@@ -98,7 +98,9 @@ Instructions for GKE are here
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</guid>
-      <description>&lt;p&gt;The purpose of this workshop is to explore the core concepts of modern Continuous Delivery (CD). The participants will learn why CD is needed, what are the necessary (and the optional) parts of a great CD pipeline and how to wire them all together for an effective workflow. In the process we will get our hands dirty building and deploying a number of interconnected microservices onto a cloud-based cluster.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Please note: This Workshop is already sold out!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose of this workshop is to explore the core concepts of modern Continuous Delivery (CD). The participants will learn why CD is needed, what are the necessary (and the optional) parts of a great CD pipeline and how to wire them all together for an effective workflow. In the process we will get our hands dirty building and deploying a number of interconnected microservices onto a cloud-based cluster.&lt;/p&gt;
 </description>
     </item>
     
