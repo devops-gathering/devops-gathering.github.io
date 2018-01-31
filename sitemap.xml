@@ -238,6 +238,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/Integration-Testing-with-TestContainers/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</loc>
   </url>
   

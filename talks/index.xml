@@ -166,6 +166,16 @@ This talk shows, why it is important to include database scripts in your continu
     </item>
     
     <item>
+      <title>Integration Testing with Testcontainers</title>
+      <link>https://devops-gathering.io/talks/Integration-Testing-with-TestContainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/Integration-Testing-with-TestContainers/</guid>
+      <description>&lt;p&gt;Thanks to tools like Docker containers, spinning up a full-fledged relational or NoSql databases in seconds. Now you can use integration tests on your local machine, inside an staging environment which resembles production as close as possible. This talk demonstrates how to utilize containers and leverage existing knowledge in writing JUnit tests by making use of the powerful Testcontainers Java library by providing live demos and best-practices for joyful integration testing. Attendees will see how to spin-up and tear-down databases, web-servers and even external applications on a test-class and test-method basis. In the end we’ll even have an outlook on functional testing using GEB and docker-compose with Testcontainers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Managed Container Orchestration with ECS at Scout24</title>
       <link>https://devops-gathering.io/talks/Managed-Container-Orchestration-with-ECS-at-Scout24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,28 +193,6 @@ In this talk, Philipp gives insights how Scout24 uses ECS to improve their devel
       
       <guid>https://devops-gathering.io/talks/Cloud-native-Microservices/</guid>
       <description>&lt;p&gt;Microservice Architectures are around since a while now. There have already been a few generations of tooling and patterns that helped to run and manage them. Timo will show us how a current cloud-native stack looks like and which tools should be on your radar. The talk will cover both operational and architectural topics. As the name cloud-native suggests most of the projects explained in the talk are either already hosted within the cloud-native computing foundation (CNCF) or within the incubation process. Kubernetes, Prometheus, Envoy, Opentracing and GRPC are just a few examples.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tear down silos! How? What comes next?</title>
-      <link>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</guid>
-      <description>
-
-&lt;p&gt;The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And what is about the rest of the organization beside Dev and Ops people?&lt;/p&gt;
-
-&lt;h2 id=&#34;i-will-discuss-topic-like&#34;&gt;I will discuss topic like:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Team Topologies&lt;/li&gt;
-&lt;li&gt;Communities of Practice&lt;/li&gt;
-&lt;li&gt;real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams&lt;/li&gt;
-&lt;li&gt;Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams&lt;/li&gt;
-&lt;li&gt;Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
