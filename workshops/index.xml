@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshops-rsses on Devops Gathering 2018</title>
+    <title>Workshops-rsses on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
     <link>https://devops-gathering.io/workshops/index.xml</link>
-    <description>Recent content in Workshops-rsses on Devops Gathering 2018</description>
+    <description>Recent content in Workshops-rsses on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://devops-gathering.io/workshops/index.xml" rel="self" type="application/rss+xml" />
