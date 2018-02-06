@@ -69,12 +69,12 @@
     </item>
     
     <item>
-      <title>Monitoring FairCoin blockchain with Prometheus</title>
-      <link>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</link>
+      <title>The Modern IT Stack</title>
+      <link>https://devops-gathering.io/talks/The-Modern-IT-Stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/</guid>
-      <description>&lt;p&gt;FairCoin is experimenting with a novel method for maintaining the blockchain called Proof of Cooperation (PoC). PoC depends on the high availability of some nodes called CVN. In this talk I&amp;rsquo;ll present a Prometheus based monitoring stack that is currently being used for assisting CVN operators.&lt;/p&gt;
+      <guid>https://devops-gathering.io/talks/The-Modern-IT-Stack/</guid>
+      <description>&lt;p&gt;Big enterprises are shifting their strategies to multi-cloud and microservices scenarios. But what are the implications for IT and the business? In this talk we will highlight the needs of the business and how DevOps can facilitate financial and technical decisions by providing analytics on infrastructure and performance metrics.&lt;/p&gt;
 </description>
     </item>
     

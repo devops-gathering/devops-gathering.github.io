@@ -87,25 +87,6 @@ Found his home at German cyber security service provider GDATA Advanced Analytic
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/Maykel-Moya/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/Maykel-Moya/</guid>
-      <description>&lt;p&gt;Maykel studied Software Engineering in La Habana, Cuba. He is currently the Engineering Lead in ShuttleCloud Corp., a small company specialized
-in migrating email and contacts at scale. If you have recently imported contacts or email to GMail, GContacts or Yahoo!, you have used ShuttleCloud services.&lt;/p&gt;
-
-&lt;p&gt;His ongoing challenges are migrating the infrastructure to kubernetes and improve its overall reliability. Enhance the monitoring is one concrete front he is closely working with.&lt;/p&gt;
-
-&lt;p&gt;Being also a cryptocoin enthusiast, he tries to combine both worlds where there are an opportunity.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Monitoring-FairCoin-blockchain-with-Prometheus/&#34;&gt;Monitoring FairCoin blockchain with Prometheus&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://devops-gathering.io/speakers/Niclas-Mietz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -230,6 +211,22 @@ Roland is an active open source contributor, lead developer of the JMX-HTTP brid
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/CI-CD-at-Zalando/&#34;&gt;CI/CD at Zalando&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/jorge-salamero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jorge-salamero/</guid>
+      <description>&lt;p&gt;Jorge enjoys monitoring all the things, from his container clusters to writing sensors plugins and DIY projects with Raspberry PI and ESP8266.&lt;/p&gt;
+
+&lt;p&gt;Currently he is part of the Sysdig team, and in the past was one of the promoters of HumanOps. When he is away from computers, you will find him walking with his 2 dogs across the countryside or driving his car through a twisted road.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Container-Troubleshooting-with-Sysdig-Open-Source/&#34;&gt;Workshop: Container Troubleshooting with Sysdig Open Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
