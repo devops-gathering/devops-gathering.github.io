@@ -34,6 +34,41 @@
     </item>
     
     <item>
+      <title>Workshop Requirements | February 19th</title>
+      <link>https://devops-gathering.io/workshop-requirements/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/workshop-requirements/</guid>
+      <description>&lt;p&gt;###Workshop: Building a Self-Sufficient System by Viktor Farcic&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&#34;&gt;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Workshop: Introduction into Kubernetes by Thomas Fricke&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here &lt;a href=&#34;https://github.com/kubernetes/minikube&#34;&gt;https://github.com/kubernetes/minikube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;or alternatively access to Kubernetes in a cloud like GCE. Instructions for GKE are herehttps://cloud.google.com/kubernetes-engine/docs/quickstart&lt;/li&gt;
+&lt;li&gt;and an installed version of Kubectl &lt;a href=&#34;https://kubernetes.io/docs/tasks/tools/install-kubectl&#34;&gt;https://kubernetes.io/docs/tasks/tools/install-kubectl&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;###Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer&lt;/p&gt;
+
+&lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:
+* JDK 8
+* Java IDE (IntelliJ recommended)
+* Groovy 2.5
+* Docker 17-CE&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Linux environment recommended &lt;/li&gt;
+&lt;li&gt;macOS and Windows 10 environments using Docker for Mac and Docker for Windows should work in theory, but we can’t provide specialized support&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Videos, photos and impressions of the DevOps Gathering</title>
       <link>https://devops-gathering.io/media-and-photos/</link>
       <pubDate>Tue, 01 Aug 2017 09:28:54 +0100</pubDate>
@@ -1343,20 +1378,6 @@ Haftung für Inhalte&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/The-Modern-IT-Stack/&#34;&gt;The Modern IT Stack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/Govinda-Fichtner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/Govinda-Fichtner/</guid>
-      <description>&lt;p&gt;Senior DevOps &amp;amp; Cloud-Engineer at Paessler AG Govinda has been working in the IT industry for more than 18 years in many different roles such as developer, administrator, consultant, architect, trainer, project manager, team lead and CTO. Currently he is busy building www.my-prtg.com, which is an AWS-based SaaS infrastructure monitoring solution. Govinda is a certified Linux and AWS professional who has been working as a DevOps based on agile principles since 2005. As part of the Hypriot-Team and as organiser of the &amp;ldquo;DevOps Franken&amp;rdquo;- and &amp;ldquo;Docker Bamberg&amp;rdquo;-User-Groups he is organising workshops about Docker, IoT, DevOps and Cloud and also giving talks on a regular base about a broad range of subjects like Docker, IoT, AWS and Microservices.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/Docker-on-AWS/&#34;&gt;DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
