@@ -57,13 +57,13 @@
 
 &lt;h2 id=&#34;workshop-groovy-integration-testing-with-docker-and-testcontainers-by-kevin-wittek-and-matthias-rottländer&#34;&gt;Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer&lt;/h2&gt;
 
-&lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:
-* JDK 8
-* Java IDE (IntelliJ recommended)
-* Groovy 2.5
-* Docker 17-CE&lt;/p&gt;
+&lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:&lt;/p&gt;
 
 &lt;ul&gt;
+&lt;li&gt;JDK 8&lt;/li&gt;
+&lt;li&gt;Java IDE (IntelliJ recommended)&lt;/li&gt;
+&lt;li&gt;Groovy 2.5&lt;/li&gt;
+&lt;li&gt;Docker 17-CE&lt;/li&gt;
 &lt;li&gt;Linux environment recommended &lt;/li&gt;
 &lt;li&gt;macOS and Windows 10 environments using Docker for Mac and Docker for Windows should work in theory, but we can’t provide specialized support&lt;/li&gt;
 &lt;/ul&gt;
