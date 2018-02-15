@@ -39,13 +39,15 @@
       <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/workshop-requirements/</guid>
-      <description>&lt;p&gt;###Workshop: Building a Self-Sufficient System by Viktor Farcic&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;workshop-building-a-self-sufficient-system-by-viktor-farcic&#34;&gt;Workshop: Building a Self-Sufficient System by Viktor Farcic&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&#34;&gt;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;###Workshop: Introduction into Kubernetes by Thomas Fricke&lt;/p&gt;
+&lt;h2 id=&#34;workshop-introduction-into-kubernetes-by-thomas-fricke&#34;&gt;Workshop: Introduction into Kubernetes by Thomas Fricke&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here &lt;a href=&#34;https://github.com/kubernetes/minikube&#34;&gt;https://github.com/kubernetes/minikube&lt;/a&gt;&lt;/li&gt;
@@ -53,7 +55,7 @@
 &lt;li&gt;and an installed version of Kubectl &lt;a href=&#34;https://kubernetes.io/docs/tasks/tools/install-kubectl&#34;&gt;https://kubernetes.io/docs/tasks/tools/install-kubectl&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;###Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer&lt;/p&gt;
+&lt;h2 id=&#34;workshop-groovy-integration-testing-with-docker-and-testcontainers-by-kevin-wittek-and-matthias-rottländer&#34;&gt;Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer&lt;/h2&gt;
 
 &lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:
 * JDK 8
