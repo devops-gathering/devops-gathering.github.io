@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
+    <title>Devops Gathering 2019 | March 11 - 13, 2018 in Bochum</title>
     <link>https://devops-gathering.io/index.xml</link>
-    <description>Recent content on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
+    <description>Recent content on Devops Gathering 2019 | March 11 - 13, 2018 in Bochum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
@@ -984,19 +984,13 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
 
 &lt;h2 id=&#34;price-categories-information&#34;&gt;Price Categories &amp;amp; Information&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://devops-gathering.io/img/sold-out.png&#34; alt=&#34;Conference is sold out&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please note: The DevOps Gathering 2018 is totally sold out!&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;p&gt;All conference and workshop tickets include food, drinks, great talks and Wi-Fi.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Monday (February 19th) - Pre-Conference Workshops&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monday (March 11th) - Pre-Conference Workshops&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Tuesday (February 20th) - Conference Day and evening reception&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tuesday (March 12th) - Conference Day and evening reception&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Wednesday (February 21st) - Conference Day&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wednesday (March 13st) - Conference Day&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.&lt;/p&gt;
 
@@ -1013,9 +1007,9 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;left&#34;&gt;3 Day Ticket (Workshops &amp;amp; Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;399 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;449 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;499 €&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;400 €&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;450 €&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;500 €&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -1066,10 +1060,6 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;registration&#34;&gt;Registration:&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://devops-gathering.io/img/sold-out.png&#34; alt=&#34;Conference is sold out&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Please note: The DevOps Gathering 2018 is totally sold out!&lt;/em&gt;&lt;/p&gt;
 
 &lt;div style=&#34;width:100%; text-align:left;&#34;&gt;&lt;iframe src=&#34;//eventbrite.de/tickets-external?eid=36478994655&amp;ref=etckt&#34; frameborder=&#34;0&#34; height=&#34;1350&#34; width=&#34;100%&#34; vspace=&#34;0&#34; hspace=&#34;0&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;&#34; &gt;&lt;a class=&#34;powered-by-eb&#34; style=&#34;color: #ADB0B6; text-decoration: none;&#34; target=&#34;_blank&#34; href=&#34;http://www.eventbrite.de/&#34;&gt;Von Eventbrite&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
@@ -1362,29 +1352,22 @@ Haftung für Inhalte&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/Anton-Weiss/</link>
+      <link>https://devops-gathering.io/speakers/Niclas-Mietz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/Anton-Weiss/</guid>
-      <description>&lt;p&gt;CEO and founding consultant at Otomato – the effective software delivery experts. Initiator of the first DevOps certification program in Israel. 17 years of industry experience both at large corporations and startups. Writer, trainer, speaker and a conference rockstar.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/&#34;&gt;Workshop: Building a Modern CI/CD Pipeline (with Docker and Kubernetes)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://devops-gathering.io/speakers/Niclas-Mietz/</guid>
+      <description>&lt;p&gt;Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/Christian-Daschner/</link>
+      <link>https://devops-gathering.io/speakers/Peter-Rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/Christian-Daschner/</guid>
-      <description>&lt;p&gt;Christian is Senior Systems Engineer at replex and has over 12 years of IT / DevOps experience in multiple european companies. He is the founder of LinuxUserGroup Freising and started his career as Co-Maintainer for Debian packages.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://devops-gathering.io/talks/The-Modern-IT-Stack/&#34;&gt;The Modern IT Stack&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://devops-gathering.io/speakers/Peter-Rossbach/</guid>
+      <description>&lt;p&gt;As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but
+also our customers to top performances.&lt;/p&gt;
 </description>
     </item>
     

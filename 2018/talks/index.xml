@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
+    <link>https://devops-gathering.io/talks/</link>
+    <description>Recent content in Talks on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://devops-gathering.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building A Self-Sufficient System</title>
+      <link>https://devops-gathering.io/talks/building-a-self-sufficient-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/building-a-self-sufficient-system/</guid>
+      <description>Defining the steps required for a design of a self-adapting and self-healing system that will continue operating efficiently even when we are on vacations.
+What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us.</description>
+    </item>
+    
+    <item>
+      <title>CI/CD at Zalando</title>
+      <link>https://devops-gathering.io/talks/ci-cd-at-zalando/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/ci-cd-at-zalando/</guid>
+      <description>In late 2016, Zalando’s continuous delivery engineering team began brainstorming a new approach to build and deploy artefacts. The main goal was to improve the integration of CI/CD in the Zalando infrastructure landscape. We started this conversation after learning from the existing CI/CD landscape based on CI masters and worker nodes deployed on the cloud. The team came up with a proposal and prototype that focusses on builds and deployments to Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Stateful Applications on Kubernetes</title>
+      <link>https://devops-gathering.io/talks/stateful-applications-on-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/stateful-applications-on-kubernetes/</guid>
+      <description>The nature of the container is ephemeral. Data inside it only lives as long as it’s container. Using this paradigma containerisation has revolutionized software development of applications. But once in a while, every application needs to store some data in a persistent way. Kubernetes offers here multiple solutions to provision persistent storage for containers. After a short introduction about the usage of storage in Kubernetes, we will you some examples how this can be handled practically.</description>
+    </item>
+    
+    <item>
+      <title>Docker: Ops unleashed</title>
+      <link>https://devops-gathering.io/talks/docker-ops-unleashed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/docker-ops-unleashed/</guid>
+      <description>Ops are doomed in the quicksand of enterprise. We gained experience across our Docker journey which I would like to share. I will show you that it is possible to run Docker On-Premise and I will show you that it is worth it because you will be able to escape the “I have no time daemon&amp;rdquo;.
+In my talk I will give you a brief description about what we are doing in the Ops department and why it is hard to manage thousands of servers with three persons although we are currently using containers based on OpenVZ.</description>
+    </item>
+    
+    <item>
+      <title>DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud</title>
+      <link>https://devops-gathering.io/talks/docker-on-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/docker-on-aws/</guid>
+      <description>Amazon Webservices - the cloud offering of Amazon - has introduced more and more support for using Docker on AWS. This talks looks at the different options of running Docker on AWS and how they can help you make your life as a professional Docker user easier.
+The talk will start by providing some background about the relevant AWS building blocks for the highly available infrastructure that is used by all the different Docker options available.</description>
+    </item>
+    
+    <item>
+      <title>The Modern IT Stack</title>
+      <link>https://devops-gathering.io/talks/the-modern-it-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/the-modern-it-stack/</guid>
+      <description>Big enterprises are shifting their strategies to multi-cloud and microservices scenarios. But what are the implications for IT and the business? In this talk we will highlight the needs of the business and how DevOps can facilitate financial and technical decisions by providing analytics on infrastructure and performance metrics.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Patterns</title>
+      <link>https://devops-gathering.io/talks/kubernetes-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/kubernetes-patterns/</guid>
+      <description>The way we develop and run applications on Cloud Native platforms like Kubernetes differs significantly from the traditional approach. There are fewer concerns for developers to think about, but at the same time, there are new patterns and practices for solving every-day challenges.
+In this talk, we will look at a collection of common patterns for developing Cloud Native applications. These patterns encapsulate proven solutions to common problems and help you to prevent inventing the wheel again.</description>
+    </item>
+    
+    <item>
+      <title>Container Software Supply Chain</title>
+      <link>https://devops-gathering.io/talks/container-software-supply-chain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/container-software-supply-chain/</guid>
+      <description>To drive the container innovation and efficiency in critical business infrastructure more automation is needed. Create your own CI/CD systems and pipelines speedup your deliveries. Planing and management of software supply chain can be a complex challenge. This talk discuss some useful patterns and tools of build a secure container software supply chain. We present some solutions to manage container promotion from development to production with a secure container registry. You can learn to create container images with passion.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Database Integration with Flyway</title>
+      <link>https://devops-gathering.io/talks/continuous-databas-integration-with-flyway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/continuous-databas-integration-with-flyway/</guid>
+      <description>&amp;ldquo;Classical&amp;rdquo; topics like relational database are often forgotten between hip topic like container. But in the reality we are confronted with task like how to automate my old system based on &amp;ldquo;old school&amp;rdquo; technology. This talk tries to show techniques to meet this challenge.
+Developers often neglect scritpts for relational databases. For the first release, they are generated by the ORM framework. But at the lastest during the second release, developers have to write the database migration scripts by themself.</description>
+    </item>
+    
+    <item>
+      <title>Deploying and managing production-grade Kubernetes clusters with Rancher</title>
+      <link>https://devops-gathering.io/talks/deploying-and-managing-production-grade-kubernetes-clusters-with-rancher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/deploying-and-managing-production-grade-kubernetes-clusters-with-rancher/</guid>
+      <description>Running containers in production requires a wide variety of technologies, which must be integrated and managed throughout their lifecycle. Kubernetes provides the orchestration and management capabilities required to deploy containers for distributed application workloads and is becoming the most widley adopted container orchestration on the market. But configuring and deploying Kubernetes as well as combining the orchestrator with a constantly changing set of technologies can be challenging with a steep learning curve.</description>
+    </item>
+    
+    <item>
+      <title>Modern Monitoring for Dev and Ops</title>
+      <link>https://devops-gathering.io/talks/modern-monitoring-for-dev-and-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/modern-monitoring-for-dev-and-ops/</guid>
+      <description>Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.
+Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting?</description>
+    </item>
+    
+    <item>
+      <title>Architecture Patterns for Microservices in Kubernetes</title>
+      <link>https://devops-gathering.io/talks/architecture-patterns-for-microservices-in-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/architecture-patterns-for-microservices-in-kubernetes/</guid>
+      <description>The talk describes the common patterns to build applications for the use in containers, of &amp;lsquo;Container Design Patterns&amp;rsquo; which describe container interactions on a single host and the revival of &amp;lsquo;Deployment Patterns&amp;rsquo; to be used in the distributed systems. Kubernetes is used to look into real world examples with configurations for common problems from simple sidecars to more complex pattern templating application suites from persistent systems to the loadbalancer.</description>
+    </item>
+    
+    <item>
+      <title>Integration Testing with TestContainers</title>
+      <link>https://devops-gathering.io/talks/integration-testing-with-testcontainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/integration-testing-with-testcontainers/</guid>
+      <description>Thanks to tools like Docker containers, spinning up a full-fledged relational or NoSql databases in seconds. Now you can use integration tests on your local machine, inside an staging environment which resembles production as close as possible. This talk demonstrates how to utilize containers and leverage existing knowledge in writing JUnit tests by making use of the powerful Testcontainers Java library by providing live demos and best-practices for joyful integration testing.</description>
+    </item>
+    
+    <item>
+      <title>Cloud-native Microservices </title>
+      <link>https://devops-gathering.io/talks/cloud-native-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/cloud-native-microservices/</guid>
+      <description>Microservice Architectures are around since a while now. There have already been a few generations of tooling and patterns that helped to run and manage them. Timo will show us how a current cloud-native stack looks like and which tools should be on your radar. The talk will cover both operational and architectural topics. As the name cloud-native suggests most of the projects explained in the talk are either already hosted within the cloud-native computing foundation (CNCF) or within the incubation process.</description>
+    </item>
+    
+    <item>
+      <title>Tear down silos! How? What comes next?</title>
+      <link>https://devops-gathering.io/talks/tear-down-silos-how-what-comes-next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/tear-down-silos-how-what-comes-next/</guid>
+      <description> The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And what is about the rest of the organization beside Dev and Ops people?
+I will discuss topic like:  Team Topologies Communities of Practice real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects  </description>
+    </item>
+    
+  </channel>
+</rss>

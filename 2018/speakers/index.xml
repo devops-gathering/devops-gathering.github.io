@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
+    <link>https://devops-gathering.io/speakers/</link>
+    <description>Recent content in Speakers on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://devops-gathering.io/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/anton-weiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/anton-weiss/</guid>
+      <description>CEO and founding consultant at Otomato – the effective software delivery experts. Initiator of the first DevOps certification program in Israel. 17 years of industry experience both at large corporations and startups. Writer, trainer, speaker and a conference rockstar.
+ Workshop: Building a Modern CI/CD Pipeline (with Docker and Kubernetes)  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/christian-daschner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/christian-daschner/</guid>
+      <description>Christian is Senior Systems Engineer at replex and has over 12 years of IT / DevOps experience in multiple european companies. He is the founder of LinuxUserGroup Freising and started his career as Co-Maintainer for Debian packages.
+ The Modern IT Stack  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/govinda-fichtner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/govinda-fichtner/</guid>
+      <description>Senior DevOps &amp;amp; Cloud-Engineer at Paessler AG Govinda has been working in the IT industry for more than 18 years in many different roles such as developer, administrator, consultant, architect, trainer, project manager, team lead and CTO. Currently he is busy building www.my-prtg.com, which is an AWS-based SaaS infrastructure monitoring solution. Govinda is a certified Linux and AWS professional who has been working as a DevOps based on agile principles since 2005.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/kevin-wittek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
+      <description>Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/matthias-rottlaender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/matthias-rottlaender/</guid>
+      <description>Jack-Of-All-Trades promoting perpetual pursuit of technical excellence. Developer of Java systems since about 10 years ago. Passionate usability nit-pick. Zealot hooking everyone in his vicinity on testing. Wholehearted embracer of agile principles. Found his home at German cyber security service provider GDATA Advanced Analytics, where he can do all of the above on a daily basis.
+ Groovy integration testing with Docker and TestContainers  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/niclas-mietz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
+      <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.
+ Workshop: GitLab/CI Basics Container Software Supply Chain  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/nicolas-byl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/nicolas-byl/</guid>
+      <description>Nicolas Byl gained his first hands-on experiences at developing distributed systems during his studies in medical informatics. At codecentric AG he is working on cloud-native infrastructure for application development.
+ Stateful Applications on Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/patrick-gruhn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/patrick-gruhn/</guid>
+      <description>Patrick has experience in both high-tech startups and multinational enterprises. Patrick has a MSc in computer science and a Master in International Business Management, combining his ability to connect real business problems with the underlying IT.
+ The Modern IT Stack  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/peter-rossbach/</guid>
+      <description>As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but also our customers to top performances.
+ Container Software Supply Chain  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
+      <description>Dr. Roland Huß is a Principal Software Engineer at Red Hat working in the Fuse team. He has been developing in Java for twenty years now but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.
+ Kubernetes Patterns  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/thomas-fricke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/thomas-fricke/</guid>
+      <description>Thomas Fricke is the CTO of Endocode and a cloud architect. He likes to work with scaling applications, especially with distributed databases. He has worked as a development engineer, system, software and cloud architect for many years. Current topics are large scale system automation for cloud native applications.
+ Workshop: Introduction into Kubernetes Architecture Patterns for Microservices in Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/bjoern-rabenstein/</guid>
+      <description>Björn is a Production Engineer at SoundCloud and a Prometheus developer. Previously, he was a Site Reliability Engineer at Google and a number cruncher for science.
+ Modern Monitoring for Dev and Ops  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/jan-bruder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jan-bruder/</guid>
+      <description>Jan Bruder is a Linux containers and open source enthusiast. He joined Rancher Labs in 2016 and is working with Rancher users all over Europe on adopting Linux containers in their production environments.
+ Deploying and managing production-grade Kubernetes clusters with Rancher  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/joao-santos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/joao-santos/</guid>
+      <description>João Santos is a software engineer working in the Continuous Delivery Team at Zalando, He has been with Zalando for the 4 and a half years and in the past 3 he has built and maintained deployment tools for the datacenter, AWS and Kubernetes.
+ CI/CD at Zalando  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/jorge-salamero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jorge-salamero/</guid>
+      <description>Jorge enjoys monitoring all the things, from his container clusters to writing sensors plugins and DIY projects with Raspberry PI and ESP8266.
+Currently he is part of the Sysdig team, and in the past was one of the promoters of HumanOps. When he is away from computers, you will find him walking with his 2 dogs across the countryside or driving his car through a twisted road.
+ Workshop: Container Troubleshooting with Sysdig Open Source  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/konstantin-diener/</guid>
+      <description>Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.
+ Tear down silos! How? What comes next?  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/mario-kleinsasser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
+      <description>Mario Kleinsasser is the team leader of a small web-hosting department of a large construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Through the transition and migration to Docker he transforms theoretical concepts into working durable Docker solutions.
+ Docker: Ops unleashed  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
+      <description>Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She is in the organisation team of Softwerkskammer Ruhrgebiet.
+ Continuous Databas Integration with Flyway  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/timo-derstappen/</guid>
+      <description>Timo Derstappen is the CTO and Co-Founder of Giant Swarm. Besides managing and scaling distributed services for the past 15 years he is prepared to move off-the-grid as soon as the time is right.
+ Cloud-native Microservices  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/victor-farcic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/victor-farcic/</guid>
+      <description>Viktor Farcic is a Senior Consultant at CloudBees, a member of the Docker Captains group, and books author. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, Java, Scala, etc. He never worked with Fortran. His current favorite is Go.
+His big passions are DevOps, Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD).</description>
+    </item>
+    
+  </channel>
+</rss>

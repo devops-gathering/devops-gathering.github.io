@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/building-a-self-sufficient-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-building-a-self-sufficient-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/ci-cd-at-zalando/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-gitlab-ci-basics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/stateful-applications-on-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-introduction-into-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/docker-ops-unleashed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-container-troubleshooting-with-sysdig-open-source/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/docker-on-aws/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-building-a-modern-ci-cd-pipeline-with-docker-and-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/the-modern-it-stack/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-groovy-integration-testing-with-docker-and-testcontainers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/kubernetes-patterns/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/container-software-supply-chain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/continuous-databas-integration-with-flyway/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/deploying-and-managing-production-grade-kubernetes-clusters-with-rancher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/modern-monitoring-for-dev-and-ops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/architecture-patterns-for-microservices-in-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/integration-testing-with-testcontainers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/cloud-native-microservices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/tear-down-silos-how-what-comes-next/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/student-ticket-sponsoring/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshop-requirements/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/media-and-photos/</loc>
+    <lastmod>2017-08-01T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/accommodations/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/after-conference/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/code-of-conduct/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/general-terms-and-conditions/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsoring/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/tickets/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/privacy-policy/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/imprint/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/venue/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/imprint-de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/anton-weiss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/christian-daschner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/govinda-fichtner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/kevin-wittek/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/matthias-rottlaender/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/niclas-mietz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/nicolas-byl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/patrick-gruhn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/peter-rossbach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/roland-huss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/thomas-fricke/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/bjoern-rabenstein/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/jan-bruder/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/joao-santos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/jorge-salamero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/konstantin-diener/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/mario-kleinsasser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/sandra-parsick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/timo-derstappen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/victor-farcic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/openspace/container-open-space/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/openspace/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

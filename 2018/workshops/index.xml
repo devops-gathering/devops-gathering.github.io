@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
+    <link>https://devops-gathering.io/workshops/</link>
+    <description>Recent content in Workshops on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://devops-gathering.io/workshops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Workshop (SOLD OUT): Building A Self-Sufficient System</title>
+      <link>https://devops-gathering.io/workshops/workshop-building-a-self-sufficient-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-building-a-self-sufficient-system/</guid>
+      <description>Please note: This Workshop is already sold out!
+What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us. Many solutions provide self-healing by making sure that the system is (almost) always in the desired state.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: GitLab/CI Basics</title>
+      <link>https://devops-gathering.io/workshops/workshop-gitlab-ci-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-gitlab-ci-basics/</guid>
+      <description>Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images.</description>
+    </item>
+    
+    <item>
+      <title>Workshop (SOLD OUT): Introduction into Kubernetes</title>
+      <link>https://devops-gathering.io/workshops/workshop-introduction-into-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-introduction-into-kubernetes/</guid>
+      <description>Please note: This Workshop is already sold out!
+The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and learn the basic concepts of Kubernetes.
+ Pods Services Autoscaling Rolling Updates  All handson, basic Docker and Linux knowhow required.
+Requirements:  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Container Troubleshooting with Sysdig Open Source</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-troubleshooting-with-sysdig-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-container-troubleshooting-with-sysdig-open-source/</guid>
+      <description>Visibility and troubleshooting Learn how to debug a 502 error on a containerized LB with HPproxy, a Python webapp that crashes after working for 5 minutes or finding where you configured the wrong credentials in a microservices app.
+Analyzing performance and bottlenecks Compare the performance of different web servers running in containers, use system call tracing to find the bottleneck in your application or learn how to use spectograms (flame graphs) to visualize system call performance.</description>
+    </item>
+    
+    <item>
+      <title>Workshop (SOLD OUT): Building a Modern CI/CD Pipeline (with Docker and Kubernetes)</title>
+      <link>https://devops-gathering.io/workshops/workshop-building-a-modern-ci-cd-pipeline-with-docker-and-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-building-a-modern-ci-cd-pipeline-with-docker-and-kubernetes/</guid>
+      <description>Please note: This Workshop is already sold out!
+The purpose of this workshop is to explore the core concepts of modern Continuous Delivery (CD). The participants will learn why CD is needed, what are the necessary (and the optional) parts of a great CD pipeline and how to wire them all together for an effective workflow. In the process we will get our hands dirty building and deploying a number of interconnected microservices onto a cloud-based cluster.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Groovy integration testing with Docker and TestContainers</title>
+      <link>https://devops-gathering.io/workshops/workshop-groovy-integration-testing-with-docker-and-testcontainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-groovy-integration-testing-with-docker-and-testcontainers/</guid>
+      <description>Use a production-like, portable test environment described in code - gone is the need for heavyweight manual setup of test systems and the pain of sharing test infrastructure with multiple developers and teams. Launch a fully functional testing suite not only consisting of unit tests, but also of integration tests, right from source control. And instead of manually writing and maintaining a bunch of brittle bash scripts for instrumenting your containers, participants will learn to leverage existing knowledge in writing JUnit tests and make use of the powerful TestContainers Java library.</description>
+    </item>
+    
+  </channel>
+</rss>

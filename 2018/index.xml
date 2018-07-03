@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</title>
+    <link>https://devops-gathering.io/</link>
+    <description>Recent content on Devops Gathering 2018 | February 19 - 21, 2018 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building A Self-Sufficient System</title>
+      <link>https://devops-gathering.io/talks/building-a-self-sufficient-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/building-a-self-sufficient-system/</guid>
+      <description>Defining the steps required for a design of a self-adapting and self-healing system that will continue operating efficiently even when we are on vacations.
+What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us.</description>
+    </item>
+    
+    <item>
+      <title>Workshop (SOLD OUT): Building A Self-Sufficient System</title>
+      <link>https://devops-gathering.io/workshops/workshop-building-a-self-sufficient-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-building-a-self-sufficient-system/</guid>
+      <description>Please note: This Workshop is already sold out!
+What do we expect from a modern cluster? If a replica fails, it should be brought back up (rescheduled). If a node goes down all the services that were running inside it should be distributed among healthy nodes. Those tasks are easy to accomplish. Schedulers (Swarm, Kubernetes, Mesos/Marathon, and so on) are already doing those things for us. Many solutions provide self-healing by making sure that the system is (almost) always in the desired state.</description>
+    </item>
+    
+    <item>
+      <title>CI/CD at Zalando</title>
+      <link>https://devops-gathering.io/talks/ci-cd-at-zalando/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/ci-cd-at-zalando/</guid>
+      <description>In late 2016, Zalando’s continuous delivery engineering team began brainstorming a new approach to build and deploy artefacts. The main goal was to improve the integration of CI/CD in the Zalando infrastructure landscape. We started this conversation after learning from the existing CI/CD landscape based on CI masters and worker nodes deployed on the cloud. The team came up with a proposal and prototype that focusses on builds and deployments to Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: GitLab/CI Basics</title>
+      <link>https://devops-gathering.io/workshops/workshop-gitlab-ci-basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-gitlab-ci-basics/</guid>
+      <description>Whether small startups or large companies - many of them rely on the open-source Docker technology. But what about the kind of containers that roll up the virtualization market and change the software development in the long term? Docker promises a quick start, flexible configuration and stable images for development and production. Nice, but a developer or operator must be present in order to setup automation, to build, test and deliver Docker images.</description>
+    </item>
+    
+    <item>
+      <title>Stateful Applications on Kubernetes</title>
+      <link>https://devops-gathering.io/talks/stateful-applications-on-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/stateful-applications-on-kubernetes/</guid>
+      <description>The nature of the container is ephemeral. Data inside it only lives as long as it’s container. Using this paradigma containerisation has revolutionized software development of applications. But once in a while, every application needs to store some data in a persistent way. Kubernetes offers here multiple solutions to provision persistent storage for containers. After a short introduction about the usage of storage in Kubernetes, we will you some examples how this can be handled practically.</description>
+    </item>
+    
+    <item>
+      <title>Workshop (SOLD OUT): Introduction into Kubernetes</title>
+      <link>https://devops-gathering.io/workshops/workshop-introduction-into-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-introduction-into-kubernetes/</guid>
+      <description>Please note: This Workshop is already sold out!
+The workshop gives a very basic introduction into Kubernetes. We will go through the lifecycle of a deployment and learn the basic concepts of Kubernetes.
+ Pods Services Autoscaling Rolling Updates  All handson, basic Docker and Linux knowhow required.
+Requirements:  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.</description>
+    </item>
+    
+    <item>
+      <title>Docker: Ops unleashed</title>
+      <link>https://devops-gathering.io/talks/docker-ops-unleashed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/docker-ops-unleashed/</guid>
+      <description>Ops are doomed in the quicksand of enterprise. We gained experience across our Docker journey which I would like to share. I will show you that it is possible to run Docker On-Premise and I will show you that it is worth it because you will be able to escape the “I have no time daemon&amp;rdquo;.
+In my talk I will give you a brief description about what we are doing in the Ops department and why it is hard to manage thousands of servers with three persons although we are currently using containers based on OpenVZ.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Container Troubleshooting with Sysdig Open Source</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-troubleshooting-with-sysdig-open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-container-troubleshooting-with-sysdig-open-source/</guid>
+      <description>Visibility and troubleshooting Learn how to debug a 502 error on a containerized LB with HPproxy, a Python webapp that crashes after working for 5 minutes or finding where you configured the wrong credentials in a microservices app.
+Analyzing performance and bottlenecks Compare the performance of different web servers running in containers, use system call tracing to find the bottleneck in your application or learn how to use spectograms (flame graphs) to visualize system call performance.</description>
+    </item>
+    
+    <item>
+      <title>DOCKER@AWS - a look at the different options to run Docker in the Amazon Cloud</title>
+      <link>https://devops-gathering.io/talks/docker-on-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/docker-on-aws/</guid>
+      <description>Amazon Webservices - the cloud offering of Amazon - has introduced more and more support for using Docker on AWS. This talks looks at the different options of running Docker on AWS and how they can help you make your life as a professional Docker user easier.
+The talk will start by providing some background about the relevant AWS building blocks for the highly available infrastructure that is used by all the different Docker options available.</description>
+    </item>
+    
+    <item>
+      <title>Workshop (SOLD OUT): Building a Modern CI/CD Pipeline (with Docker and Kubernetes)</title>
+      <link>https://devops-gathering.io/workshops/workshop-building-a-modern-ci-cd-pipeline-with-docker-and-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-building-a-modern-ci-cd-pipeline-with-docker-and-kubernetes/</guid>
+      <description>Please note: This Workshop is already sold out!
+The purpose of this workshop is to explore the core concepts of modern Continuous Delivery (CD). The participants will learn why CD is needed, what are the necessary (and the optional) parts of a great CD pipeline and how to wire them all together for an effective workflow. In the process we will get our hands dirty building and deploying a number of interconnected microservices onto a cloud-based cluster.</description>
+    </item>
+    
+    <item>
+      <title>The Modern IT Stack</title>
+      <link>https://devops-gathering.io/talks/the-modern-it-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/the-modern-it-stack/</guid>
+      <description>Big enterprises are shifting their strategies to multi-cloud and microservices scenarios. But what are the implications for IT and the business? In this talk we will highlight the needs of the business and how DevOps can facilitate financial and technical decisions by providing analytics on infrastructure and performance metrics.</description>
+    </item>
+    
+    <item>
+      <title>Workshop: Groovy integration testing with Docker and TestContainers</title>
+      <link>https://devops-gathering.io/workshops/workshop-groovy-integration-testing-with-docker-and-testcontainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-groovy-integration-testing-with-docker-and-testcontainers/</guid>
+      <description>Use a production-like, portable test environment described in code - gone is the need for heavyweight manual setup of test systems and the pain of sharing test infrastructure with multiple developers and teams. Launch a fully functional testing suite not only consisting of unit tests, but also of integration tests, right from source control. And instead of manually writing and maintaining a bunch of brittle bash scripts for instrumenting your containers, participants will learn to leverage existing knowledge in writing JUnit tests and make use of the powerful TestContainers Java library.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Patterns</title>
+      <link>https://devops-gathering.io/talks/kubernetes-patterns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/kubernetes-patterns/</guid>
+      <description>The way we develop and run applications on Cloud Native platforms like Kubernetes differs significantly from the traditional approach. There are fewer concerns for developers to think about, but at the same time, there are new patterns and practices for solving every-day challenges.
+In this talk, we will look at a collection of common patterns for developing Cloud Native applications. These patterns encapsulate proven solutions to common problems and help you to prevent inventing the wheel again.</description>
+    </item>
+    
+    <item>
+      <title>Container Software Supply Chain</title>
+      <link>https://devops-gathering.io/talks/container-software-supply-chain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/container-software-supply-chain/</guid>
+      <description>To drive the container innovation and efficiency in critical business infrastructure more automation is needed. Create your own CI/CD systems and pipelines speedup your deliveries. Planing and management of software supply chain can be a complex challenge. This talk discuss some useful patterns and tools of build a secure container software supply chain. We present some solutions to manage container promotion from development to production with a secure container registry. You can learn to create container images with passion.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Database Integration with Flyway</title>
+      <link>https://devops-gathering.io/talks/continuous-databas-integration-with-flyway/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/continuous-databas-integration-with-flyway/</guid>
+      <description>&amp;ldquo;Classical&amp;rdquo; topics like relational database are often forgotten between hip topic like container. But in the reality we are confronted with task like how to automate my old system based on &amp;ldquo;old school&amp;rdquo; technology. This talk tries to show techniques to meet this challenge.
+Developers often neglect scritpts for relational databases. For the first release, they are generated by the ORM framework. But at the lastest during the second release, developers have to write the database migration scripts by themself.</description>
+    </item>
+    
+    <item>
+      <title>Deploying and managing production-grade Kubernetes clusters with Rancher</title>
+      <link>https://devops-gathering.io/talks/deploying-and-managing-production-grade-kubernetes-clusters-with-rancher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/deploying-and-managing-production-grade-kubernetes-clusters-with-rancher/</guid>
+      <description>Running containers in production requires a wide variety of technologies, which must be integrated and managed throughout their lifecycle. Kubernetes provides the orchestration and management capabilities required to deploy containers for distributed application workloads and is becoming the most widley adopted container orchestration on the market. But configuring and deploying Kubernetes as well as combining the orchestrator with a constantly changing set of technologies can be challenging with a steep learning curve.</description>
+    </item>
+    
+    <item>
+      <title>Modern Monitoring for Dev and Ops</title>
+      <link>https://devops-gathering.io/talks/modern-monitoring-for-dev-and-ops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/modern-monitoring-for-dev-and-ops/</guid>
+      <description>Monitoring used to be black-box focused and mostly an ops concern. In the modern world of large-scale systems, black-box probing is not only more important than ever, it has also proven insufficient. Learn about the reasons why you need to pull in the dev side and embrace white-box monitoring.
+Thanks to cloud computing, mere mortals are now empowered to start up large-scale distributed online-serving systems at will. But how to do proper monitoring and alerting?</description>
+    </item>
+    
+    <item>
+      <title>Architecture Patterns for Microservices in Kubernetes</title>
+      <link>https://devops-gathering.io/talks/architecture-patterns-for-microservices-in-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/architecture-patterns-for-microservices-in-kubernetes/</guid>
+      <description>The talk describes the common patterns to build applications for the use in containers, of &amp;lsquo;Container Design Patterns&amp;rsquo; which describe container interactions on a single host and the revival of &amp;lsquo;Deployment Patterns&amp;rsquo; to be used in the distributed systems. Kubernetes is used to look into real world examples with configurations for common problems from simple sidecars to more complex pattern templating application suites from persistent systems to the loadbalancer.</description>
+    </item>
+    
+    <item>
+      <title>Integration Testing with TestContainers</title>
+      <link>https://devops-gathering.io/talks/integration-testing-with-testcontainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/integration-testing-with-testcontainers/</guid>
+      <description>Thanks to tools like Docker containers, spinning up a full-fledged relational or NoSql databases in seconds. Now you can use integration tests on your local machine, inside an staging environment which resembles production as close as possible. This talk demonstrates how to utilize containers and leverage existing knowledge in writing JUnit tests by making use of the powerful Testcontainers Java library by providing live demos and best-practices for joyful integration testing.</description>
+    </item>
+    
+    <item>
+      <title>Cloud-native Microservices </title>
+      <link>https://devops-gathering.io/talks/cloud-native-microservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/cloud-native-microservices/</guid>
+      <description>Microservice Architectures are around since a while now. There have already been a few generations of tooling and patterns that helped to run and manage them. Timo will show us how a current cloud-native stack looks like and which tools should be on your radar. The talk will cover both operational and architectural topics. As the name cloud-native suggests most of the projects explained in the talk are either already hosted within the cloud-native computing foundation (CNCF) or within the incubation process.</description>
+    </item>
+    
+    <item>
+      <title>Tear down silos! How? What comes next?</title>
+      <link>https://devops-gathering.io/talks/tear-down-silos-how-what-comes-next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/tear-down-silos-how-what-comes-next/</guid>
+      <description> The DevOps movement says &amp;ldquo;Tear down silos and improve collaboration!&amp;rdquo;. Are cross-functional teams the only solution for that? What new challenges does an organization built up from cross-functional teams have? And what is about the rest of the organization beside Dev and Ops people?
+I will discuss topic like:  Team Topologies Communities of Practice real cross-functional Teams: Integrating Support, Marketing, &amp;hellip; into cross-functional teams Peach Model: Building central service teams for all disciplines, that have not been integrated to the cross-functional teams Endless Game: As there is no &amp;ldquo;Change the Business&amp;rdquo; and &amp;ldquo;Run the Business&amp;rdquo; anymore, you have to switch from a project-centric to a product-centric approach #noprojects  </description>
+    </item>
+    
+    <item>
+      <title>Student Ticket Sponsoring (by open knowledge)</title>
+      <link>https://devops-gathering.io/student-ticket-sponsoring/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/student-ticket-sponsoring/</guid>
+      <description>Dear DevOps-Friends and students!
+We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2018 :-)
+At this point a big thank you to our student sponsor open knowledge!
+You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and send us afterwards your student-ID (mail to: info@devops-gathering.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Requirements | February 19th</title>
+      <link>https://devops-gathering.io/workshop-requirements/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/workshop-requirements/</guid>
+      <description>Workshop: Building a Self-Sufficient System by Viktor Farcic  https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md  Workshop: Introduction into Kubernetes by Thomas Fricke  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE. Instructions for GKE are herehttps://cloud.google.com/kubernetes-engine/docs/quickstart and an installed version of Kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl  Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:</description>
+    </item>
+    
+    <item>
+      <title>Videos, photos and impressions of the DevOps Gathering</title>
+      <link>https://devops-gathering.io/media-and-photos/</link>
+      <pubDate>Tue, 01 Aug 2017 09:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/media-and-photos/</guid>
+      <description>Blogpost about the first DevOps Gathering in 2017:  Workshop Day Docker on Windows Workshop Conference Day Open Space 2017  Recorded conference talks of the DevOps Gathering 2017:  Pictures and impressions of the DevOps Gathering 2017:    Attendee with dev ops gathering t shirt
+      Attendees watching dev ops gathering conference talks
+      Coffee break on workshop day dev ops gathering</description>
+    </item>
+    
+    <item>
+      <title>Accommodations</title>
+      <link>https://devops-gathering.io/accommodations/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/accommodations/</guid>
+      <description>Accommodations &amp;amp; Hotels Art Hotel Tucholsky Viktoriastraße 73, 44787 Bochum
+Booking
+| website: www.art-hotel-tucholsky.de | e-mail: info@art-hotel-tucholsky.de or sb@bjw-gastronomie.de | phone: +49 (0)234 964360 or +49 (0)234 5306670
+acora Hotel und Wohnen Nordring 44 – 50, 44787 Bochum
+Booking
+| e-mail: bochum@acora.de | phone: +49 (0)234&amp;frasl;68 96-985</description>
+    </item>
+    
+    <item>
+      <title>After Conference Reception</title>
+      <link>https://devops-gathering.io/after-conference/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/after-conference/</guid>
+      <description>6:30pm - 10:00 pm at G Data Campus After a day of great talks, nothing sounds better than grabbing a cold beer, tasty food and networking with fellow developers and enthusiasts. Luckily, the DevOps Gathering Reception is just that.
+G Data provides awesome people, tasty food and high quality drinks. Feel free to join us and to talk with other DevOps interested people, including the speakers. Socialize and make new friends.</description>
+    </item>
+    
+    <item>
+      <title>Conference Code of Conduct </title>
+      <link>https://devops-gathering.io/code-of-conduct/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+Need Help? We have a dedicated team that takes care of your safety. If you experience harassment or other Code of Conduct violations, please contact the care team (twitter: @DevOpsGathering; e-mail: care@devops-gathering.</description>
+    </item>
+    
+    <item>
+      <title>General terms and conditions</title>
+      <link>https://devops-gathering.io/general-terms-and-conditions/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/general-terms-and-conditions/</guid>
+      <description>By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.
+Please read these conditions carefully!
+SCOPE OF APPLICATION The organizer of the conference and workshops is
+bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).
+For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.</description>
+    </item>
+    
+    <item>
+      <title>How to become a sponsor? </title>
+      <link>https://devops-gathering.io/sponsoring/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/sponsoring/</guid>
+      <description>Sponsoring DevOps Gathering We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!
+After this year‘s and first successful community conference in 2017, we are now preparing the second edition of the DevOps Gathering 2018.</description>
+    </item>
+    
+    <item>
+      <title>Pricing &amp; Registration</title>
+      <link>https://devops-gathering.io/tickets/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/tickets/</guid>
+      <description>Price Categories &amp;amp; Information Please note: The DevOps Gathering 2018 is totally sold out!
+All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
+Monday (February 19th) - Pre-Conference Workshops
+Tuesday (February 20th) - Conference Day and evening reception
+Wednesday (February 21st) - Conference Day
+The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://devops-gathering.io/privacy-policy/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/privacy-policy/</guid>
+      <description>Data Privacy Policy Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://devops-gathering.io/imprint/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/imprint/</guid>
+      <description>Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
+bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Email: mailto:info@bee42.com
+Phone +49(0)157-72 54 92 63
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+Responsible for the content according to § 55 Abs. 2 RStV: bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://devops-gathering.io/venue/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>https://devops-gathering.io/venue/</guid>
+      <description> Pre-Conference-Workshops on Monday (February 19, 2018) Zentrum für IT Sicherheit (ZITS) Lise-Meitner-Allee 4 44801 Bochum
+ Website    
+Conference on Tuesday and Wednesday (February 20 - 21, 2018) G Data Campus, Königsallee 178b, 44799 Bochum
+ Directions   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/imprint-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/imprint-de/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG: bee42 solutions GmbH Am Josephsschacht 72 44879 Bochum
+Gesellschaftsform: Gesellschaft mit beschränkter Haftung
+Vertreten durch: Peter Rossbach
+Kontakt: Telefon: +49 157 72 54 92 63 E-Mail: info@bee42.com
+Registereintrag: Eintragung im Handelsregister. Registergericht:Amtsgericht Bochum Registernummer: HRB 14047
+Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 28 49 32 374
+Quelle: Mit dem von eRecht24 bereitgestellten Impressum-Generator erzeugt.
+Haftungsausschluss: Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/anton-weiss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/anton-weiss/</guid>
+      <description>CEO and founding consultant at Otomato – the effective software delivery experts. Initiator of the first DevOps certification program in Israel. 17 years of industry experience both at large corporations and startups. Writer, trainer, speaker and a conference rockstar.
+ Workshop: Building a Modern CI/CD Pipeline (with Docker and Kubernetes)  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/christian-daschner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/christian-daschner/</guid>
+      <description>Christian is Senior Systems Engineer at replex and has over 12 years of IT / DevOps experience in multiple european companies. He is the founder of LinuxUserGroup Freising and started his career as Co-Maintainer for Debian packages.
+ The Modern IT Stack  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/govinda-fichtner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/govinda-fichtner/</guid>
+      <description>Senior DevOps &amp;amp; Cloud-Engineer at Paessler AG Govinda has been working in the IT industry for more than 18 years in many different roles such as developer, administrator, consultant, architect, trainer, project manager, team lead and CTO. Currently he is busy building www.my-prtg.com, which is an AWS-based SaaS infrastructure monitoring solution. Govinda is a certified Linux and AWS professional who has been working as a DevOps based on agile principles since 2005.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/kevin-wittek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
+      <description>Java developer and JVM fanboy since being introduced to the language back in school 12 years ago. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock. Nowadays Kevin is working at the cyber security company GDATA Advanced Analytics and focuses on topics such as software craftsmanship, infrastructure as code and continuous integration pipelines, trying to make the world a better place one container at a time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/matthias-rottlaender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/matthias-rottlaender/</guid>
+      <description>Jack-Of-All-Trades promoting perpetual pursuit of technical excellence. Developer of Java systems since about 10 years ago. Passionate usability nit-pick. Zealot hooking everyone in his vicinity on testing. Wholehearted embracer of agile principles. Found his home at German cyber security service provider GDATA Advanced Analytics, where he can do all of the above on a daily basis.
+ Groovy integration testing with Docker and TestContainers  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/niclas-mietz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
+      <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.
+ Workshop: GitLab/CI Basics Container Software Supply Chain  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/nicolas-byl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/nicolas-byl/</guid>
+      <description>Nicolas Byl gained his first hands-on experiences at developing distributed systems during his studies in medical informatics. At codecentric AG he is working on cloud-native infrastructure for application development.
+ Stateful Applications on Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/patrick-gruhn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/patrick-gruhn/</guid>
+      <description>Patrick has experience in both high-tech startups and multinational enterprises. Patrick has a MSc in computer science and a Master in International Business Management, combining his ability to connect real business problems with the underlying IT.
+ The Modern IT Stack  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/peter-rossbach/</guid>
+      <description>As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but also our customers to top performances.
+ Container Software Supply Chain  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
+      <description>Dr. Roland Huß is a Principal Software Engineer at Red Hat working in the Fuse team. He has been developing in Java for twenty years now but never forgot his roots as system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and the popular fabric8io/docker-maven-plugin. And he loves chilli pepper.
+ Kubernetes Patterns  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/thomas-fricke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/thomas-fricke/</guid>
+      <description>Thomas Fricke is the CTO of Endocode and a cloud architect. He likes to work with scaling applications, especially with distributed databases. He has worked as a development engineer, system, software and cloud architect for many years. Current topics are large scale system automation for cloud native applications.
+ Workshop: Introduction into Kubernetes Architecture Patterns for Microservices in Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/bjoern-rabenstein/</guid>
+      <description>Björn is a Production Engineer at SoundCloud and a Prometheus developer. Previously, he was a Site Reliability Engineer at Google and a number cruncher for science.
+ Modern Monitoring for Dev and Ops  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/jan-bruder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jan-bruder/</guid>
+      <description>Jan Bruder is a Linux containers and open source enthusiast. He joined Rancher Labs in 2016 and is working with Rancher users all over Europe on adopting Linux containers in their production environments.
+ Deploying and managing production-grade Kubernetes clusters with Rancher  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/joao-santos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/joao-santos/</guid>
+      <description>João Santos is a software engineer working in the Continuous Delivery Team at Zalando, He has been with Zalando for the 4 and a half years and in the past 3 he has built and maintained deployment tools for the datacenter, AWS and Kubernetes.
+ CI/CD at Zalando  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/jorge-salamero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/jorge-salamero/</guid>
+      <description>Jorge enjoys monitoring all the things, from his container clusters to writing sensors plugins and DIY projects with Raspberry PI and ESP8266.
+Currently he is part of the Sysdig team, and in the past was one of the promoters of HumanOps. When he is away from computers, you will find him walking with his 2 dogs across the countryside or driving his car through a twisted road.
+ Workshop: Container Troubleshooting with Sysdig Open Source  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/konstantin-diener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/konstantin-diener/</guid>
+      <description>Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.
+ Tear down silos! How? What comes next?  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/mario-kleinsasser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
+      <description>Mario Kleinsasser is the team leader of a small web-hosting department of a large construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Through the transition and migration to Docker he transforms theoretical concepts into working durable Docker solutions.
+ Docker: Ops unleashed  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
+      <description>Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She is in the organisation team of Softwerkskammer Ruhrgebiet.
+ Continuous Databas Integration with Flyway  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/timo-derstappen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/timo-derstappen/</guid>
+      <description>Timo Derstappen is the CTO and Co-Founder of Giant Swarm. Besides managing and scaling distributed services for the past 15 years he is prepared to move off-the-grid as soon as the time is right.
+ Cloud-native Microservices  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/victor-farcic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/victor-farcic/</guid>
+      <description>Viktor Farcic is a Senior Consultant at CloudBees, a member of the Docker Captains group, and books author. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, Java, Scala, etc. He never worked with Fortran. His current favorite is Go.
+His big passions are DevOps, Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD).</description>
+    </item>
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>https://devops-gathering.io/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/openspace/container-open-space/</guid>
+      <description>WHAT IS AN OPEN SPACE? What do you need to bring with you for the conference? -&amp;gt; Only you, good ideas and curiosity! :-)
+Where can I find more information about the open space? Here you can find definitions, videos and more information about the format open space : * https://de.wikipedia.org/wiki/Open_Space * http://www.agonda.de/open-space/open-space.html * https://www.youtube.com/watch?v=eZD0PtnN1vQ
+An Open Space is a simple and productive way for hosting knowledge events. Participants and experts will create and manage together their own agenda of parallel working sessions.</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://devops-gathering.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/contact/</guid>
+      <description>Contact Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)
+If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!
+e-mail: info@devops-gathering.io phone: +49 (0)174 -9760024
+Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://devops-gathering.io/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/sponsors/</guid>
+      <description>The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helped and supported the first DevOps Gathering 2017. Thank you for making this great conference possible! :-) After this year‘s and first successful community conference, we are now preparing the second edition of the DevOps Gathering. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.</description>
+    </item>
+    
+  </channel>
+</rss>

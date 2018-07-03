@@ -71,83 +71,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/Anton-Weiss/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Christian-Daschner/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Govinda-Fichtner/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Kevin-Wittek/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Matthias-Rottlaender/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/speakers/Niclas-Mietz/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/Nicolas-Byl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Patrick-Gruhn/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/speakers/Peter-Rossbach/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Roland-Huss/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/Thomas-Fricke/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/bjoern-rabenstein/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/jan-bruder/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/joao-santos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/jorge-salamero/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/konstantin-diener/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/mario-kleinsasser/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/sandra-parsick/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/timo-derstappen/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/victor-farcic/</loc>
   </url>
   
   <url>
@@ -160,90 +88,6 @@
   
   <url>
     <loc>https://devops-gathering.io/sponsors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Building-a-Self-Sufficient-System/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Self-Sufficient-System/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/CI-CD-at-Zalando/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-GitLab-CI-Basics/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Stateful-Applications-on-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Introduction-into-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Docker-Ops-unleashed/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Container-Troubleshooting-with-Sysdig-Open-Source/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Docker-on-AWS/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Building-a-Modern-CI-CD-Pipeline-with-Docker-and-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/The-Modern-IT-Stack/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/workshops/Workshop-Groovy-integration-testing-with-Docker-and-TestContainers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Kubernetes-Patterns/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Container-Software-Supply-Chain/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Continuous-Databas-Integration-with-Flyway/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Deploying-and-managing-production-grade-Kubernetes-clusters-with-Rancher/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Modern-Monitoring-for-Dev-and-Ops/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Architecture-Patterns-for-Microservices-in-Kubernetes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Integration-Testing-with-TestContainers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Cloud-native-Microservices/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/Tear-down-silos-How-What-comes-next/</loc>
   </url>
   
 </urlset>
