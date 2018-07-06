@@ -35,7 +35,7 @@
 /* Center Content in both directions X, Y
 ---------------------------------------------------------------------------------------- */
 @mixin translateXY() {
-	top: 50%;
+	top: 60%;
 	left: 50%;
 	position: absolute;
 	-webkit-transform: translate(-50%, -50%);
@@ -87,7 +87,7 @@
 	top: 0;
 	left: 0;
 	position: static;
-  }   
+  }
 
 /*  scale background images
 ---------------------------------------------------------------------------------------- */
@@ -167,7 +167,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801e6dbc', e
 
 /* Pace Preloader
 ---------------------------------------------------------------------------------------- */
-@mixin pace-default($color:  red) { 
+@mixin pace-default($color:  red) {
 	.pace {
 		-webkit-pointer-events: none;
 		pointer-events: none;
@@ -184,7 +184,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801e6dbc', e
 
 		-webkit-transform: translate3d(0, -50px, 0);
 		-ms-transform: translate3d(0, -50px, 0);
-		transform: translate3d(0, -50px, 0); 
+		transform: translate3d(0, -50px, 0);
 
 		-webkit-transition: -webkit-transform .5s ease-out;
 		-ms-transition: -webkit-transform .5s ease-out;
@@ -222,7 +222,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#801e6dbc', e
 		}
 	}
 
-@mixin pace-center($color:  red) { 
+@mixin pace-center($color:  red) {
 	.pace {
 		-webkit-pointer-events: none;
 		pointer-events: none;

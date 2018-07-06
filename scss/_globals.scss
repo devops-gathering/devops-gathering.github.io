@@ -5,14 +5,14 @@ $light: #fff;
 $dark: #333;
 
 $accent1: #258fbc; // #f05f40; // orange
-$accent2:  #f66e00; 
-$accent3: #445256; 
+$accent2:  #f66e00;
+$accent3: #445256;
 $accent4: #f5f5f5; //light grey
 $accent5: #44a6d0;
 
 // fonts
-$font1: 'Open Sans', sans-serif;
-$font2: 'Merriweather', serif;
+$font1: 'Ubuntu', sans-serif;
+$font2: 'Ubuntu Light', serif;
 
 // root font-size
 $root-font-size: 16px;
@@ -23,6 +23,7 @@ body {
 	font-family: $font2;
 	height: auto;
 	background: $accent4;
+  font-weight: 300;
 }
 
 // text options
