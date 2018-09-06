@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devops Gathering 2019 | March 11 - 13, 2018 in Bochum</title>
-    <link>https://devops-gathering.io/index.xml</link>
-    <description>Recent content on Devops Gathering 2019 | March 11 - 13, 2018 in Bochum</description>
+    <title>Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</title>
+    <link>https://devops-gathering.io/</link>
+    <description>Recent content on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
-    <atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Student Ticket Sponsoring (by open knowledge)</title>
@@ -15,20 +17,10 @@
       <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/student-ticket-sponsoring/</guid>
-      <description>
-
-&lt;p&gt;Dear DevOps-Friends and students!&lt;/p&gt;
-
-&lt;p&gt;We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2019 :-)&lt;/p&gt;
-
-&lt;h2 id=&#34;you-have-the-chance-to-get-one-sponsored-ticket-for-the-conference-days&#34;&gt;You have the chance to get one sponsored ticket for the conference days!&lt;/h2&gt;
-
-&lt;p&gt;Want to win one ticket? Then please fill out the following application form and send us afterwards your student-ID (mail to: info@devops-gathering.io)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdMYekb0pFQG8OEXs429T9NC4Yg4f-wC0FYcqAx5s38TGoSIw/viewform?usp=sf_link&#34;&gt;Click here to fill in the application&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Dear DevOps-Friends and students!
+We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2019 :-)
+You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and send us afterwards your student-ID (mail to: info@devops-gathering.io)
+ Click here to fill in the application  </description>
     </item>
     
     <item>
@@ -37,39 +29,7 @@
       <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/workshop-requirements/</guid>
-      <description>
-
-&lt;h2 id=&#34;workshop-building-a-self-sufficient-system-by-viktor-farcic&#34;&gt;Workshop: Building a Self-Sufficient System by Viktor Farcic&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&#34;&gt;https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;workshop-introduction-into-kubernetes-by-thomas-fricke&#34;&gt;Workshop: Introduction into Kubernetes by Thomas Fricke&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here &lt;a href=&#34;https://github.com/kubernetes/minikube&#34;&gt;https://github.com/kubernetes/minikube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;or alternatively access to Kubernetes in a cloud like GCE. Instructions for GKE are herehttps://cloud.google.com/kubernetes-engine/docs/quickstart&lt;/li&gt;
-&lt;li&gt;and an installed version of Kubectl &lt;a href=&#34;https://kubernetes.io/docs/tasks/tools/install-kubectl&#34;&gt;https://kubernetes.io/docs/tasks/tools/install-kubectl&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;workshop-groovy-integration-testing-with-docker-and-testcontainers-by-kevin-wittek-and-matthias-rottländer&#34;&gt;Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer&lt;/h2&gt;
-
-&lt;p&gt;As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;JDK 8&lt;/li&gt;
-&lt;li&gt;Java IDE (IntelliJ recommended)&lt;/li&gt;
-&lt;li&gt;Groovy 2.5&lt;/li&gt;
-&lt;li&gt;Docker 17-CE&lt;/li&gt;
-&lt;li&gt;Linux environment recommended &lt;/li&gt;
-&lt;li&gt;macOS and Windows 10 environments using Docker for Mac and Docker for Windows should work in theory, but we can’t provide specialized support&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;workshop-ci-cd-piplines-with-docker-and-kubernetes-by-anton-weiss&#34;&gt;Workshop: CI/CD Piplines with Docker and Kubernetes by Anton Weiss&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://devops-gathering.io/pdf/CI_CD workshop prerequisites.pdf&#34; class=&#34;more&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Workshop: Building a Self-Sufficient System by Viktor Farcic  https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md  Workshop: Introduction into Kubernetes by Thomas Fricke  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE. Instructions for GKE are herehttps://cloud.google.com/kubernetes-engine/docs/quickstart and an installed version of Kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl  Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:</description>
     </item>
     
     <item>
@@ -78,628 +38,9 @@
       <pubDate>Tue, 01 Aug 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/media-and-photos/</guid>
-      <description>
-
-&lt;h2 id=&#34;blogpost-about-the-first-devops-gathering-in-2017&#34;&gt;Blogpost about the first DevOps Gathering in 2017:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bee42.com/blog/DevOps-Gathering-Docker-on-Windows-Workshop/&#34; title=&#34;About the Docker on Windows Workshop&#34;&gt;Workshop Day&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bee42.com/blog/devops-gathering-workshops/&#34; title=&#34;About the Workshop day in 2017&#34;&gt;Docker on Windows Workshop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bee42.com/blog/DevOps-Gathering-Conference-Day/&#34; title=&#34;About the conference day in 2017&#34;&gt;Conference Day&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bee42.com/blog/DevOps-Gathering-Open-Space/&#34; title=&#34;About the Open Space in 2017&#34;&gt;Open Space 2017&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;recorded-conference-talks-of-the-devops-gathering-2017&#34;&gt;Recorded conference talks of the DevOps Gathering 2017:&lt;/h2&gt;
-
-&lt;iframe width=&#34;700&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Dz5IeipYY_c?list=PLfE26KO4gJKAkrcxjCxoapWmljYKF9qTr&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;pictures-and-impressions-of-the-devops-gathering-2017&#34;&gt;Pictures and impressions of the DevOps Gathering 2017:&lt;/h2&gt;
-
-&lt;p&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://devops-gathering.io/css/hugo-easy-gallery.css&#34; /&gt;
-&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Attendee-with-DevOps-Gathering-TShirt.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Attendee-with-DevOps-Gathering-TShirt.jpg&#34; alt=&#34;Attendee with dev ops gathering t shirt&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Attendee with dev ops gathering t shirt&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Attendee-with-DevOps-Gathering-TShirt.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Attendees-watching-DevOps-Gathering-Conference-Talks.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Attendees-watching-DevOps-Gathering-Conference-Talks.jpg&#34; alt=&#34;Attendees watching dev ops gathering conference talks&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Attendees watching dev ops gathering conference talks&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Attendees-watching-DevOps-Gathering-Conference-Talks.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Coffee-Break-on-Workshop-Day-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Coffee-Break-on-Workshop-Day-DevOps-Gathering.jpg&#34; alt=&#34;Coffee break on workshop day dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Coffee break on workshop day dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Coffee-Break-on-Workshop-Day-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Conference-Shirts-2017.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Conference-Shirts-2017.jpg&#34; alt=&#34;Dev ops gathering conference shirts 2017&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Dev ops gathering conference shirts 2017&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Conference-Shirts-2017.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Saal.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Saal.jpg&#34; alt=&#34;Dev ops gathering saal&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Dev ops gathering saal&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Saal.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Workshop-Speaker.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Workshop-Speaker.jpg&#34; alt=&#34;Dev ops gathering workshop speaker&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Dev ops gathering workshop speaker&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/DevOps-Gathering-Workshop-Speaker.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Docker-Birthday-Party-DevOps-Gathering-2017.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-Birthday-Party-DevOps-Gathering-2017.jpg&#34; alt=&#34;Docker birthday party dev ops gathering 2017&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Docker birthday party dev ops gathering 2017&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-Birthday-Party-DevOps-Gathering-2017.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Docker-Captain-Stefan-Scherer-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-Captain-Stefan-Scherer-DevOps-Gathering.jpg&#34; alt=&#34;Docker captain stefan scherer dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Docker captain stefan scherer dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-Captain-Stefan-Scherer-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-DevOps-Gathering.jpg&#34; alt=&#34;Docker on windows workshop dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Docker on windows workshop dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-with-Docker-captains-Dieter-Reuter-and-Stefan-Scherer.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-with-Docker-captains-Dieter-Reuter-and-Stefan-Scherer.jpg&#34; alt=&#34;Docker on windows workshop with docker captains dieter reuter and stefan scherer&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Docker on windows workshop with docker captains dieter reuter and stefan scherer&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Docker-on-Windows-Workshop-with-Docker-captains-Dieter-Reuter-and-Stefan-Scherer.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Eroeffnung-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Eroeffnung-DevOps-Gathering.jpg&#34; alt=&#34;Eroeffnung dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Eroeffnung dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Eroeffnung-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Fragerunde-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Fragerunde-DevOps-Gathering.jpg&#34; alt=&#34;Fragerunde dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Fragerunde dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Fragerunde-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Funny-Docker-Selfies-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Funny-Docker-Selfies-DevOps-Gathering.jpg&#34; alt=&#34;Funny docker selfies dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Funny docker selfies dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Funny-Docker-Selfies-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Giantswarm-at-DevOps-Gathering-2017.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Giantswarm-at-DevOps-Gathering-2017.jpg&#34; alt=&#34;Giantswarm at dev ops gathering 2017&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Giantswarm at dev ops gathering 2017&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Giantswarm-at-DevOps-Gathering-2017.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Gitlab-CI-Workshop.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Gitlab-CI-Workshop.jpg&#34; alt=&#34;Gitlab c i workshop&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Gitlab c i workshop&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Gitlab-CI-Workshop.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Gitlab-Workshop-with-Niclas-Mietz.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Gitlab-Workshop-with-Niclas-Mietz.jpg&#34; alt=&#34;Gitlab workshop with niclas mietz&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Gitlab workshop with niclas mietz&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Gitlab-Workshop-with-Niclas-Mietz.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Konzentriertes-Arbeiten-Workshops-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Konzentriertes-Arbeiten-Workshops-DevOps-Gathering.jpg&#34; alt=&#34;Konzentriertes arbeiten workshops dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Konzentriertes arbeiten workshops dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Konzentriertes-Arbeiten-Workshops-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Lachende-Teilnehmer-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Lachende-Teilnehmer-DevOps-Gathering.jpg&#34; alt=&#34;Lachende teilnehmer dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Lachende teilnehmer dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Lachende-Teilnehmer-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Lucas-Kaeldstroem-DevoPs-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Lucas-Kaeldstroem-DevoPs-Gathering.jpg&#34; alt=&#34;Lucas kaeldstroem devo ps gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Lucas kaeldstroem devo ps gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Lucas-Kaeldstroem-DevoPs-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Michael-Laufenberg-traefik-at-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Michael-Laufenberg-traefik-at-DevOps-Gathering.jpg&#34; alt=&#34;Michael laufenberg traefik at dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Michael laufenberg traefik at dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Michael-Laufenberg-traefik-at-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Peter-Rossbach-Programm-Chair-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Peter-Rossbach-Programm-Chair-DevOps-Gathering.jpg&#34; alt=&#34;Peter rossbach programm chair dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Peter rossbach programm chair dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Peter-Rossbach-Programm-Chair-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/PeterRossbach-Devops-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/PeterRossbach-Devops-Gathering.jpg&#34; alt=&#34;Peter rossbach devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Peter rossbach devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/PeterRossbach-Devops-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Philipp-Garbe-Docker-Captain-with-a-AWS-Workshop.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Philipp-Garbe-Docker-Captain-with-a-AWS-Workshop.jpg&#34; alt=&#34;Philipp garbe docker captain with a a w s workshop&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Philipp garbe docker captain with a a w s workshop&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Philipp-Garbe-Docker-Captain-with-a-AWS-Workshop.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Program-chair-Peter-Ro%C3%9Fbach-having-fun.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Program-chair-Peter-Ro%C3%9Fbach-having-fun.jpg&#34; alt=&#34;Program chair peter roßbach having fun&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Program chair peter roßbach having fun&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Program-chair-Peter-Ro%C3%9Fbach-having-fun.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Roland-Huss-RedHat-at-the-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Roland-Huss-RedHat-at-the-DevOps-Gathering.jpg&#34; alt=&#34;Roland huss red hat at the dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Roland huss red hat at the dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Roland-Huss-RedHat-at-the-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Setlog-Crew-at-the-Devops-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Setlog-Crew-at-the-Devops-Gathering.jpg&#34; alt=&#34;Setlog crew at the devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Setlog crew at the devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Setlog-Crew-at-the-Devops-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Stefan-Scherer-on-Stage-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Stefan-Scherer-on-Stage-DevOps-Gathering.jpg&#34; alt=&#34;Stefan scherer on stage dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Stefan scherer on stage dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Stefan-Scherer-on-Stage-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Traefik-at-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Traefik-at-DevOps-Gathering.jpg&#34; alt=&#34;Traefik at dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Traefik at dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Traefik-at-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/Winner-of-the-price-dpunkt-at-Devops-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/Winner-of-the-price-dpunkt-at-Devops-Gathering.jpg&#34; alt=&#34;Winner of the price dpunkt at devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Winner of the price dpunkt at devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/Winner-of-the-price-dpunkt-at-Devops-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/another-workshop-at-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/another-workshop-at-devops-gathering.jpg&#34; alt=&#34;Another workshop at devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Another workshop at devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/another-workshop-at-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/attendees-of-the-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/attendees-of-the-devops-gathering.jpg&#34; alt=&#34;Attendees of the devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Attendees of the devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/attendees-of-the-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/bee42-crew-and-organizer-of-the-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/bee42-crew-and-organizer-of-the-devops-gathering.jpg&#34; alt=&#34;Bee42 crew and organizer of the devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Bee42 crew and organizer of the devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/bee42-crew-and-organizer-of-the-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/coffee-break-DevOps-Gathering-2017.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/coffee-break-DevOps-Gathering-2017.jpg&#34; alt=&#34;Coffee break dev ops gathering 2017&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Coffee break dev ops gathering 2017&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/coffee-break-DevOps-Gathering-2017.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/coffee-break-and-attendees.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/coffee-break-and-attendees.jpg&#34; alt=&#34;Coffee break and attendees&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Coffee break and attendees&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/coffee-break-and-attendees.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-2017-introduction.png&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-2017-introduction.png&#34; alt=&#34;Devops gathering 2017 introduction&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Devops gathering 2017 introduction&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-2017-introduction.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-party-night-at-gdata.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-party-night-at-gdata.jpg&#34; alt=&#34;Devops gathering party night at gdata&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Devops gathering party night at gdata&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-party-night-at-gdata.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-welcome.png&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-welcome.png&#34; alt=&#34;Devops gathering welcome&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Devops gathering welcome&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/devops-gathering-welcome.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/emile-vauge-traefik-at-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/emile-vauge-traefik-at-devops-gathering.jpg&#34; alt=&#34;Emile vauge traefik at devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Emile vauge traefik at devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/emile-vauge-traefik-at-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/giantswarm-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/giantswarm-DevOps-Gathering.jpg&#34; alt=&#34;Giantswarm dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Giantswarm dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/giantswarm-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/happy-attendees-DevOps-Gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/happy-attendees-DevOps-Gathering.jpg&#34; alt=&#34;Happy attendees dev ops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Happy attendees dev ops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/happy-attendees-DevOps-Gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/more-attendees-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/more-attendees-devops-gathering.jpg&#34; alt=&#34;More attendees devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;More attendees devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/more-attendees-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/networking-at-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/networking-at-devops-gathering.jpg&#34; alt=&#34;Networking at devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Networking at devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/networking-at-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/open-knowledge-as-Tshirt-Sponsor.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/open-knowledge-as-Tshirt-Sponsor.jpg&#34; alt=&#34;Open knowledge as tshirt sponsor&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Open knowledge as tshirt sponsor&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/open-knowledge-as-Tshirt-Sponsor.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/party-night-at-the-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/party-night-at-the-devops-gathering.jpg&#34; alt=&#34;Party night at the devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Party night at the devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/party-night-at-the-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/party-night-devops-gathering-2017.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/party-night-devops-gathering-2017.jpg&#34; alt=&#34;Party night devops gathering 2017&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Party night devops gathering 2017&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/party-night-devops-gathering-2017.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/students-at-the-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/students-at-the-devops-gathering.jpg&#34; alt=&#34;Students at the devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Students at the devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/students-at-the-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/talks-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/talks-devops-gathering.jpg&#34; alt=&#34;Talks devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Talks devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/talks-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/tech-women-at-devops-gathering.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/tech-women-at-devops-gathering.jpg&#34; alt=&#34;Tech women at devops gathering&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Tech women at devops gathering&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/tech-women-at-devops-gathering.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;box&#34;&gt;
-				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://devops-gathering.io/img/photos-for-gallery/uwe-friedrichsen-codecentric-with-the-devops-gathering-keynote.jpg&#39;);&#34; &gt;
-				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://devops-gathering.io/img/photos-for-gallery/uwe-friedrichsen-codecentric-with-the-devops-gathering-keynote.jpg&#34; alt=&#34;Uwe friedrichsen codecentric with the devops gathering keynote&#34; /&gt;
-				    &lt;/div&gt;
-			      &lt;figcaption&gt;
-		          &lt;p&gt;Uwe friedrichsen codecentric with the devops gathering keynote&lt;/p&gt;
-			      &lt;/figcaption&gt;
-				    &lt;a href=&#34;https://devops-gathering.io/img/photos-for-gallery/uwe-friedrichsen-codecentric-with-the-devops-gathering-keynote.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
-				  &lt;/figure&gt;
-				&lt;/div&gt;
-&lt;/div&gt;
- 
-
-
-
-  
-
-
-&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://devops-gathering.io/js/load-photoswipe.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
-
-
-&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
-
-&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
-
-&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
-    
-    &lt;div class=&#34;pswp__container&#34;&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
-    &lt;div class=&#34;pswp__top-bar&#34;&gt;
-      
-      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
-      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
-      
-      
-      &lt;div class=&#34;pswp__preloader&#34;&gt;
-        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
-          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
-            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
-      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
-    &lt;/button&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
-    &lt;/button&gt;
-    &lt;div class=&#34;pswp__caption&#34;&gt;
-      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Blogpost about the first DevOps Gathering in 2017:  Workshop Day Docker on Windows Workshop Conference Day Open Space 2017  Recorded conference talks of the DevOps Gathering 2017:  Pictures and impressions of the DevOps Gathering 2017:    Attendee with dev ops gathering t shirt
+      Attendees watching dev ops gathering conference talks
+      Coffee break on workshop day dev ops gathering</description>
     </item>
     
     <item>
@@ -708,29 +49,12 @@
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/accommodations/</guid>
-      <description>
-
-&lt;h2 id=&#34;accommodations-hotels&#34;&gt;Accommodations &amp;amp; Hotels&lt;/h2&gt;
-
-&lt;h2 id=&#34;art-hotel-tucholsky&#34;&gt;Art Hotel Tucholsky&lt;/h2&gt;
-
-&lt;p&gt;Viktoriastraße 73, 44787 Bochum&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Booking&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;| website: &lt;a href=&#34;http://www.art-hotel-tucholsky.de/&#34;&gt;www.art-hotel-tucholsky.de&lt;/a&gt;
-| e-mail: &lt;a href=&#34;mailto:info@art-hotel-tucholsky.de&#34; title=&#34;Mail us&#34;&gt;info@art-hotel-tucholsky.de&lt;/a&gt; or &lt;a href=&#34;mailto:sb@bjw-gastronomie.de&#34; title=&#34;Mail us&#34;&gt;sb@bjw-gastronomie.de&lt;/a&gt;
-| phone: +49 (0)234 964360 or +49 (0)234 5306670&lt;/p&gt;
-
-&lt;h2 id=&#34;acora-hotel-und-wohnen&#34;&gt;acora Hotel und Wohnen&lt;/h2&gt;
-
-&lt;p&gt;Nordring 44 – 50, 44787 Bochum&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Booking&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;| e-mail: &lt;a href=&#34;mailto:bochum@acora.de&#34; title=&#34;Mail us&#34;&gt;bochum@acora.de&lt;/a&gt;
-| phone: +49 (0)&lt;sup&gt;234&lt;/sup&gt;&amp;frasl;&lt;sub&gt;68&lt;/sub&gt; 96-985&lt;/p&gt;
-</description>
+      <description>Accommodations &amp;amp; Hotels Art Hotel Tucholsky Viktoriastraße 73, 44787 Bochum
+Booking
+| website: www.art-hotel-tucholsky.de | e-mail: info@art-hotel-tucholsky.de or sb@bjw-gastronomie.de | phone: +49 (0)234 964360 or +49 (0)234 5306670
+acora Hotel und Wohnen Nordring 44 – 50, 44787 Bochum
+Booking
+| e-mail: bochum@acora.de | phone: +49 (0)234&amp;frasl;68 96-985</description>
     </item>
     
     <item>
@@ -739,18 +63,8 @@
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/after-conference/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://devops-gathering.io/img/gdata-party.jpeg&#34; alt=&#34;Party Location&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;6-30pm-10-00-pm-at-g-data-campus&#34;&gt;6:30pm - 10:00 pm at G Data Campus&lt;/h3&gt;
-
-&lt;p&gt;After a day of great talks, nothing sounds better than grabbing a cold beer, tasty food and networking with fellow developers and enthusiasts. Luckily, the DevOps Gathering Reception is just that.&lt;/p&gt;
-
-&lt;p&gt;G Data provides awesome people, tasty food and high quality drinks. Feel free to join us and to talk with other DevOps interested people, including the speakers. Socialize and make new friends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A ticket to the conference is required to attend the reception.&lt;/strong&gt;&lt;/p&gt;
-</description>
+      <description>6:30pm - 10:00 pm at G Data Campus After a day of great talks, nothing sounds better than grabbing a cold beer, tasty food and networking with fellow developers and enthusiasts. Luckily, the DevOps Gathering Reception is just that.
+G Data provides awesome people, tasty food and high quality drinks. Feel free to join us and to talk with other DevOps interested people, including the speakers. Socialize and make new friends.</description>
     </item>
     
     <item>
@@ -759,53 +73,8 @@
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/code-of-conduct/</guid>
-      <description>
-
-&lt;p&gt;All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.&lt;/p&gt;
-
-&lt;h2 id=&#34;need-help&#34;&gt;Need Help?&lt;/h2&gt;
-
-&lt;p&gt;We have a dedicated team that takes care of your safety. If you experience harassment or other Code of Conduct violations, please contact the care team (twitter: @DevOpsGathering; e-mail: &lt;a href=&#34;mailto:care@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;care@devops-gathering.io&lt;/a&gt;).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Talk to us in person at the conference venue or the evening events.&lt;/li&gt;
-&lt;li&gt;Members of the organization can be recognized by the DevOps Gathering t-shirts they wear.&lt;/li&gt;
-&lt;li&gt;Write a Twitter private message to @DevOpsGathering&lt;/li&gt;
-&lt;li&gt;Write an email to &lt;a href=&#34;mailto:care@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;care@devops-gathering.io&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Give us a phone call, send an SMS or WhatsApp message.&lt;/li&gt;
-&lt;li&gt;The phone number can also be found in your conference badge leaflet.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;the-quick-version&#34;&gt;The Quick Version&lt;/h2&gt;
-
-&lt;p&gt;Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-less-quick-version&#34;&gt;The Less Quick Version&lt;/h2&gt;
-
-&lt;p&gt;Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.&lt;/p&gt;
-
-&lt;p&gt;Participants asked to stop any harassing behavior are expected to comply immediately.&lt;/p&gt;
-
-&lt;p&gt;Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.&lt;/p&gt;
-
-&lt;p&gt;If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.&lt;/p&gt;
-
-&lt;p&gt;If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified as they&amp;rsquo;ll be wearing branded t-shirts.&lt;/p&gt;
-
-&lt;h2 id=&#34;harrassment-in-social-media&#34;&gt;Harrassment in social media&lt;/h2&gt;
-
-&lt;p&gt;In case of feeling offended or harrassed by an attendee or speaker, please don&amp;rsquo;t let a social media harrassment happen. We would like to create a safe space for everyone and a tweetstorm or something similar is not an option to make someone feel safe. We are all humans, we all make mistakes. It would be great if you reach out to a staff member, send a private Twitter message @DevOpsGathering or just give us a call to the above mentioned phone if you don&amp;rsquo;t feel comfortable to talk to one of us in person.&lt;/p&gt;
-
-&lt;p&gt;Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.&lt;/p&gt;
-
-&lt;p&gt;We expect participants to follow these rules at conference and workshop venues and conference-related social events.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original source and credit:&lt;/strong&gt; &lt;a href=&#34;http://2012.jsconf.us/#/about&#34;&gt;http://2012.jsconf.us/#/about&lt;/a&gt; &amp;amp; The Ada Initiative&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please help by translating or improving:&lt;/strong&gt; &lt;a href=&#34;http://github.com/leftlogic/confcodeofconduct.com&#34;&gt;http://github.com/leftlogic/confcodeofconduct.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This work is licensed under a Creative Commons Attribution 3.0 Unported License&lt;/strong&gt; (&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/de/&#34;&gt;https://creativecommons.org/licenses/by/3.0/de/&lt;/a&gt;)&lt;/p&gt;
-</description>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+Need Help? We have a dedicated team that takes care of your safety. If you experience harassment or other Code of Conduct violations, please contact the care team (twitter: @DevOpsGathering; e-mail: care@devops-gathering.</description>
     </item>
     
     <item>
@@ -814,123 +83,11 @@
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/general-terms-and-conditions/</guid>
-      <description>
-
-&lt;p&gt;By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.&lt;/p&gt;
-
-&lt;p&gt;Please read these conditions carefully!&lt;/p&gt;
-
-&lt;h2 id=&#34;scope-of-application&#34;&gt;SCOPE OF APPLICATION&lt;/h2&gt;
-
-&lt;p&gt;The organizer of the conference and workshops is&lt;/p&gt;
-
-&lt;p&gt;bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).&lt;/p&gt;
-
-&lt;p&gt;For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.&lt;/p&gt;
-
-&lt;p&gt;The valid version of these conditions applies at the time of registration. The German version shall have priority in the event of an objection or other deviations as well as in disputes over the interpretation of this contract.&lt;/p&gt;
-
-&lt;p&gt;bee42 does not accept any formulations which differ from the “General Conditions for bee42 Conferences and Workshops”.&lt;/p&gt;
-
-&lt;p&gt;bee42 trainings and bee42 workshops are aimed at entrepreneurs. In the event that a consumer signs up for a bee42 conference and bee42 workshop according to the consumer protection law, the following right of revocation applies to consumers according to the consumer protection law in addition to the “General conditions for bee42 conferences and workshops”.&lt;/p&gt;
-
-&lt;h2 id=&#34;right-of-withdrawal-for-consumers-according-to-consumer-protection-law&#34;&gt;RIGHT OF WITHDRAWAL FOR CONSUMERS ACCORDING TO CONSUMER PROTECTION LAW&lt;/h2&gt;
-
-&lt;p&gt;If you are a consumer under the Consumer Protection Act, you have the following right of withdrawal in addition to the “General Conditions for bee42 Conferences and Workshops”&lt;/p&gt;
-
-&lt;p&gt;Right of withdrawal instruction&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;a. Right of withdrawal&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You may revoke your declaration of the contract in writing (eg letter or e-mail) within 30 days after receipt of a confirmation of registration by bee42 without giving reasons. The punctual sending of the revocation is sufficient for the revocation period. The revocation must be sent to:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;bee42 solutions GmbH At the Josephsschacht 44879 Bochum, Germany&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;E-mail: info@bee42.com&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;b. Withdrawal sequence&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In the case of an effective revocation, the services received at both ends must be returned and any benefits (eg interest) drawn. If you are unable to return the received performance in whole or in part or in a deteriorated condition, you may have to provide us with a decree. This may mean that you must nevertheless fulfill the contractual payment obligations for the period up to the cancellation. Obligations to reimburse payments must be fulfilled within 30 days. The period begins for you with the sending of your declaration of revocation, for us with their receipt.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;c. Special instructions&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Your right of revocation expires prematurely if the contract is completely fulfilled by both parties at your express request before you have exercised your right of revocation.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;End of right of withdrawal instruction&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;prices&#34;&gt;PRICES&lt;/h2&gt;
-
-&lt;p&gt;Unless otherwise specified in detail, a price quote for a bee42 conference or a bee42 workshop is provided as a net price. If a participant is entitled to deduct the value added tax, he / she is entitled to use the value added tax in Germany to determine the amounts shown on the invoices issued.&lt;/p&gt;
-
-&lt;h2 id=&#34;participation-requirements&#34;&gt;PARTICIPATION REQUIREMENTS&lt;/h2&gt;
-
-&lt;p&gt;The contractual relationship between bee42 and the participant corresponds to the nature of a consulting contract, a service contract. No promises are made and there are no guarantees or goals to be achieved.&lt;/p&gt;
-
-&lt;p&gt;The participation requirements stated in the respective conference or workshop descriptions are binding and must be adhered to in any case.&lt;/p&gt;
-
-&lt;h2 id=&#34;booking-cancellation-or-cancellation&#34;&gt;BOOKING, CANCELLATION OR CANCELLATION&lt;/h2&gt;
-
-&lt;p&gt;a.
-Registration for a bee42-conference or a bee42 workshop can be made by e-mail or via the internet form. After receipt of an application, this is confirmed by bee42 in writing. A participant will receive his invoice within 10 days of his registration.&lt;/p&gt;
-
-&lt;p&gt;b.
-A participant can revoke his registration before the beginning of a bee42 event. In the case of cancellation or cancellation of the registration no additional fees will be levied, if cancellation or cancellation takes place no later than 14 days after the invoice date indicated on the invoice. In the case of cancellation or cancellation of the registration after the said 14 days, the participant must pay 50% of the gross price if cancellation or cancellation takes place no later than 30 days before the start of the event. In the case of a later cancellation or in the event of non-attendance, the participant will be charged the full gross price for participation.&lt;/p&gt;
-
-&lt;p&gt;c.
-The cancellation is subject to the text form. Proof of sending the cancellation is the responsibility of the vendor.&lt;/p&gt;
-
-&lt;h2 id=&#34;due-date-and-payment&#34;&gt;DUE DATE AND PAYMENT&lt;/h2&gt;
-
-&lt;p&gt;Unless otherwise stated, payment of the invoice amount must be made without deduction 14 days before the start of the event on the bee42 account. Only a full and timely invoice is entitled to attend training or workshop. The participant will receive an invoice with VAT.&lt;/p&gt;
-
-&lt;h2 id=&#34;training-place&#34;&gt;TRAINING PLACE&lt;/h2&gt;
-
-&lt;p&gt;The place and the times for bee42-conferences and bee42-workshops are given in the respective description.&lt;/p&gt;
-
-&lt;h2 id=&#34;scope-of-services&#34;&gt;SCOPE OF SERVICES&lt;/h2&gt;
-
-&lt;p&gt;The scope of the offer for a bee42 conference or workshop includes the participation in the conference/workshop as well as the dishes and drinks described in the respective description. The price does not include the accommodation costs as well as travel and departure costs.&lt;/p&gt;
-
-&lt;h2 id=&#34;training-deviations&#34;&gt;TRAINING DEVIATIONS&lt;/h2&gt;
-
-&lt;p&gt;bee42 reserves the right to make changes to content, in order to always be able to offer up-to-date content.&lt;/p&gt;
-
-&lt;h2 id=&#34;change-of-venue&#34;&gt;CHANGE OF VENUE&lt;/h2&gt;
-
-&lt;p&gt;bee42 reserves the right to change the place of the event due to the number of participants or other important reasons. The distance between the original and the new venue is not more than 20 km.&lt;/p&gt;
-
-&lt;h2 id=&#34;cancellation-of-a-bee42-event&#34;&gt;CANCELLATION OF A BEE42 EVENT&lt;/h2&gt;
-
-&lt;p&gt;bee42 reserves the right to cancel a conference or workshop. Fees paid by the participant before the cancellation will be refunded in full. For further expenses or other disadvantages, which arise to the participant by the cancellation, bee42 does not come up.&lt;/p&gt;
-
-&lt;h2 id=&#34;copyright&#34;&gt;COPYRIGHT&lt;/h2&gt;
-
-&lt;p&gt;All rights, including those of the translation, reprinting and duplication of the conference or workshop documents or parts thereof, remain reserved to bee42. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic or mechanical, including, An exception to this are the source codes of the sample applications developed in the conference/workshop.&lt;/p&gt;
-
-&lt;h2 id=&#34;liability-and-warranty&#34;&gt;LIABILITY AND WARRANTY&lt;/h2&gt;
-
-&lt;p&gt;All conferences and workshops are prepared and carried out by bee42 with the greatest possible care. Liability for the training or workshop success as well as a liability which is not based on intent or gross negligence are excluded.&lt;/p&gt;
-
-&lt;p&gt;Any personal use of the information provided is solely the responsibility of a participant. For any changes in the personal life or environment of the participant, bee42 assumes no liability.&lt;/p&gt;
-
-&lt;h2 id=&#34;data-protection&#34;&gt;DATA PROTECTION&lt;/h2&gt;
-
-&lt;p&gt;The careful and conscientious handling of the personal information and data of the participant is important to us. That is why we do not pass on data to uninvolved third parties.&lt;/p&gt;
-
-&lt;p&gt;Each participant agrees with the electronic processing of his personal data by bee42, as far as is necessary for the proper training and workshop management and implementation.&lt;/p&gt;
-
-&lt;h2 id=&#34;applicable-law-and-final-provisions&#34;&gt;APPLICABLE LAW AND FINAL PROVISIONS&lt;/h2&gt;
-
-&lt;p&gt;The law of the Federal Republic of Germany.&lt;/p&gt;
-
-&lt;p&gt;The provisions of the UN purchase or contract law shall not apply.&lt;/p&gt;
-
-&lt;p&gt;The court of jurisdiction for all disputes arising from this contract is Bochum.&lt;/p&gt;
-
-&lt;p&gt;Should individual provisions of these “General Terms and Conditions for bee42 conferences and workshops” be or become invalid in whole or in part, this shall not affect the validity of the remaining provisions. The wholly or partly ineffective regulation is to be replaced by a regulation whose economic success comes as close as possible to the ineffective.&lt;/p&gt;
-
-&lt;p&gt;Status: 19 December 2016&lt;/p&gt;
-</description>
+      <description>By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.
+Please read these conditions carefully!
+SCOPE OF APPLICATION The organizer of the conference and workshops is
+bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).
+For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.</description>
     </item>
     
     <item>
@@ -939,37 +96,8 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/sponsoring/</guid>
-      <description>
-
-&lt;h2 id=&#34;sponsoring-devops-gathering&#34;&gt;Sponsoring DevOps Gathering&lt;/h2&gt;
-
-&lt;p&gt;We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!&lt;/p&gt;
-
-&lt;p&gt;After this year‘s successful and sold out community conference, we are now preparing the third round of the DevOps Gathering 2019. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;We would be happy and grateful to have YOU as a supporter of this great community! Join the DevOps Gathering and help bringing DevOps friends and communities together! :-)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We offer Gold, Silver, Bronze, Diversity Sponsorship and also venue, catering and party sponsoring. If you have other ideas how you want to sponsor the event, please get in touch with us. We are happy to create a new sponsor package just for you.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://devops-gathering.io/pdf/Sponsoring-DevOps-Gathering-2019.pdf&#34; class=&#34;more&#34;&gt;sponsor packages&lt;/a&gt;
-&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;There are so many reasons to become a sponsor&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Get in touch with the DevOps Community.&lt;/li&gt;
-&lt;li&gt;Meet with developers and operations experts ranging from students to CTOs, from corporate developers to senior technology executives.&lt;/li&gt;
-&lt;li&gt;Learn about the latest features and best practices regarding DevOps and the Docker architectures.&lt;/li&gt;
-&lt;li&gt;Learn what other companies are doing in terms of DevOps.&lt;/li&gt;
-&lt;li&gt;Collaborate with engineering managers from other companies.&lt;/li&gt;
-&lt;li&gt;Discuss strategic partnerships with technical product managers from other companies.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Do you have more questions? &lt;a href=&#34;mailto:sponsor@devops-gathering.io&#34; title=&#34;Mail us&#34;&gt;Please contact us!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://devops-gathering.io/pdf/Sponsoring-DevOps-Gathering-2019.pdf&#34; class=&#34;more&#34;&gt;sponsor packages&lt;/a&gt;
-&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>Sponsoring DevOps Gathering We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!
+After this year‘s successful and sold out community conference, we are now preparing the third round of the DevOps Gathering 2019.</description>
     </item>
     
     <item>
@@ -978,82 +106,12 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/tickets/</guid>
-      <description>
-
-&lt;h2 id=&#34;price-categories-information&#34;&gt;Price Categories &amp;amp; Information&lt;/h2&gt;
-
-&lt;p&gt;All conference and workshop tickets include food, drinks, great talks and Wi-Fi.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monday (March 11th) - Pre-Conference Workshops&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tuesday (March 12th) - Conference Day and evening reception&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wednesday (March 13th) - Conference Day&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Tickets (all prices excl. VAT)&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Early Bird (till January 31st)&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Standard&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3 Day Ticket (Workshops &amp;amp; Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;499 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;549 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2 Day Ticket (Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;299 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;349 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1 Day Ticket (Pre-Conference Workshops)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;349 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;399 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 3 Day Ticket (Workshops &amp;amp; Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;129 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;149 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 2 Day Ticket (Conference)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;59 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;79 €&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Student 1 Day Ticket (Pre-Conference Workshops)&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;79 €&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;99 €&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets. Please send us therefor an e-mail with the documents (info@devops-gathering.io) in advance of the event in order to validate your booking.&lt;/p&gt;
-
-&lt;h3 id=&#34;student-ticket-sponsoring&#34;&gt;Student Ticket Sponsoring&lt;/h3&gt;
-
-&lt;p&gt;In addition to the discounted conference tickets, students also got the chance to win a conference ticket!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;More Information: &lt;a href=&#34;https://devops-gathering.io/student-ticket-sponsoring/&#34;&gt;https://devops-gathering.io/student-ticket-sponsoring/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;registration&#34;&gt;Registration:&lt;/h2&gt;
-
-&lt;div style=&#34;width:100%; text-align:left;&#34;&gt;&lt;iframe src=&#34;https://eventbrite.de/tickets-external?eid=48741015690&amp;ref=etckt&#34; frameborder=&#34;0&#34; height=&#34;1365&#34; width=&#34;100%&#34; vspace=&#34;0&#34; hspace=&#34;0&#34; marginheight=&#34;5&#34; marginwidth=&#34;5&#34; scrolling=&#34;auto&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;&#34; &gt;&lt;a class=&#34;powered-by-eb&#34; style=&#34;color: #ADB0B6; text-decoration: none;&#34; target=&#34;_blank&#34; href=&#34;https://www.eventbrite.de/&#34;&gt;Von Eventbrite&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
+      <description>Price Categories &amp;amp; Information All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
+Monday (March 11th) - Pre-Conference Workshops
+Tuesday (March 12th) - Conference Day and evening reception
+Wednesday (March 13th) - Conference Day
+The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.
+   Tickets (all prices excl.</description>
     </item>
     
     <item>
@@ -1062,108 +120,7 @@ The cancellation is subject to the text form. Proof of sending the cancellation 
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/privacy-policy/</guid>
-      <description>
-
-&lt;h2 id=&#34;data-privacy-policy&#34;&gt;Data Privacy Policy&lt;/h2&gt;
-
-&lt;p&gt;Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG). The provisions below serve to provide information as to the manner, extent and purpose for collecting, using and processing personal information by the provider.&lt;/p&gt;
-
-&lt;p&gt;| bee42 solutions gmbh
-| Peter Rossbach (CEO)
-| Am Josephsschacht 72
-| D-44879 Bochum, Germany&lt;/p&gt;
-
-&lt;p&gt;| Email: info@bee42.com
-| Phone +49(0)157-72 54 92 63&lt;/p&gt;
-
-&lt;p&gt;Please be aware that data transfer via the internet is subject to security risks and, therefore, complete protection against third-party access to transferred data cannot be ensured.&lt;/p&gt;
-
-&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
-
-&lt;p&gt;Our website makes use of so-called cookies in order to recognize repeat use of our website by the same user/internet connection subscriber. Cookies are small text files that your internet browser downloads and stores on your computer. They are used to improve our website and services. In most cases these are so-called &amp;ldquo;session cookies&amp;rdquo; that are deleted once you leave our website.&lt;/p&gt;
-
-&lt;p&gt;To an extent, however, these cookies also pass along information used to automatically recognize you. Recognition occurs through an IP address saved to the cookies. The information thereby obtained is used to improve our services and to expedite your access to the website.&lt;/p&gt;
-
-&lt;p&gt;You can prevent cookies from being installed by adjusting the settings on your browser software accordingly. You should be aware, however, that by doing so you may not be able to make full use of all the functions of our website.&lt;/p&gt;
-
-&lt;h2 id=&#34;newsletter&#34;&gt;Newsletter&lt;/h2&gt;
-
-&lt;p&gt;Our website offers you the opportunity to subscribe to our newsletter. The newsletter provides you periodically with information about our services. To receive our newsletter, we require a valid email address. We will review the email address you provide for the purpose of determining whether you are in fact the owner of the email address provided or whether the actual owner of said address is authorized to receive the newsletter. When subscribing to our newsletter, we will store your IP address as well as the date and time you subscribed. This serves to protect us in the event a third party improperly and without your knowledge makes use of your email address to subscribe to our newsletter. We will not collect any other data. The data thereby collected is used solely for the purpose of receiving our newsletter. No data is transferred to third parties. Nor is any of this information matched to any information that other components of our website may collect. You may cancel your subscription to the newsletter at any time. You will find additional details in the email confirming your subscription as well as in each newsletter.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-of-google-analytics&#34;&gt;Use of Google Analytics&lt;/h2&gt;
-
-&lt;p&gt;Our website uses Google Analytics, a web analysis service from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google“. Google Analytics employs so-called “cookies“, text files that are stored to your computer in order to facilitate an analysis of your use of the site. The information generated by these cookies, such as time, place and frequency of your visits to our site, including your IP address, is transmitted to Google’s location in the US and stored there. In using Google Analytics our website employs the extension, &amp;ldquo;_gat._anonymizeIp&amp;rdquo;. In doing so, Google abbreviates and thereby anonymizes your IP address before transferring it from member states of the European Union or signatory states to the Agreement on the European Economic Area. Google uses this information to analyze your use of our site, to compile reports for us on internet activity and to provide other services relating to website and internet use. Google may also transfer this information to third parties where required to do so by law or where such third parties process this data on Google’s behalf.  Google states that it will in never associate your IP address with other data held by Google. You can prevent cookies from being installed by adjusting the settings on your browser software accordingly. You should be aware, however, that by doing so you may not be able to make full use of all the functions of our website. Furthermore, Google offers a deactivation add-on for most current browsers that provides you with more control over what data Google can collect on websites you access. The add-on tells the JavaScript (ga.js) used by Google Analytics not to transmit any information about website visits to Google Analytics. However, the browser deactivation add-on offered by Google Analytics does not prevent information from being transmitted to us or to other web analysis services we may engage. You can find additional information on how to install the browser add-on at the following link: &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout?hl=de&#34;&gt;https://tools.google.com/dlpage/gaoptout?hl=de&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-of-twitter&#34;&gt;Use of Twitter&lt;/h2&gt;
-
-&lt;p&gt;Our website employs components provided by Twitter. Twitter is a service of Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA.&lt;/p&gt;
-
-&lt;p&gt;Each time our website receives an access request equipped with a Twitter component, the component prompts your browser to download an image of this component from Twitter. Through this process, Twitter is informed precisely which page of our website is being visited. We have no control over the data that Twitter collects in the process, or over the extent of the data that Twitter collects. To the best of our knowledge, Twitter collects the URL of each website accessed as well as the IP address of the user, but does so solely for the purpose of displaying Twitter components. Additional information may be obtained from the Twitter data privacy policy, at: &lt;a href=&#34;http://twitter.com/privacy&#34;&gt;http://twitter.com/privacy&lt;/a&gt;.
-You may change your data privacy settings in your account settings, at &lt;a href=&#34;http://twitter.com/account/settings&#34;&gt;http://twitter.com/account/settings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-of-youtube&#34;&gt;Use of YouTube&lt;/h2&gt;
-
-&lt;p&gt;On our website we use components (videos) of YouTube, LLC 901 Cherry Ave., 94066 San Bruno, CA, USA, a company belonging to Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA.&lt;/p&gt;
-
-&lt;p&gt;To this end, we use the “ - enhanced data protection mode - ” option provided by YouTube.&lt;/p&gt;
-
-&lt;p&gt;When you display a page that has an embedded video, a connection will be made to the YouTube server and the content will appear on the website via a communication to your browser.&lt;/p&gt;
-
-&lt;p&gt;According to the information provided by YouTube, in “ - enhanced data protection mode -”, data is only transferred to the YouTube server, in particular which of our websites you have visited, if you watch the video. If you are logged onto YouTube at the same time, this information will be matched to your YouTube member account. You can prevent this from happening by logging out of your member account before visiting our website.&lt;/p&gt;
-
-&lt;p&gt;Further information about data protection by YouTube is provided by Google under the following link: &lt;a href=&#34;https://www.google.de/intl/de/policies/privacy/&#34;&gt;https://www.google.de/intl/de/policies/privacy/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;use-of-mailchimp&#34;&gt;Use of MailChimp&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Newsletter Consent&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;You will be asked to consent to the use of your personal data to receive our newsletter as follows:&lt;/p&gt;
-
-&lt;p&gt;“I have read the privacy policy and I give my consent to data being processed by a service provider located in the United States”.&lt;/p&gt;
-
-&lt;p&gt;We use the newsletter to provide you with regular updates about our offers. To receive our newsletter, you will need a valid email address. We will then check the email address entered to ensure that you are actually its owner or if its owner has agreed to receive our newsletter. By registering for the newsletter, we will save your IP address and date and time of registration. This will be used in case a third party misuses your email address to subscribe to our newsletter without your knowledge.&lt;/p&gt;
-
-&lt;p&gt;We will not compare the data collected during newsletter registration with any other data that might be collected by other components of our site.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Newsletter by MailChimp&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We use MailChimp to send our newsletter to our subscribers. MailChimp is a service provided by The Rocket Science Group, LLC, 512 Means Street, Suite 404, Atlanta, GA 30318, USA.&lt;/p&gt;
-
-&lt;p&gt;The data stored when you registered for the newsletter (email address, name, IP address, and time and date of registration) will be sent to a server operated by The Rocket Science Group in the United States and stored there in accordance with its Safe Harbour Agreement.&lt;/p&gt;
-
-&lt;p&gt;Further information about the data protection offered by MailChimp can be found at: &lt;a href=&#34;http://mailchimp.com/legal/privacy/&#34;&gt;http://mailchimp.com/legal/privacy/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You may cancel your newsletter subscription and revoke your consent to the storage of this data at any time with future effect. For instructions to take this step, please refer to the confirmation email and each newsletter.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Newsletter tracking&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Our newsletter includes so-called web bugs that allow us to recognise if and when an email has been opened and which links in the email have been clicked by its recipient.&lt;/p&gt;
-
-&lt;p&gt;This data is stored by us so that we can best align our newsletter to the wishes and interests of our subscribers. Accordingly, the data thus collected is used to send personalised newsletters to each recipient. &lt;/p&gt;
-
-&lt;p&gt;You will be asked to consent to the use of your personal data as follows:&lt;/p&gt;
-
-&lt;p&gt;“I agree that my data and my user responses will be stored electronically by newsletter tracking so that I can receive a personalised newsletter. The revocation of the consent to receive the newsletter constitutes a revocation of the consent for the tracking described above.”&lt;/p&gt;
-
-&lt;p&gt;By revoking the consent to receive the newsletter, the consent to the aforementioned tracking is revoked.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-use-of-google-remarketing&#34;&gt;The use of Google Remarketing&lt;/h2&gt;
-
-&lt;p&gt;On our website, we promote the service Google Remarketing belonging to the company Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter &amp;ldquo;Google&amp;rdquo;. Advertisements may appear for users who have already visited our website in the past with Google Remarketing. Within the Google network, advertisements adapted to your interests can hereby be displayed on our site. Google Remarketing uses cookies for this evaluation. Cookies are small text files stored on your computer which allow the use of the website to be analyzed. This makes it possible to recognize our visitors if these sites are accessed within the advertising network of Google. In this way, advertisements can be presented within the advertising network of Google based on content which has previously been accessed on websites within the Google advertising network by visitors who are also using the Google Remarketing feature. Google does not itself collect any personal data. You can disable this feature by making the appropriate settings under &lt;a href=&#34;http://www.google.com/settings/ads&#34;&gt;http://www.google.com/settings/ads&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;use-of-google-adwords&#34;&gt;Use of Google-Adwords&lt;/h2&gt;
-
-&lt;p&gt;For purposes of promotion, our website also employs the Google ad tool &amp;ldquo;Google-Adwords&amp;rdquo;. As part of this, our website employs the analysis service &amp;ldquo;Conversion-Tracking&amp;rdquo; from Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google“. If you access our site by way of a Google ad, a cookie is placed on your computer. Cookies are small text files that your internet browser downloads and stores to your computer. These so-called &amp;ldquo;conversion cookies&amp;rdquo; cease to be active after 30 days and are not used to identify you personally. If you visit certain pages of our website while the cookie is still active, we and Google know that you, as user, have clicked on ads placed on Google and were redirected to our site. Google uses the information obtained through &amp;ldquo;conversion cookies&amp;rdquo; to compile statistics for our website. These statistics tell us the total number of users who have clicked on our ad as well as which pages of our site were then accessed by each user. However, neither we nor other advertisers who use &amp;ldquo;Google-Adwords&amp;rdquo; receive any kind of information that can be used to personally identify users. You can prevent the installation of &amp;ldquo;conversion cookies&amp;rdquo; by making the appropriate change to your browser settings, for example by setting your browser so that the automatic placement of cookies is deactivated or by blocking cookies from the domain &amp;ldquo;googleadservices.com“.&lt;/p&gt;
-
-&lt;p&gt;You can obtain the relevant data privacy policy from Google at the following link:
-&lt;a href=&#34;https://services.google.com/sitestats/de.html&#34;&gt;https://services.google.com/sitestats/de.html&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;information-cancellation-deletion&#34;&gt;Information/Cancellation/Deletion&lt;/h2&gt;
-
-&lt;p&gt;On the basis of the Federal Data Protection Act, you may contact us at no cost if you have questions relating to the collection, processing or use of your personal information, if you wish to request the correction, blocking or deletion of the same, or if you wish to cancel explicitly granted consent. Please note that you have the right to have incorrect data corrected or to have personal data deleted, where such claim is not barred by any legal obligation to retain this data.&lt;/p&gt;
-
-&lt;p&gt;Sample Data Privacy Policy Statement provided by the Law Offices of Weiß &amp;amp; Partner&lt;/p&gt;
-</description>
+      <description>Data Privacy Policy Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).</description>
     </item>
     
     <item>
@@ -1172,39 +129,18 @@ You may change your data privacy settings in your account settings, at &lt;a hre
       <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
       
       <guid>https://devops-gathering.io/imprint/</guid>
-      <description>
-
-&lt;p&gt;Legal information that is necessary for a German site &lt;br/&gt;
-Information required under § 5 Para. 1 of the German Telemedia Act:&lt;/p&gt;
-
-&lt;h2 id=&#34;bee42-solutions-gmbh&#34;&gt;bee42 solutions gmbh&lt;/h2&gt;
-
-&lt;p&gt;Am Josephsschacht 72&lt;br&gt;
-D-44879 Bochum&lt;br&gt;
-Germany&lt;br&gt;
-Email: &lt;a href=&#34;info@bee42.com&#34;&gt;mailto:info@bee42.com&lt;/a&gt;&lt;br&gt;
-Phone +49(0)157-72 54 92 63&lt;/p&gt;
-
-&lt;p&gt;Geschäftsführer:
-Peter Rossbach, Georg Jürgens&lt;/p&gt;
-
-&lt;h2 id=&#34;responsible-for-the-content-according-to-55-abs-2-rstv&#34;&gt;Responsible for the content according to § 55 Abs. 2 RStV:&lt;/h2&gt;
-
-&lt;p&gt;bee42 solutions gmbh
-Am Josephsschacht 72&lt;br&gt;
-D-44879 Bochum&lt;br&gt;
-Germany&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Geschäftsführer:
-Peter Rossbach, Georg Jürgens&lt;/p&gt;
-
-&lt;p&gt;VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374&lt;br&gt;
-Number in the commercial register HR B 14047&lt;/p&gt;
-
-&lt;p&gt;Design &amp;amp; Coding &lt;br&gt;
-&lt;a href=&#34;http://www.agentur-aufgeweckt.de&#34;&gt;Agentur Aufgeweckt&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://bee42.com&#34;&gt;bee42 solutions gmbh&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
+bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Email: mailto:info@bee42.com
+Phone +49(0)157-72 54 92 63
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+Responsible for the content according to § 55 Abs. 2 RStV: bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374</description>
     </item>
     
     <item>
@@ -1213,33 +149,10 @@ Number in the commercial register HR B 14047&lt;/p&gt;
       <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
       
       <guid>https://devops-gathering.io/venue/</guid>
-      <description>
-
-&lt;h2 id=&#34;pre-conference-workshops-on-monday-march-11-2019&#34;&gt;Pre-Conference-Workshops on Monday (March 11, 2019)&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Zentrum für IT Sicherheit (ZITS)&lt;/strong&gt;
-&lt;strong&gt;Lise-Meitner-Allee 4 44801 Bochum&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bochum-wirtschaft.de/flaechen-objekte/gruenderzentren/zentrum-fuer-it-sicherheit/&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2486.393796851729!2d7.274885515463091!3d51.45092587962593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b9202f1a09569f%3A0x87ae076d2f45b5e0!2sZentrum+f%C3%BCr+IT-Sicherheit+(ZITS)!5e0!3m2!1sde!2sde!4v1518699111975&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;conference-on-tuesday-and-wednesday-march-12-13-2019&#34;&gt;Conference on Tuesday and Wednesday (March 12 - 13, 2019)&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;G Data Campus, Königsallee 178b, 44799 Bochum&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mc-bochum.de/wp-content/uploads/2015/12/Anfahrt_Directions_GDATA_2016.pdf&#34;&gt;Directions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.9958908964336!2d7.219901051056374!3d51.458231879527034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8dfe32a8781bb%3A0x7ac2ddb023142ef5!2sG+DATA+Software+AG!5e0!3m2!1sde!2sde!4v1486031248984&#34; width=&#34;800&#34; height=&#34;400&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description> Pre-Conference-Workshops on Monday (March 11, 2019) Zentrum für IT Sicherheit (ZITS) Lise-Meitner-Allee 4 44801 Bochum
+ Website    
+Conference on Tuesday and Wednesday (March 12 - 13, 2019) G Data Campus, Königsallee 178b, 44799 Bochum
+ Directions   </description>
     </item>
     
     <item>
@@ -1248,118 +161,65 @@ Number in the commercial register HR B 14047&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/imprint-de/</guid>
-      <description>
-
-&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;
-
-&lt;p&gt;Angaben gemäß § 5 TMG:
-bee42 solutions GmbH
-Am Josephsschacht 72
-44879 Bochum&lt;/p&gt;
-
-&lt;p&gt;Gesellschaftsform:
-Gesellschaft mit beschränkter Haftung&lt;/p&gt;
-
-&lt;p&gt;Vertreten durch:
-Peter Rossbach&lt;/p&gt;
-
-&lt;p&gt;Kontakt:
-Telefon: +49 157 72 54 92 63
-E-Mail: info@bee42.com&lt;/p&gt;
-
-&lt;p&gt;Registereintrag:
-Eintragung im Handelsregister. Registergericht:Amtsgericht Bochum Registernummer: HRB 14047&lt;/p&gt;
-
-&lt;p&gt;Umsatzsteuer-ID:
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
-DE 28 49 32 374&lt;/p&gt;
-
-&lt;p&gt;Quelle: Mit dem von eRecht24 bereitgestellten Impressum-Generator erzeugt.&lt;/p&gt;
-
-&lt;p&gt;Haftungsausschluss:
-Haftung für Inhalte&lt;/p&gt;
-
-&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
-
-&lt;p&gt;Haftung für Links&lt;/p&gt;
-
-&lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
-
-&lt;p&gt;Urheberrecht&lt;/p&gt;
-
-&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
-
-&lt;p&gt;Datenschutz&lt;/p&gt;
-
-&lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;/p&gt;
-
-&lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
-
-&lt;p&gt;Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;/p&gt;
-
-&lt;p&gt;Datenschutzerklärung für die Nutzung von Google Analytics&lt;/p&gt;
-
-&lt;p&gt;Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (&amp;ldquo;Google&amp;rdquo;). Google Analytics verwendet sog. &amp;ldquo;Cookies&amp;rdquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt.&lt;/p&gt;
-
-&lt;p&gt;Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.&lt;/p&gt;
-
-&lt;p&gt;Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: &lt;a href=&#34;http://tools.google.com/dlpage/gaoptout?hl=de&#34;&gt;http://tools.google.com/dlpage/gaoptout?hl=de&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Datenschutzerklärung für die Nutzung von Google Adsense&lt;/p&gt;
-
-&lt;p&gt;Diese Website benutzt Google AdSense, einen Dienst zum Einbinden von Werbeanzeigen der Google Inc. (&amp;ldquo;Google&amp;rdquo;). Google AdSense verwendet sog. &amp;ldquo;Cookies&amp;rdquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website ermöglicht. Google AdSense verwendet auch so genannte Web Beacons (unsichtbare Grafiken). Durch diese Web Beacons können Informationen wie der Besucherverkehr auf diesen Seiten ausgewertet werden.&lt;/p&gt;
-
-&lt;p&gt;Die durch Cookies und Web Beacons erzeugten Informationen über die Benutzung dieser Website (einschließlich Ihrer IP-Adresse) und Auslieferung von Werbeformaten werden an einen Server von Google in den USA übertragen und dort gespeichert. Diese Informationen können von Google an Vertragspartner von Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit anderen von Ihnen gespeicherten Daten zusammenführen.&lt;/p&gt;
-
-&lt;p&gt;Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.&lt;/p&gt;
-
-&lt;p&gt;Datenschutzerklärung für die Nutzung von Google +1&lt;/p&gt;
-
-&lt;p&gt;Erfassung und Weitergabe von Informationen:&lt;/p&gt;
-
-&lt;p&gt;Mithilfe der Google +1-Schaltfläche können Sie Informationen weltweit veröffentlichen. über die Google +1-Schaltfläche erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern. Google speichert sowohl die Information, dass Sie für einen Inhalt +1 gegeben haben, als auch Informationen über die Seite, die Sie beim Klicken auf +1 angesehen haben. Ihre +1 können als Hinweise zusammen mit Ihrem Profilnamen und Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen Stellen auf Websites und Anzeigen im Internet eingeblendet werden.&lt;/p&gt;
-
-&lt;p&gt;Google zeichnet Informationen über Ihre +1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern. Um die Google +1-Schaltfläche verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil, das zumindest den für das Profil gewählten Namen enthalten muss. Dieser Name wird in allen Google-Diensten verwendet. In manchen Fällen kann dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr Google-Konto verwendet haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen.&lt;/p&gt;
-
-&lt;p&gt;Verwendung der erfassten Informationen:&lt;/p&gt;
-
-&lt;p&gt;Neben den oben erläuterten Verwendungszwecken werden die von Ihnen bereitgestellten Informationen gemäß den geltenden Google-Datenschutzbestimmungen genutzt. Google veröffentlicht möglicherweise zusammengefasste Statistiken über die +1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und Partner weiter, wie etwa Publisher, Inserenten oder verbundene Websites.&lt;/p&gt;
-
-&lt;p&gt;Datenschutzerklärung für die Nutzung von Twitter&lt;/p&gt;
-
-&lt;p&gt;Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion &amp;ldquo;Re-Tweet&amp;rdquo; werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen.&lt;/p&gt;
-
-&lt;p&gt;Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter &lt;a href=&#34;http://twitter.com/privacy&#34;&gt;http://twitter.com/privacy&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter &lt;a href=&#34;http://twitter.com/account/settings&#34;&gt;http://twitter.com/account/settings&lt;/a&gt; ändern.&lt;/p&gt;
-
-&lt;p&gt;Quellenangaben: Disclaimer von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert, Facebook-Disclaimer von eRecht24, Google Analytics Datenschutzerklärung, eRecht24 Datenschutzerklärung Google Adsense, Google +1 Bedingungen, Datenschutzerklärung für Twitter&lt;/p&gt;
-
-&lt;p&gt;Design &amp;amp; Coding &lt;br&gt;
-&lt;a href=&#34;http://www.agentur-aufgeweckt.de&#34;&gt;Agentur Aufgeweckt&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://bee42.com&#34;&gt;bee42 solutions gmbh&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Impressum Angaben gemäß § 5 TMG: bee42 solutions GmbH Am Josephsschacht 72 44879 Bochum
+Gesellschaftsform: Gesellschaft mit beschränkter Haftung
+Vertreten durch: Peter Rossbach
+Kontakt: Telefon: +49 157 72 54 92 63 E-Mail: info@bee42.com
+Registereintrag: Eintragung im Handelsregister. Registergericht:Amtsgericht Bochum Registernummer: HRB 14047
+Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 28 49 32 374
+Quelle: Mit dem von eRecht24 bereitgestellten Impressum-Generator erzeugt.
+Haftungsausschluss: Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/Niclas-Mietz/</link>
+      <link>https://devops-gathering.io/speakers/niclas-mietz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/Niclas-Mietz/</guid>
-      <description>&lt;p&gt;Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.&lt;/p&gt;
-</description>
+      <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
+      <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continous Integration.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/Peter-Rossbach/</link>
+      <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/Peter-Rossbach/</guid>
-      <description>&lt;p&gt;As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but
-also our customers to top performances.&lt;/p&gt;
-</description>
+      <guid>https://devops-gathering.io/speakers/peter-rossbach/</guid>
+      <description>As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker In uencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but also our customers to top performances.</description>
+    </item>
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>https://devops-gathering.io/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/openspace/container-open-space/</guid>
+      <description>WHAT IS AN OPEN SPACE? What do you need to bring with you for the conference? -&amp;gt; Only you, good ideas and curiosity! :-)
+Where can I find more information about the open space? Here you can find definitions, videos and more information about the format open space : * https://de.wikipedia.org/wiki/Open_Space * http://www.agonda.de/open-space/open-space.html * https://www.youtube.com/watch?v=eZD0PtnN1vQ
+An Open Space is a simple and productive way for hosting knowledge events. Participants and experts will create and manage together their own agenda of parallel working sessions.</description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>https://devops-gathering.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/contact/</guid>
+      <description>Contact Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)
+If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!
+e-mail: info@devops-gathering.io phone: +49 (0)176 34402658
+Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>https://devops-gathering.io/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/sponsors/</guid>
+      <description>The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helped and supported the first DevOps Gathering 2017. Thank you for making this great conference possible! :-) After this year‘s and first successful community conference, we are now preparing the second edition of the DevOps Gathering. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.</description>
     </item>
     
   </channel>
