@@ -779,7 +779,7 @@ header {
 		img {
 			height: auto;
 			width: 100%;
-			max-width: 200px;
+			max-width: 140px;
 			text-align: center;
 			display: block;
 			margin:  0 auto 1rem;
@@ -1668,5 +1668,22 @@ footer {
 				}
 			}
 		}
+	}
+}
+
+.tito-wrapper {
+	background: #fff !important;
+
+	.row {
+			&:before {
+				content: none;
+				display: none;
+			}
+		}
+}
+
+.tito-discount-code {
+	&:before {
+		display: none;
 	}
 }

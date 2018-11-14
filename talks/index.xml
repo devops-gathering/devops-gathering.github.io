@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</title>
+    <link>https://devops-gathering.io/talks/</link>
+    <description>Recent content in Talks on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://devops-gathering.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DevOps - It’s all about the Experiments</title>
+      <link>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</guid>
+      <description>‚The Phoenix Project‘ is a must read for all DevOps practitioners. It describes the main principles of DevOps culture as ‚three ways‘. The third way is about creating a culture of continual experimentation. I’ll take you on a journey through Agile and DevOps, product development and organizational development. We’ll discover all the small places in this culture where the principle of experimentation is hidden. Some of them may surprise you.</description>
+    </item>
+    
+    <item>
+      <title>What the heck is Software Craftsmanship?</title>
+      <link>https://devops-gathering.io/talks/what-the-heck-is-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/what-the-heck-is-software-craftsmanship/</guid>
+      <description>Software Craftsmanship is a movement in software engineering that aims to regard software development as a skilled craft instead of a classical engineering approach. The movement relies on 4 principles: Clean Code, practice, lifelong learning and communities. In our talk – which includes many examples and pictures – we would like to talk about its origin and the historic background, its current state and all available forms of participation. Hence, we want to encourage you to build (upon) a strong community spirit so that you may tread the path of becoming a software crafter yourself.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes for Non-Coders</title>
+      <link>https://devops-gathering.io/talks/kubernetes-for-non-coders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/kubernetes-for-non-coders/</guid>
+      <description>For most people outside IT departments, understanding how to pronounce Kubernetes is the first step of many steps towards understanding why they should support the transition to Cloud-Native Technologies. This talk seeks to present Kubernetes and cloud-native to non-coders outside the IT department and help them understand how supporting its adoption will benefit them.
+The talk begins with an overview of what Cloud-Native is, proceeds to a non-technical explanation of Kubernetes using housing as a metaphor, and finishes with key benefits to non-IT departments when adopting Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Helm: Build fashionable Container Systems with Kubernetes</title>
+      <link>https://devops-gathering.io/talks/helm-build-fashionable-container-systems-with-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/helm-build-fashionable-container-systems-with-kubernetes/</guid>
+      <description>Helm is a package manager that helps to install and manage Kubernetes manifests. With the Helm tool you can configure different releases of your application. The Helm ecosystem offers you many features to setup and manage complex cloud native container systems. Serverless or microservice architectures need a lot of glue infrastructure components. Helm is more than homebrew for Kubernetes.
+In this talk I will show you some automation practices, such as infrastructure as code, continuous integration, continuous deployment, release automation with Gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes on AWS with Amazon EKS</title>
+      <link>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</guid>
+      <description>Containers gained strong traction since day one for both enterprises and startups. Today AWS customers are launching hundreds of millions of new containers - each week. This session will give a brief overview on running Kubernetes on AWS with Amazon EKS.</description>
+    </item>
+    
+    <item>
+      <title>Traefik as an Ingress Controller for Kubernetes</title>
+      <link>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+    </item>
+    
+    <item>
+      <title>Go as a Tooling Language for the Cloud</title>
+      <link>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</guid>
+      <description>There is ‚as Code’ for everything! We use CloudFormation or Terraform for Infrastructure as Code, various different file formats for Pipeline as Code and of course describe our application definitions as code with Helm Charts. Usually lots of copy’n paste and bash script is necessary to spin up another environment for your application. With Go you have the ease of using just your command line combined with the power of a strongly typed language with official libraries for nearly every cloud service you can think of.</description>
+    </item>
+    
+    <item>
+      <title>More Containers for (Model) Railways! </title>
+      <link>https://devops-gathering.io/talks/more-containers-for-model-railways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/more-containers-for-model-railways/</guid>
+      <description>This happens when a Java nerd has a model railroad: not only do containers run on rails, but trains are controlled by containers. Various microservices orchestrated by Kubernetes work on a Raspberry Pi cluster and visualize tracks, points and signals, reserve routes, locate and - of course - drive trains. Learn about the challenges of this somewhat extraordinary Java application in this session - with live demo on stage!</description>
+    </item>
+    
+    <item>
+      <title>SRE, DevOps, Google and You</title>
+      <link>https://devops-gathering.io/talks/sre-devops-google-and-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/sre-devops-google-and-you/</guid>
+      <description>Site Reliability Engineering (SRE) was originally conceived internally at Google. By now, it has become public knowledge via various channels like conferences or books. But how can you apply SRE principles in your organization, given that you are not Google and cannot just blindly do everything exactly as Google does? And how does SRE relate to DevOps? The speaker has seen both sides, with many years working as an SRE at Google and later as a Production Engineer at SoundCloud, a much smaller startup running many service using a highly innovative tech stack and a radical DevOps approach.</description>
+    </item>
+    
+    <item>
+      <title>C4 - Continuous Culture Change Challenges</title>
+      <link>https://devops-gathering.io/talks/c4-continuous-culture-change-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/c4-continuous-culture-change-challenges/</guid>
+      <description>In less than a year we have managed to change our working culture from throwing informations over the great wall between Dev and Ops to a failure tolerant, management accepted honored culture. We have enabled colleagues to unleash their bygone forgotten strengths.
+We can show you how to create a cultural change from bottom up even in a large enterprise.
+Furthermore we have proven that even in a conservative environment where no one believes in it, like in construction businesses, a cultural change from the inside of the IT department can happen.</description>
+    </item>
+    
+    <item>
+      <title>Conference Talk: to be announced</title>
+      <link>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</guid>
+      <description>Information will follow soon.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>https://devops-gathering.io/talks/lightning-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Kubernetes Cost Efficiency across (many) Clusters</title>
+      <link>https://devops-gathering.io/talks/ensuring-kubernetes-cost-efficiency-across-many-clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/ensuring-kubernetes-cost-efficiency-across-many-clusters/</guid>
+      <description>This talk will address one of the most common challenges of organizations adopting Kubernetes on a medium to large scale: how to keep cloud costs under control without babysitting each and every deployment and cluster configuration? How to operate 80+ Kubernetes clusters in a cost-efficient way for 200+ autonomous development teams?
+This talk provides insights on how Zalando approaches this problem with central cost optimizations (e.g. Spot), cost monitoring/alerting, active measures to reduce resource slack, and automated cluster housekeeping.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Operators</title>
+      <link>https://devops-gathering.io/talks/kubernetes-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/kubernetes-operators/</guid>
+      <description>We all love Kubernetes as our declarative and reactive container orchestration platform of choice. Resource descriptors declare a target state and a whole set of controllers running in the background are watching these resources to reconcile the current state to the desired target state. We can use this dominant paradigm can also for custom resources and controllers, commonly referred to as &amp;ldquo;operators&amp;rdquo;. A growing number of operators for all sort of task already has been created.</description>
+    </item>
+    
+    <item>
+      <title>Delivering Cloud Native Apps with Kubernetes on Azure</title>
+      <link>https://devops-gathering.io/talks/delivering-cloud-native-apps-with-kubernetes-on-azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/delivering-cloud-native-apps-with-kubernetes-on-azure/</guid>
+      <description>The usage of containers enables organizations to be more agile in their own way to ship software from dev and test to production usage. However the enterprise adoption of container technology requires a scalable approach in order to streamline the deployment of multiple applications in a consistent and supportable platform like Kubernetes. This is presentation will cover the basic concepts of containerized applications and microservice architecture patterns to demonstrate the advantages of using Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Stories on Adopting the Mindset</title>
+      <link>https://devops-gathering.io/talks/devops-stories-on-adopting-the-mindset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/devops-stories-on-adopting-the-mindset/</guid>
+      <description>As a beginner, finding your place and grasping the idea of DevOps is very much depending on the personal motivation and the environment you work. They did not teach you this in schools.
+In this talk, I am going to share my journey. You will see the representation of a story that adopts the DevOps as a mindset rather than people, tools and so on. The talk will be a story-line that is supported by real-world examples such as using the tools, communication in the teams etc.</description>
+    </item>
+    
+  </channel>
+</rss>
