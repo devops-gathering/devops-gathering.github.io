@@ -59,11 +59,11 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
     </item>
     
     <item>
-      <title>Kubernetes on AWS EKS</title>
-      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-aws-eks/</link>
+      <title>Kubernetes on Amazon EKS</title>
+      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-aws-eks/</guid>
+      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</guid>
       <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
     </item>
     
