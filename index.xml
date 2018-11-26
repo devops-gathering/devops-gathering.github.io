@@ -134,12 +134,12 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
     </item>
     
     <item>
-      <title>Halfday-Workshop: to be announced</title>
-      <link>https://devops-gathering.io/workshops/halfday-workshop-to-be-announced/</link>
+      <title>New Work Academy: agile working – an interactive introduction</title>
+      <link>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/halfday-workshop-to-be-announced/</guid>
-      <description>Further Information will follow soon!</description>
+      <guid>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</guid>
+      <description>We are going to explore what agile working really means and for which problems it has come out to be the best practice in solving them. So, there is going to be a little bit of an explanation about the circumstances which led to the agile manifest and also why agile methods are not a method to believe in and to simply put in place but a framework of change, comprised of values and principles which have simply turned out to be the most helpful ones.</description>
     </item>
     
     <item>
@@ -410,6 +410,16 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/benjamin-godbersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/benjamin-godbersen/</guid>
+      <description>Trying out new terrain and creating something new - that&amp;rsquo;s my passion. After studying International Management with Engineering, I quickly left behind classic IT project management in an international corporation and learned how it feels to work in small, self-organized teams on what really matters.
+Meanwhile, for over 8 years, I have been assisting teams to iteratively and adaptively develop their way of working, and to produce more and more the products and results that have an impact on the market and improve the lives of customers.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/benjamin-nothdurft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -473,6 +483,15 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
       
       <guid>https://devops-gathering.io/speakers/henning-jacobs/</guid>
       <description>Henning joined Zalando in the beginning of 2010 and accompanied the transformation of Zalando’s technology department through the eras of PHP/MySQL and Java/PostgreSQL to the new world of “Radical Agility”. He helped building the AWS/STUPS cloud infrastructure to make innovation scale across autonomous teams. Henning is currently responsible for the developer journey at Zalando. His five teams help streamline the developer experience by providing a cloud-native application runtime to 200+ engineering teams.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/henriette-wienges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/henriette-wienges/</guid>
+      <description>The joy of people, an optimistic stance, a believer in the possibility of development for the better both for individuals or organizations, the interest in the new and innovative and openness for diversity, my agility and my sense of responsibility and high intrinsic motivation, that is the quintessence of myself. That is also the origin of my action, my education and my job. It also makes me think about new solutions, about the needs of others and it makes me take responsibility to turn words and ideas into action.</description>
     </item>
     
     <item>
