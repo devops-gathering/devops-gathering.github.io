@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-            <meta charset="utf-8">
+
+<head>
+    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Devops Gathering 2018">
@@ -40,11 +41,11 @@
 
 <script src='https://js.tito.io/v1' async></script>
 
-            
-<meta property="og:title" content="" />
-<meta property="og:description" content="Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG SE construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies." />
+	
+<meta property="og:title" content="Using Jenkins pipeline plugins with Kubernetes" />
+<meta property="og:description" content="The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/speakers/alexander-ortner/" />
+<meta property="og:url" content="https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -67,15 +68,15 @@
 <meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
 
 <meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
-<meta property="article:section" content="speakers" />
+<meta property="article:section" content="talks" />
 
 
 
 
 
 
-<meta itemprop="name" content="">
-<meta itemprop="description" content="Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG SE construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.">
+<meta itemprop="name" content="Using Jenkins pipeline plugins with Kubernetes">
+<meta itemprop="description" content="The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.">
 
 
 
@@ -84,89 +85,105 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="104">
+<meta itemprop="wordCount" content="50">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content=""/>
-<meta name="twitter:description"  content="Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG SE construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies."/>
+<meta name="twitter:title" content="Using Jenkins pipeline plugins with Kubernetes"/>
+<meta name="twitter:description"  content="The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things."/>
 
 
 
 
 
 
-            
+	
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PZCPH3M');</script>
 
+</head>
 
-    </head>
-    <body class="single">
-     
+<body class="single">
+    
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZCPH3M"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-     <nav class="navigation-container">
+	<nav class="navigation-container">
 	<div class="inner-content">
-			<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
+		<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
 
 		<ul class="social-media">
-				<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
-			<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
-			</li>
-			<li class="bee"><a href="https://bee42.com/" target="_blank">Organizer <img src="/img/bee42.png" alt=""></a> </li>
+			<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
+			<li class="bee"><a href="https://bee42.com/" target="_blank"><img src="/img/bee42.png" alt=""></a> </li>
 		</ul>
 		<ul class="navigation">
 		    <li><a href="/#talks">Talks</a></li>
 		    <li><a href="/#workshops">Workshops</a></li>
-			<li><a href="/tickets/">Tickets</a></li>
-			<li><a href="/sponsors/">Sponsors</a></li>
+			<li><a href="/tickets">Tickets</a></li>
+			<li><a href="/sponsors">Sponsors</a>
+			    <ul>
+                    <li><a href="/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2019</a></li>
+                    <li><a href="/2018/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2018</a></li>
+			        <li><a href="/2017/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2017</a></li>
+			        <li><a href="/sponsoring/"><i class="fa fa-angle-right" aria-hidden="true"></i> Become a sponsor</a></li>
+			    </ul>
+			</li>
 			<li><a href="/media-and-photos">Media</a></li>
-			<li><a href="#">Infos</a>
+			<li><a href="javascript:void(0)">Infos</a>
 				<ul>
+					<li><a href="/venue/"><i class="fa fa-angle-right" aria-hidden="true"></i> Venue</a></li>
 					<li><a href="/accommodations/"><i class="fa fa-angle-right" aria-hidden="true"></i> Accommodations</a></li>
 					<li><a href="/code-of-conduct/"><i class="fa fa-angle-right" aria-hidden="true"></i> Code of Conduct</a></li>
-					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Condition</a></li>
+					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Conditions</a></li>
+					<li><a href="/contact/"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
 				</ul>
 			</li>
-			<li><a href="/2017">2017</a></li>
+            <li><a href="javascript:void(0)">Previous Events</a>
+                <ul>
+                    <li><a href="/2018/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2018</a></li>
+                    <li><a href="/2017/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2017</a></li>
+                </ul>
+            </li>
 		</ul>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
 </nav>
 
-        <header class="single">
-            <div class="header-content">
-                <div class="header-content-inner">
-                    
-                        <img src="/img/speakers/alexander-ortner.png" alt="Alexander O. Ortner" class="round">
-                   
-                        <div>
-                <p>Speaker</p>
-                    <h1>Alexander O. Ortner</h1>
-                    </div>
+
+	<!-- HEADER -->
+<header class="single">
+    <div class="header-content" id="top">
+        <div class="header-content-inner">
+            <p>Oliver Milke  </p>
+            <h1>Using Jenkins pipeline plugins with Kubernetes</h1>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</header>
+
+    <div class="content-box single-content">
+        <div class="inner-content">
+            <div class="clearfix"></div>
+            The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a href=""><img src="/img/speakers/oliver-milke.png" alt=""></a>
                 </div>
-
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/oliver-milke/">Oliver Milke<span>cloudogu</span></a></h2>
+                    <p>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in prove of concept projects with new customers.
+In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.
+<a href="/speakers/oliver-milke/">read more</a></p>
+                </div>
             </div>
-            <div class="overlay"></div>
-        </header>
-
-
-     <div class="content-box single-content">
-         <div class="inner-content"> 
-            <p>Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG SE construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.  He is furthermore a contributor to introduce a fully automated DevOps environment for the highly diversity of different applications.</p>
-
-<ul>
-<li><a href="/talks/c4-continuous-culture-change-challenges/">Conference Talk: C4 - Continuous Culture Change Challenges</a></li>
-</ul>
-
+            
         </div>
     </div>
     <!-- CONTACT -->
@@ -214,7 +231,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>  			
 		</div>
 
-    <footer>
+	<footer>
 	<div class="inner-content">
 		<p><a href="/">&copy; DevOps Gathering 2019</a></p>
 		<p><a href="https://bee42.com/" target="_blank">Organizer <img src="/img/bee42.png" alt=""></a> </p>
@@ -231,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </footer>
 
-     <!-- jQuery -->
+	<!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
@@ -243,6 +260,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Custom Theme JavaScript -->
 <script src="https://devops-gathering.io/js/main.js"></script>
 
-    </body>
+</body>
 
 </html>

@@ -49,21 +49,23 @@ In this talk I will show you some automation practices, such as infrastructure a
     </item>
     
     <item>
-      <title>Kubernetes on AWS with Amazon EKS</title>
-      <link>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</link>
+      <title>Using Jenkins pipeline plugins with Kubernetes</title>
+      <link>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</guid>
-      <description>Containers gained strong traction since day one for both enterprises and startups. Today AWS customers are launching hundreds of millions of new containers - each week. This session will give a brief overview on running Kubernetes on AWS with Amazon EKS.</description>
+      <guid>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</guid>
+      <description>The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.</description>
     </item>
     
     <item>
-      <title>Traefik as an Ingress Controller for Kubernetes</title>
-      <link>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
+      <title>Let&#39;s talk Windows Containers on Server 2019</title>
+      <link>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
-      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+      <guid>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</guid>
+      <description>Docker has revolutionized how we think about Software deployment. Microsoft has adopted this technology to Windows to have the same approach for native Windows tools and applications. This talk gives you an overview of Docker and how you can create isolated environments for development and deployment. With the new Windows Server 2019 we have a lot of improvements and better feature parity compared to previous releases.
+Key takeaways:
+ You will hear the basic concepts why Containers help you to have predictable development and runtime environments You will get an overview of all improvements of Windows Server 2019 and the latest container features and orchestrators like Docker Swarm and Kubernetes  </description>
     </item>
     
     <item>
@@ -82,6 +84,15 @@ In this talk I will show you some automation practices, such as infrastructure a
       
       <guid>https://devops-gathering.io/talks/more-containers-for-model-railways/</guid>
       <description>This happens when a Java nerd has a model railroad: not only do containers run on rails, but trains are controlled by containers. Various microservices orchestrated by Kubernetes work on a Raspberry Pi cluster and visualize tracks, points and signals, reserve routes, locate and - of course - drive trains. Learn about the challenges of this somewhat extraordinary Java application in this session - with live demo on stage!</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>https://devops-gathering.io/talks/lightning-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
     </item>
     
     <item>
@@ -105,21 +116,22 @@ Furthermore we have proven that even in a conservative environment where no one 
     </item>
     
     <item>
-      <title>Conference Talk: to be announced</title>
-      <link>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</link>
+      <title>Consumer-based contract testing</title>
+      <link>https://devops-gathering.io/talks/consumer-based-contract-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</guid>
-      <description>Information will follow soon.</description>
+      <guid>https://devops-gathering.io/talks/consumer-based-contract-testing/</guid>
+      <description>At Hermes, we are aiming to deliver value continuously to our customers. Following this path, we are transforming our applications using microservice based architecture. This brings many improvements but comes with the additional burden of having more and more systems that are interdependent.
+We will demonstrate how we cope with these dependencies using consumer-based contract testing approaches and how this influences the roles and culture within our development</description>
     </item>
     
     <item>
-      <title>Lightning Talks</title>
-      <link>https://devops-gathering.io/talks/lightning-talks/</link>
+      <title>Traefik as an Ingress Controller for Kubernetes</title>
+      <link>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+      <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
     </item>
     
     <item>

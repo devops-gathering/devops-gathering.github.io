@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Container as a Service at the Azure-Cloud</title>
-      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
-      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
-    </item>
-    
-    <item>
       <title>DevOps - It’s all about the Experiments</title>
       <link>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</guid>
       <description>‚The Phoenix Project‘ is a must read for all DevOps practitioners. It describes the main principles of DevOps culture as ‚three ways‘. The third way is about creating a culture of continual experimentation. I’ll take you on a journey through Agile and DevOps, product development and organizational development. We’ll discover all the small places in this culture where the principle of experimentation is hidden. Some of them may surprise you.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes on Amazon EKS</title>
+      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</guid>
+      <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
     </item>
     
     <item>
@@ -49,15 +49,6 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>Halfday-Workshop: to be announced</title>
-      <link>https://devops-gathering.io/workshops/workshop-to-be-announced/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/workshop-to-be-announced/</guid>
-      <description>Further Information will follow soon.</description>
-    </item>
-    
-    <item>
       <title>Kubernetes for Non-Coders</title>
       <link>https://devops-gathering.io/talks/kubernetes-for-non-coders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,6 +56,18 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
       <guid>https://devops-gathering.io/talks/kubernetes-for-non-coders/</guid>
       <description>For most people outside IT departments, understanding how to pronounce Kubernetes is the first step of many steps towards understanding why they should support the transition to Cloud-Native Technologies. This talk seeks to present Kubernetes and cloud-native to non-coders outside the IT department and help them understand how supporting its adoption will benefit them.
 The talk begins with an overview of what Cloud-Native is, proceeds to a non-technical explanation of Kubernetes using housing as a metaphor, and finishes with key benefits to non-IT departments when adopting Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Why Persistence is Hard?</title>
+      <link>https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/</guid>
+      <description>Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?</description>
     </item>
     
     <item>
@@ -88,15 +91,6 @@ In this talk I will show you some automation practices, such as infrastructure a
     </item>
     
     <item>
-      <title>Kubernetes on AWS with Amazon EKS</title>
-      <link>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</guid>
-      <description>Containers gained strong traction since day one for both enterprises and startups. Today AWS customers are launching hundreds of millions of new containers - each week. This session will give a brief overview on running Kubernetes on AWS with Amazon EKS.</description>
-    </item>
-    
-    <item>
       <title>Making Resilient, Self-Adaptive, and Autonomous Kubernetes Clusters</title>
       <link>https://devops-gathering.io/workshops/workshop-making-resilient-self-adaptive-and-autonomous-kubernetes-clusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -107,21 +101,32 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
     </item>
     
     <item>
-      <title>Kubernetes on Amazon EKS</title>
-      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</link>
+      <title>Using Jenkins pipeline plugins with Kubernetes</title>
+      <link>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</guid>
-      <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
+      <guid>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</guid>
+      <description>The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.</description>
     </item>
     
     <item>
-      <title>Traefik as an Ingress Controller for Kubernetes</title>
-      <link>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
+      <title>Container as a Service at the Azure-Cloud</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
-      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
+      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk Windows Containers on Server 2019</title>
+      <link>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</guid>
+      <description>Docker has revolutionized how we think about Software deployment. Microsoft has adopted this technology to Windows to have the same approach for native Windows tools and applications. This talk gives you an overview of Docker and how you can create isolated environments for development and deployment. With the new Windows Server 2019 we have a lot of improvements and better feature parity compared to previous releases.
+Key takeaways:
+ You will hear the basic concepts why Containers help you to have predictable development and runtime environments You will get an overview of all improvements of Windows Server 2019 and the latest container features and orchestrators like Docker Swarm and Kubernetes  </description>
     </item>
     
     <item>
@@ -162,6 +167,15 @@ In this workshop we&amp;rsquo;ll focus on some more advanced topics, explain the
     </item>
     
     <item>
+      <title>Lightning Talks</title>
+      <link>https://devops-gathering.io/talks/lightning-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+    </item>
+    
+    <item>
       <title>SRE, DevOps, Google and You</title>
       <link>https://devops-gathering.io/talks/sre-devops-google-and-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -182,21 +196,22 @@ Furthermore we have proven that even in a conservative environment where no one 
     </item>
     
     <item>
-      <title>Conference Talk: to be announced</title>
-      <link>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</link>
+      <title>Consumer-based contract testing</title>
+      <link>https://devops-gathering.io/talks/consumer-based-contract-testing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</guid>
-      <description>Information will follow soon.</description>
+      <guid>https://devops-gathering.io/talks/consumer-based-contract-testing/</guid>
+      <description>At Hermes, we are aiming to deliver value continuously to our customers. Following this path, we are transforming our applications using microservice based architecture. This brings many improvements but comes with the additional burden of having more and more systems that are interdependent.
+We will demonstrate how we cope with these dependencies using consumer-based contract testing approaches and how this influences the roles and culture within our development</description>
     </item>
     
     <item>
-      <title>Lightning Talks</title>
-      <link>https://devops-gathering.io/talks/lightning-talks/</link>
+      <title>Traefik as an Ingress Controller for Kubernetes</title>
+      <link>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+      <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
     </item>
     
     <item>
@@ -449,12 +464,31 @@ Meanwhile, for over 8 years, I have been assisting teams to iteratively and adap
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/burkhard-noltenmeier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/burkhard-noltenmeier/</guid>
+      <description>Burkhard (avowed since 1993 Linux Evangelist) founded after studying computer science at the University of Hagen 1994 teuto.net Network Services GmbH in Bielefeld. His focus are new technologies and he is always one of the first to try them out. Developing and operating clouds based on Openstack and Kubernetes are his goal. Burkhard is official corporate sponsor of the OpenStack Foundation, member of Cloud Native Foundation (CNCF) and his company is qualified as a Kubernetes Certified Service Provider.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/busra-koken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/busra-koken/</guid>
       <description>Busra is an enthusiastic Sofware Engineer at trivago in the team called Cloud Operations where she is in the heart of DevOps and SRE. Before that, she worked at Ericsson as a Cloud System Developer.
 Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. Has special love for Python. She loves automating things, solving problems and learning every day. There are a couple of international conferences where she gave talks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/christoph-kassen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/christoph-kassen/</guid>
+      <description>Christoph is a Sr. Solutions Architect at AWS in Germany. Before joining AWS he worked in different startups as well as enterprises. Now he guides startups to build effective, scalable and reliable software architectures with AWS services. His focus areas are Containers, Kubernetes, Microservices and Observability.
+ Halfday-Workshop: Kubernetes on Amazon EKS  </description>
     </item>
     
     <item>
@@ -544,6 +578,15 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/oliver-milke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/oliver-milke/</guid>
+      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in prove of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -592,12 +635,20 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/sascha-moellering/</link>
+      <link>https://devops-gathering.io/speakers/stefan-scherer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/sascha-moellering/</guid>
-      <description>Sascha Möllering works as AWS Solutions Architect. He’s interested in automation, infrastructure as code, distributed computing, containers, serverless and the JVM.
- Conference Talk: Kubernetes on AWS with Amazon EKS Halfday-Workshop: Kubernetes on Amazon EKS  </description>
+      <guid>https://devops-gathering.io/speakers/stefan-scherer/</guid>
+      <description>Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/stephan-stapel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/stephan-stapel/</guid>
+      <description>Head of Customer Solutions im Bereich IT der Hermes Germany GmbH * Conference Talk: Consumer-based contract testing</description>
     </item>
     
     <item>

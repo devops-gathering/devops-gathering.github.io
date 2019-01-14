@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</loc>
+    <loc>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</loc>
+    <loc>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</loc>
   </url>
   
   <url>
@@ -19,11 +19,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-to-be-announced/</loc>
+    <loc>https://devops-gathering.io/talks/kubernetes-for-non-coders/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/kubernetes-for-non-coders/</loc>
+    <loc>https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/</loc>
   </url>
   
   <url>
@@ -35,19 +35,19 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/kubernetes-on-aws-with-amazon-eks/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/workshops/workshop-making-resilient-self-adaptive-and-autonomous-kubernetes-clusters/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</loc>
+    <loc>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</loc>
+    <loc>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</loc>
   </url>
   
   <url>
@@ -67,6 +67,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/lightning-talks/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/sre-devops-google-and-you/</loc>
   </url>
   
@@ -75,11 +79,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/conference-talk-to-be-announced-2/</loc>
+    <loc>https://devops-gathering.io/talks/consumer-based-contract-testing/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/lightning-talks/</loc>
+    <loc>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</loc>
   </url>
   
   <url>
@@ -183,7 +187,15 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/burkhard-noltenmeier/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/busra-koken/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/christoph-kassen/</loc>
   </url>
   
   <url>
@@ -223,6 +235,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/oliver-milke/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/peter-rossbach/</loc>
   </url>
   
@@ -243,7 +259,11 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/speakers/sascha-moellering/</loc>
+    <loc>https://devops-gathering.io/speakers/stefan-scherer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/stephan-stapel/</loc>
   </url>
   
   <url>

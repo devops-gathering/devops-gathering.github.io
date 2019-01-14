@@ -42,10 +42,13 @@
 <script src='https://js.tito.io/v1' async></script>
 
 	
-<meta property="og:title" content="Halfday-Workshop: to be announced" />
-<meta property="og:description" content="Further Information will follow soon." />
+<meta property="og:title" content="Why Persistence is Hard?" />
+<meta property="og:description" content="Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/workshops/workshop-to-be-announced/" />
+<meta property="og:url" content="https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -75,8 +78,11 @@
 
 
 
-<meta itemprop="name" content="Halfday-Workshop: to be announced">
-<meta itemprop="description" content="Further Information will follow soon.">
+<meta itemprop="name" content="Why Persistence is Hard?">
+<meta itemprop="description" content="Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?">
 
 
 
@@ -85,15 +91,18 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="5">
+<meta itemprop="wordCount" content="178">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Halfday-Workshop: to be announced"/>
-<meta name="twitter:description"  content="Further Information will follow soon."/>
+<meta name="twitter:title" content="Why Persistence is Hard?"/>
+<meta name="twitter:description"  content="Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?"/>
 
 
 
@@ -161,8 +170,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <header class="single">
     <div class="header-content" id="top">
         <div class="header-content-inner">
-            <p>tba  </p>
-            <h1>Halfday-Workshop: to be announced</h1>
+            <p>Burkhard Noltensmeier  </p>
+            <h1>Why Persistence is Hard?</h1>
         </div>
     </div>
     <div class="overlay"></div>
@@ -171,14 +180,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="content-box single-content">
         <div class="inner-content">
             <div class="clearfix"></div>
-            Further Information will follow soon.
+            <p><strong>Requirement from practice:</strong></p>
+
+<p>Business transactions are interdependent and must be stored safely and quickly (always!)
+The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.</p>
+
+<p>The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.</p>
+
+<ul>
+<li>But is that really the case?</li>
+<li>Do we really need all of that?</li>
+<li>What, if you do not want to put all your business data in the hands of a cloud provider?</li>
+</ul>
+
+<p>In this hands-on workshop you will learn concepts and try solutions that can persuade your business data on-premise</p>
+
+<p>Kubernetes offers several ways to achieve these goals:</p>
+
+<ul>
+<li>At application level: Postgresql, Cassandra (with local persistent storage)</li>
+<li>Dedicated Storage: Volumes with Kubernetes CSI, Flexvolumes Rook with Ceph</li>
+<li>Shared: (NFS) Filesysten, Objectstorage (directly publicly available, delegable with temporary keys</li>
+<li>Kubernetes Operator concept to support the operation of these storage systems</li>
+</ul>
+
+<p>We show examples of different solutions and evaluate them for scalability, security, complexity and cost.</p>
+
+<p>Try them out with us!</p>
+
+<p>You receive virtual machines in the cloud.</p>
+
             <div class="speaker-box">
                 <div class="small-12 medium-4 large-2 columns">
-                    <a href=""><img src="" alt=""></a>
+                    <a href=""><img src="/img/speakers/burkhard-noltensmeier.png" alt=""></a>
                 </div>
                 <div class="small-12 medium-8 large-10 columns">
-                    <h2><a href="">tba<span></span></a></h2>
-                    <p><a href="">read more</a></p>
+                    <h2><a href="/speakers/burkhard-noltensmeier/">Burkhard Noltensmeier<span></span></a></h2>
+                    <p>Burkhard (avowed since 1993 Linux Evangelist) founded after studying computer science at the University of Hagen 1994 teuto.net Network Services GmbH in Bielefeld. 
+His focus are new technologies and he is always one of the first to try them out. Developing and operating clouds based on Openstack and Kubernetes are his goal.
+Burkhard is official corporate sponsor of the OpenStack Foundation, member of Cloud Native Foundation (CNCF) and his company is qualified as a Kubernetes Certified Service Provider.
+<a href="/speakers/burkhard-noltensmeier/">read more</a></p>
                 </div>
             </div>
             

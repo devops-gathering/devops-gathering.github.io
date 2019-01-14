@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>Container as a Service at the Azure-Cloud</title>
-      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
+      <title>Kubernetes on Amazon EKS</title>
+      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
-      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
+      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</guid>
+      <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
     </item>
     
     <item>
@@ -30,12 +30,15 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>Halfday-Workshop: to be announced</title>
-      <link>https://devops-gathering.io/workshops/workshop-to-be-announced/</link>
+      <title>Why Persistence is Hard?</title>
+      <link>https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-to-be-announced/</guid>
-      <description>Further Information will follow soon.</description>
+      <guid>https://devops-gathering.io/workshops/workshop-why-persistence-is-hard/</guid>
+      <description>Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?</description>
     </item>
     
     <item>
@@ -59,12 +62,12 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
     </item>
     
     <item>
-      <title>Kubernetes on Amazon EKS</title>
-      <link>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</link>
+      <title>Container as a Service at the Azure-Cloud</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-kubernetes-on-amazon-eks/</guid>
-      <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
+      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
+      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
     </item>
     
     <item>

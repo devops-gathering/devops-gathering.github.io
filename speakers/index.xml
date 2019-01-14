@@ -60,12 +60,31 @@ Meanwhile, for over 8 years, I have been assisting teams to iteratively and adap
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/burkhard-noltenmeier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/burkhard-noltenmeier/</guid>
+      <description>Burkhard (avowed since 1993 Linux Evangelist) founded after studying computer science at the University of Hagen 1994 teuto.net Network Services GmbH in Bielefeld. His focus are new technologies and he is always one of the first to try them out. Developing and operating clouds based on Openstack and Kubernetes are his goal. Burkhard is official corporate sponsor of the OpenStack Foundation, member of Cloud Native Foundation (CNCF) and his company is qualified as a Kubernetes Certified Service Provider.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/busra-koken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/busra-koken/</guid>
       <description>Busra is an enthusiastic Sofware Engineer at trivago in the team called Cloud Operations where she is in the heart of DevOps and SRE. Before that, she worked at Ericsson as a Cloud System Developer.
 Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. Has special love for Python. She loves automating things, solving problems and learning every day. There are a couple of international conferences where she gave talks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/christoph-kassen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/christoph-kassen/</guid>
+      <description>Christoph is a Sr. Solutions Architect at AWS in Germany. Before joining AWS he worked in different startups as well as enterprises. Now he guides startups to build effective, scalable and reliable software architectures with AWS services. His focus areas are Containers, Kubernetes, Microservices and Observability.
+ Halfday-Workshop: Kubernetes on Amazon EKS  </description>
     </item>
     
     <item>
@@ -155,6 +174,15 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/oliver-milke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/oliver-milke/</guid>
+      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in prove of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -203,12 +231,20 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/sascha-moellering/</link>
+      <link>https://devops-gathering.io/speakers/stefan-scherer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/sascha-moellering/</guid>
-      <description>Sascha Möllering works as AWS Solutions Architect. He’s interested in automation, infrastructure as code, distributed computing, containers, serverless and the JVM.
- Conference Talk: Kubernetes on AWS with Amazon EKS Halfday-Workshop: Kubernetes on Amazon EKS  </description>
+      <guid>https://devops-gathering.io/speakers/stefan-scherer/</guid>
+      <description>Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/stephan-stapel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/stephan-stapel/</guid>
+      <description>Head of Customer Solutions im Bereich IT der Hermes Germany GmbH * Conference Talk: Consumer-based contract testing</description>
     </item>
     
     <item>
