@@ -92,7 +92,9 @@ Key takeaways:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.
+Burkhard Noltemeier: IOT data aggregation of a wind farm with Kubernetes
+Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.</description>
     </item>
     
     <item>

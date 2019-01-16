@@ -172,7 +172,9 @@ In this workshop we&amp;rsquo;ll focus on some more advanced topics, explain the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.</description>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.
+Burkhard Noltemeier: IOT data aggregation of a wind farm with Kubernetes
+Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.</description>
     </item>
     
     <item>
@@ -488,7 +490,7 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
       
       <guid>https://devops-gathering.io/speakers/christoph-kassen/</guid>
       <description>Christoph is a Sr. Solutions Architect at AWS in Germany. Before joining AWS he worked in different startups as well as enterprises. Now he guides startups to build effective, scalable and reliable software architectures with AWS services. His focus areas are Containers, Kubernetes, Microservices and Observability.
- Halfday-Workshop: Kubernetes on Amazon EKS  </description>
+ Conference Talk: Consumer based contract testing  </description>
     </item>
     
     <item>
