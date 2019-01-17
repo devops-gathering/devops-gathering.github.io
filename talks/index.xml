@@ -49,11 +49,11 @@ In this talk I will show you some automation practices, such as infrastructure a
     </item>
     
     <item>
-      <title>Using Jenkins pipeline plugins with Kubernetes</title>
-      <link>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</link>
+      <title>Jenkins Pipelines in continuous action</title>
+      <link>https://devops-gathering.io/talks/jenkins-pipelines-in-continuous-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/using-jenkins-pipeline-plugins-with-kubernetes/</guid>
+      <guid>https://devops-gathering.io/talks/jenkins-pipelines-in-continuous-action/</guid>
       <description>The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.</description>
     </item>
     
