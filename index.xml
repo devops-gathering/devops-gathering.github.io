@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Container Security</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-container-security/</guid>
+      <description>Docker is secure by default, but what about your containers? What about your docker production platforms? Are they secure too?
+This workshop will help you learning how to secure your docker images and you container infrastructure. We&amp;rsquo;ll learn with hands-on labs how to use docker security features and best practices to protect your containerized services.We&amp;rsquo;ll also learn how to push , sign and verify images with Docker Content Trust and verify potential vulnerabilities in your docker images using security scanning tools.</description>
+    </item>
+    
+    <item>
       <title>DevOps - It’s all about the Experiments</title>
       <link>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,13 +81,13 @@ The big cloud providers take away this difficult problem and offer endless scala
     </item>
     
     <item>
-      <title>Container Security</title>
-      <link>https://devops-gathering.io/workshops/workshop-container-security/</link>
+      <title>Docker Container on Windows</title>
+      <link>https://devops-gathering.io/workshops/workshop-docker-container-on-windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/workshop-container-security/</guid>
-      <description>Docker is secure by default, but what about your containers? What about your docker production platforms? Are they secure too?
-This workshop will help you learning how to secure your docker images and you container infrastructure. We&amp;rsquo;ll learn with hands-on labs how to use docker security features and best practices to protect your containerized services.We&amp;rsquo;ll also learn how to push , sign and verify images with Docker Content Trust and verify potential vulnerabilities in your docker images using security scanning tools.</description>
+      <guid>https://devops-gathering.io/workshops/workshop-docker-container-on-windows/</guid>
+      <description>Docker is a platform for running applications in lightweight units of compute called containers. You can run new and old apps in containers, and get increased portability, security and efficiency for your software. The platform supports the full development and deployment lifecycle - with Docker you can build, ship and run any app anywhere.
+Docker has production support for containers since Windows Server 2016, and Windows containers don&amp;rsquo;t need separate licensing.</description>
     </item>
     
     <item>
@@ -110,15 +120,6 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
     </item>
     
     <item>
-      <title>Container as a Service at the Azure-Cloud</title>
-      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
-      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
-    </item>
-    
-    <item>
       <title>Let&#39;s talk Windows Containers on Server 2019</title>
       <link>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -130,21 +131,21 @@ Key takeaways:
     </item>
     
     <item>
+      <title>Container as a Service at the Azure-Cloud</title>
+      <link>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
+      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
+    </item>
+    
+    <item>
       <title>Go as a Tooling Language for the Cloud</title>
       <link>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</guid>
       <description>There is ‚as Code’ for everything! We use CloudFormation or Terraform for Infrastructure as Code, various different file formats for Pipeline as Code and of course describe our application definitions as code with Helm Charts. Usually lots of copy’n paste and bash script is necessary to spin up another environment for your application. With Go you have the ease of using just your command line combined with the power of a strongly typed language with official libraries for nearly every cloud service you can think of.</description>
-    </item>
-    
-    <item>
-      <title>New Work Academy: agile working – an interactive introduction</title>
-      <link>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</guid>
-      <description>We are going to explore what agile working really means and for which problems it has come out to be the best practice in solving them. So, there is going to be a little bit of an explanation about the circumstances which led to the agile manifest and also why agile methods are not a method to believe in and to simply put in place but a framework of change, comprised of values and principles which have simply turned out to be the most helpful ones.</description>
     </item>
     
     <item>
@@ -164,6 +165,15 @@ In this workshop we&amp;rsquo;ll focus on some more advanced topics, explain the
       
       <guid>https://devops-gathering.io/talks/more-containers-for-model-railways/</guid>
       <description>This happens when a Java nerd has a model railroad: not only do containers run on rails, but trains are controlled by containers. Various microservices orchestrated by Kubernetes work on a Raspberry Pi cluster and visualize tracks, points and signals, reserve routes, locate and - of course - drive trains. Learn about the challenges of this somewhat extraordinary Java application in this session - with live demo on stage!</description>
+    </item>
+    
+    <item>
+      <title>New Work Academy: agile working – an interactive introduction</title>
+      <link>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</guid>
+      <description>We are going to explore what agile working really means and for which problems it has come out to be the best practice in solving them. So, there is going to be a little bit of an explanation about the circumstances which led to the agile manifest and also why agile methods are not a method to believe in and to simply put in place but a framework of change, comprised of values and principles which have simply turned out to be the most helpful ones.</description>
     </item>
     
     <item>
@@ -584,7 +594,7 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/oliver-milke/</guid>
-      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in prove of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
+      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in proof of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
     </item>
     
     <item>

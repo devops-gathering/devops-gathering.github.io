@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devops-gathering.io/workshops/workshop-container-security/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/devops-it-is-all-about-the-experiments/</loc>
   </url>
   
@@ -27,7 +31,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-container-security/</loc>
+    <loc>https://devops-gathering.io/workshops/workshop-docker-container-on-windows/</loc>
   </url>
   
   <url>
@@ -43,19 +47,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</loc>
+    <loc>https://devops-gathering.io/workshops/workshop-container-as-a-service-at-the-azure-cloud/</loc>
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</loc>
+    <loc>https://devops-gathering.io/talks/go-as-a-tooling-language-for-the-cloud/</loc>
   </url>
   
   <url>
@@ -64,6 +64,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/more-containers-for-model-railways/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</loc>
   </url>
   
   <url>
