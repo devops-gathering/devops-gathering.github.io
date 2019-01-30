@@ -270,10 +270,11 @@ In this talk, I am going to share my journey. You will see the representation of
       <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/student-ticket-sponsoring/</guid>
-      <description> Dear DevOps-Friends and students!
+      <description>Dear DevOps-Friends and students!
 We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2019 :-)
-You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and send us afterwards your student-ID (mail to: info@devops-gathering.io)
- Click here to fill in the application  </description>
+You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and afterwards send us your student-ID to info@devops-gathering.io
+Click here to fill in the application
+We will announce the Winners on the 11th of February, the 42nd day of the year!</description>
     </item>
     
     <item>
@@ -361,7 +362,7 @@ After this year‘s successful and sold out community conference, we are now pre
       <guid>https://devops-gathering.io/tickets/</guid>
       <description>Price Categories &amp;amp; Information All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
 The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.
-   Tickets (all prices excl. VAT) Early Bird (till January 31st) Standard     3 Day Ticket (Workshops &amp;amp; Conference) 499 € 549 €   2 Day Ticket (Conference) 299 € 349 €   1 Day Ticket (Pre-Conference Workshops) 349 € 399 €   Student 3 Day Ticket (Workshops &amp;amp; Conference) 129 € 149 €   Student 2 Day Ticket (Conference) 59 € 79 €   Student 1 Day Ticket (Pre-Conference Workshops) 79 € 99 €    Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets.</description>
+   Tickets (all prices excl. VAT) Early Bird (till February 7th) Standard     3 Day Ticket (Workshops &amp;amp; Conference) 499 € 549 €   2 Day Ticket (Conference) 299 € 349 €   1 Day Ticket (Pre-Conference Workshops) 349 € 399 €   Student 3 Day Ticket (Workshops &amp;amp; Conference) 129 € 149 €   Student 2 Day Ticket (Conference) 59 € 79 €   Student 1 Day Ticket (Pre-Conference Workshops) 79 € 99 €    Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets.</description>
     </item>
     
     <item>
@@ -432,7 +433,7 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/alexander-ortner/</guid>
-      <description>Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG SE construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.</description>
+      <description>Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG BRVZ construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.</description>
     </item>
     
     <item>
@@ -575,7 +576,7 @@ Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
-      <description>Mario Kleinsasser is the team leader of a small continuous integration operations team within the IT department of the STRABAG SE construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Due to the transition, migration and integration of cloud native technologies, he transforms theoretical concepts into working durable on premise solutions. Mario was a speaker at the DevOps Gathering 2018 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
+      <description>Mario Kleinsasser is the team leader of a small continuous integration operations team within the IT department of the STRABAG BRVZ construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Due to the transition, migration and integration of cloud native technologies, he transforms theoretical concepts into working durable on premise solutions. Mario was a speaker at the DevOps Gathering 2018 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
     </item>
     
     <item>
@@ -660,7 +661,8 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/stephan-stapel/</guid>
-      <description>Head of Customer Solutions im Bereich IT der Hermes Germany GmbH * Conference Talk: Consumer-based contract testing</description>
+      <description>Stephan is head of engineering for customer solutions at Hermes Germany. Stephan changed the ways of working in his department and transformed his team to an agile-based devops team who continuously focus on delivering value to their customers. Stephan has a technology background, having worked as a developer and architect before. He speaks at various regional events such as the Java User Group in Hamburg.
+ Conference Talk: Consumer-based contract testing   </description>
     </item>
     
     <item>
