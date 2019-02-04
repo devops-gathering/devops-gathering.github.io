@@ -235,7 +235,8 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/stefan-scherer/</guid>
-      <description>Stefan is a Sr. Software Engineer at SEAL Systems. He enjoys automating things and uses Docker at work in various test environments. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP and Docker Captain. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.</description>
+      <description>Stefan is a Sr. Software Engineer at Docker working in the tools and release engineering team. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.
+ Conference Talk: Let&amp;rsquo;s talk Windows Containers on Server 2019 Workshop: Workshop Docker Container on Windows  </description>
     </item>
     
     <item>
