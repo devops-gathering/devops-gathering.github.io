@@ -93,8 +93,10 @@ Key takeaways:
       
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
       <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.
-Burkhard Noltemeier: IOT data aggregation of a wind farm with Kubernetes
-Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.</description>
+Burkhard Noltensmeier: IOT data aggregation of a wind farm with Kubernetes
+Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.
+Carsten Langerbein: Agile App Development needs agile App Security
+As apps are the gateway to your data so is security a key need for every application.</description>
     </item>
     
     <item>

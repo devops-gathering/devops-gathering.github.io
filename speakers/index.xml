@@ -60,10 +60,10 @@ Meanwhile, for over 8 years, I have been assisting teams to iteratively and adap
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/burkhard-noltenmeier/</link>
+      <link>https://devops-gathering.io/speakers/burkhard-noltensmeier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/burkhard-noltenmeier/</guid>
+      <guid>https://devops-gathering.io/speakers/burkhard-noltensmeier/</guid>
       <description>Burkhard (avowed since 1993 Linux Evangelist) founded after studying computer science at the University of Hagen 1994 teuto.net Network Services GmbH in Bielefeld. His focus are new technologies and he is always one of the first to try them out. Developing and operating clouds based on Openstack and Kubernetes are his goal. Burkhard is official corporate sponsor of the OpenStack Foundation, member of Cloud Native Foundation (CNCF) and his company is qualified as a Kubernetes Certified Service Provider.</description>
     </item>
     
@@ -75,6 +75,17 @@ Meanwhile, for over 8 years, I have been assisting teams to iteratively and adap
       <guid>https://devops-gathering.io/speakers/busra-koken/</guid>
       <description>Busra is an enthusiastic Sofware Engineer at trivago in the team called Cloud Operations where she is in the heart of DevOps and SRE. Before that, she worked at Ericsson as a Cloud System Developer.
 Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. Has special love for Python. She loves automating things, solving problems and learning every day. There are a couple of international conferences where she gave talks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/carsten-langerbein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/carsten-langerbein/</guid>
+      <description>Carsten is a Sr Systems Engineer by F5 Networks with a strong attitude towards Security and Automation for Cloud infrastructures. He is working in the network and security space since over 16 years with a solid understanding of automation concepts like IaC or cloud computing.
+A key focus of him is lying on application security in modern app landscapes. He lives with his family in the beautiful Ruhrpott.
+ Ligthning Talk: Agile App Development needs agile App Security   </description>
     </item>
     
     <item>
@@ -231,6 +242,16 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/schlomo-schapiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/schlomo-schapiro/</guid>
+      <description>Schlomo is an Agile IT and Open Source enthusiast dedicated to advancing an agile mindset and a DevOps-orientated culture in IT. He works as Chief Architect Cloud at DB Systel in Berlin, is author of several Open Source projects, and regularly publishes blog and magazine articles.
+ Ligthning Talk: The DevOps Driving School - Elevator Pitch  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/stefan-scherer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -241,12 +262,31 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/stephan-mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/stephan-mueller/</guid>
+      <description>Stephan is an Enterprise Architect who works for the open knowledge GmbH. He has worked as an architect, product owner, project manager and coach in numerous enterprise projects for more than a decade. His main interests are architectures, new technologies and clean code.
+ Ligthning Talk: Serverless by example - Fotoboxes and other use cases   </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/stephan-stapel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/stephan-stapel/</guid>
       <description>Stephan is head of engineering for customer solutions at Hermes Germany. Stephan changed the ways of working in his department and transformed his team to an agile-based devops team who continuously focus on delivering value to their customers. Stephan has a technology background, having worked as a developer and architect before. He speaks at various regional events such as the Java User Group in Hamburg.
  Conference Talk: Consumer-based contract testing   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/tilman-frosch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/tilman-frosch/</guid>
+      <description>Tilman is managing director of G DATA Advanced Analytics, the security service branch of GDATA. He holds a PhD in IT Security from Ruhr Universität Bochum that he earned by breaking and building a few novel things in contexts like web browsers, botnet analysis, cryptographic protocols, and e-mobility charging infrastructure. Tilman has published numerous scientific papers at top-tier conferences, such as ACM CCS and RAID, and has also served as external reviewer for various conferences, such as IEEE Symposium on Security and Privacy, ACM CCS, and RAID.</description>
     </item>
     
     <item>
