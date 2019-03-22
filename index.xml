@@ -127,7 +127,7 @@ The fact that we can run (almost) anything in Kubernetes and that it will do its
       <guid>https://devops-gathering.io/talks/lets-talk-windows-containers-on-server-2019/</guid>
       <description>Docker has revolutionized how we think about Software deployment. Microsoft has adopted this technology to Windows to have the same approach for native Windows tools and applications. This talk gives you an overview of Docker and how you can create isolated environments for development and deployment. With the new Windows Server 2019 we have a lot of improvements and better feature parity compared to previous releases.
 Key takeaways:
- You will hear the basic concepts why Containers help you to have predictable development and runtime environments You will get an overview of all improvements of Windows Server 2019 and the latest container features and orchestrators like Docker Swarm and Kubernetes  </description>
+ You will hear the basic concepts why Containers help you to have predictable development and runtime environments You will get an overview of all improvements of Windows Server 2019 and the latest container features and orchestrators like Docker Swarm and Kubernetes</description>
     </item>
     
     <item>
@@ -184,8 +184,7 @@ In this workshop we&amp;rsquo;ll focus on some more advanced topics, explain the
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
       <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.
 Burkhard Noltensmeier: IOT data aggregation of a wind farm with Kubernetes
-Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.
-Carsten Langerbein: Agile App Development needs agile App Security
+Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.   Carsten Langerbein: Agile App Development needs agile App Security
 As apps are the gateway to your data so is security a key need for every application.</description>
     </item>
     
@@ -225,7 +224,9 @@ We will demonstrate how we cope with these dependencies using consumer-based con
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
-      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!
+
+  </description>
     </item>
     
     <item>
