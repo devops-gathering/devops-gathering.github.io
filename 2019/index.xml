@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</title>
+    <link>/2019/</link>
+    <description>Recent content on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
+    
+	<atom:link href="/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Container Security</title>
+      <link>/2019/workshops/workshop-container-security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-container-security/</guid>
+      <description>Docker is secure by default, but what about your containers? What about your docker production platforms? Are they secure too?
+This workshop will help you learning how to secure your docker images and you container infrastructure. We&amp;rsquo;ll learn with hands-on labs how to use docker security features and best practices to protect your containerized services.We&amp;rsquo;ll also learn how to push , sign and verify images with Docker Content Trust and verify potential vulnerabilities in your docker images using security scanning tools.</description>
+    </item>
+    
+    <item>
+      <title>DevOps - It’s all about the Experiments</title>
+      <link>/2019/talks/devops-it-is-all-about-the-experiments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/devops-it-is-all-about-the-experiments/</guid>
+      <description>‚The Phoenix Project‘ is a must read for all DevOps practitioners. It describes the main principles of DevOps culture as ‚three ways‘. The third way is about creating a culture of continual experimentation. I’ll take you on a journey through Agile and DevOps, product development and organizational development. We’ll discover all the small places in this culture where the principle of experimentation is hidden. Some of them may surprise you.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes on Amazon EKS</title>
+      <link>/2019/workshops/workshop-kubernetes-on-amazon-eks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-kubernetes-on-amazon-eks/</guid>
+      <description>Running more than one containerized application in production makes teams look for solutions to quickly deploy and orchestrate containers. One of the most popular options is the open-source project Kubernetes. With the release of the Amazon Elastic Container Service for Kubernetes (EKS), engineering teams now have access to a fully managed Kubernetes control plane and time to focus on building applications. This workshop will deliver hands-on labs to support you getting familiar with Amazon&amp;rsquo;s EKS.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes 101</title>
+      <link>/2019/workshops/workshop-kubernetes-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-kubernetes-101/</guid>
+      <description>This Workshop will explain the basic concepts of Kubernetes. Questions like How can I expose my Kubernetes App to the world or How can I run my Container in Kubernetes ? Also it will deliver a Higher Overview over Kubernetes Architecture and the basic components.
+Prerequisite knowledge  A working knowledge of the Linux command line A basic understanding of containers and container runtimes like Docker A basic understanding of microservices  What you&amp;rsquo;ll learn During this workshop you will learn the basics components of Kubernetes and get an overview of the current Architecture of Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>What the heck is Software Craftsmanship?</title>
+      <link>/2019/talks/what-the-heck-is-software-craftsmanship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/what-the-heck-is-software-craftsmanship/</guid>
+      <description>Software Craftsmanship is a movement in software engineering that aims to regard software development as a skilled craft instead of a classical engineering approach. The movement relies on 4 principles: Clean Code, practice, lifelong learning and communities. In our talk – which includes many examples and pictures – we would like to talk about its origin and the historic background, its current state and all available forms of participation. Hence, we want to encourage you to build (upon) a strong community spirit so that you may tread the path of becoming a software crafter yourself.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes for Non-Coders</title>
+      <link>/2019/talks/kubernetes-for-non-coders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/kubernetes-for-non-coders/</guid>
+      <description>For most people outside IT departments, understanding how to pronounce Kubernetes is the first step of many steps towards understanding why they should support the transition to Cloud-Native Technologies. This talk seeks to present Kubernetes and cloud-native to non-coders outside the IT department and help them understand how supporting its adoption will benefit them.
+The talk begins with an overview of what Cloud-Native is, proceeds to a non-technical explanation of Kubernetes using housing as a metaphor, and finishes with key benefits to non-IT departments when adopting Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>Why Persistence is Hard?</title>
+      <link>/2019/workshops/workshop-why-persistence-is-hard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-why-persistence-is-hard/</guid>
+      <description>Requirement from practice:
+Business transactions are interdependent and must be stored safely and quickly (always!) The CAP Theorem limits the ability to achieve both redundancy (partitionability) and transaction security (consistency) simultaneously.
+The big cloud providers take away this difficult problem and offer endless scalability, highest security and all for a reasonable price.
+ But is that really the case? Do we really need all of that? What, if you do not want to put all your business data in the hands of a cloud provider?</description>
+    </item>
+    
+    <item>
+      <title>Docker Container on Windows</title>
+      <link>/2019/workshops/workshop-docker-container-on-windows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-docker-container-on-windows/</guid>
+      <description>Docker is a platform for running applications in lightweight units of compute called containers. You can run new and old apps in containers, and get increased portability, security and efficiency for your software. The platform supports the full development and deployment lifecycle - with Docker you can build, ship and run any app anywhere.
+Docker has production support for containers since Windows Server 2016, and Windows containers don&amp;rsquo;t need separate licensing.</description>
+    </item>
+    
+    <item>
+      <title>Helm: Build fashionable Container Systems with Kubernetes</title>
+      <link>/2019/talks/helm-build-fashionable-container-systems-with-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/helm-build-fashionable-container-systems-with-kubernetes/</guid>
+      <description>Helm is a package manager that helps to install and manage Kubernetes manifests. With the Helm tool you can configure different releases of your application. The Helm ecosystem offers you many features to setup and manage complex cloud native container systems. Serverless or microservice architectures need a lot of glue infrastructure components. Helm is more than homebrew for Kubernetes.
+In this talk I will show you some automation practices, such as infrastructure as code, continuous integration, continuous deployment, release automation with Gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins Pipelines in continuous action</title>
+      <link>/2019/talks/jenkins-pipelines-in-continuous-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/jenkins-pipelines-in-continuous-action/</guid>
+      <description>The Jenkins pipeline plugin is a good choice for realizing sophisticated continuous delivery pipelines for deploying different kinds of applications. Combined with Kubernetes it offers a premium tool chain for DevOps. On top of that, the versatility of Jenkins Pipelines has inspired us to continuously deliver lots of other things.</description>
+    </item>
+    
+    <item>
+      <title>Making Resilient, Self-Adaptive, and Autonomous Kubernetes Clusters</title>
+      <link>/2019/workshops/workshop-making-resilient-self-adaptive-and-autonomous-kubernetes-clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-making-resilient-self-adaptive-and-autonomous-kubernetes-clusters/</guid>
+      <description>What do you do after you learn Kubernetes, after you deploy your applications to a production cluster, and after you fully automate continuous deployment pipeline? You work on making your cluster self-sufficient by adding monitoring, alerting, logging, and scaling.
+The fact that we can run (almost) anything in Kubernetes and that it will do its best to make it fault tolerant and highly available, does not mean that our applications and clusters are bulletproof.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s talk Windows Containers on Server 2019</title>
+      <link>/2019/talks/lets-talk-windows-containers-on-server-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/lets-talk-windows-containers-on-server-2019/</guid>
+      <description>Docker has revolutionized how we think about Software deployment. Microsoft has adopted this technology to Windows to have the same approach for native Windows tools and applications. This talk gives you an overview of Docker and how you can create isolated environments for development and deployment. With the new Windows Server 2019 we have a lot of improvements and better feature parity compared to previous releases.
+Key takeaways:
+ You will hear the basic concepts why Containers help you to have predictable development and runtime environments You will get an overview of all improvements of Windows Server 2019 and the latest container features and orchestrators like Docker Swarm and Kubernetes</description>
+    </item>
+    
+    <item>
+      <title>Container as a Service at the Azure-Cloud</title>
+      <link>/2019/workshops/workshop-container-as-a-service-at-the-azure-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-container-as-a-service-at-the-azure-cloud/</guid>
+      <description>Running a professional Docker cluster isn’t a trivial task. As a developer, I would like to focus on writing great apps instead of having to maintain such infrastructure. PaaS and Serverless cloud services are a solution to this problem. My job as a developer is to containerize my app while the cloud provider cares for maintaining, scaling, and securing the underlying base services. In this session, long-time Azure MVP and Regional Director Rainer Stropek introduces you to Container-as-a-Service in the Microsoft Azure cloud.</description>
+    </item>
+    
+    <item>
+      <title>Go as a Tooling Language for the Cloud</title>
+      <link>/2019/talks/go-as-a-tooling-language-for-the-cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/go-as-a-tooling-language-for-the-cloud/</guid>
+      <description>There is ‚as Code’ for everything! We use CloudFormation or Terraform for Infrastructure as Code, various different file formats for Pipeline as Code and of course describe our application definitions as code with Helm Charts. Usually lots of copy’n paste and bash script is necessary to spin up another environment for your application. With Go you have the ease of using just your command line combined with the power of a strongly typed language with official libraries for nearly every cloud service you can think of.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Advanced</title>
+      <link>/2019/workshops/workshop-kubernetes-advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-kubernetes-advanced/</guid>
+      <description>Kubernetes provides a set of more then thirty resource types out of the box and that alone might look overwhelming for a beginner. Still these gain new features with each release and with the popularity of the operator pattern, more and more custom resources show up in our Kubernetes clusters.
+In this workshop we&amp;rsquo;ll focus on some more advanced topics, explain their background and how to use them to get a better overview and more confidence in the stability of a more complex Kubernetes setup.</description>
+    </item>
+    
+    <item>
+      <title>More Containers for (Model) Railways! </title>
+      <link>/2019/talks/more-containers-for-model-railways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/more-containers-for-model-railways/</guid>
+      <description>This happens when a Java nerd has a model railroad: not only do containers run on rails, but trains are controlled by containers. Various microservices orchestrated by Kubernetes work on a Raspberry Pi cluster and visualize tracks, points and signals, reserve routes, locate and - of course - drive trains. Learn about the challenges of this somewhat extraordinary Java application in this session - with live demo on stage!</description>
+    </item>
+    
+    <item>
+      <title>New Work Academy: agile working – an interactive introduction</title>
+      <link>/2019/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</guid>
+      <description>We are going to explore what agile working really means and for which problems it has come out to be the best practice in solving them. So, there is going to be a little bit of an explanation about the circumstances which led to the agile manifest and also why agile methods are not a method to believe in and to simply put in place but a framework of change, comprised of values and principles which have simply turned out to be the most helpful ones.</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks</title>
+      <link>/2019/talks/lightning-talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/lightning-talks/</guid>
+      <description>Lightning Talks: Short presentations of about 10 minutes about interesting topics.
+Burkhard Noltensmeier: IOT data aggregation of a wind farm with Kubernetes
+Together with our customers, we developed helpful real-time dashboards with Grafana, Prometheus and Kubernetes. In this talk I will discuss the adventure of wind farm IOT use case and how we implemented it.   Carsten Langerbein: Agile App Development needs agile App Security
+As apps are the gateway to your data so is security a key need for every application.</description>
+    </item>
+    
+    <item>
+      <title>SRE, DevOps, Google and You</title>
+      <link>/2019/talks/sre-devops-google-and-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/sre-devops-google-and-you/</guid>
+      <description>Site Reliability Engineering (SRE) was originally conceived internally at Google. By now, it has become public knowledge via various channels like conferences or books. But how can you apply SRE principles in your organization, given that you are not Google and cannot just blindly do everything exactly as Google does? And how does SRE relate to DevOps? The speaker has seen both sides, with many years working as an SRE at Google and later as a Production Engineer at SoundCloud, a much smaller startup running many service using a highly innovative tech stack and a radical DevOps approach.</description>
+    </item>
+    
+    <item>
+      <title>C4 - Continuous Culture Change Challenges</title>
+      <link>/2019/talks/c4-continuous-culture-change-challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/c4-continuous-culture-change-challenges/</guid>
+      <description>In less than a year we have managed to change our working culture from throwing informations over the great wall between Dev and Ops to a failure tolerant, management accepted honored culture. We have enabled colleagues to unleash their bygone forgotten strengths.
+We can show you how to create a cultural change from bottom up even in a large enterprise.
+Furthermore we have proven that even in a conservative environment where no one believes in it, like in construction businesses, a cultural change from the inside of the IT department can happen.</description>
+    </item>
+    
+    <item>
+      <title>Consumer-based contract testing</title>
+      <link>/2019/talks/consumer-based-contract-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/consumer-based-contract-testing/</guid>
+      <description>At Hermes, we are aiming to deliver value continuously to our customers. Following this path, we are transforming our applications using microservice based architecture. This brings many improvements but comes with the additional burden of having more and more systems that are interdependent.
+We will demonstrate how we cope with these dependencies using consumer-based contract testing approaches and how this influences the roles and culture within our development</description>
+    </item>
+    
+    <item>
+      <title>Traefik as an Ingress Controller for Kubernetes</title>
+      <link>/2019/talks/traefik-as-an-ingress-controller-for-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+    </item>
+    
+    <item>
+      <title>Ensuring Kubernetes Cost Efficiency across (many) Clusters</title>
+      <link>/2019/talks/ensuring-kubernetes-cost-efficiency-across-many-clusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/ensuring-kubernetes-cost-efficiency-across-many-clusters/</guid>
+      <description>This talk will address one of the most common challenges of organizations adopting Kubernetes on a medium to large scale: how to keep cloud costs under control without babysitting each and every deployment and cluster configuration? How to operate 80+ Kubernetes clusters in a cost-efficient way for 200+ autonomous development teams?
+This talk provides insights on how Zalando approaches this problem with central cost optimizations (e.g. Spot), cost monitoring/alerting, active measures to reduce resource slack, and automated cluster housekeeping.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Operators</title>
+      <link>/2019/talks/kubernetes-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/kubernetes-operators/</guid>
+      <description>We all love Kubernetes as our declarative and reactive container orchestration platform of choice. Resource descriptors declare a target state and a whole set of controllers running in the background are watching these resources to reconcile the current state to the desired target state. We can use this dominant paradigm can also for custom resources and controllers, commonly referred to as &amp;ldquo;operators&amp;rdquo;. A growing number of operators for all sort of task already has been created.</description>
+    </item>
+    
+    <item>
+      <title>Delivering Cloud Native Apps with Kubernetes on Azure</title>
+      <link>/2019/talks/delivering-cloud-native-apps-with-kubernetes-on-azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/delivering-cloud-native-apps-with-kubernetes-on-azure/</guid>
+      <description>The usage of containers enables organizations to be more agile in their own way to ship software from dev and test to production usage. However the enterprise adoption of container technology requires a scalable approach in order to streamline the deployment of multiple applications in a consistent and supportable platform like Kubernetes. This is presentation will cover the basic concepts of containerized applications and microservice architecture patterns to demonstrate the advantages of using Kubernetes.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Stories on Adopting the Mindset</title>
+      <link>/2019/talks/devops-stories-on-adopting-the-mindset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/talks/devops-stories-on-adopting-the-mindset/</guid>
+      <description>As a beginner, finding your place and grasping the idea of DevOps is very much depending on the personal motivation and the environment you work. They did not teach you this in schools.
+In this talk, I am going to share my journey. You will see the representation of a story that adopts the DevOps as a mindset rather than people, tools and so on. The talk will be a story-line that is supported by real-world examples such as using the tools, communication in the teams etc.</description>
+    </item>
+    
+    <item>
+      <title>Student Ticket Sponsoring</title>
+      <link>/2019/student-ticket-sponsoring/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>/2019/student-ticket-sponsoring/</guid>
+      <description>Dear DevOps-Friends and students!
+We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2019 :-)
+You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and afterwards send us your student-ID to info@devops-gathering.io
+Click here to fill in the application
+We will announce the Winners on the 11th of February, the 42nd day of the year!</description>
+    </item>
+    
+    <item>
+      <title>Workshop Requirements | February 19th</title>
+      <link>/2019/workshop-requirements/</link>
+      <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
+      
+      <guid>/2019/workshop-requirements/</guid>
+      <description>Workshop: Building a Self-Sufficient System by Viktor Farcic  https://github.com/vfarcic/vfarcic.github.io/blob/master/devops22/REQS.md  Workshop: Introduction into Kubernetes by Thomas Fricke  either a Laptop with at least 8 GB of memory and a preinstalled minikube for your operating system. Installation instructions are here https://github.com/kubernetes/minikube or alternatively access to Kubernetes in a cloud like GCE. Instructions for GKE are herehttps://cloud.google.com/kubernetes-engine/docs/quickstart and an installed version of Kubectl https://kubernetes.io/docs/tasks/tools/install-kubectl  Workshop: Groovy Integration Testing with Docker and TestContainers by Kevin Wittek and Matthias Rottländer As this is a hands-on workshop, it is essential that you bring a prepared workstation, containing the following software:</description>
+    </item>
+    
+    <item>
+      <title>Videos, photos and impressions of the DevOps Gathering</title>
+      <link>/2019/media-and-photos/</link>
+      <pubDate>Tue, 01 Aug 2017 09:28:54 +0100</pubDate>
+      
+      <guid>/2019/media-and-photos/</guid>
+      <description>DevOps Gathering 2019 Blogposts and impressions  DevOps Gathering 2019 - Workshops, bees and everything in between Bee involved with the DevOps Gathering 2019 Speaker slides Blogpost by cloudogu  Recorded conference talks Talks - Playlist
+ Lightning Talks - Playlist
+ 
+Photos    Dog19 1
+      Dog19 10
+      Dog19 11
+      Dog19 12</description>
+    </item>
+    
+    <item>
+      <title>Accommodations</title>
+      <link>/2019/accommodations/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/accommodations/</guid>
+      <description>Accommodations &amp;amp; Hotels Art Hotel Tucholsky Viktoriastraße 73, 44787 Bochum
+Booking
+| website: www.art-hotel-tucholsky.de | e-mail: info@art-hotel-tucholsky.de or sb@bjw-gastronomie.de | phone: +49 (0)234 964360 or +49 (0)234 5306670
+acora Hotel und Wohnen Nordring 44 – 50, 44787 Bochum
+Booking
+| e-mail: bochum@acora.de | phone: +49 (0)234&amp;frasl;68 96-985</description>
+    </item>
+    
+    <item>
+      <title>After Conference Reception</title>
+      <link>/2019/after-conference/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/after-conference/</guid>
+      <description>6:30pm - 10:00 pm at G Data Campus After a day of great talks, nothing sounds better than grabbing a cold beer, tasty food and networking with fellow developers and enthusiasts. Luckily, the DevOps Gathering Reception is just that.
+G Data provides awesome people, tasty food and high quality drinks. Feel free to join us and to talk with other DevOps interested people, including the speakers. Socialize and make new friends.</description>
+    </item>
+    
+    <item>
+      <title>Conference Code of Conduct </title>
+      <link>/2019/code-of-conduct/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
+Need Help? We have a dedicated team that takes care of your safety. If you experience harassment or other Code of Conduct violations, please contact the care team (twitter: @DevOpsGathering; e-mail: care@devops-gathering.</description>
+    </item>
+    
+    <item>
+      <title>General terms and conditions</title>
+      <link>/2019/general-terms-and-conditions/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/general-terms-and-conditions/</guid>
+      <description>By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.
+Please read these conditions carefully!
+SCOPE OF APPLICATION The organizer of the conference and workshops is
+bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).
+For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.</description>
+    </item>
+    
+    <item>
+      <title>How to become a sponsor? </title>
+      <link>/2019/sponsoring/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/sponsoring/</guid>
+      <description>Sponsoring DevOps Gathering We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!
+After this year‘s successful and sold out community conference, we are now preparing the third round of the DevOps Gathering 2019.</description>
+    </item>
+    
+    <item>
+      <title>Pricing &amp; Registration</title>
+      <link>/2019/tickets/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/tickets/</guid>
+      <description>Price Categories &amp;amp; Information All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
+The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.
+   Tickets (all prices excl. VAT) Early Bird (till February 7th) Standard     3 Day Ticket (Workshops &amp;amp; Conference) 499 € 549 €   2 Day Ticket (Conference) 299 € 349 €   1 Day Ticket (Pre-Conference Workshops) 349 € 399 €   Student 3 Day Ticket (Workshops &amp;amp; Conference) 129 € 149 €   Student 2 Day Ticket (Conference) 59 € 79 €   Student 1 Day Ticket (Pre-Conference Workshops) 79 € 99 €    Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/2019/privacy-policy/</link>
+      <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
+      
+      <guid>/2019/privacy-policy/</guid>
+      <description>Data Privacy Policy Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/2019/imprint/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>/2019/imprint/</guid>
+      <description>Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
+bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Email: mailto:info@bee42.com
+Phone +49(0)157-72 54 92 63
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+Responsible for the content according to § 55 Abs. 2 RStV: bee42 solutions gmbh Am Josephsschacht 72
+D-44879 Bochum
+Germany
+Geschäftsführer: Peter Rossbach, Georg Jürgens
+VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374</description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>/2019/venue/</link>
+      <pubDate>Sun, 04 Dec 2016 19:26:55 +0100</pubDate>
+      
+      <guid>/2019/venue/</guid>
+      <description>Pre-Conference-Workshops on Monday (March 11, 2019) Zentrum für IT Sicherheit (ZITS) Lise-Meitner-Allee 4 44801 Bochum
+ Website     Dog sweets
+      Itz eingang
+      Itz workshop
+      Workshop day
+      Workshop present
+      Workshop raum
+        Conference on Tuesday and Wednesday (March 12 - 13, 2019) G Data Campus, Königsallee 178b, 44799 Bochum</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/imprint-de/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/imprint-de/</guid>
+      <description>Impressum Angaben gemäß § 5 TMG: bee42 solutions GmbH Am Josephsschacht 72 44879 Bochum
+Gesellschaftsform: Gesellschaft mit beschränkter Haftung
+Vertreten durch: Peter Rossbach
+Kontakt: Telefon: +49 157 72 54 92 63 E-Mail: info@bee42.com
+Registereintrag: Eintragung im Handelsregister. Registergericht:Amtsgericht Bochum Registernummer: HRB 14047
+Umsatzsteuer-ID: Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 28 49 32 374
+Quelle: Mit dem von eRecht24 bereitgestellten Impressum-Generator erzeugt.
+Haftungsausschluss: Haftung für Inhalte
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/alexander-ortner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/alexander-ortner/</guid>
+      <description>Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG BRVZ construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/benjamin-godbersen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/benjamin-godbersen/</guid>
+      <description>Trying out new terrain and creating something new - that&amp;rsquo;s my passion. After studying International Management with Engineering, I quickly left behind classic IT project management in an international corporation and learned how it feels to work in small, self-organized teams on what really matters.
+Meanwhile, for over 8 years, I have been assisting teams to iteratively and adaptively develop their way of working, and to produce more and more the products and results that have an impact on the market and improve the lives of customers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/benjamin-nothdurft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/benjamin-nothdurft/</guid>
+      <description>Benjamin Nothdurft works as technical lead for cloud technologies at codecentric AG, speaks regularly at conferences and gives lectures at several universities. He focuses on the Java and Container ecosystems as well as pushing Software Craftsmanship and Agile Practices &amp;amp; Organizations to the next level. As passionate software crafter he also organized over 40 IT events in the past years. He founded the Softwerkskammer Jena, Java User Group Thüringen and Devoxx4Kids Thüringen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/bill-mulligan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/bill-mulligan/</guid>
+      <description>On his first day of work at his previous startup, Bill was told to set up a Kubernetes cluster without knowing how to find the command line or even how to pronounce K8s. Many blog posts, youtube videos, and errors later, Bill has successfully been able to explain Kubernetes to even his grandmother. He currently works at Loodse to help anyone, anywhere have a Kubernetes cluster in one click.
+ Conference Talk: Kubernetes for Non-Coders  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/bjoern-rabenstein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/bjoern-rabenstein/</guid>
+      <description>Björn Rabenstein is a Production Engineer at SoundCloud and a Prometheus developer. Previously, Björn was a Site Reliability Engineer at Google and a number cruncher for science.
+ Conference Talk: SRE, DevOps, Google and You  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/burkhard-noltensmeier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/burkhard-noltensmeier/</guid>
+      <description>Burkhard (avowed since 1993 Linux Evangelist) founded after studying computer science at the University of Hagen 1994 teuto.net Network Services GmbH in Bielefeld. His focus are new technologies and he is always one of the first to try them out. Developing and operating clouds based on Openstack and Kubernetes are his goal. Burkhard is official corporate sponsor of the OpenStack Foundation, member of Cloud Native Foundation (CNCF) and his company is qualified as a Kubernetes Certified Service Provider.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/busra-koken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/busra-koken/</guid>
+      <description>Busra is an enthusiastic Sofware Engineer at trivago in the team called Cloud Operations where she is in the heart of DevOps and SRE. Before that, she worked at Ericsson as a Cloud System Developer.
+Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. Has special love for Python. She loves automating things, solving problems and learning every day. There are a couple of international conferences where she gave talks.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/carsten-langerbein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/carsten-langerbein/</guid>
+      <description>Carsten is a Sr Systems Engineer by F5 Networks with a strong attitude towards Security and Automation for Cloud infrastructures. He is working in the network and security space since over 16 years with a solid understanding of automation concepts like IaC or cloud computing.
+A key focus of him is lying on application security in modern app landscapes. He lives with his family in the beautiful Ruhrpott.
+ Ligthning Talk: Agile App Development needs agile App Security   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/christoph-kassen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/christoph-kassen/</guid>
+      <description>Christoph is a Sr. Solutions Architect at AWS in Germany. Before joining AWS he worked in different startups as well as enterprises. Now he guides startups to build effective, scalable and reliable software architectures with AWS services. His focus areas are Containers, Kubernetes, Microservices and Observability.
+ Conference Talk: Consumer based contract testing  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/dennis-zielke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/dennis-zielke/</guid>
+      <description>Dennis Zielke is part of the Global Blackbelt team at Microsoft and specializing in the development of modern, scalable and distributed applications. He is working as an software architect with enterprise customers and partners to design, build and deploy custom applications based on open source technology stacks.
+ Conference Talk: Delivering cloud native apps with Kubernetes on Azure  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/dirk-weil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/dirk-weil/</guid>
+      <description>Dirk Weil has been working as a Java consultant since 1998. As Managing Director of GEDOPLAN GmbH, he is responsible for the conception and realization of Java based information systems. With many years of experience in developing sophisticated business solutions he and his team are competent partners and recognized experts for Java and JEE. He is a book author, writes articles for magazines and speaks at conferences and user groups. He works as trainer for GEDOPLAN IT Training holding various Java and JEE seminars and workshops.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/henning-jacobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/henning-jacobs/</guid>
+      <description>Henning joined Zalando in the beginning of 2010 and accompanied the transformation of Zalando’s technology department through the eras of PHP/MySQL and Java/PostgreSQL to the new world of “Radical Agility”. He helped building the AWS/STUPS cloud infrastructure to make innovation scale across autonomous teams. Henning is currently responsible for the developer journey at Zalando. His five teams help streamline the developer experience by providing a cloud-native application runtime to 200+ engineering teams.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/henriette-wienges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/henriette-wienges/</guid>
+      <description>The joy of people, an optimistic stance, a believer in the possibility of development for the better both for individuals or organizations, the interest in the new and innovative and openness for diversity, my agility and my sense of responsibility and high intrinsic motivation, that is the quintessence of myself. That is also the origin of my action, my education and my job. It also makes me think about new solutions, about the needs of others and it makes me take responsibility to turn words and ideas into action.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/jannis-schaefer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/jannis-schaefer/</guid>
+      <description>Jannis is a cloud developer at cosee. He works in an cross-functional team developing a brand new ebook reading experience in the cloud. He is a docker campus ambassador at the TU Darmstadt and a task automatization enthusiast. If you know him you wouldn&amp;rsquo;t be surprised that most of the repositories he touches have a complete deployment pipeline before the first code of code is even committed. Every day without touching a management GUI is a good day!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/konstantin-diener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/konstantin-diener/</guid>
+      <description>Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.
+ Conference Talk: DevOps - It’s all about the experiments  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/manuel-zapf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/manuel-zapf/</guid>
+      <description>Software Engineer, Maintainer of traefik.io. His special interest is in deploying applications scalable by using cloud and container technologies. Language-wise, his favorites are go, nodejs and java including spring boot.
+ Conference Talk: Traefik as an Ingress Controller for Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/mario-kleinsasser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/mario-kleinsasser/</guid>
+      <description>Mario Kleinsasser is the team leader of a small continuous integration operations team within the IT department of the STRABAG BRVZ construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Due to the transition, migration and integration of cloud native technologies, he transforms theoretical concepts into working durable on premise solutions. Mario was a speaker at the DevOps Gathering 2018 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/niclas-mietz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/niclas-mietz/</guid>
+      <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continuous Integration.
+ Halfday-Workshop: Kubernetes 101  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/oliver-milke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/oliver-milke/</guid>
+      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in proof of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/peter-rossbach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/peter-rossbach/</guid>
+      <description>As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker Influencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but also our customers to top performances.
+ Conference Talk: Helm - Build fashionable container systems with Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/rachid-zarouali/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/rachid-zarouali/</guid>
+      <description>Docker Captain and Community Leader, Rachid Zarouali is a former virtualization consultant and Instructor. After a successful experience building and training the ops team of the French registry (AFNIC), he’s now C.I.O. of a worldwide recognized CRM and E-COMMERCE agency. Dedicated to offering the most efficient production tools and infrastructure platforms, he works with his team on bringing latest technology at a production level. Involved in different OSS communities, he teaches cloud computing architecture at a software engineering school in his spare time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/rainer-stropek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/rainer-stropek/</guid>
+      <description>Rainer Stropek has been an entrepreneur in the IT industry for more than twenty years. During this time, he founded and managed several IT service companies and is currently developing the award-winning Software time cockpit in his company software architects together with his team. Rainer holds degrees from the Technical College of MIS, Leonding (AT) and the University of Derby (UK). He is the author of several books and articles in magazines around Microsoft .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/roland-huss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/roland-huss/</guid>
+      <description>Dr. Roland Huss is a Principal Software Engineer at Red Hat and tech-lead for Red Hat Fuse Online, an open source hybrid integration platform running on OpenShift. He has been developing mostly in Java for over twenty years now but never forgot his roots as a system administrator.
+Roland is an active open source contributor, developer of the JMX-HTTP bridge Jolokia and the popular fabric8 Maven plugins for Docker, Kubernetes and OpenShift.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/sandra-parsick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/sandra-parsick/</guid>
+      <description>Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She likes to talk on conferences and writes articles about it. She is in the organisation team of Softwerkskammer Ruhrgebiet.
+ Conference Talk: Let&amp;rsquo;s hand over a code kata to the aspiring developer - What the heck is Software Craftsmanship?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/schlomo-schapiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/schlomo-schapiro/</guid>
+      <description>Schlomo is an Agile IT and Open Source enthusiast dedicated to advancing an agile mindset and a DevOps-orientated culture in IT. He works as Chief Architect Cloud at DB Systel in Berlin, is author of several Open Source projects, and regularly publishes blog and magazine articles.
+ Ligthning Talk: The DevOps Driving School - Elevator Pitch  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/stefan-scherer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/stefan-scherer/</guid>
+      <description>Stefan is a Sr. Software Engineer at Docker working in the tools and release engineering team. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.
+ Conference Talk: Let&amp;rsquo;s talk Windows Containers on Server 2019 Workshop: Workshop Docker Container on Windows  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/stephan-mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/stephan-mueller/</guid>
+      <description>Stephan is an Enterprise Architect who works for the open knowledge GmbH. He has worked as an architect, product owner, project manager and coach in numerous enterprise projects for more than a decade. His main interests are architectures, new technologies and clean code.
+ Ligthning Talk: Serverless by example - Fotoboxes and other use cases   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/stephan-stapel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/stephan-stapel/</guid>
+      <description>Stephan is head of engineering for customer solutions at Hermes Germany. Stephan changed the ways of working in his department and transformed his team to an agile-based devops team who continuously focus on delivering value to their customers. Stephan has a technology background, having worked as a developer and architect before. He speaks at various regional events such as the Java User Group in Hamburg.
+ Conference Talk: Consumer-based contract testing   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/tilman-frosch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/tilman-frosch/</guid>
+      <description>Tilman is managing director of G DATA Advanced Analytics, the security service branch of GDATA. He holds a PhD in IT Security from Ruhr Universität Bochum that he earned by breaking and building a few novel things in contexts like web browsers, botnet analysis, cryptographic protocols, and e-mobility charging infrastructure. Tilman has published numerous scientific papers at top-tier conferences, such as ACM CCS and RAID, and has also served as external reviewer for various conferences, such as IEEE Symposium on Security and Privacy, ACM CCS, and RAID.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/tobias-bradtke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/tobias-bradtke/</guid>
+      <description>Tobias Bradtke has experience with Linux and open-source software for more than twenty years and he started playing with Docker with the very first release. Obviously, Kubernetes is currently his favorite topic, earlier on that list were among others Python, Elasticsearch, NoSQL databases, Neo4j, Javascript, Ruby and different web frameworks. In his spare time he is voluntary committed to work on Open Data projects within the local community. At Giant Swarm he takes care of customer happiness as a Solution Engineer.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/2019/speakers/viktor-farcic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/speakers/viktor-farcic/</guid>
+      <description>Viktor Farcic is a Principal Consultant at CloudBees, a member of the Docker Captains group, and published author. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, Java, Scala, etc. He never worked with Fortran. His current favorite is Go.
+His big passions are DevOps, Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD).</description>
+    </item>
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>/2019/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/openspace/container-open-space/</guid>
+      <description>WHAT IS AN OPEN SPACE? What do you need to bring with you for the conference? -&amp;gt; Only you, good ideas and curiosity! :-)
+Where can I find more information about the open space? Here you can find definitions, videos and more information about the format open space : * https://de.wikipedia.org/wiki/Open_Space * http://www.agonda.de/open-space/open-space.html * https://www.youtube.com/watch?v=eZD0PtnN1vQ
+An Open Space is a simple and productive way for hosting knowledge events. Participants and experts will create and manage together their own agenda of parallel working sessions.</description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>/2019/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/feedback/</guid>
+      <description>In order to provide you with the best workshops and conference possible, we need your feedback.
+Thanks a lot for your support in advance, it only takes 3 minutes :)
+Link for mobile
+Wird geladen... </description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>/2019/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/contact/</guid>
+      <description>Contact Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)
+If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!
+e-mail: info@devops-gathering.io phone: +49 (0)176 34402658
+Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts.</description>
+    </item>
+    
+    <item>
+      <title>Sponsors</title>
+      <link>/2019/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/sponsors/</guid>
+      <description>The Conference Crew would like to take the time to thank all of our awesome sponsors whose sponsorship helped and supported the last two DevOps Gathering conferences.
+We are now preparing the third edition of the DevOps Gathering. As a community conference with a low entrance fee, we depend on sponsors for making this event possible.
+We would be happy and grateful to have YOU as a supporter of this great community!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openspaces on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</title>
+    <link>/2019/openspace/</link>
+    <description>Recent content in Openspaces on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/2019/openspace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Container Open Space</title>
+      <link>/2019/openspace/container-open-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/openspace/container-open-space/</guid>
+      <description>WHAT IS AN OPEN SPACE? What do you need to bring with you for the conference? -&amp;gt; Only you, good ideas and curiosity! :-)
+Where can I find more information about the open space? Here you can find definitions, videos and more information about the format open space : * https://de.wikipedia.org/wiki/Open_Space * http://www.agonda.de/open-space/open-space.html * https://www.youtube.com/watch?v=eZD0PtnN1vQ
+An Open Space is a simple and productive way for hosting knowledge events. Participants and experts will create and manage together their own agenda of parallel working sessions.</description>
+    </item>
+    
+  </channel>
+</rss>

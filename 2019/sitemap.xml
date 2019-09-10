@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/2019/workshops/workshop-container-security/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/devops-it-is-all-about-the-experiments/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-kubernetes-on-amazon-eks/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-kubernetes-101/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/what-the-heck-is-software-craftsmanship/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/kubernetes-for-non-coders/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-why-persistence-is-hard/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-docker-container-on-windows/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/helm-build-fashionable-container-systems-with-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/jenkins-pipelines-in-continuous-action/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-making-resilient-self-adaptive-and-autonomous-kubernetes-clusters/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/lets-talk-windows-containers-on-server-2019/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-container-as-a-service-at-the-azure-cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/go-as-a-tooling-language-for-the-cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-kubernetes-advanced/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/more-containers-for-model-railways/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/workshop-new-work-academy-agile-working-an-interactive-introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/lightning-talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/sre-devops-google-and-you/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/c4-continuous-culture-change-challenges/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/consumer-based-contract-testing/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/traefik-as-an-ingress-controller-for-kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/ensuring-kubernetes-cost-efficiency-across-many-clusters/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/kubernetes-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/delivering-cloud-native-apps-with-kubernetes-on-azure/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/devops-stories-on-adopting-the-mindset/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/student-ticket-sponsoring/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/workshop-requirements/</loc>
+    <lastmod>2017-11-29T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/media-and-photos/</loc>
+    <lastmod>2017-08-01T09:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/accommodations/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/after-conference/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/code-of-conduct/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/general-terms-and-conditions/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/sponsoring/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/tickets/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/privacy-policy/</loc>
+    <lastmod>2017-01-12T12:28:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/imprint/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/venue/</loc>
+    <lastmod>2016-12-04T19:26:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/imprint-de/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/alexander-ortner/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/benjamin-godbersen/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/benjamin-nothdurft/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/bill-mulligan/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/bjoern-rabenstein/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/burkhard-noltensmeier/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/busra-koken/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/carsten-langerbein/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/christoph-kassen/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/dennis-zielke/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/dirk-weil/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/henning-jacobs/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/henriette-wienges/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/jannis-schaefer/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/konstantin-diener/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/manuel-zapf/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/mario-kleinsasser/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/niclas-mietz/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/oliver-milke/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/peter-rossbach/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/rachid-zarouali/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/rainer-stropek/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/roland-huss/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/sandra-parsick/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/schlomo-schapiro/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/stefan-scherer/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/stephan-mueller/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/stephan-stapel/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/tilman-frosch/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/tobias-bradtke/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/viktor-farcic/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/openspace/container-open-space/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/feedback/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/openspace/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/speakers/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/talks/</loc>
+  </url>
+  
+  <url>
+    <loc>/2019/workshops/</loc>
+  </url>
+  
+</urlset>

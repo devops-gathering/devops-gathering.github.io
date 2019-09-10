@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</title>
+    <title>Devops Gathering 2020 | March 09 - 11, 2020 in Bochum</title>
     <link>https://devops-gathering.io/</link>
-    <description>Recent content on Devops Gathering 2019 | March 11 - 13, 2019 in Bochum</description>
+    <description>Recent content on Devops Gathering 2020 | March 09 - 11, 2020 in Bochum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 09:28:54 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://devops-gathering.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -268,14 +268,76 @@ In this talk, I am going to share my journey. You will see the representation of
     </item>
     
     <item>
+      <title>Oh, excuse me - there was an error in newsletter sign up</title>
+      <link>https://devops-gathering.io/newsletter-subscription-error/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-subscription-error/</guid>
+      <description>Please try again or contact us at marketing@communicode.de</description>
+    </item>
+    
+    <item>
+      <title>Please confirm your registration</title>
+      <link>https://devops-gathering.io/newsletter-subscription/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-subscription/</guid>
+      <description>Thank you for subscribing to our DevOps Gathering Newsletter - your registration is almost complete.
+In order to prevent misuse, we have just sent you a confirmation link at your specified e-mail address.
+Please confirm the receipt of our newsletter with the verification link.
+By entering your e-mail address, clicking on the &amp;ldquo;subscribe to newsletter&amp;rdquo; button and subsequent confirmation of the verification link, you agree that communicode AG will provide you with information about the DevOps Gathering to your given e-mail address.</description>
+    </item>
+    
+    <item>
+      <title>Timeout for the confirmation of the newsletter</title>
+      <link>https://devops-gathering.io/newsletter-subscription-timeout/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-subscription-timeout/</guid>
+      <description>We are sorry. There was a timeout during your newsletter registration.
+For privacy and security reasons, newsletter applications must be verified within 30 days.
+You will need to subscribe to the DevOps Gathering Newsletter and confirm to receive it again.</description>
+    </item>
+    
+    <item>
+      <title>You have successfully unsubscribed from the newsletter.</title>
+      <link>https://devops-gathering.io/newsletter-optout-success/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-optout-success/</guid>
+      <description>Too bad that you no longer wish to receive our information DevOps Gathering.
+We hope to see you soon anyway.</description>
+    </item>
+    
+    <item>
+      <title>Your e-mail address already exists</title>
+      <link>https://devops-gathering.io/newsletter-double-confirmation/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-double-confirmation/</guid>
+      <description>We appreciate your interest, but apparently you have already registered for our newsletter.</description>
+    </item>
+    
+    <item>
+      <title>Your newsletter registration is complete</title>
+      <link>https://devops-gathering.io/newsletter-subscription-thankyou/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/newsletter-subscription-thankyou/</guid>
+      <description>Thank you for signing up for our newsletter.
+You can unsubscribe from this mailing list at any time using the unsubscribe link within the newsletter.</description>
+    </item>
+    
+    <item>
       <title>Student Ticket Sponsoring</title>
       <link>https://devops-gathering.io/student-ticket-sponsoring/</link>
       <pubDate>Wed, 29 Nov 2017 09:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/student-ticket-sponsoring/</guid>
       <description>Dear DevOps-Friends and students!
-We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2019 :-)
-You have the chance to get one sponsored ticket for the conference days! Want to win one ticket? Then please fill out the following application form and afterwards send us your student-ID to info@devops-gathering.io
+We are happy to have the opportunity to sponsor your attendance for the next DevOps Gathering 2020 :-)
+You have the chance to get one sponsored ticket for the conference days!
+Want to win one ticket? Then please fill out the following application form and afterwards send us your student-ID to info@devops-gathering.io
 Click here to fill in the application
 We will announce the Winners on the 11th of February, the 42nd day of the year!</description>
     </item>
@@ -344,11 +406,11 @@ Need Help? We have a dedicated team that takes care of your safety. If you exper
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/general-terms-and-conditions/</guid>
-      <description>By signing up for a bee42 solutions GmbH conference and workshop, the following terms and conditions will be agreed upon.
+      <description>By signing up for a communicode AG conference and workshop, the following terms and conditions will be agreed upon.
 Please read these conditions carefully!
 SCOPE OF APPLICATION The organizer of the conference and workshops is
-bee42 solutions GmbH, Am Josephsschacht 72 D-44879 Bochum, Germany (further on in this document: bee42).
-For the participation in a bee42 workshop or conference, the following “general conditions for bee42 conferences and workshops” apply, which govern the contractual basis between bee42 and a participant.</description>
+communicode AG (further on in this document: communicode).
+For the participation in a communicode workshop or conference, the following “general conditions for communicode conferences and workshops” apply, which govern the contractual basis between communicode and a participant.</description>
     </item>
     
     <item>
@@ -358,7 +420,7 @@ For the participation in a bee42 workshop or conference, the following “genera
       
       <guid>https://devops-gathering.io/sponsoring/</guid>
       <description>Sponsoring DevOps Gathering We are hosting a self organized and non-profit conference providing a platform for the DevOps Community and the DevOps revolution. We like to bring you all together: students, developers, CTOs and experts to discuss the hot topics Docker, Kubernetes, Microservices, Clouds and everything else regarding DevOps. Let&amp;rsquo;s share the best practices, the know-how and learn from those who know best!
-After this year‘s successful and sold out community conference, we are now preparing the third round of the DevOps Gathering 2019.</description>
+After this year‘s successful and sold out community conference, we are now preparing the fourth round of the DevOps Gathering 2020.</description>
     </item>
     
     <item>
@@ -368,8 +430,8 @@ After this year‘s successful and sold out community conference, we are now pre
       
       <guid>https://devops-gathering.io/tickets/</guid>
       <description>Price Categories &amp;amp; Information All conference and workshop tickets include food, drinks, great talks and Wi-Fi.
-The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the conference days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.
-   Tickets (all prices excl. VAT) Early Bird (till February 7th) Standard     3 Day Ticket (Workshops &amp;amp; Conference) 499 € 549 €   2 Day Ticket (Conference) 299 € 349 €   1 Day Ticket (Pre-Conference Workshops) 349 € 399 €   Student 3 Day Ticket (Workshops &amp;amp; Conference) 129 € 149 €   Student 2 Day Ticket (Conference) 59 € 79 €   Student 1 Day Ticket (Pre-Conference Workshops) 79 € 99 €    Students must present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets.</description>
+The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the Conference Days and the evening reception. The 3 Day Ticket includes everything: The pre-conference workshops, the Conference Days and also the evening event.
+   Tickets (all prices excl. VAT) Early Bird (till February 7th) Standard     3 Day Ticket (Workshops &amp;amp; Conference) 499 € 549 €   2 Day Ticket (Conference) 299 € 349 €   1 Day Ticket (Pre-Conference Workshops) 349 € 399 €   Student 3 Day Ticket (Workshops &amp;amp; Conference) 129 € 149 €   Student 2 Day Ticket (Conference) 59 € 79 €   Student 1 Day Ticket (Pre-Conference Workshops) 79 € 99 €    Students have to present a valid student picture ID and proof of full-time attendance at an accredited university to register for the student tickets.</description>
     </item>
     
     <item>
@@ -378,7 +440,8 @@ The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the confer
       <pubDate>Thu, 12 Jan 2017 12:28:54 +0100</pubDate>
       
       <guid>https://devops-gathering.io/privacy-policy/</guid>
-      <description>Data Privacy Policy Our website may be used without entering personal information. Different rules may apply to certain services on our site, however, and are explained separately below. We collect personal information from you (e.g. name, address, email address, telephone number, etc.) in accordance with the provisions of German data protection statutes. Information is considered personal if it can be associated exclusively to a specific natural person. The legal framework for data protection may be found in the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).</description>
+      <description>Data Privacy Policy This page is operated by communicode AG.
+Data protection is of a particularly high priority for the management of the communicode AG. The use of the Internet pages of the communicode AG is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.</description>
     </item>
     
     <item>
@@ -388,17 +451,18 @@ The 1 Day Ticket includes the Workshop Day. The 2 Day Ticket includes the confer
       
       <guid>https://devops-gathering.io/imprint/</guid>
       <description>Legal information that is necessary for a German site  Information required under § 5 Para. 1 of the German Telemedia Act:
-bee42 solutions gmbh Am Josephsschacht 72
-D-44879 Bochum
+communicode AG Rellinghauser Straße 332
+45136 Essen/NRW
 Germany
-Email: mailto:info@bee42.com
-Phone +49(0)157-72 54 92 63
-Geschäftsführer: Peter Rossbach, Georg Jürgens
-Responsible for the content according to § 55 Abs. 2 RStV: bee42 solutions gmbh Am Josephsschacht 72
-D-44879 Bochum
-Germany
-Geschäftsführer: Peter Rossbach, Georg Jürgens
-VAT-ID according to §27 a Umsatzsteuergesetz: DE284932374</description>
+Phone: +49 201 84188 188
+Fax: +49 201 84188 199
+Email: info@communicode.de
+Office: Essen
+Amtsgericht Essen, HRB 24420
+USt-IdNr. DE-28730918
+Represented by the board:
+Stefan Belmann (CEO), Armin Peiker
+Supervisory board: Dr. Jochen Melchior (Chairman), Dr.-Ing. Fritz C. Schmidt, Volker Scholz</description>
     </item>
     
     <item>
@@ -761,10 +825,10 @@ Wird geladen... </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/contact/</guid>
-      <description>Contact Before contacting us, please make sure that you take a moment to look through the event pages as answers to a lot of questions are readily available. :-)
-If you can&amp;rsquo;t find your answer, please don&amp;rsquo;t hesitate to contact us. Thank you!
-e-mail: info@devops-gathering.io phone: +49 (0)176 34402658
-Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts.</description>
+      <description>Contact If you have any further questions, please don&amp;rsquo;t hesitate to contact us. Thank you!
+e-mail: info@devops-gathering.io phone: +49 151 16147053
+Let&amp;rsquo;s keep in touch Be the first to know about our events! Get updates on schedule announcements, speakers, specials and registration discounts. Subscribe and join the DevOps Gathering community:
+  function onSubmit(token) { document.getElementById(&#34;displayform&#34;).submit(); }  E-mail address *  Tracking agreement according to GDPR. We use your data exclusively for the personalization of the newsletter.</description>
     </item>
     
     <item>
