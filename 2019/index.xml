@@ -224,7 +224,9 @@ We will demonstrate how we cope with these dependencies using consumer-based con
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/2019/talks/traefik-as-an-ingress-controller-for-kubernetes/</guid>
-      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!</description>
+      <description>Kubernetes is the leading container orchestrator so far. But how to effectively manage the inbound traffic to your microservice applications? For that reason we are going to introduce Traefik as your Kubernetes Ingress Controller. This talk is going to give you an overview about how Traefik works internally and will highlight it&amp;rsquo;s key features such as: Easy deployment, Auto Discovery, Let&amp;rsquo;s Encrypt and more!
+
+  </description>
     </item>
     
     <item>
