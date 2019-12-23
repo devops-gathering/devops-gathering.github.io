@@ -12,54 +12,6 @@
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/alexander-ortner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/alexander-ortner/</guid>
-      <description>Alexander O. Ortner is the team leader of a software development team within the IT department of the STRABAG BRVZ construction company. Before joining the STRABAG SE he obtained a DI from the Department of Applied Informatics, Klagenfurt in 2011 and another DI from der Department of Mathematics, Klagenfurt in 2008. He is a software engineer since more than 10 years and beside the daily business mainly responsible for introducing new secure cloud ready application architecture technologies.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/benjamin-godbersen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/benjamin-godbersen/</guid>
-      <description>Trying out new terrain and creating something new - that&amp;rsquo;s my passion. After studying International Management with Engineering, I quickly left behind classic IT project management in an international corporation and learned how it feels to work in small, self-organized teams on what really matters.
-Meanwhile, for over 8 years, I have been assisting teams to iteratively and adaptively develop their way of working, and to produce more and more the products and results that have an impact on the market and improve the lives of customers.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/benjamin-nothdurft/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/benjamin-nothdurft/</guid>
-      <description>Benjamin Nothdurft works as technical lead for cloud technologies at codecentric AG, speaks regularly at conferences and gives lectures at several universities. He focuses on the Java and Container ecosystems as well as pushing Software Craftsmanship and Agile Practices &amp;amp; Organizations to the next level. As passionate software crafter he also organized over 40 IT events in the past years. He founded the Softwerkskammer Jena, Java User Group Thüringen and Devoxx4Kids Thüringen.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/bill-mulligan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/bill-mulligan/</guid>
-      <description>On his first day of work at his previous startup, Bill was told to set up a Kubernetes cluster without knowing how to find the command line or even how to pronounce K8s. Many blog posts, youtube videos, and errors later, Bill has successfully been able to explain Kubernetes to even his grandmother. He currently works at Loodse to help anyone, anywhere have a Kubernetes cluster in one click.
- Conference Talk: Kubernetes for Non-Coders  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/bjoern-rabenstein/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/bjoern-rabenstein/</guid>
-      <description>Björn Rabenstein is a Production Engineer at SoundCloud and a Prometheus developer. Previously, Björn was a Site Reliability Engineer at Google and a number cruncher for science.
- Conference Talk: SRE, DevOps, Google and You  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://devops-gathering.io/speakers/burkhard-noltensmeier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -69,79 +21,41 @@ Meanwhile, for over 8 years, I have been assisting teams to iteratively and adap
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/busra-koken/</link>
+      <link>https://devops-gathering.io/speakers/christian-wansart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/busra-koken/</guid>
-      <description>Busra is an enthusiastic Sofware Engineer at trivago in the team called Cloud Operations where she is in the heart of DevOps and SRE. Before that, she worked at Ericsson as a Cloud System Developer.
-Touches technologies like Ansible, Saltstack, Docker, Google Cloud and Jenkins. Has special love for Python. She loves automating things, solving problems and learning every day. There are a couple of international conferences where she gave talks.</description>
+      <guid>https://devops-gathering.io/speakers/christian-wansart/</guid>
+      <description>Christian Wansart is an Enterprise Developer who works for the open knowledge GmbH. He is a fullstack developer working in backend, frontend and DevOps areas. He uses container technology for years and works with test frameworks to develop stable software with high quality.
+ Conference Talk: The Software Factory - Why technology is not enough Halfday-Workshop: Testing with Containers  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/carsten-langerbein/</link>
+      <link>https://devops-gathering.io/speakers/eyal-liebermann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/carsten-langerbein/</guid>
-      <description>Carsten is a Sr Systems Engineer by F5 Networks with a strong attitude towards Security and Automation for Cloud infrastructures. He is working in the network and security space since over 16 years with a solid understanding of automation concepts like IaC or cloud computing.
-A key focus of him is lying on application security in modern app landscapes. He lives with his family in the beautiful Ruhrpott.
- Ligthning Talk: Agile App Development needs agile App Security   </description>
+      <guid>https://devops-gathering.io/speakers/eyal-liebermann/</guid>
+      <description> Conference Talk: A cloud architect perspective on transitioning from legacy systems into a cloud native world  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/christoph-kassen/</link>
+      <link>https://devops-gathering.io/speakers/halil-cem-gursoy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/christoph-kassen/</guid>
-      <description>Christoph is a Sr. Solutions Architect at AWS in Germany. Before joining AWS he worked in different startups as well as enterprises. Now he guides startups to build effective, scalable and reliable software architectures with AWS services. His focus areas are Containers, Kubernetes, Microservices and Observability.
- Conference Talk: Consumer based contract testing  </description>
+      <guid>https://devops-gathering.io/speakers/halil-cem-gursoy/</guid>
+      <description>Halil is a Senior Solution Architect at OPITZ CONSULTING and is already active as Software Developer and Architect since over 20 years. His focus is on large distributed enterprise systems, mostly written in Java, but has wrote more productive infrastructure code in Go, Python or Ruby as classic enterprise Java stuff in the last years.
+ Conference Talk: &amp;ldquo;Serverless&amp;rdquo; and &amp;ldquo;Functions as a Service&amp;rdquo; with OpenFaaS  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/dennis-zielke/</link>
+      <link>https://devops-gathering.io/speakers/kevin-wittek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/dennis-zielke/</guid>
-      <description>Dennis Zielke is part of the Global Blackbelt team at Microsoft and specializing in the development of modern, scalable and distributed applications. He is working as an software architect with enterprise customers and partners to design, build and deploy custom applications based on open source technology stacks.
- Conference Talk: Delivering cloud native apps with Kubernetes on Azure  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/dirk-weil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/dirk-weil/</guid>
-      <description>Dirk Weil has been working as a Java consultant since 1998. As Managing Director of GEDOPLAN GmbH, he is responsible for the conception and realization of Java based information systems. With many years of experience in developing sophisticated business solutions he and his team are competent partners and recognized experts for Java and JEE. He is a book author, writes articles for magazines and speaks at conferences and user groups. He works as trainer for GEDOPLAN IT Training holding various Java and JEE seminars and workshops.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/henning-jacobs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/henning-jacobs/</guid>
-      <description>Henning joined Zalando in the beginning of 2010 and accompanied the transformation of Zalando’s technology department through the eras of PHP/MySQL and Java/PostgreSQL to the new world of “Radical Agility”. He helped building the AWS/STUPS cloud infrastructure to make innovation scale across autonomous teams. Henning is currently responsible for the developer journey at Zalando. His five teams help streamline the developer experience by providing a cloud-native application runtime to 200+ engineering teams.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/henriette-wienges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/henriette-wienges/</guid>
-      <description>The joy of people, an optimistic stance, a believer in the possibility of development for the better both for individuals or organizations, the interest in the new and innovative and openness for diversity, my agility and my sense of responsibility and high intrinsic motivation, that is the quintessence of myself. That is also the origin of my action, my education and my job. It also makes me think about new solutions, about the needs of others and it makes me take responsibility to turn words and ideas into action.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/jannis-schaefer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/jannis-schaefer/</guid>
-      <description>Jannis is a cloud developer at cosee. He works in an cross-functional team developing a brand new ebook reading experience in the cloud. He is a docker campus ambassador at the TU Darmstadt and a task automatization enthusiast. If you know him you wouldn&amp;rsquo;t be surprised that most of the repositories he touches have a complete deployment pipeline before the first code of code is even committed. Every day without touching a management GUI is a good day!</description>
+      <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
+      <description>Testcontainers co-maintainer and Testcontainers-Spock author. Software Craftsman and testing fan. Loves to play the electric guitar and is a musician in his second life. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
+ Conference Talk: Testcontainers - a Year-in-review  </description>
     </item>
     
     <item>
@@ -150,8 +64,8 @@ A key focus of him is lying on application security in modern app landscapes. He
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/konstantin-diener/</guid>
-      <description>Konstantin is CTO at cosee and has been using Scrum, Kanban &amp;amp; Co for almost ten years. He writes and speaks about topics like Management 3.0, agile leadership and DevOps.
- Conference Talk: DevOps - It’s all about the experiments  </description>
+      <description>Konstantin Diener is CTO at cosee. He has been developing software for more than 15 years. His CTO role made him shift his focus to (agile) leadership topics and how to create a productive environment for self-organised engineering teams. Konstantin speaks at conferences and is author of „DevOps Stories“, a column about culture, leadership, agile and DevOps.
+ Conference Talk: The first decade of DevOps is over!   </description>
     </item>
     
     <item>
@@ -161,7 +75,7 @@ A key focus of him is lying on application security in modern app landscapes. He
       
       <guid>https://devops-gathering.io/speakers/manuel-zapf/</guid>
       <description>Software Engineer, Maintainer of traefik.io. His special interest is in deploying applications scalable by using cloud and container technologies. Language-wise, his favorites are go, nodejs and java including spring boot.
- Conference Talk: Traefik as an Ingress Controller for Kubernetes  </description>
+ Conference Talk: Routing Your Microservices Architecture to Ease DevOps Enterprise Transformation  </description>
     </item>
     
     <item>
@@ -170,7 +84,17 @@ A key focus of him is lying on application security in modern app landscapes. He
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
-      <description>Mario Kleinsasser is the team leader of a small continuous integration operations team within the IT department of the STRABAG BRVZ construction company. He is a DevOps since more than 15 years and he started to use containers based on OpenVZ back in 2006. Due to the transition, migration and integration of cloud native technologies, he transforms theoretical concepts into working durable on premise solutions. Mario was a speaker at the DevOps Gathering 2018 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
+      <description>Mario Kleinsasser is the team leader of a small cloud solution operations team within the IT department of the STRABAG SE construction company. Since more than 15 years he&amp;rsquo;s surfing the wave of change with passion. Mario was a speaker at the DevOps Gathering 2018 and 2019 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/matthias-wessendorf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/matthias-wessendorf/</guid>
+      <description>Matthias Wessendorf works on the Messaging team at Red Hat, focusing on event-driven architectures, data-streaming and serverless workloads. He is an active contributor to the Knative project. Matthias is a regular speaker at international conferences and is a long standing member of the Apache Software Foundation.
+ Conference Talk: Knative Eventing Deep Dive  </description>
     </item>
     
     <item>
@@ -185,11 +109,22 @@ A key focus of him is lying on application security in modern app landscapes. He
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/oliver-milke/</link>
+      <link>https://devops-gathering.io/speakers/nico-meisenzahl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/oliver-milke/</guid>
-      <description>Oliver Milke works as a Software Craftsman at Cloudogu GmbH, where his focus lies on the strategic direction of the Cloudogu EcoSystem. He uses his familiarity with the technical implementation of CES and his more than ten years of experience as a software developer for targeted support and consulting in proof of concept projects with new customers. In his sparetime, Oliver likes to spend his time training in the gym and to play board games with friends.</description>
+      <guid>https://devops-gathering.io/speakers/nico-meisenzahl/</guid>
+      <description>Nico Meisenzahl works as Senior Cloud &amp;amp; DevOps Consultant at white duck. As an elected Docker Community Leader and GitLab Hero, his current passion is for topics around Kubernetes, CI/CD, Automation, DevOps, and Cloud.
+Nico is a frequent speaker at conferences, user group events and Meetups in Europe and the United States.
+ Conference Talk: How Containerized Pipelines Can Boost Your CI/CD  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/oliver-kohl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/oliver-kohl/</guid>
+      <description> Conference Talk: A cloud architect perspective on transitioning from legacy systems into a cloud native world  </description>
     </item>
     
     <item>
@@ -198,17 +133,18 @@ A key focus of him is lying on application security in modern app landscapes. He
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/peter-rossbach/</guid>
-      <description>As founder of the bee42, System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker Influencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the bee42 crew, but also our customers to top performances.
- Conference Talk: Helm - Build fashionable container systems with Kubernetes  </description>
+      <description>As Principal Consultant and Director of Software Development at Communicode AG and also System Architect, DevOps Engineer, Apache Member, Apache Tomcat Committer, Infracoder and Docker Influencer, Peter can rely on a long-lasting and remarkable experience. With his skills he inspires not only the communicode, but also our customers to top performances.
+ Conference Talk: Cloud Native Ecosystem  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/rachid-zarouali/</link>
+      <link>https://devops-gathering.io/speakers/philipp-krenn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/rachid-zarouali/</guid>
-      <description>Docker Captain and Community Leader, Rachid Zarouali is a former virtualization consultant and Instructor. After a successful experience building and training the ops team of the French registry (AFNIC), he’s now C.I.O. of a worldwide recognized CRM and E-COMMERCE agency. Dedicated to offering the most efficient production tools and infrastructure platforms, he works with his team on bringing latest technology at a production level. Involved in different OSS communities, he teaches cloud computing architecture at a software engineering school in his spare time.</description>
+      <guid>https://devops-gathering.io/speakers/philipp-krenn/</guid>
+      <description>Philipp lives to demo interesting technology. Having worked as a web, infrastructure, and database engineer for over ten years, Philipp is now working as a developer advocate at Elastic — the company behind the Elastic Stack consisting of Elasticsearch, Kibana, Beats, and Logstash.
+ Conference Talk: From Containers to Kubernetes Operators  </description>
     </item>
     
     <item>
@@ -226,38 +162,7 @@ A key focus of him is lying on application security in modern app landscapes. He
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
-      <description>Dr. Roland Huss is a Principal Software Engineer at Red Hat and tech-lead for Red Hat Fuse Online, an open source hybrid integration platform running on OpenShift. He has been developing mostly in Java for over twenty years now but never forgot his roots as a system administrator.
-Roland is an active open source contributor, developer of the JMX-HTTP bridge Jolokia and the popular fabric8 Maven plugins for Docker, Kubernetes and OpenShift.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/sandra-parsick/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/sandra-parsick/</guid>
-      <description>Sandra Parsick works as freelance software developer and consultant in the Java environment. Since 2008 she occupies herself with agile software development in various roles. Her main focuses are on Java enterprise applications, Agile Methods, Software Craftmanship and on the automation of the software development processes. She likes to talk on conferences and writes articles about it. She is in the organisation team of Softwerkskammer Ruhrgebiet.
- Conference Talk: Let&amp;rsquo;s hand over a code kata to the aspiring developer - What the heck is Software Craftsmanship?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/schlomo-schapiro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/schlomo-schapiro/</guid>
-      <description>Schlomo is an Agile IT and Open Source enthusiast dedicated to advancing an agile mindset and a DevOps-orientated culture in IT. He works as Chief Architect Cloud at DB Systel in Berlin, is author of several Open Source projects, and regularly publishes blog and magazine articles.
- Ligthning Talk: The DevOps Driving School - Elevator Pitch  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/stefan-scherer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/stefan-scherer/</guid>
-      <description>Stefan is a Sr. Software Engineer at Docker working in the tools and release engineering team. He is an early adopter of Docker on Windows, giving feedback and sharing his experience as a Microsoft MVP. He is a maintainer of several Docker related Chocolatey packages. He also is member of the Hypriot team that gives the community a very easy experience for Docker on ARM devices.
- Conference Talk: Let&amp;rsquo;s talk Windows Containers on Server 2019 Workshop: Workshop Docker Container on Windows  </description>
+      <description>Dr. Roland Huß is a principal software engineer at Red Hat and a member of the serverless team for coding on Knative. He has been developing in Java for over twenty years now. However, he has never forgotten his roots as a system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and some popular Java build tools for creating container images and deploying them on Kubernetes and OpenShift.</description>
     </item>
     
     <item>
@@ -266,46 +171,18 @@ Roland is an active open source contributor, developer of the JMX-HTTP bridge Jo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/stephan-mueller/</guid>
-      <description>Stephan is an Enterprise Architect who works for the open knowledge GmbH. He has worked as an architect, product owner, project manager and coach in numerous enterprise projects for more than a decade. His main interests are architectures, new technologies and clean code.
- Ligthning Talk: Serverless by example - Fotoboxes and other use cases   </description>
+      <description>Stephan Müller is an Enterprise Architect who works for the open knowledge GmbH. He has worked as an architect, product owner, project manager and coach in numerous enterprise projects for more than a decade. His main interests are architectures, new technologies and clean code.
+ Conference Talk: The Software Factory - Why technology is not enough Halfday-Workshop: Testing with Containers  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://devops-gathering.io/speakers/stephan-stapel/</link>
+      <link>https://devops-gathering.io/speakers/thomas-peitz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/speakers/stephan-stapel/</guid>
-      <description>Stephan is head of engineering for customer solutions at Hermes Germany. Stephan changed the ways of working in his department and transformed his team to an agile-based devops team who continuously focus on delivering value to their customers. Stephan has a technology background, having worked as a developer and architect before. He speaks at various regional events such as the Java User Group in Hamburg.
- Conference Talk: Consumer-based contract testing   </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/tilman-frosch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/tilman-frosch/</guid>
-      <description>Tilman is managing director of G DATA Advanced Analytics, the security service branch of GDATA. He holds a PhD in IT Security from Ruhr Universität Bochum that he earned by breaking and building a few novel things in contexts like web browsers, botnet analysis, cryptographic protocols, and e-mobility charging infrastructure. Tilman has published numerous scientific papers at top-tier conferences, such as ACM CCS and RAID, and has also served as external reviewer for various conferences, such as IEEE Symposium on Security and Privacy, ACM CCS, and RAID.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/tobias-bradtke/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/tobias-bradtke/</guid>
-      <description>Tobias Bradtke has experience with Linux and open-source software for more than twenty years and he started playing with Docker with the very first release. Obviously, Kubernetes is currently his favorite topic, earlier on that list were among others Python, Elasticsearch, NoSQL databases, Neo4j, Javascript, Ruby and different web frameworks. In his spare time he is voluntary committed to work on Open Data projects within the local community. At Giant Swarm he takes care of customer happiness as a Solution Engineer.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/viktor-farcic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/viktor-farcic/</guid>
-      <description>Viktor Farcic is a Principal Consultant at CloudBees, a member of the Docker Captains group, and published author. He coded using a plethora of languages starting with Pascal (yes, he is old), Basic (before it got Visual prefix), ASP (before it got .Net suffix), C, C++, Perl, Python, ASP.Net, Visual Basic, C#, JavaScript, Java, Scala, etc. He never worked with Fortran. His current favorite is Go.
-His big passions are DevOps, Microservices, Continuous Integration, Delivery and Deployment (CI/CD) and Test-Driven Development (TDD).</description>
+      <guid>https://devops-gathering.io/speakers/thomas-peitz/</guid>
+      <description>Thomas Peitz is a Site Reliability Engineer at InVision AG in Düsseldorf. He loves talking about DevOps, infrastructure, containers and serverless, which is why he is also running plenty of meetups around those topics.
+ Halfday-Workshop: Going Serverless  </description>
     </item>
     
   </channel>
