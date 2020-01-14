@@ -30,12 +30,24 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>More to come</title>
-      <link>https://devops-gathering.io/workshops/tba/</link>
+      <title>Ansible: Testing with Molecule</title>
+      <link>https://devops-gathering.io/workshops/ansible-testing-with-molecule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/tba/</guid>
-      <description></description>
+      <guid>https://devops-gathering.io/workshops/ansible-testing-with-molecule/</guid>
+      <description>This workshop gives an introduction on test-driven development of ansible roles with molecule ( https://molecule.readthedocs.io/en/stable )
+Molecule provides support for testing with multiple instances, operating systems and distributions, virtualization providers, test frameworks and testing scenarios.
+This workshop is hands-on and is designed for molecule beginner, basic ansible knowledge about playbook and role development is required.
+Small parts will be implemented in Python, but should be understandable to every developer.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Kubernetes Operators</title>
+      <link>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</guid>
+      <description>Operators are a powerful tool to unlock automation and management potential in clusters. In this workshop I will first introduce and explain some core concepts of Kubernetes operators such as the controller pattern, eventual consistency, custom resources and status management in Kubernetes. The next phase in the workshop will be creating and running your first operator using the Kubebuilder SDK (https://github.com/kubernetes-sigs/kubebuilder) and utilizing KIND (https://github.com/kubernetes-sigs/kind) to deploy your operator locally.</description>
     </item>
     
     <item>

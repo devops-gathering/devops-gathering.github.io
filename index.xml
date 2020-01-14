@@ -49,12 +49,15 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>More to come</title>
-      <link>https://devops-gathering.io/workshops/tba/</link>
+      <title>Ansible: Testing with Molecule</title>
+      <link>https://devops-gathering.io/workshops/ansible-testing-with-molecule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/tba/</guid>
-      <description></description>
+      <guid>https://devops-gathering.io/workshops/ansible-testing-with-molecule/</guid>
+      <description>This workshop gives an introduction on test-driven development of ansible roles with molecule ( https://molecule.readthedocs.io/en/stable )
+Molecule provides support for testing with multiple instances, operating systems and distributions, virtualization providers, test frameworks and testing scenarios.
+This workshop is hands-on and is designed for molecule beginner, basic ansible knowledge about playbook and role development is required.
+Small parts will be implemented in Python, but should be understandable to every developer.</description>
     </item>
     
     <item>
@@ -64,6 +67,15 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
       
       <guid>https://devops-gathering.io/talks/from-containers-to-kubernetes-operators/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Kubernetes Operators</title>
+      <link>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</guid>
+      <description>Operators are a powerful tool to unlock automation and management potential in clusters. In this workshop I will first introduce and explain some core concepts of Kubernetes operators such as the controller pattern, eventual consistency, custom resources and status management in Kubernetes. The next phase in the workshop will be creating and running your first operator using the Kubebuilder SDK (https://github.com/kubernetes-sigs/kubebuilder) and utilizing KIND (https://github.com/kubernetes-sigs/kind) to deploy your operator locally.</description>
     </item>
     
     <item>
@@ -166,29 +178,29 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/tba1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/tba2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Testcontainers - a Year-in-review</title>
       <link>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take MicroProfile to the Clouds with Quarkus</title>
+      <link>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-downtime deployment with Kubernetes, Spring Boot and Flyway</title>
+      <link>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</guid>
       <description></description>
     </item>
     
@@ -220,11 +232,11 @@ Prerequisite knowledge  A working knowledge of the Linux command line A basic un
     </item>
     
     <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba4/</link>
+      <title>Tracing: A journey to tactical insight</title>
+      <link>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/tba4/</guid>
+      <guid>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</guid>
       <description></description>
     </item>
     
@@ -471,11 +483,29 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/dirk-weil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/dirk-weil/</guid>
+      <description>Dirk Weil has been working as a Java consultant since 1998. As Managing Director of GEDOPLAN GmbH, he is responsible for the conception and realization of Java based information systems. With many years of experience in developing sophisticated business solutions he and his team are competent partners and recognized experts for Java and JEE. He is a book author, writes articles for magazines and speaks at conferences and user groups. He works as trainer for GEDOPLAN IT Training holding various Java and JEE seminars and workshops.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/eyal-liebermann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/eyal-liebermann/</guid>
       <description> Conference Talk: A cloud architect perspective on transitioning from legacy systems into a cloud native world  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/florian-kuckelkorn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/florian-kuckelkorn/</guid>
+      <description>Since 2017 Florian Kuckelkorn is working as a technical coordinator and controller for Protection Technologies (G DATA CyberDefense AG). His primary focus and interest lies on G DATA&amp;rsquo;s Protection Technologies especially on evaluating, tracking and improving backend business processes. Since early age he is technical fascinated and self taught most his knowledge, he has today. He is actively interested in interdisciplinary areas of work and likes the inspiration of dealing with pioneer topics.</description>
     </item>
     
     <item>
@@ -495,7 +525,7 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
       
       <guid>https://devops-gathering.io/speakers/kevin-wittek/</guid>
       <description>Testcontainers co-maintainer and Testcontainers-Spock author. Software Craftsman and testing fan. Loves to play the electric guitar and is a musician in his second life. Found his own company during his university years, developing mobile apps and client-server applications, which lead to his discovery of Grails and the Groovy ecosystem. Fell in love with TDD because of Spock.
- Conference Talk: Testcontainers - a Year-in-review  </description>
+After many years working in the industry as an engineer, Kevin is now doing his PhD at RWTH Aachen on the topic of verification of Smart Contracts and is leading the Blockchain Research Lab at the Institute for Internet Security in Gelsenkirchen at the Westphalian University of Applied Sciences.</description>
     </item>
     
     <item>
@@ -510,12 +540,32 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/maggie-otoole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/maggie-otoole/</guid>
+      <description>Maggie O’Toole is a Solutions Architect for AWS in Germany, and has been with AWS since 2017. She enjoys helping customers improve their business and IT solutions with the AWS Cloud, and specializes in Containers.
+ Halfday-Workshop: Amazon EKS Workshop  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/manuel-zapf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/manuel-zapf/</guid>
-      <description>Software Engineer, Maintainer of traefik.io. His special interest is in deploying applications scalable by using cloud and container technologies. Language-wise, his favorites are go, nodejs and java including spring boot.
+      <description>Traefik&amp;rsquo;s Solution Architect at Containous. His special interest is in deploying applications scalable by using cloud and container technologies. Gopher lover.
  Conference Talk: Routing Your Microservices Architecture to Ease DevOps Enterprise Transformation  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/marcel-mueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/marcel-mueller/</guid>
+      <description>Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
+ Halfday Workshop: Introduction to Kubernetes Operators  </description>
     </item>
     
     <item>
@@ -525,6 +575,27 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
       
       <guid>https://devops-gathering.io/speakers/mario-kleinsasser/</guid>
       <description>Mario Kleinsasser is the team leader of a small cloud solution operations team within the IT department of the STRABAG SE construction company. Since more than 15 years he&amp;rsquo;s surfing the wave of change with passion. Mario was a speaker at the DevOps Gathering 2018 and 2019 in Bochum Germany, he is the organizer of the Docker South Austria Meetup and he also contributes code for various Open Source projects, like CoreDNS and others.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/martin-valdes-de-leon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/martin-valdes-de-leon/</guid>
+      <description>Originally from Argentina, Martin is a Senio Solution Architect with AWS. Prior to joining AWS he worked in various development and architecture roles, specializing in Microservices, Containers and Kubernetes. He now helps enterprise customers expand their businesses with the AWS cloud.
+ Halfday-Workshop: Amazon EKS Workshop  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/matthias-simonis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/matthias-simonis/</guid>
+      <description>Matthias Simonis works at G DATA since 2016 with a primary focus on the automation of everything. This starts with the setup of infrastructure and ends with the development and deployment of services for automated data processing.
+Matthias Simonis is a self taught tech enthusiast that embraces new and old technology to get stuff done.
+ Halfday Workshop: Ansible - Testing with Molecule  </description>
     </item>
     
     <item>
@@ -556,6 +627,15 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
       <description>Nico Meisenzahl works as Senior Cloud &amp;amp; DevOps Consultant at white duck. As an elected Docker Community Leader and GitLab Hero, his current passion is for topics around Kubernetes, CI/CD, Automation, DevOps, and Cloud.
 Nico is a frequent speaker at conferences, user group events and Meetups in Europe and the United States.
  Conference Talk: How Containerized Pipelines Can Boost Your CI/CD  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/nicolas-fraenkel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/nicolas-fraenkel/</guid>
+      <description>Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Currently working for Hazelcast. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.</description>
     </item>
     
     <item>

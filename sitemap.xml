@@ -19,11 +19,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/workshops/tba/</loc>
+    <loc>https://devops-gathering.io/workshops/ansible-testing-with-molecule/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/from-containers-to-kubernetes-operators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</loc>
   </url>
   
   <url>
@@ -71,15 +75,15 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/tba1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/tba2/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</loc>
   </url>
   
   <url>
@@ -95,7 +99,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/tba4/</loc>
+    <loc>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</loc>
   </url>
   
   <url>
@@ -196,7 +200,15 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/dirk-weil/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/eyal-liebermann/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/florian-kuckelkorn/</loc>
   </url>
   
   <url>
@@ -212,11 +224,27 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/maggie-otoole/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/manuel-zapf/</loc>
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/marcel-mueller/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/mario-kleinsasser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/martin-valdes-de-leon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/matthias-simonis/</loc>
   </url>
   
   <url>
@@ -229,6 +257,10 @@
   
   <url>
     <loc>https://devops-gathering.io/speakers/nico-meisenzahl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/nicolas-fraenkel/</loc>
   </url>
   
   <url>

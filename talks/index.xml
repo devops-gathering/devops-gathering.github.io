@@ -101,29 +101,29 @@
     </item>
     
     <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/tba1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/talks/tba2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Testcontainers - a Year-in-review</title>
       <link>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Take MicroProfile to the Clouds with Quarkus</title>
+      <link>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-downtime deployment with Kubernetes, Spring Boot and Flyway</title>
+      <link>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</guid>
       <description></description>
     </item>
     
@@ -155,11 +155,11 @@
     </item>
     
     <item>
-      <title>TBA</title>
-      <link>https://devops-gathering.io/talks/tba4/</link>
+      <title>Tracing: A journey to tactical insight</title>
+      <link>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/tba4/</guid>
+      <guid>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</guid>
       <description></description>
     </item>
     
