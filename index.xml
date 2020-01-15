@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/the-first-decade-of-devops-is-over/</guid>
-      <description></description>
+      <description>The DevOps movement started 2009 at a small conference in Ghent. I’ll take you on a journey through ten years of DevOps and try to show how the topic has evolved since that time. In the beginning DevOps was an experiment to improve the collaboration just between Dev and Ops people. Today DevOps is often seen as tooling, as many tremendous changes in IT happened since then: the rise of container technology, Microservices, Public Cloud Services, Serverless and Infrastructure as Code - just to name a few of them.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/cloud-native-ecosystem-101/</guid>
-      <description></description>
+      <description>Cloud native computing allows teams to build and manage services using container architectures and stringing them together into applications, without worrying about servers at all. The ecosystem is growing fast and a lot of changes are ahead. The combination of cloud services and kubernetes as a platform are the way to go. This talk give you technical overview of currently available cloud native ecosystem and future of container based systems.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/from-containers-to-kubernetes-operators/</guid>
-      <description></description>
+      <description>&amp;ldquo;Containers are the new ZIP format to distribute software&amp;rdquo; is a fitting description of today&amp;rsquo;s development world. However, it is not always that easy and this talk highlights the development of Elastic&amp;rsquo;s container strategy over time: Docker images, Docker Compose, Helm Charts, and a Kubernetes Operator.</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</guid>
-      <description></description>
+      <description>In a world of containerized microservices, where developers focus on building and exposing applications to end users as fast as possible, adapting the enterprise to this new pace of change poses significant challenges. Routing requests to your microservices, either coming from end users or other microservices, is one of them. It’s never been easier to have Canary routing, so you can “verify” that a new features of your application works in production by testing it on a small subset of users.</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/onboarding-with-git-ops/</guid>
-      <description></description>
+      <description>In 2019 our container count raised by more than 1000 containers and together with the development department we are running more than 45.000 CI/CD jobs with GitLab on-premises per month now. During this hot time of growth one colleague quit his job and we have to find and onboard a new young colleague. With all hands on deck, we managed it surprising easily not only to onboard the new colleague within a couple of weeks, we onboard a developer to our team in parallel too!</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</guid>
-      <description></description>
+      <description>Ten years ago, Azure started with a strong focus on PaaS. No wonder that Serverless has also become super important in Microsoft’s cloud recently. Rainer Stropek has been using Azure since the days of the first technical previews. In this session, Rainer will introduce you to Azure Functions, one of the Serverless offerings in Azure. Instead of speaking about theory, Rainer will walk you through an end-to-end sample and use it to describe the inner workings of Azure Function’s programming model.</description>
     </item>
     
     <item>
@@ -129,7 +129,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/serverless-workloads-with-knative/</guid>
-      <description></description>
+      <description>Knative is a Kubernetes-based platform that comes with a set of building blocks to deploy and manage modern serverless workloads. Knative consists of two main components: Serving and Eventing. The session gives you an introduction into the Knative Serving and Eventing components and walks you through several demos with a focus on Knative serving. We will also get to know the brand new CLI client &amp;ldquo;kn&amp;rdquo; which allows interacting with Knative without writing a single line of YAML.</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/knative-eventing-deep-dive/</guid>
-      <description></description>
+      <description>Knative is a Kubernetes-based platform that comes with a set of building blocks to build, deploy, and manage modern serverless workloads. The Eventing component covers the aspect to manage the lifecycle of event-driven applications. This session gives you a deep dive into Knative Eventing and showing various parts, and the integration of Apache Kafka for effcient event delivery. The session is supported by an end-to-end demo, to manifest the learned concepts of Knative Eventing.</description>
     </item>
     
     <item>
@@ -165,7 +165,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/the-software-factory-why-technology-is-not-enough/</guid>
-      <description></description>
+      <description>Continuous Integration, Delivery and Deployment has become to a success factor for agile software companies all over the world. To be able to deliver software multiple times a day and not only once or twice a year had massive impact to their business and a role model for dev and ops teams which began to establish efficient and fast running software assembly lines and flexible production environments. But the even the best technology will not lead to minimal release cycles if the rest of your company is still stuck in old fashioned ways of planing projects, wirting requirements and modelling architectures.</description>
     </item>
     
     <item>
@@ -183,7 +183,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/testcontainers-a-year-in-review/</guid>
-      <description></description>
+      <description>Unit testing is fine, but without proper integration testing, especially if you work with external resources like databases and other services, you might not know how your application will actually behave once it has been deployed to the real production environment. Testcontainers is a popular JVM testing library that provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. In this talk, I will briefly go throught the past, present and the future of the library.</description>
     </item>
     
     <item>
@@ -192,7 +192,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</guid>
-      <description></description>
+      <description>&amp;ldquo;Supersonic Subatomic Java&amp;rdquo; claims Quarkus, the new star at the sky of microservice frameworks. And yes, you are able to build services easily and quickly, which are small, fast and reactive, while still leveraging the JEE programming model. Quarkus is based on MicroProfile containing a subset of Jakarta EE and various extensions for building distributed, cloud-ready (micro) services. Devs will love the convenient developer mode and ops will love the seamless container integration and blazing fast startup in native mode.</description>
     </item>
     
     <item>
@@ -201,7 +201,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</guid>
-      <description></description>
+      <description>Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day. You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process.</description>
     </item>
     
     <item>
@@ -210,7 +210,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/openfaas/</guid>
-      <description></description>
+      <description>&amp;ldquo;Serverless&amp;rdquo; and &amp;ldquo;Functions as a Service&amp;rdquo; are the latest craze, especially in particular the big players like Amazon with AWS Lamda, Google with Google Functions and Microsoft with Azure Functions come around the corner and give their customers, at the first look, easy to use frameworks. But how can you use your own, already existing infrastructure to go &amp;ldquo;serverless&amp;rdquo;? With OpenFaaS a flexible framework exists which you can use to set up your own “Serverless” infrastructure on your existing Docker Swarm or Kubernetes cluster, either on your local development hardware or in your datacenter.</description>
     </item>
     
     <item>
@@ -219,7 +219,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/how-containerized-pipelines-can-boost-your-cicd/</guid>
-      <description></description>
+      <description>Learn how to eliminate any dependencies on your CI/CD build nodes and don’t bother yourself with multiple versions of your toolchain and any corresponding constraints. Walk away with knowledge and best practices that will help you to optimize your builds and deployments with containerized pipelines! Use containerized Gitlab CI/CD pipelines and Kaniko to move your build and deployment workloads into your Kubernetes cluster. Build your apps and infrastructure without any external dependencies and constraints.</description>
     </item>
     
     <item>
@@ -228,7 +228,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/from-legacy-into-cloud-native-world/</guid>
-      <description></description>
+      <description>We often accumulate a set of systems over years of gradual development. Each generation of developers added its contribution to a code base that is beyond rewritable, and in some aspects does not make sense to our end-users. In addition, these systems often embody years of on-premise practices and assumptions, that grew into a culture that eternalizes its inherent flaws. For example the old premise systems rely on replication to mitigate the fact they are no highly available or built for high loads.</description>
     </item>
     
     <item>
@@ -237,7 +237,7 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</guid>
-      <description></description>
+      <description>G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included.</description>
     </item>
     
     <item>
