@@ -47,10 +47,11 @@
 <script src='https://js.tito.io/v1' async></script>
 
 	
-<meta property="og:title" content="Zero-downtime deployment with Kubernetes, Spring Boot and Flyway" />
-<meta property="og:description" content="Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day. You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process." />
+<meta property="og:title" content="Hacking Terraform - Engineer your Migration to IaC" />
+<meta property="og:description" content="Infrastructure as Code (IaC) is considered the predominant approach to manage Cloud Infrastructure at large scale. Terraform is the market-leading tool implementing this approach, including support for all big Clouds Providers. It is extremely convenient to start new projects from scratch and automate your infrastructure right away. But what if you started without? What if you want to manage big amounts of pre-existing Cloud resources with Terraform?
+Terraform&rsquo;s &ldquo;import&rdquo; command is one building block, but using it manually for many resources is very tedious and error-prone." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/" />
+<meta property="og:url" content="https://devops-gathering.io/talks/hacking-terraform/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -80,8 +81,9 @@
 
 
 
-<meta itemprop="name" content="Zero-downtime deployment with Kubernetes, Spring Boot and Flyway">
-<meta itemprop="description" content="Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day. You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process.">
+<meta itemprop="name" content="Hacking Terraform - Engineer your Migration to IaC">
+<meta itemprop="description" content="Infrastructure as Code (IaC) is considered the predominant approach to manage Cloud Infrastructure at large scale. Terraform is the market-leading tool implementing this approach, including support for all big Clouds Providers. It is extremely convenient to start new projects from scratch and automate your infrastructure right away. But what if you started without? What if you want to manage big amounts of pre-existing Cloud resources with Terraform?
+Terraform&rsquo;s &ldquo;import&rdquo; command is one building block, but using it manually for many resources is very tedious and error-prone.">
 
 
 
@@ -90,15 +92,16 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="105">
+<meta itemprop="wordCount" content="175">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Zero-downtime deployment with Kubernetes, Spring Boot and Flyway"/>
-<meta name="twitter:description"  content="Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day. You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process."/>
+<meta name="twitter:title" content="Hacking Terraform - Engineer your Migration to IaC"/>
+<meta name="twitter:description"  content="Infrastructure as Code (IaC) is considered the predominant approach to manage Cloud Infrastructure at large scale. Terraform is the market-leading tool implementing this approach, including support for all big Clouds Providers. It is extremely convenient to start new projects from scratch and automate your infrastructure right away. But what if you started without? What if you want to manage big amounts of pre-existing Cloud resources with Terraform?
+Terraform&rsquo;s &ldquo;import&rdquo; command is one building block, but using it manually for many resources is very tedious and error-prone."/>
 
 
 
@@ -166,8 +169,8 @@
 <header class="single">
     <div class="header-content" id="top">
         <div class="header-content-inner">
-            <p>Nicolas Fränkel  </p>
-            <h1>Zero-downtime deployment with Kubernetes, Spring Boot and Flyway</h1>
+            <p>Constantin Weisser  </p>
+            <h1>Hacking Terraform - Engineer your Migration to IaC</h1>
         </div>
     </div>
     <div class="overlay"></div>
@@ -176,19 +179,21 @@
     <div class="content-box single-content">
         <div class="inner-content">
             <div class="clearfix"></div>
-            <p>Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day.
-You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process.</p>
+            <p>Infrastructure as Code (IaC) is considered the predominant approach to manage Cloud Infrastructure at large scale. Terraform is the market-leading tool implementing this approach, including support for all big Clouds Providers. It is extremely convenient to start new projects from scratch and automate your infrastructure right away. But what if you started without? What if you want to manage big amounts of pre-existing Cloud resources with Terraform?</p>
+
+<p>Terraform&rsquo;s &ldquo;import&rdquo; command is one building block, but using it manually for many resources is very tedious and error-prone. A complete import mechanism is announced by Hashicorp, but it is unclear when it will be implemented. How can we tackle this issue in the meantime?
+In this talk I will show you how to work smart, not hard: we will automate the import of resources into the Terraform state, generate the required Terraform code and engineer the correctness of the result with automated tests. You will learn hands-on how to avoid hours of manual migration and still feel confident that you are all set for Infrastructure as Code.</p>
 
 <p><br></p>
 
             <div class="speaker-box">
                 <div class="small-12 medium-4 large-2 columns">
-                    <a><img src="/img/speakers/default.png" class="round"></a>
+                    <a><img src="/img/speakers/constantin-weisser.jpg" class="round"></a>
                 </div>
                 <div class="small-12 medium-8 large-10 columns">
-                    <h2><a href="/speakers/nicolas-fraenkel/">Nicolas Fränkel<span>Hazelcast</span></a></h2>
-                    <p>Developer Advocate with 15&#43; years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Currently working for Hazelcast. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.
-<a href="/speakers/nicolas-fraenkel/">read more</a></p>
+                    <h2><a href="/speakers/constantin-weisser/">Constantin Weisser<span>Novatec Consulting GmbH</span></a></h2>
+                    <p>Constantin Weisser is a Consultant and Trainer for Novatec Consulting GmbH, based in Germany. He is accompanying customers on their journey to modern software development. He focuses on methods and tools around Software Delivery, i.e. covering all the way from the source code to a running application in the Cloud. Constantin advocates tailored tooling, step-by-step automation and an engineering approaches to speed up software development and delivery, enabling teams to ship high quality applications.
+<a href="/speakers/constantin-weisser/">read more</a></p>
                 </div>
             </div>
             

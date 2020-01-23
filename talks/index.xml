@@ -119,12 +119,13 @@
     </item>
     
     <item>
-      <title>Zero-downtime deployment with Kubernetes, Spring Boot and Flyway</title>
-      <link>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</link>
+      <title>Hacking Terraform - Engineer your Migration to IaC</title>
+      <link>https://devops-gathering.io/talks/hacking-terraform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</guid>
-      <description>Kubernetes allows a lot. After discovering its features, it’s easy to think it can magically transform your application deployment process into a painless no-event. For Hello World applications, that is the case. Unfortunately, not many of us do deploy such applications day-to-day. You need to think about application backward compatibility, possible rollback, database schema migration, etc. I believe the later is one of the biggest pain point. In this talk, I’ll demo how to update a Spring Boot app deployed on a Kubernetes cluster with a non-trivial database schema migration with the help of Flyway, while keeping the service up during the entire update process.</description>
+      <guid>https://devops-gathering.io/talks/hacking-terraform/</guid>
+      <description>Infrastructure as Code (IaC) is considered the predominant approach to manage Cloud Infrastructure at large scale. Terraform is the market-leading tool implementing this approach, including support for all big Clouds Providers. It is extremely convenient to start new projects from scratch and automate your infrastructure right away. But what if you started without? What if you want to manage big amounts of pre-existing Cloud resources with Terraform?
+Terraform&amp;rsquo;s &amp;ldquo;import&amp;rdquo; command is one building block, but using it manually for many resources is very tedious and error-prone.</description>
     </item>
     
     <item>

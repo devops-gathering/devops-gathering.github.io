@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://devops-gathering.io/talks/zero-downtime-kubernetes-spring/</loc>
+    <loc>https://devops-gathering.io/talks/hacking-terraform/</loc>
   </url>
   
   <url>
@@ -200,6 +200,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/constantin-weisser/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/dirk-weil/</loc>
   </url>
   
@@ -257,10 +261,6 @@
   
   <url>
     <loc>https://devops-gathering.io/speakers/nico-meisenzahl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/speakers/nicolas-fraenkel/</loc>
   </url>
   
   <url>

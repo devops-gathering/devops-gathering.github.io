@@ -31,6 +31,15 @@
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/constantin-weisser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/constantin-weisser/</guid>
+      <description>Constantin Weisser is a Consultant and Trainer for Novatec Consulting GmbH, based in Germany. He is accompanying customers on their journey to modern software development. He focuses on methods and tools around Software Delivery, i.e. covering all the way from the source code to a running application in the Cloud. Constantin advocates tailored tooling, step-by-step automation and an engineering approaches to speed up software development and delivery, enabling teams to ship high quality applications.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/dirk-weil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -175,15 +184,6 @@ Matthias Simonis is a self taught tech enthusiast that embraces new and old tech
       <description>Nico Meisenzahl works as Senior Cloud &amp;amp; DevOps Consultant at white duck. As an elected Docker Community Leader and GitLab Hero, his current passion is for topics around Kubernetes, CI/CD, Automation, DevOps, and Cloud.
 Nico is a frequent speaker at conferences, user group events and Meetups in Europe and the United States.
  Conference Talk: How Containerized Pipelines Can Boost Your CI/CD  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://devops-gathering.io/speakers/nicolas-fraenkel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devops-gathering.io/speakers/nicolas-fraenkel/</guid>
-      <description>Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Currently working for Hazelcast. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.</description>
     </item>
     
     <item>
