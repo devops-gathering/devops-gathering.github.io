@@ -38,12 +38,12 @@
     </item>
     
     <item>
-      <title>Routing Your Microservices Architecture to Ease DevOps Enterprise Transformation</title>
-      <link>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</link>
+      <title>Serverless Azure Functions in the Azure Cloud</title>
+      <link>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</guid>
-      <description>In a world of containerized microservices, where developers focus on building and exposing applications to end users as fast as possible, adapting the enterprise to this new pace of change poses significant challenges. Routing requests to your microservices, either coming from end users or other microservices, is one of them. It’s never been easier to have Canary routing, so you can “verify” that a new features of your application works in production by testing it on a small subset of users.</description>
+      <guid>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</guid>
+      <description>Ten years ago, Azure started with a strong focus on PaaS. No wonder that Serverless has also become super important in Microsoft’s cloud recently. Rainer Stropek has been using Azure since the days of the first technical previews. In this session, Rainer will introduce you to Azure Functions, one of the Serverless offerings in Azure. Instead of speaking about theory, Rainer will walk you through an end-to-end sample and use it to describe the inner workings of Azure Function’s programming model.</description>
     </item>
     
     <item>
@@ -56,12 +56,12 @@
     </item>
     
     <item>
-      <title>Serverless Azure Functions in the Azure Cloud</title>
-      <link>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</link>
+      <title>Routing Your Microservices Architecture to Ease DevOps Enterprise Transformation</title>
+      <link>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</guid>
-      <description>Ten years ago, Azure started with a strong focus on PaaS. No wonder that Serverless has also become super important in Microsoft’s cloud recently. Rainer Stropek has been using Azure since the days of the first technical previews. In this session, Rainer will introduce you to Azure Functions, one of the Serverless offerings in Azure. Instead of speaking about theory, Rainer will walk you through an end-to-end sample and use it to describe the inner workings of Azure Function’s programming model.</description>
+      <guid>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</guid>
+      <description>In a world of containerized microservices, where developers focus on building and exposing applications to end users as fast as possible, adapting the enterprise to this new pace of change poses significant challenges. Routing requests to your microservices, either coming from end users or other microservices, is one of them. It’s never been easier to have Canary routing, so you can “verify” that a new features of your application works in production by testing it on a small subset of users.</description>
     </item>
     
     <item>
