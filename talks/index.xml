@@ -88,7 +88,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description></description>
+      <description>Robert Douglass: Develop and deploy on containers with just a few lines of YAML, no Docker, and no Kubernetes
+Many organizations are investing big on learning new technologies because of the clear benefits that they offer. What if you could have those same benefits, and work a lot less getting them? Platform.sh is a Platform-as-a-Service that lets web application developers benefit from a fully containerized continuous deployment workflow without having to learn Docker or Kubernetes.</description>
     </item>
     
     <item>

@@ -165,7 +165,8 @@ Small parts will be implemented in Python, but should be understandable to every
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/lightning-talks/</guid>
-      <description></description>
+      <description>Robert Douglass: Develop and deploy on containers with just a few lines of YAML, no Docker, and no Kubernetes
+Many organizations are investing big on learning new technologies because of the clear benefits that they offer. What if you could have those same benefits, and work a lot less getting them? Platform.sh is a Platform-as-a-Service that lets web application developers benefit from a fully containerized continuous deployment workflow without having to learn Docker or Kubernetes.</description>
     </item>
     
     <item>
@@ -511,11 +512,20 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt.</description>
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/ema-rimeike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/ema-rimeike/</guid>
+      <description> Lighting Talk: Don&amp;rsquo;t Shift Left, START Left  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/eyal-liebermann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/eyal-liebermann/</guid>
-      <description> Conference Talk: A cloud architect perspective on transitioning from legacy systems into a cloud native world  </description>
+      <description>Eyal Liebermann is the Software Architect of SAP Universal ID. An SAP Program that aims to streamline the login and authorization experience across SAP cloud services. Eyal has a unique passion for taking complex legacy systems and transforming them into coherent performant ones. This passion is supported by twenty years of experience, as a developer, a team lead and a software architect, during which he was witnessing grandiose rewrite plans go wary, whereas persistent refactoring efforts seemed to be achieving ambitious goals.</description>
     </item>
     
     <item>
@@ -679,6 +689,15 @@ Nico is a frequent speaker at conferences, user group events and Meetups in Euro
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/robert-douglass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/robert-douglass/</guid>
+      <description>Robert Douglass has been deeply involved with open source software since 2004. He was the author of the first book published about Drupal, &amp;ldquo;Building Online Communities in Drupal, Wordpress, PhpBB&amp;rdquo; (Apress, 2005), is a core code contributor to 4 different Drupal versions, and the original author of the Memcache and Solr modules for Drupal. Robert has also served as a member of the Drupal Association, a founding member of the German Drupal Association, and a member of the Drupal Security team.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/roland-huss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -723,10 +742,10 @@ An Open Space is a simple and productive way for hosting knowledge events. Parti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/feedback/</guid>
-      <description>In order to provide you with the best workshops and conference possible, we need your feedback.
+      <description>In order to provide you with the best workshops and conference possible, we need your feedback
 Thanks a lot for your support in advance, it only takes 3 minutes :)
-Link for mobile
-Wird geladen... </description>
+Feedback form will be here when the conference has started
+Loading... -- </description>
     </item>
     
     <item>

@@ -49,11 +49,20 @@
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/ema-rimeike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/ema-rimeike/</guid>
+      <description> Lighting Talk: Don&amp;rsquo;t Shift Left, START Left  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/eyal-liebermann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/speakers/eyal-liebermann/</guid>
-      <description> Conference Talk: A cloud architect perspective on transitioning from legacy systems into a cloud native world  </description>
+      <description>Eyal Liebermann is the Software Architect of SAP Universal ID. An SAP Program that aims to streamline the login and authorization experience across SAP cloud services. Eyal has a unique passion for taking complex legacy systems and transforming them into coherent performant ones. This passion is supported by twenty years of experience, as a developer, a team lead and a software architect, during which he was witnessing grandiose rewrite plans go wary, whereas persistent refactoring efforts seemed to be achieving ambitious goals.</description>
     </item>
     
     <item>
@@ -213,6 +222,15 @@ Nico is a frequent speaker at conferences, user group events and Meetups in Euro
       
       <guid>https://devops-gathering.io/speakers/rainer-stropek/</guid>
       <description>Rainer Stropek has been an entrepreneur in the IT industry for more than twenty years. During this time, he founded and managed several IT service companies and is currently developing the award-winning Software time cockpit in his company software architects together with his team. Rainer holds degrees from the Technical College of MIS, Leonding (AT) and the University of Derby (UK). He is the author of several books and articles in magazines around Microsoft .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/robert-douglass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/robert-douglass/</guid>
+      <description>Robert Douglass has been deeply involved with open source software since 2004. He was the author of the first book published about Drupal, &amp;ldquo;Building Online Communities in Drupal, Wordpress, PhpBB&amp;rdquo; (Apress, 2005), is a core code contributor to 4 different Drupal versions, and the original author of the Memcache and Solr modules for Drupal. Robert has also served as a member of the Drupal Association, a founding member of the German Drupal Association, and a member of the Drupal Security team.</description>
     </item>
     
     <item>
