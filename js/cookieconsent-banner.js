@@ -1,11 +1,14 @@
  window.cookieconsent.initialise({
+   "onPopupClose" : function (){
+     window.location.reload();
+   },
    "palette": {
      "popup": {
        "background": "#3e4f57",
        "text": "#ffffff"
      },
      "button": {
-       "background": "#128abc",
+       "background": "#8db91c",
        "text": "#ffffff",
      }
    },
