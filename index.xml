@@ -88,12 +88,12 @@ Small parts will be implemented in Python, but should be understandable to every
     </item>
     
     <item>
-      <title>Are you a Secure Code Warrior?</title>
-      <link>https://devops-gathering.io/workshops/are-you-a-secure-code-warrior/</link>
+      <title>Tracing: A journey to tactical insight</title>
+      <link>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/workshops/are-you-a-secure-code-warrior/</guid>
-      <description></description>
+      <guid>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</guid>
+      <description>G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included.</description>
     </item>
     
     <item>
@@ -243,12 +243,12 @@ Terraform&amp;rsquo;s &amp;ldquo;import&amp;rdquo; command is one building block
     </item>
     
     <item>
-      <title>Tracing: A journey to tactical insight</title>
-      <link>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</link>
+      <title>Lightning Talks</title>
+      <link>https://devops-gathering.io/talks/lightning-talks-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</guid>
-      <description>G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included.</description>
+      <guid>https://devops-gathering.io/talks/lightning-talks-2/</guid>
+      <description>TBA</description>
     </item>
     
     <item>
