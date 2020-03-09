@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devops-gathering.io/workshops/going-serverless/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/the-first-decade-of-devops-is-over/</loc>
-  </url>
-  
-  <url>
     <loc>https://devops-gathering.io/talks/cloud-native-ecosystem-101/</loc>
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/workshops/going-serverless/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/kubernetes-101/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/the-first-decade-of-devops-is-over/</loc>
   </url>
   
   <url>
@@ -27,15 +27,15 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/building-graph-ui-for-malware-analysis/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/workshops/introduction-to-kubernetes-operators/</loc>
   </url>
   
   <url>
     <loc>https://devops-gathering.io/talks/serverless-functions-in-azure-cloud/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</loc>
   </url>
   
   <url>
@@ -56,6 +56,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/serverless-workloads-with-knative/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/infrastructure-as-microservices/</loc>
   </url>
   
   <url>
@@ -100,6 +104,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/from-legacy-into-cloud-native-world/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/</loc>
   </url>
   
   <url>
@@ -272,6 +280,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/speakers/nils-bokermann/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/speakers/peter-rossbach/</loc>
   </url>
   
@@ -289,6 +301,10 @@
   
   <url>
     <loc>https://devops-gathering.io/speakers/roland-huss/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/speakers/stefan-hausotte/</loc>
   </url>
   
   <url>

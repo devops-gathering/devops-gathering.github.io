@@ -197,6 +197,16 @@ Nico is a frequent speaker at conferences, user group events and Meetups in Euro
     
     <item>
       <title></title>
+      <link>https://devops-gathering.io/speakers/nils-bokermann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/nils-bokermann/</guid>
+      <description>Nils Bokermann is an IT Consultant on a freelance basis. He provides his customers with advice on architecture and methodics. He questions hype based decisions and is therefor known as an advocatus diaboli.
+ Conference Talk: Infrastructure as Microservices - Alternatives to the Monolithic Kubernetes  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devops-gathering.io/speakers/peter-rossbach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -240,6 +250,15 @@ Nico is a frequent speaker at conferences, user group events and Meetups in Euro
       
       <guid>https://devops-gathering.io/speakers/roland-huss/</guid>
       <description>Dr. Roland Huß is a principal software engineer at Red Hat and a member of the serverless team for coding on Knative. He has been developing in Java for over twenty years now. However, he has never forgotten his roots as a system administrator. Roland is an active open source contributor, lead developer of the JMX-HTTP bridge Jolokia and some popular Java build tools for creating container images and deploying them on Kubernetes and OpenShift.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devops-gathering.io/speakers/stefan-hausotte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/speakers/stefan-hausotte/</guid>
+      <description>Stefan Hausotte is the lead for “Automated Threat Analysis” at G DATA, where he plans and coordinates the development of automated malware analysis and classification tools. He is an active open source committer in different projects related to security, .NET and software development areas. Furthermore he teaches IT-Security at the Technical University of Dortmund and is a frequent speaker about security related topics at conferences and fairs. He believes that a graph is the natural representation of the different interconnections between malware and malicious actors and a graph database is the right approach as an underlying technology for efficient malware analysis at large scale.</description>
     </item>
     
     <item>

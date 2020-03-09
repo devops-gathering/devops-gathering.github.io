@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-<head>
-    <meta charset="utf-8">
+    <head>
+            <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Devops Gathering 2020">
@@ -45,11 +44,12 @@
 
 <script src='https://js.tito.io/v1' async></script>
 
-	
-<meta property="og:title" content="Tracing: A journey to tactical insight" />
-<meta property="og:description" content="G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included." />
+            
+<meta property="og:title" content="" />
+<meta property="og:description" content="Nils Bokermann is an IT Consultant on a freelance basis. He provides his customers with advice on architecture and methodics. He questions hype based decisions and is therefor known as an advocatus diaboli.
+ Conference Talk: Infrastructure as Microservices - Alternatives to the Monolithic Kubernetes  " />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/talks/tracing-a-journey-to-tactical-insight/" />
+<meta property="og:url" content="https://devops-gathering.io/speakers/nils-bokermann/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -72,15 +72,16 @@
 <meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
 
 <meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
-<meta property="article:section" content="talks" />
+<meta property="article:section" content="speakers" />
 
 
 
 
 
 
-<meta itemprop="name" content="Tracing: A journey to tactical insight">
-<meta itemprop="description" content="G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included.">
+<meta itemprop="name" content="">
+<meta itemprop="description" content="Nils Bokermann is an IT Consultant on a freelance basis. He provides his customers with advice on architecture and methodics. He questions hype based decisions and is therefor known as an advocatus diaboli.
+ Conference Talk: Infrastructure as Microservices - Alternatives to the Monolithic Kubernetes  ">
 
 
 
@@ -89,109 +90,91 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="56">
+<meta itemprop="wordCount" content="44">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content="Tracing: A journey to tactical insight"/>
-<meta name="twitter:description"  content="G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included."/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description"  content="Nils Bokermann is an IT Consultant on a freelance basis. He provides his customers with advice on architecture and methodics. He questions hype based decisions and is therefor known as an advocatus diaboli.
+ Conference Talk: Infrastructure as Microservices - Alternatives to the Monolithic Kubernetes  "/>
 
 
 
 
 
 
-	
+            
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-T3ZTW7P');</script>
   
-</head>
 
-<body class="single">
-    
+    </head>
+    <body class="single">
+     
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3ZTW7P"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
-	<nav class="navigation-container">
+     <nav class="navigation-container">
 	<div class="inner-content">
-		<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
+			<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
 
-		<ul class="social-media">
-			<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
-			<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
-			<li class="bee"><a href="https://communicode.de/" target="_blank"><img style="padding: 5px;" src="/img/cc-fulltext.svg"></a> </li>
-		</ul>
+			<ul class="social-media">
+				<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
+				<li class="bee"><a href="https://communicode.de/" target="_blank"><img style="padding: 5px;" src="/img/cc-fulltext.svg"></a> </li>
+			</ul>
 		<ul class="navigation">
-		  <li><a href="/#talks">Talks</a></li>
-		  <li><a href="/#workshops">Workshops</a></li>
-			<li><a href="/tickets">Tickets</a></li>
-			<li><a href="/sponsors">Sponsors</a>
-			    <ul>
-                    <li><a href="/2019/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2019</a></li>
-                    <li><a href="/2018/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2018</a></li>
-			        <li><a href="/2017/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2017</a></li>
-			        <li><a href="/sponsoring/"><i class="fa fa-angle-right" aria-hidden="true"></i> Become a sponsor</a></li>
-			    </ul>
-			</li>
+		    <li><a href="/#talks">Talks</a></li>
+		    <li><a href="/#workshops">Workshops</a></li>
+			<li><a href="/tickets/">Tickets</a></li>
+			<li><a href="/sponsors/">Sponsors</a></li>
 			<li><a href="/media-and-photos">Media</a></li>
-			<li><a href="javascript:void(0)">Infos</a>
+			<li><a href="#">Infos</a>
 				<ul>
-					<li><a href="/venue/"><i class="fa fa-angle-right" aria-hidden="true"></i> Venue</a></li>
 					<li><a href="/accommodations/"><i class="fa fa-angle-right" aria-hidden="true"></i> Accommodations</a></li>
 					<li><a href="/code-of-conduct/"><i class="fa fa-angle-right" aria-hidden="true"></i> Code of Conduct</a></li>
-					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Conditions</a></li>
-					<li><a href="/contact/"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
+					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Condition</a></li>
 				</ul>
 			</li>
-            <li><a href="javascript:void(0)">Previous Events</a>
-                <ul>
-					<li><a href="/2019/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2019</a></li>
-                    <li><a href="/2018/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2018</a></li>
-                    <li><a href="/2017/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2017</a></li>
-                </ul>
-            </li>
+			<li><a href="/2017">2017</a></li>
+			<li><a href="/2018">2018</a></li>
+			<li><a href="/2019">2019</a></li>
 		</ul>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
 </nav>
 
-
-	<!-- HEADER -->
-<header class="single">
-    <div class="header-content" id="top">
-        <div class="header-content-inner">
-            <p>Florian Kuckelkorn  </p>
-            <h1>Tracing: A journey to tactical insight</h1>
-        </div>
-    </div>
-    <div class="overlay"></div>
-</header>
-
-    <div class="content-box single-content">
-        <div class="inner-content">
-            <div class="clearfix"></div>
-            
-            <p>G Data is taking you on a journey about gaining tactical insight into business processes by the means of using OpenTracing (Jaeger). Part of this talk will be a short introduction about tracing in general and how it can help you to solve certain use cases. Concepts about stream processing of trace events will be included.</p>
-
-<p><br></p>
-
-            <div class="speaker-box">
-                <div class="small-12 medium-4 large-2 columns">
-                    <a><img src="/img/speakers/florian-kuckelkorn.png" class="round"></a>
+        <header class="single">
+            <div class="header-content">
+                <div class="header-content-inner">
+                    
+                        <img src="/img/speakers/default.png" alt="Nils Bokermann" class="round">
+                   
+                        <div>
+                <p>Speaker</p>
+                    <h1>Nils Bokermann</h1>
+                    </div>
                 </div>
-                <div class="small-12 medium-8 large-10 columns">
-                    <h2><a href="/speakers/florian-kuckelkorn/">Florian Kuckelkorn<span>G DATA CyberDefense AG</span></a></h2>
-                    <p>Since 2017 Florian Kuckelkorn is working as a technical coordinator and controller for Protection Technologies (G DATA CyberDefense AG). His primary focus and interest lies on G DATA&#39;s Protection Technologies especially on evaluating, tracking and improving backend business processes. Since early age he is technical fascinated and self taught most his knowledge, he has today. He is actively interested in interdisciplinary areas of work and likes the inspiration of dealing with pioneer topics.
-<a href="/speakers/florian-kuckelkorn/">read more</a></p>
-                </div>
+
             </div>
-            
+            <div class="overlay"></div>
+        </header>
+
+
+     <div class="content-box single-content">
+         <div class="inner-content"> 
+            <p>Nils Bokermann is an IT Consultant on a freelance basis. He provides his customers with advice on architecture and methodics. He questions hype based decisions and is therefor known as an advocatus diaboli.</p>
+
+<ul>
+<li><a href="/talks/infrastructure-as-microservices/">Conference Talk: Infrastructure as Microservices - Alternatives to the Monolithic Kubernetes</a></li>
+</ul>
+
         </div>
     </div>
     <!-- CONTACT -->
@@ -258,7 +241,7 @@
     </form>
   </div>
 </div>
-	<footer>
+    <footer>
 	<div class="inner-content">
 		<p><a href="/">&copy; DevOps Gathering 2020</a></p>
 		<p><a href="https://communicode.de/" target="_blank">Organizer <img src="/img/cc-fulltext.svg" ></a> </p>
@@ -275,7 +258,7 @@
 
 </footer>
 
-	<!-- jQuery -->
+     <!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
@@ -291,6 +274,6 @@
 <script src="https://devops-gathering.io/js/cookieconsent.min.js" data-cfasync="false"></script>
 <script src="https://devops-gathering.io/js/cookieconsent-banner.js"></script>
 
-</body>
+    </body>
 
 </html>
