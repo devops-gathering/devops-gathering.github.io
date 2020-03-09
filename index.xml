@@ -124,12 +124,21 @@ Small parts will be implemented in Python, but should be understandable to every
     </item>
     
     <item>
-      <title>How to to provide reliable Postgres Database inside of Kubernetes Cluster with a Postgres Operator</title>
+      <title>How to provide reliable Postgres Database inside of Kubernetes Cluster with a Postgres Operator</title>
       <link>https://devops-gathering.io/workshops/reliable-postgres-operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/workshops/reliable-postgres-operator/</guid>
       <description>We will show the workings of the Zalando Postgres Operator inside of Kubernetes. We will elaborate on the do and don&amp;rsquo;t of using the Operator. Practical examples how to control Data Placement and Backup will conclude the Workshop. As a bonus we will install an graphile api generator on top of Postgres. graphile automatically generates a graphql api from an Postgres schema and provides a &amp;ldquo;nocode&amp;rdquo; backend for simple Web and Mobile applications.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Go Knative</title>
+      <link>https://devops-gathering.io/talks/lets-go-knative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/lets-go-knative/</guid>
+      <description>Are you tired of the complexity of your building applications with Kubernetes? You need to add your own resources like deployment, service, ingress, config maps, secrets and many more to run your applications in Kubernetes. Knative attempts to solve theses complexities by managing its servicing and lifecycle while providing ‘serverless’ style event-driven functions. In this talk I’ll give you a first hands-on look to Knative with the components Serving, Eventing and it’s underlying components.</description>
     </item>
     
     <item>
