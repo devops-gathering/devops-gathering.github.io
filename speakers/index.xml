@@ -131,7 +131,7 @@ After many years working in the industry as an engineer, Kevin is now doing his 
       
       <guid>https://devops-gathering.io/speakers/marcel-mueller/</guid>
       <description>Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
- Halfday Workshop: Introduction to Kubernetes Operators  </description>
+ Halfday Workshop: Introduction to Kubernetes Operators Conference Talk: Testable Kubernetes Operators  </description>
     </item>
     
     <item>
@@ -181,7 +181,7 @@ Matthias Simonis is a self taught tech enthusiast that embraces new and old tech
       
       <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
       <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continuous Integration.
- Halfday-Workshop: Kubernetes 101  </description>
+ Halfday-Workshop: Kubernetes 101 Conference Talk: Lets Go Knative  </description>
     </item>
     
     <item>

@@ -91,6 +91,10 @@
   </url>
   
   <url>
+    <loc>https://devops-gathering.io/talks/infrastructure-testing/</loc>
+  </url>
+  
+  <url>
     <loc>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</loc>
   </url>
   
@@ -100,6 +104,10 @@
   
   <url>
     <loc>https://devops-gathering.io/talks/openfaas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devops-gathering.io/talks/testable-kubernetes-operators/</loc>
   </url>
   
   <url>

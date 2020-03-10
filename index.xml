@@ -215,6 +215,15 @@ Many organizations are investing big on learning new technologies because of the
     </item>
     
     <item>
+      <title>The Road to Reliability: Infrastructure Testing explained</title>
+      <link>https://devops-gathering.io/talks/infrastructure-testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/infrastructure-testing/</guid>
+      <description>For years, there has been a shift to &amp;ldquo;Infrastructure as Code (IaC)&amp;rdquo;. The code we write daily is not just the application itself, but also definition of whatever Cloud Infrastructure the application needs. Tools like Terraform, Pulumi or Cloud APIs support this approach. The code base we start with is often simple and clear, the resulting infrastructure predictable. Growing code bases, entangled components and more advanced language features such as conditional configurations make it increasingly hard to foretell if everything works as expected.</description>
+    </item>
+    
+    <item>
       <title>Take MicroProfile to the Clouds with Quarkus</title>
       <link>https://devops-gathering.io/talks/take-microprofile-to-the-clouds-with-quarkus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -240,6 +249,15 @@ Terraform&amp;rsquo;s &amp;ldquo;import&amp;rdquo; command is one building block
       
       <guid>https://devops-gathering.io/talks/openfaas/</guid>
       <description>&amp;ldquo;Serverless&amp;rdquo; and &amp;ldquo;Functions as a Service&amp;rdquo; are the latest craze, especially in particular the big players like Amazon with AWS Lamda, Google with Google Functions and Microsoft with Azure Functions come around the corner and give their customers, at the first look, easy to use frameworks. But how can you use your own, already existing infrastructure to go &amp;ldquo;serverless&amp;rdquo;? With OpenFaaS a flexible framework exists which you can use to set up your own “Serverless” infrastructure on your existing Docker Swarm or Kubernetes cluster, either on your local development hardware or in your datacenter.</description>
+    </item>
+    
+    <item>
+      <title>Testable Kubernetes Operators</title>
+      <link>https://devops-gathering.io/talks/testable-kubernetes-operators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devops-gathering.io/talks/testable-kubernetes-operators/</guid>
+      <description>Kubernetes operators have been used more commonly throughout the Kubernetes community to automate workflows, manage applications and infrastructure. These usecases have produced complex operators which need to be tested properly to ensure that they are working as intended. Testing operators in practice has been a difficult task - unit tests can only cover a limited scope of logic (even with mocks like k8sfakeclient) and e2e tests (while offering a wider scope) are plagued by a common issue: flapping.</description>
     </item>
     
     <item>
@@ -621,7 +639,7 @@ After many years working in the industry as an engineer, Kevin is now doing his 
       
       <guid>https://devops-gathering.io/speakers/marcel-mueller/</guid>
       <description>Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
- Halfday Workshop: Introduction to Kubernetes Operators  </description>
+ Halfday Workshop: Introduction to Kubernetes Operators Conference Talk: Testable Kubernetes Operators  </description>
     </item>
     
     <item>
@@ -671,7 +689,7 @@ Matthias Simonis is a self taught tech enthusiast that embraces new and old tech
       
       <guid>https://devops-gathering.io/speakers/niclas-mietz/</guid>
       <description>Niclas is a DevOps Engineer, Docker expert and open source maintainer. He accelerates deployment processes in IT projects and systems. With his expertise regarding GitLab/CI pipelines he is an outstanding expert in Continuous Delivery and Continuous Integration.
- Halfday-Workshop: Kubernetes 101  </description>
+ Halfday-Workshop: Kubernetes 101 Conference Talk: Lets Go Knative  </description>
     </item>
     
     <item>

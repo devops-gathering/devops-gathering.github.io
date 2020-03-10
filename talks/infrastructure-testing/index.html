@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    <head>
-            <meta charset="utf-8">
+
+<head>
+    <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Devops Gathering 2020">
@@ -44,12 +45,11 @@
 
 <script src='https://js.tito.io/v1' async></script>
 
-            
-<meta property="og:title" content="" />
-<meta property="og:description" content="Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
- Halfday Workshop: Introduction to Kubernetes Operators Conference Talk: Testable Kubernetes Operators  " />
+	
+<meta property="og:title" content="The Road to Reliability: Infrastructure Testing explained" />
+<meta property="og:description" content="For years, there has been a shift to &ldquo;Infrastructure as Code (IaC)&rdquo;. The code we write daily is not just the application itself, but also definition of whatever Cloud Infrastructure the application needs. Tools like Terraform, Pulumi or Cloud APIs support this approach. The code base we start with is often simple and clear, the resulting infrastructure predictable. Growing code bases, entangled components and more advanced language features such as conditional configurations make it increasingly hard to foretell if everything works as expected." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://devops-gathering.io/speakers/marcel-mueller/" />
+<meta property="og:url" content="https://devops-gathering.io/talks/infrastructure-testing/" />
 
 	<meta property="og:image" content="https://devops-gathering.io/meta-image.png" />
 
@@ -72,16 +72,15 @@
 <meta property="article:published_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
 
 <meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
-<meta property="article:section" content="speakers" />
+<meta property="article:section" content="talks" />
 
 
 
 
 
 
-<meta itemprop="name" content="">
-<meta itemprop="description" content="Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
- Halfday Workshop: Introduction to Kubernetes Operators Conference Talk: Testable Kubernetes Operators  ">
+<meta itemprop="name" content="The Road to Reliability: Infrastructure Testing explained">
+<meta itemprop="description" content="For years, there has been a shift to &ldquo;Infrastructure as Code (IaC)&rdquo;. The code we write daily is not just the application itself, but also definition of whatever Cloud Infrastructure the application needs. Tools like Terraform, Pulumi or Cloud APIs support this approach. The code base we start with is often simple and clear, the resulting infrastructure predictable. Growing code bases, entangled components and more advanced language features such as conditional configurations make it increasingly hard to foretell if everything works as expected.">
 
 
 
@@ -90,94 +89,110 @@
 <meta itemprop="keywords" content="" />
 
 
-<meta itemprop="wordCount" content="76">
+<meta itemprop="wordCount" content="160">
 
 
 	<meta name="twitter:card" content="summary"/>
 
 
 
-<meta name="twitter:title" content=""/>
-<meta name="twitter:description"  content="Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering. He is passionate about infrastructure automation in distributed systems and building fault-tolerant software. Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.
- Halfday Workshop: Introduction to Kubernetes Operators Conference Talk: Testable Kubernetes Operators  "/>
+<meta name="twitter:title" content="The Road to Reliability: Infrastructure Testing explained"/>
+<meta name="twitter:description"  content="For years, there has been a shift to &ldquo;Infrastructure as Code (IaC)&rdquo;. The code we write daily is not just the application itself, but also definition of whatever Cloud Infrastructure the application needs. Tools like Terraform, Pulumi or Cloud APIs support this approach. The code base we start with is often simple and clear, the resulting infrastructure predictable. Growing code bases, entangled components and more advanced language features such as conditional configurations make it increasingly hard to foretell if everything works as expected."/>
 
 
 
 
 
 
-            
+	
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-T3ZTW7P');</script>
   
+</head>
 
-    </head>
-    <body class="single">
-     
+<body class="single">
+    
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3ZTW7P"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   
-     <nav class="navigation-container">
+	<nav class="navigation-container">
 	<div class="inner-content">
-			<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
+		<a  class="branding" href="https://devops-gathering.io"><img src="/img/logo-dogr-header.svg"/></a>
 
-			<ul class="social-media">
-				<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
-				<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
-				<li class="bee"><a href="https://communicode.de/" target="_blank"><img style="padding: 5px;" src="/img/cc-fulltext.svg"></a> </li>
-			</ul>
+		<ul class="social-media">
+			<li><a href="https://twitter.com/devopsgathering"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a></li>
+			<li class="bee"><a href="https://communicode.de/" target="_blank"><img style="padding: 5px;" src="/img/cc-fulltext.svg"></a> </li>
+		</ul>
 		<ul class="navigation">
-		    <li><a href="/#talks">Talks</a></li>
-		    <li><a href="/#workshops">Workshops</a></li>
-			<li><a href="/tickets/">Tickets</a></li>
-			<li><a href="/sponsors/">Sponsors</a></li>
+		  <li><a href="/#talks">Talks</a></li>
+		  <li><a href="/#workshops">Workshops</a></li>
+			<li><a href="/tickets">Tickets</a></li>
+			<li><a href="/sponsors">Sponsors</a>
+			    <ul>
+                    <li><a href="/2019/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2019</a></li>
+                    <li><a href="/2018/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2018</a></li>
+			        <li><a href="/2017/sponsors/"><i class="fa fa-angle-right" aria-hidden="true"></i> Sponsors 2017</a></li>
+			        <li><a href="/sponsoring/"><i class="fa fa-angle-right" aria-hidden="true"></i> Become a sponsor</a></li>
+			    </ul>
+			</li>
 			<li><a href="/media-and-photos">Media</a></li>
-			<li><a href="#">Infos</a>
+			<li><a href="javascript:void(0)">Infos</a>
 				<ul>
+					<li><a href="/venue/"><i class="fa fa-angle-right" aria-hidden="true"></i> Venue</a></li>
 					<li><a href="/accommodations/"><i class="fa fa-angle-right" aria-hidden="true"></i> Accommodations</a></li>
 					<li><a href="/code-of-conduct/"><i class="fa fa-angle-right" aria-hidden="true"></i> Code of Conduct</a></li>
-					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Condition</a></li>
+					<li><a href="/general-terms-and-conditions/"><i class="fa fa-angle-right" aria-hidden="true"></i> Terms and Conditions</a></li>
+					<li><a href="/contact/"><i class="fa fa-angle-right" aria-hidden="true"></i>Contact</a></li>
 				</ul>
 			</li>
-			<li><a href="/2017">2017</a></li>
-			<li><a href="/2018">2018</a></li>
-			<li><a href="/2019">2019</a></li>
+            <li><a href="javascript:void(0)">Previous Events</a>
+                <ul>
+					<li><a href="/2019/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2019</a></li>
+                    <li><a href="/2018/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2018</a></li>
+                    <li><a href="/2017/"><i class="fa fa-angle-right" aria-hidden="true"></i> 2017</a></li>
+                </ul>
+            </li>
 		</ul>
 		<button class="burger"><i class="fa fa-bars " aria-hidden="true"></i></button>
 	</div>
 </nav>
 
-        <header class="single">
-            <div class="header-content">
-                <div class="header-content-inner">
-                    
-                        <img src="/img/speakers/marcel-mueller.jpg" alt="Marcel Müller" class="round">
-                   
-                        <div>
-                <p>Speaker</p>
-                    <h1>Marcel Müller</h1>
-                    </div>
+
+	<!-- HEADER -->
+<header class="single">
+    <div class="header-content" id="top">
+        <div class="header-content-inner">
+            <p>Constantin Weisser  </p>
+            <h1>The Road to Reliability: Infrastructure Testing explained</h1>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</header>
+
+    <div class="content-box single-content">
+        <div class="inner-content">
+            <div class="clearfix"></div>
+            
+            <p>For years, there has been a shift to &ldquo;Infrastructure as Code (IaC)&rdquo;. The code we write daily is not just the application itself, but also definition of whatever Cloud Infrastructure the application needs. Tools like Terraform, Pulumi or Cloud APIs support this approach. The code base we start with is often simple and clear, the resulting infrastructure predictable. Growing code bases, entangled components and more advanced language features such as conditional configurations make it increasingly hard to foretell if everything works as expected.
+In this talk, you will get to know ways to test your infrastructure code and how you can automate testing with pipelines. We will cover a variety of tools and approaches, that allow you to engineer the reliability of your productive infrastructure and make you confident to roll out more infrastructure changes in less time. This is not a theoretical lesson. We will walk through real-life examples with visible benefits that you can apply yourself right away.</p>
+
+<p><br></p>
+
+            <div class="speaker-box">
+                <div class="small-12 medium-4 large-2 columns">
+                    <a><img src="/img/speakers/constantin-weisser.jpg" class="round"></a>
                 </div>
-
+                <div class="small-12 medium-8 large-10 columns">
+                    <h2><a href="/speakers/constantin-weisser/">Constantin Weisser<span>Novatec Consulting GmbH</span></a></h2>
+                    <p>Constantin Weisser is a Consultant and Trainer for Novatec Consulting GmbH, based in Germany. He is accompanying customers on their journey to modern software development. He focuses on methods and tools around Software Delivery, i.e. covering all the way from the source code to a running application in the Cloud. Constantin advocates tailored tooling, step-by-step automation and an engineering approaches to speed up software development and delivery, enabling teams to ship high quality applications.
+<a href="/speakers/constantin-weisser/">read more</a></p>
+                </div>
             </div>
-            <div class="overlay"></div>
-        </header>
-
-
-     <div class="content-box single-content">
-         <div class="inner-content"> 
-            <p>Marcel is a Platform Engineer at Giant Swarm where he works on Kubernetes Operators and focuses on all things Release Engineering.
-He is passionate about infrastructure automation in distributed systems and building fault-tolerant software.
-Marcel is excited to share the learnings he has made along the way. During the last two years he has been closely following Kubernetes upstream developments such as Cluster-API and KIND.</p>
-
-<ul>
-<li><a href="/workshops/introduction-to-kubernetes-operators/">Halfday Workshop: Introduction to Kubernetes Operators</a></li>
-<li><a href="/talks/testable-kubernetes-operators/">Conference Talk: Testable Kubernetes Operators</a></li>
-</ul>
-
+            
         </div>
     </div>
     <!-- CONTACT -->
@@ -244,7 +259,7 @@ Marcel is excited to share the learnings he has made along the way. During the l
     </form>
   </div>
 </div>
-    <footer>
+	<footer>
 	<div class="inner-content">
 		<p><a href="/">&copy; DevOps Gathering 2020</a></p>
 		<p><a href="https://communicode.de/" target="_blank">Organizer <img src="/img/cc-fulltext.svg" ></a> </p>
@@ -261,7 +276,7 @@ Marcel is excited to share the learnings he has made along the way. During the l
 
 </footer>
 
-     <!-- jQuery -->
+	<!-- jQuery -->
 <script src="https://devops-gathering.io/js/jquery.js"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="https://devops-gathering.io/js/bootstrap.min.js"></script>
@@ -277,6 +292,6 @@ Marcel is excited to share the learnings he has made along the way. During the l
 <script src="https://devops-gathering.io/js/cookieconsent.min.js" data-cfasync="false"></script>
 <script src="https://devops-gathering.io/js/cookieconsent-banner.js"></script>
 
-    </body>
+</body>
 
 </html>
