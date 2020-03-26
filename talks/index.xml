@@ -34,7 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/from-containers-to-kubernetes-operators/</guid>
-      <description>&amp;ldquo;Containers are the new ZIP format to distribute software&amp;rdquo; is a fitting description of today&amp;rsquo;s development world. However, it is not always that easy and this talk highlights the development of Elastic&amp;rsquo;s container strategy over time: Docker images, Docker Compose, Helm Charts, and a Kubernetes Operator.</description>
+      <description>&amp;ldquo;Containers are the new ZIP format to distribute software&amp;rdquo; is a fitting description of today&amp;rsquo;s development world. However, it is not always that easy and this talk highlights the development of Elastic&amp;rsquo;s container strategy over time: Docker images, Docker Compose, Helm Charts, and a Kubernetes Operator.
+    </description>
     </item>
     
     <item>
@@ -70,7 +71,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/routing-your-microservices-architecture-to-ease-devops-enterprise-transformation/</guid>
-      <description>In a world of containerized microservices, where developers focus on building and exposing applications to end users as fast as possible, adapting the enterprise to this new pace of change poses significant challenges. Routing requests to your microservices, either coming from end users or other microservices, is one of them. It’s never been easier to have Canary routing, so you can “verify” that a new features of your application works in production by testing it on a small subset of users.</description>
+      <description>In a world of containerized microservices, where developers focus on building and exposing applications to end users as fast as possible, adapting the enterprise to this new pace of change poses significant challenges. Routing requests to your microservices, either coming from end users or other microservices, is one of them. It&amp;rsquo;s never been easier to have Canary routing, so you can &amp;ldquo;verify&amp;rdquo; that a new features of your application works in production by testing it on a small subset of users.</description>
     </item>
     
     <item>
@@ -79,7 +80,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/lets-go-knative/</guid>
-      <description>Are you tired of the complexity of your building applications with Kubernetes? You need to add your own resources like deployment, service, ingress, config maps, secrets and many more to run your applications in Kubernetes. Knative attempts to solve theses complexities by managing its servicing and lifecycle while providing ‘serverless’ style event-driven functions. In this talk I’ll give you a first hands-on look to Knative with the components Serving, Eventing and it’s underlying components.</description>
+      <description>Are you tired of the complexity of your building applications with Kubernetes? You need to add your own resources like deployment, service, ingress, config maps, secrets and many more to run your applications in Kubernetes. Knative attempts to solve theses complexities by managing its servicing and lifecycle while providing &amp;lsquo;serverless&amp;rsquo; style event-driven functions. In this talk I&amp;rsquo;ll give you a first hands-on look to Knative with the components Serving, Eventing and it&amp;rsquo;s underlying components.</description>
     </item>
     
     <item>
@@ -189,7 +190,7 @@ Terraform&amp;rsquo;s &amp;ldquo;import&amp;rdquo; command is one building block
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devops-gathering.io/talks/how-containerized-pipelines-can-boost-your-cicd/</guid>
-      <description>Learn how to eliminate any dependencies on your CI/CD build nodes and don’t bother yourself with multiple versions of your toolchain and any corresponding constraints. Walk away with knowledge and best practices that will help you to optimize your builds and deployments with containerized pipelines! Use containerized Gitlab CI/CD pipelines and Kaniko to move your build and deployment workloads into your Kubernetes cluster. Build your apps and infrastructure without any external dependencies and constraints.</description>
+      <description>Learn how to eliminate any dependencies on your CI/CD build nodes and don&amp;rsquo;t bother yourself with multiple versions of your toolchain and any corresponding constraints. Walk away with knowledge and best practices that will help you to optimize your builds and deployments with containerized pipelines! Use containerized Gitlab CI/CD pipelines and Kaniko to move your build and deployment workloads into your Kubernetes cluster. Build your apps and infrastructure without any external dependencies and constraints.</description>
     </item>
     
     <item>
